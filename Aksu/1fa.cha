@@ -9,7 +9,7 @@
 *CHI:	seviyorum .
 *EXP:	hangi hayvanları seviyorsun en çok ?
 *CHI:	en çok mu ?
-*EXP:	evet , söyle hadi [= haydi] .
+*EXP:	evet , söyle hadi [: haydi] .
 *EXP:	neleri seviyorsun ?
 *CHI:	kuzuyu da seviyorum .
 *EXP:	başka ?
@@ -78,7 +78,7 @@
 *CHI:	ısırır .
 *EXP:	niye ısırır acaba köpekler ?
 *CHI:	köpekler mi ?
-*CHI:	inadına böyle yapıcak [= yapacak] .
+*CHI:	inadına böyle yapıcak [: yapacak] .
 %com:	dog
 *CHI:	böyle yapıcak .
 *CHI:	böyle yapıcak .
@@ -153,8 +153,8 @@
 *EXP:	kuyruğu .
 *CHI:	kuyruğu .
 *CHI:	o da balık .
-*EXP:	ne yaparsın bunla [= bununla] ?
-*CHI:	bunla mı [= bununla mı] ?
+*EXP:	ne yaparsın bunla [: bununla] ?
+*CHI:	bunla [: bununla] mı ?
 *EXP:	hı.
 *CHI:	kahve içerim .
 *EXP:	sütü neyle içersin ?
@@ -179,7 +179,7 @@
 *CHI:	annem ne yapıyor biliyormusun ?
 *EXP:	ne yapıyor ?
 *CHI:	iş yapıyor .
-*EXP:	gine [= yine] iş yapıyor ?
+*EXP:	gine [: yine] iş yapıyor ?
 *CHI:	her zaman yapıyor .
 *EXP:	yerleri temizliyormu ?
 *CHI:	temizliyor .
@@ -213,20 +213,20 @@
 *CHI:	başka mı?
 *EXP:	sen okula gidiyormusun ?
 *CHI:	gitmiyorum .
-*CHI:	büyüyünce gidecem [= gideceğim] .
+*CHI:	büyüyünce gidecem [: gideceğim] .
 *EXP:	kaç yaşında olunca gidecen ?
 *EXP:	şimdi kaç yaşındasın sen ?
 *CHI:	dört .
 *EXP:	çok oyun oynuyormusun ?
 *CHI:	oynuyorum .
 *EXP:	ne oyunlar oynuyorsun ?
-*CHI:	evler yapıyorum oyuncaklarımlan [= oyuncaklarımla] .
+*CHI:	evler yapıyorum oyuncaklarımlan [: oyuncaklarımla] .
 *CHI:	bozuyorum .
 *CHI:	topluyorum .
 *EXP:	kiminle oynuyorsun ?
-*CHI:	ablamlan [= ablamla] .
+*CHI:	ablamlan [: ablamla] .
 *EXP:	neyle oynuyorsun ?
-*CHI:	oyuncaklarlan [= oyuncaklarla] .
+*CHI:	oyuncaklarlan [: oyuncaklarla] .
 *EXP:	bunu kim aldı sana ?
 *CHI:	annem aldı.
 *CHI:	xxx den getirdi .
@@ -250,7 +250,7 @@
 *CHI:	oynuyorlar .
 *CHI:	bunu yapsana .
 *CHI:	o konuşsun .
-*EXP:	ordaki [= oradaki] ne ?
+*EXP:	ordaki [: oradaki] ne ?
 *CHI:	ordaki mi ?
 *CHI:	televizyon .
 *EXP:	seyrediyormusun sen ?

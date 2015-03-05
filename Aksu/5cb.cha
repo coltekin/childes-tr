@@ -60,12 +60,12 @@
 *CHI:	bak bu da yattı.
 *CHI:	a buraya koyayım .
 *EXP:	nerde yatıyor onlar ?
-*CHI:	a xxx bayık [= balık] bak bıyık [= balık] .
+*CHI:	a xxx bayık [: balık] bak bıyık [: balık] .
 *EXP:	ne ?
-*CHI:	bıyık [= balık] .
+*CHI:	bıyık [: balık] .
 *CHI:	gördünmü?
 *EXP:	çocuklar ne zaman oynarlar ?
-*CHI:	beş dakka [= dakika] oynarlar .
+*CHI:	beş dakka [: dakika] oynarlar .
 *EXP:	sen dışarı kimle gidiyorsun ?
 *CHI:	annemle .
 *EXP:	neler yapıyorsun ?
@@ -95,7 +95,7 @@
 *CHI:	ha xxx .
 %com:	affirmative sound gesture
 *EXP:	ne zaman okur ?
-*CHI:	beş dakka [= dakika] okur ?
+*CHI:	beş dakka [: dakika] okur ?
 *EXP:	anne ne yapar ?
 *CHI:	işe gitti annem .
 *CHI:	kitap okuyor .
@@ -250,7 +250,7 @@
 *CHI:	nerde öbür ördek ?
 *CHI:	bu da ördek .
 *CHI:	arabada bu bebek .
-*CHI:	bak şimdi bardağının [= bardağın] içine koyucam .
+*CHI:	bak şimdi bardağının [: bardağın] içine koyucam .
 *CHI:	bunun içine koydum .
 *CHI:	ha xxx dur şunu koyayım .
 *CHI:	bak içinde bunun .

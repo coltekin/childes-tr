@@ -64,7 +64,7 @@
 *EXP:	ha canım ?
 *CHI:	buraya , burası yırtılmış.
 *EXP:	kim yırttı?
-*CHI:	kendin [= kendi] yırtılmış o .
+*CHI:	kendin [: kendi] yırtılmış o .
 *EXP:	ne koyuyor bu adam bu hanıma ?
 %com:	picture of someone pouring something
 *CHI:	meyva suyu .
@@ -100,7 +100,7 @@
 %com:	from an old song , about the famous ship Yavuz .
 *CHI:	bacası ben olaydım .
 %com:	now looking at the picture of a boy
-*CHI:	bu çantanı [= çantasını] aldı , gidiyor okula .
+*CHI:	bu çantanı [: çantasını] aldı , gidiyor okula .
 %com:	looking at the picture of a chicken and chicks
 *EXP:	bunlar ne yapıyor burda ?
 *CHI:	bu , o annesinin kucağına çıkmiş.
@@ -152,10 +152,10 @@
 *CHI:	o da çekilin yoldan gidiyor .
 *EXP:	geliyor kaptan .
 %com:	a phrase from a nursery rhyme
-*CHI:	U'sküdara gidelim diyor .
-*EXP:	ne yapacaklarmış U'sküdar'da ?
+*CHI:	Üsküdara gidelim diyor .
+*EXP:	ne yapacaklarmış Üsküdar'da ?
 %com:	referring to two pigeons in the picture
-*CHI:	bu da U'sküdara gidelim diyorlar .
+*CHI:	bu da Üsküdara gidelim diyorlar .
 *EXP:	peki , şunlar ne diyormuş?
 *CHI:	yıkanıyorlar .
 *EXP:	ne diyorlarmış?
@@ -374,7 +374,7 @@
 *CHI:	uçağını istiyorum baba .
 *CHI:	bu ne ?
 *EXP:	kız .
-*EXP:	bunu nereye koyacaz [= koyacağız] ?
+*EXP:	bunu nereye koyacaz [: koyacağız] ?
 *CHI:	buraya .
 *EXP:	kız nerede ?
 *CHI:	içinde .

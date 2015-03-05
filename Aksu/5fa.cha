@@ -14,7 +14,7 @@
 *EXP:	anlat bana , ne oldu bu sabah ?
 *EXP:	oynadın mı?
 *CHI:	oynadım .
-*EXP:	hangi oyunlar [= oyunları] oynadın ?
+*EXP:	hangi oyunlar [: oyunları] oynadın ?
 *CHI:	Nihalle oynadım .
 *EXP:	çocuklar ne yapar dışarda ?
 *CHI:	Kadir gelecek bize .
@@ -29,7 +29,7 @@
 *CHI:	tüfekle .
 *CHI:	sope benim tüfeğim olacak .
 *CHI:	o da düşman olacak .
-*CHI:	öbürüki [= öbürü] de derilikız [= kızılderili] olacak .
+*CHI:	öbürüki [: öbürü] de derilikız [: kızılderili] olacak .
 %com:	there is no such word as "derilikız" in Turkish , the child got it wrong . also added an extra suffix to "öbürü"
 *EXP:	oh , Kadir derilikız olacak .
 *CHI:	a a yok , Nihal derilikız olacak .
@@ -82,14 +82,14 @@
 *CHI:	tüfeklerimizi bırakırız , kavga ederiz .
 *EXP:	ha , güreş ediyorsunuz .
 *EXP:	nasıl oluyor bu güreş oyunu ?
-*CHI:	şimdi biz gidiyoruz atlan [= atla] xxx .
+*CHI:	şimdi biz gidiyoruz atlan [: atla] xxx .
 *CHI:	şimdi biz derilikız gördük , onu kaçırdık .
 *EXP:	sonra ?
 *CHI:	sonra da o hemen okula kaçtı.
 *CHI:	ondan sonra biz de onu dışardan kovalıyorduk .
 *EXP:	nerede oynuyorsunuz bu oyunu ?
 *CHI:	dışarıda .
-*CHI:	Kadirlen [= Kadir'le] .
+*CHI:	Kadirlen [: Kadir'le] .
 *EXP:	nereye kaçıyordu kızılderili kız ?
 *CHI:	o bahçeye kadar , dağa kadar .
 *CHI:	füt xxx onlardan bizden kaçıyor o .
@@ -133,8 +133,8 @@
 *CHI:	işte .
 *EXP:	sonra ?
 *CHI:	sonra onu alıp kaçırıyorlardı.
-*REL:	Türkan S'oray'ın kucağında ne vardı?
-%com:	Türkan S'oray is a wellknown Turkish actress
+*REL:	Türkan Şoray'ın kucağında ne vardı?
+%com:	Türkan Şoray is a wellknown Turkish actress
 *CHI:	bebek xxx ne bebeği be ?
 *REL:	Alıyi babası hiçbir yere götürmüyor .
 *CHI:	Ben onun ablası değilim .
@@ -270,7 +270,7 @@
 *EXP:	başka ne yapıyorsunuz yazın ?
 *CHI:	babam bana palet alacak .
 *EXP:	eh xxx .
-*CHI:	ben de onlan [= onla] gezeceğim .
+*CHI:	ben de onlan [: onla] gezeceğim .
 *CHI:	ondan sonra pat diye düşeceğim .
 *REL:	kumda ne yapıyorsun ?
 *CHI:	kumda şey yapıyorum .
@@ -282,7 +282,7 @@
 *CHI:	başka denize atlıyordum .
 *EXP:	denizde ne yapıyorsun ?
 *CHI:	denizden sonra , denizin merdiveni var .
-*CHI:	işte orda biz evcilik oynıyorduk Kadirlen [= Kadir'le] .
+*CHI:	işte orda biz evcilik oynıyorduk Kadirlen [: Kadir'le] .
 %com:	the child added an extra suffix , no need for "n": Kadir ile
 *EXP:	nasıl oyun o ?
 *CHI:	denizcilik oyunu .
@@ -319,7 +319,7 @@
 *EXP:	neler yapıyor orda ?
 *CHI:	hiçbirşey yapmıyor , çalışıyor .
 *CHI:	taşı versene ordan .
-*EXP:	ne yapıcan [= yapacaksın] ?
+*EXP:	ne yapıcan [: yapacaksın] ?
 *CHI:	hiçbirşey .
 *EXP:	nerde gidiyor bu kamyon ?
 *CHI:	yerden gidiyor .

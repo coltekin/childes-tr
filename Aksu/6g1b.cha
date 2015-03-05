@@ -44,15 +44,15 @@
 *EXP:	koşuyorlar , kavga ediyorlar ?
 *EXP:	başka ?
 *CHI:	başka ?
-*CHI:	ben sizin köpeğini [= köpeğinizi] görüyorum .
+*CHI:	ben sizin köpeğini [: köpeğinizi] görüyorum .
 *CHI:	hergün .
-*CHI:	Güllühanların orda [= orada] .
+*CHI:	Güllühanların orda [: orada] .
 *EXP:	kimlerin orada ?
-*CHI:	Güllühanların orda [= orada] .
+*CHI:	Güllühanların orda [: orada] .
 *EXP:	Güllühanların orda .
-*CHI:	ha , orda [= orada] görüyorum .
+*CHI:	ha , orda [: orada] görüyorum .
 *EXP:	ne yapıyor ?
-*CHI:	berberciye [= berbere] saldırıyor .
+*CHI:	berberciye [: berbere] saldırıyor .
 *EXP:	kime ?
 *CHI:	berberciye saldırıyor .
 *EXP:	köpekler ne içer biliyormusun ?
@@ -65,7 +65,7 @@
 *EXP:	küşlar ne yapar ?
 *CHI:	kuşlar şey yapar .
 *CHI:	kuşlar kendisine yem getirir .
-*CHI:	ot yiyerler [= yerler] .
+*CHI:	ot yiyerler [: yerler] .
 *CHI:	köpekler de yerler .
 *EXP:	bu nesi kuşun ?
 *CHI:	kanadı.
@@ -80,7 +80,7 @@
 *CHI:	bir de korkuturlar .
 *CHI:	sapan almış.
 *CHI:	bir köpeği .
-*CHI:	sizin köpeği [= köpeğe] sapan attılar .
+*CHI:	sizin köpeği [: köpeğe] sapan attılar .
 *EXP:	sopa attılar ?
 *CHI:	sapan attılar .
 %com:	no
@@ -107,12 +107,12 @@
 *CHI:	bayağı.
 *CHI:	sonra .
 *CHI:	balıklar , bir gün biz balık tutmağa gitmiştik babamla .
-*CHI:	orda [= orada] balıklar yokmuş.
+*CHI:	orda [: orada] balıklar yokmuş.
 *CHI:	balıklar yokmuş.
 *EXP:	balık nasıl tutuyorsunuz ?
-*CHI:	oltaylan [= oltayla] .
+*CHI:	oltaylan [: oltayla] .
 *CHI:	sopa var bizde bir tane .
-*CHI:	onlan [= onunla] tutuyoruz .
+*CHI:	onlan [: onunla] tutuyoruz .
 *EXP:	sonra ne yapıyorsunuz o balıkları?
 *CHI:	pişirip yiyoruz .
 *EXP:	seviyormusun sen balık yemeyi ?
@@ -124,7 +124,7 @@
 *EXP:	ne yapmış kartal ?
 *CHI:	bir parça .
 *CHI:	kartal uçmuş , bir dala konmuş.
-*CHI:	ordan [= oradan] geçen bir tilki şen sesinle öt demiş.
+*CHI:	ordan [: oradan] geçen bir tilki şen sesinle öt demiş.
 *CHI:	aptal karga gak demiş.
 *CHI:	peyniri de tilki yemiş.
 *EXP:	anneanne hikaye anlatmıyormu sana ?
@@ -140,7 +140,7 @@
 *CHI:	başka , başka ?
 *EXP:	anne ne yaptı?
 *CHI:	annem daireye gitti .
-*CHI:	iş yaptı orda [= orada] .
+*CHI:	iş yaptı orda [: orada] .
 *CHI:	sonra .
 *CHI:	ondan sonra .
 *EXP:	anneanne ne yaptı?
@@ -231,5 +231,5 @@
 *CHI:	ben buna traktör diyorum .
 *EXP:	onu kim itti ?
 *CHI:	araba itti .
-*CHI:	şu oyuncaklarla oynıyayım [= oynayayım] .
+*CHI:	şu oyuncaklarla oynıyayım [: oynayayım] .
 @End

@@ -6,11 +6,11 @@
 @ID:	tur|Aksu|CHI|4;4.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
-*CHI:	şimdik [= şimdi] bunları yerli yerine koyacağız .
+*CHI:	şimdik [: şimdi] bunları yerli yerine koyacağız .
 *EXP:	dur bakalım şimdi .
-*EXP:	başka daha birşeyler yapacaz [= yapacağız] .
-*CHI:	geyikten başka birşey yapacaz [= yapacağız] .
-*CHI:	tabii boynuzlarlan [= boynuzlarla] oynuyacağız .
+*EXP:	başka daha birşeyler yapacaz [: yapacağız] .
+*CHI:	geyikten başka birşey yapacaz [: yapacağız] .
+*CHI:	tabii boynuzlarlan [: boynuzlarla] oynuyacağız .
 *CHI:	bunlar köfte mi ki ?
 *CHI:	bunlar çöp tenekesi mi ?
 *EXP:	evet .
@@ -18,7 +18,7 @@
 *CHI:	bak vurdu işte .
 *EXP:	şimdi bak burada birsürü hayvanlar var .
 *EXP:	sen bana bunları anlat bakalım .
-*EXP:	hadi [= haydi] canım neler var burada ?
+*EXP:	hadi [: haydi] canım neler var burada ?
 *CHI:	hayvanlar .
 *EXP:	hangi hayvanlar ?
 *CHI:	hangisi hayvan sen göster bana .
@@ -30,7 +30,7 @@
 *EXP:	inekten süt sağılırmı?
 *EXP:	sen süt içiyormusun ?
 *CHI:	içiyorum .
-*EXP:	peki Piraye , bana ordan [= oradan] bir kedi bul bakalım .
+*EXP:	peki Piraye , bana ordan [: oradan] bir kedi bul bakalım .
 *CHI:	işte .
 *EXP:	o kedinin tırnakları varmı?
 *CHI:	var .
@@ -81,7 +81,7 @@
 *EXP:	allah , allah , neyle traş ediyorlar ?
 *CHI:	böyle küçük macunları var onların .
 *CHI:	alıyorlar bir traş makinası.
-*CHI:	traşlanıyorlar [= traş oluyorlar] .
+*CHI:	traşlanıyorlar [: traş oluyorlar] .
 *CHI:	çok oturuyor tuvalette ama .
 *CHI:	ama büyük ama biraz .
 *EXP:	köpekler ne yapıyor ?
@@ -103,8 +103,8 @@
 *CHI:	evet .
 *EXP:	nasıl içiyorlar ?
 *CHI:	gidiyorlar banyolarına .
-*CHI:	orda [= orada] açıyorlar çeşmeyi .
-*CHI:	bardaklarınla [= bardaklarıyla] içiyorlar .
+*CHI:	orda [: orada] açıyorlar çeşmeyi .
+*CHI:	bardaklarınla [: bardaklarıyla] içiyorlar .
 *CHI:	bardaklarını alıyorlar .
 *CHI:	pisiler de yapıyorlar öyle birşeyi .
 *EXP:	peki niçin içiyorlar köpekler su ?
@@ -123,10 +123,10 @@
 *CHI:	içmez .
 *EXP:	onlar ne içer ?
 *CHI:	onlar hep çay içerler .
-*EXP:	ne aldın ağbinden [= ağabeyinden] ?
+*EXP:	ne aldın ağbinden [: ağabeyinden] ?
 *CHI:	ondan aldım .
 *EXP:	ismi ne onun ?
-*EXP:	hadi [= haydi] bakalım bunu yapalım şimdi .
+*EXP:	hadi [: haydi] bakalım bunu yapalım şimdi .
 *EXP:	işte sana bir kuş.
 *EXP:	sen anlat bana .
 *EXP:	hangi kuşları tanıyorsun ?
@@ -157,7 +157,7 @@
 *CHI:	dur .
 %com:	trying to get the book
 *MOT:	bak resmini görde hatırlarsın .
-*CHI:	bak burda [= burada] işte .
+*CHI:	bak burda [: burada] işte .
 *EXP:	otur bakalım , o ne kuşu ?
 %com:	brings the book
 *EXP:	bu ne bu ?
@@ -226,7 +226,7 @@
 *CHI:	ben şu balığı seviyorum .
 %com:	toy
 *CHI:	işte bu yüzen balıklardan istiyorum .
-*EXP:	o balığın şurda birşeysi [= birşeyi] var .
+*EXP:	o balığın şurda birşeysi [: birşeyi] var .
 *EXP:	bu ne ?
 *CHI:	kuyruğu .
 *EXP:	nasıl yüzer balıklar ?

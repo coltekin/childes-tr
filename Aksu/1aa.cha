@@ -542,18 +542,18 @@
 *EXP:	hangi abla ?
 *CHI:	Ayşe abla .
 *EXP:	nereden aldı?
-*CHI:	çarşında [= çarşıdan] .
+*CHI:	çarşında [:: çarşıdan] .
 %com:	"çarşında" is incorrect
 *EXP:	tadını seviyormusun ?
-*CHI:	sevyom [= seviyorum] .
+*CHI:	sevyom [: seviyorum] .
 *EXP:	sen kiminle oynarsın ?
 *CHI:	arkadaşı.
 *EXP:	koşarmısın sen ?
-*CHI:	koşarşı [= koşarım] .
+*CHI:	koşarşı [: koşarım] .
 *EXP:	koşarmısın ?
-*CHI:	koşarşeydi [=? koşarım].
+*CHI:	koşarşeydi [: koşarım].
 *EXP:	sen koşarmısın ?
-*CHI:	koşarşı [= koşarım] .
+*CHI:	koşarşı [: koşarım] .
 *EXP:	koşarsın .
 *EXP:	niye koşarsın ?
 *CHI:	koşarşı.
@@ -561,7 +561,7 @@
 *CHI:	oy koş ondan .
 *EXP:	koşarsın ondan , öyle mi ?
 *EXP:	balkona çıkarmısın ?
-*CHI:	yok , üşürdüm [= üşürüm] .
+*CHI:	yok , üşürdüm [:: üşürüm] .
 *EXP:	üşürsün .
 *EXP:	ceketini giymezmisin ?
 *CHI:	ceketi .

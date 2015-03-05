@@ -23,7 +23,7 @@
 *CHI:	işte .
 *CHI:	arabaya bindik .
 *EXP:	anlamadım .
-*CHI:	arabaya bin xxx diyo [= diyor] .
+*CHI:	arabaya bin xxx diyo [: diyor] .
 *CHI:	çekil .
 *CHI:	bu niye ağlıyor ?
 *EXP:	niye ağlıyor ?
@@ -45,14 +45,14 @@
 *EXP:	çocuğu mu atmış , niye atmış?
 *CHI:	adamı.
 *EXP:	adamı niye atmış annesi ?
-*CHI:	işte ye xxx yatmıyo [= yatmıyor] diye .
+*CHI:	işte ye xxx yatmıyo [: yatmıyor] diye .
 *EXP:	anlamadım .
 *CHI:	yatmıyor diye .
 *EXP:	e , o da ne yapmış?
 *CHI:	babası da kızmış.
 *EXP:	hm , ne demiş babası?
 *CHI:	yat !
-*CHI:	bunu kafası [= kapısı ?] nerde bunun ?
+*CHI:	bunu kafası [: kapısı] nerde bunun ?
 *EXP:	hangisinin ?
 *CHI:	bunun .
 *EXP:	nerde acaba ?
@@ -66,7 +66,7 @@
 %com:	affirmative sound gesture
 *EXP:	ne zaman ?
 *EXP:	ne yaptık aninoya gitmek için ?
-*CHI:	genceye bi [= bir] araba vapuru almışlar .
+*CHI:	genceye bi [: bir] araba vapuru almışlar .
 *EXP:	genceye araba vapuru almışlar , peki sana da alalımmı?
 *CHI:	haa .
 %com:	affirmative sound gesture
@@ -79,7 +79,7 @@
 *CHI:	bu kaçıyor burdan .
 *EXP:	niye kaçıyormuş?
 *CHI:	bak üşüyecek .
-*EXP:	üşüyecek dimi [= değılmi] , giymemiş pijamasını?
+*EXP:	üşüyecek dimi [: değilmi] , giymemiş pijamasını?
 *EXP:	aninoya gitmek için biz ne yaptık Burçak ?
 *CHI:	kışlıkları kaldırdık .
 *EXP:	ne yaptık kışlıkları kaldırıp , nereye koyduk ?
@@ -122,7 +122,7 @@
 *CHI:	bu .
 *CHI:	tavşan .
 *EXP:	tavşan ne oynuyor ?
-*EXP:	bilmem herhalde xxx [= illegible] var , dans ediyor .
+*EXP:	bilmem herhalde xxx var , dans ediyor .
 *EXP:	galiba .
 *CHI:	oynuyor .
 *EXP:	oynuyormu , herhalde oynuyordur , çiftetelli oynuyordur .
@@ -138,16 +138,16 @@
 *CHI:	bak , tavşan xxx .
 *CHI:	tavşan o bak .
 *CHI:	tavşan o bak .
-*EXP:	çok güzel dimi [= değilmi] ?
+*EXP:	çok güzel dimi [: değilmi] ?
 *EXP:	Burçak , Burçak , sen vapura binicekmisin ?
 *CHI:	he .
 *EXP:	nasıl biniceksin ?
 *EXP:	hı , nasıl biniceksin vapura ?
 *CHI:	anino xxx binicek .
 *EXP:	anino binicek , sen binmiyecekmisin ?
-*CHI:	ben binmiyecem [= binmiyeceğim] .
+*CHI:	ben binmiyecem [: binmeyeceğim] .
 *EXP:	niye gitmiyorsun aninona ?
-*CHI:	gidicem [= gideceğim] .
+*CHI:	gidicem [: gideceğim] .
 *EXP:	ne zaman , nasıl gideceksin anlat bana ?
 *CHI:	bu ne yapmış , bu ?
 *EXP:	ne yapmış?
@@ -160,7 +160,7 @@
 *CHI:	haa .
 %com:	affirmative sound gesture
 *EXP:	nasıl vericeksin ?
-*EXP:	fötou [=? (illegible)] falan alıyormusun ?
+*EXP:	&fötou falan alıyormusun ?
 *CHI:	haa xxx .
 *CHI:	ha xxx .
 *CHI:	anino .
@@ -179,8 +179,8 @@
 *DAN:	durmuyor ?
 *CHI:	ıh ıh .
 *EXP:	aa , böyle dursun .
-*CHI:	şurda [= şurada] durmuyor .
-*CHI:	orda [= orada] duramıyor .
+*CHI:	şurda [: şurada] durmuyor .
+*CHI:	orda [: orada] duramıyor .
 *DAN:	aa , tabii durmuyor .
 *CHI:	şurda dursun .
 *CHI:	orda dursun [?] .
@@ -206,19 +206,19 @@
 *DAN:	durdumu ?
 *CHI:	hah , hah .
 *CHI:	hah , durdu .
-*CHI:	uçağı tamirediricez [= tamir edeceğiz] , babam bir komacan [= kocaman].
+*CHI:	uçağı tamirediricez [: tamir edeceğiz] , babam bir komacan [: kocaman].
 *CHI:	uçak almış.
-*CHI:	onu tamirediricez [= tamir edeceğiz] , sonra yapıştırıcaz [= yapıştıracağız] , kuruyıcak dolapta .
+*CHI:	onu tamirediricez [: tamir edeceğiz] , sonra yapıştırıcaz [: yapıştıracağız] , kuruyıcak dolapta .
 *DAN:	hm .
-*CHI:	alıcaaz [= alacağız] .
-*CHI:	vuut diye geçiricez [= geçireceğiz] .
+*CHI:	alıcaaz [: alacağız] .
+*CHI:	vuut diye geçiricez [: geçireceğiz] .
 *CHI:	vuut diye uçucak .
 *DAN:	haa , o uçak nerede ?
 *CHI:	dur .
 *EXP:	nerde uçak ?
 *CHI:	işte o .
 *EXP:	hani ?
-*CHI:	onu tamirediricez [= tamir edeceğiz] .
+*CHI:	onu tamirediricez [: tamir edeceğiz] .
 *EXP:	bunu mu edicez tamir ?
 *CHI:	şu , şu .
 *CHI:	(sok) .
@@ -234,13 +234,13 @@
 *CHI:	tabii , böyle uçuyor .
 *CHI:	havada .
 *DAN:	aa , havada uçuyor .
-*CHI:	şurda [= şurada] .
+*CHI:	şurda [: şurada] .
 *CHI:	burda uçuyor .
 *DAN:	tavana kadar uçuyor .
 *CHI:	vüüt diye uçuyor .
 *DAN:	hm .
 *CHI:	tavana kadar .
-*CHI:	baak [= bak] .
+*CHI:	baak [: bak] .
 *DAN:	çok oyuncakkların varmı?
 %com:	brings toys
 *CHI:	çok oyuncaklarım var .
@@ -264,11 +264,11 @@
 *CHI:	düüt dürü düt .
 *CHI:	düüt dürü düt .
 *CHI:	düüt dürü düt .
-*CHI:	selaam [= selam] dur .
+*CHI:	selaam [: selam] dur .
 *CHI:	hazır ol .
 *DAN:	rahat .
 *CHI:	rap rap rap rap .
-*CHI:	hazır ool [= ol] .
+*CHI:	hazır ool [: ol] .
 %com:	imitating soldiers
 *CHI:	bak .
 *CHI:	heh .
@@ -278,7 +278,7 @@
 *CHI:	bak sapı yok .
 *CHI:	anne , anne .
 *EXP:	ne olacak şimdi ?
-*CHI:	babam burasını tamitsin [= tamir etsin] , sapıs .
+*CHI:	babam burasını tamitsin [: tamir etsin] , sapıs .
 *EXP:	neresini tamir etsin ?
 *CHI:	sapını.
 *EXP:	sapı neresi ?
@@ -287,17 +287,17 @@
 *EXP:	ne yapıcaksın tamir edince ?
 *CHI:	ha ?
 *EXP:	ne yapıcaksın tamir edince baban ?
-*CHI:	xxx hozaran [= horazan ?] çalıcam .
-*EXP:	peki aninoya da götürecekmiyiz onu , hozaranını [= horazanını?] ?
+*CHI:	xxx hozaran [: borazan] çalıcam .
+*EXP:	peki aninoya da götürecekmiyiz onu , hozaranını [: borazanını] ?
 *CHI:	hım .
 *EXP:	senin davulun nerede ?
 *CHI:	yok , nenem kaldırmış.
 *CHI:	hı.
 *CHI:	neneme söyliyim , getirsin benim davulumu .
 *EXP:	olur .
-*CHI:	ben getiricem [= getireceğim] .
+*CHI:	ben getiricem [: getireceğim] .
 *EXP:	nereye gidiyorsun ?
-*CHI:	davulumu almaya getiriyorum [= gidiyorum] .
+*CHI:	davulumu almaya getiriyorum [: gidiyorum] .
 %com:	he misused the verb: "getirmek" above; must have meant: "gidiyorum"
 *EXP:	peki .
 %com:	the child goes off to get the drum
@@ -335,12 +335,12 @@
 *CHI:	deniz kenarına gelmişler onlar .
 *EXP:	biz de gidecekmiyiz deniz kenarına ?
 *CHI:	haa .
-*EXP:	ne zaman , napıcaksın [= ne yapıcaksın] sen orda [= orada] ?
+*EXP:	ne zaman , napıcaksın [: ne yapacaksın] sen orda [: orada] ?
 *CHI:	bak .
 *CHI:	bak .
 *EXP:	ne yapıyorlar ?
 *CHI:	bak bunlar çık xxx .
-*EXP:	Burçak deniz kenarına gidince sen napıcaksın [= ne yapıcaksın] ?
+*EXP:	Burçak deniz kenarına gidince sen napıcaksın [: ne yapacaksın] ?
 *CHI:	ha , bak , bak .
 *EXP:	ne o ?
 *CHI:	burnu açık .
@@ -365,14 +365,14 @@
 *CHI:	yıldız .
 *CHI:	bak .
 *EXP:	Burçak bu ne ?
-*CHI:	aa , denize girerken giyecem [= giyeceğim] onu .
+*CHI:	aa , denize girerken giyecem [: giyeceğim] onu .
 %com:	bathing suit
 *DAN:	hmm .
 *DAN:	öyle mi ?
-*CHI:	bunu çikarıcam [= çıkaracağım] .
+*CHI:	bunu çikarıcam [: çıkaracağım] .
 *EXP:	neyi çikarıcaksın ?
-*CHI:	bunu çikarıcam [= çıkaracağım] .
-*CHI:	hoppala diye , denize , hoppala diye atlıycam [= atlayacağım] .
+*CHI:	bunu çikarıcam [: çıkaracağım] .
+*CHI:	hoppala diye , denize , hoppala diye atlıycam [: atlayacağım] .
 *EXP:	ne yapıcaksın denizde ?
 *CHI:	yüzücem .
 *DAN:	sen yüzebilirmisin ?
@@ -388,7 +388,7 @@
 *EXP:	karganı götürecekmisin ?
 *CHI:	ha ?
 *EXP:	sen kargayı seviyormusun ?
-*CHI:	kargayı götürecem [= götüreceğim] .
+*CHI:	kargayı götürecem [: götüreceğim] .
 *EXP:	tabii .
 *EXP:	karga masalıni anlatsana bana .
 *CHI:	sen de gelsene .
@@ -399,7 +399,7 @@
 *EXP:	tilkiyi de götürelimmi ?
 *CHI:	ıh ıh .
 *EXP:	yok , karganın peynirini çalıyor değilmi ?
-*CHI:	karganın peyniri çalıyo [= çalıyor] .
+*CHI:	karganın peyniri çalıyo [: çalıyor] .
 *EXP:	nasıl çalıyor ?
 *CHI:	hı.
 *EXP:	nasıl alıyor karganın peynirini ?
@@ -438,8 +438,8 @@
 *CHI:	hah , öyle .
 *DAN:	bu nasıl , bu da ters mi ?
 *CHI:	ha .
-*CHI:	öff , naaptın [= ne yaptın] sen ?
-*CHI:	şunna [= şuna ?] böyle xxx caksın .
+*CHI:	öff , naaptın [: ne yaptın] sen ?
+*CHI:	şunna [: şuna] böyle xxx caksın .
 *EXP:	ne yapıyorsun topacı?
 *CHI:	döndürüyorum .
 *EXP:	Burçak o ne , bak o ne o mavi , bak sapı kırılmış birşey vardı.
@@ -454,20 +454,20 @@
 *CHI:	tamir etti .
 *EXP:	ee , yine mi kırıldı?
 *EXP:	sen onlan ne yapıcaksın deniz kenarında ?
-*EXP:	Burçak , napıcaksın [= ne yapıcaksın] sen onlan [= onla] deniz .
+*EXP:	Burçak , napıcaksın [: ne yapıcaksın] sen onlan [: onla] deniz .
 *EXP:	kenarında ?
 *EXP:	biz aninoya gidersek napıcaz orda , biz denize gidersek napıcaz ?
 %com:	napıcaz= ne yapacağız
-*CHI:	yüzücez [= yüzeceğiz] .
-*EXP:	peki biz uykumuzu uyursak bugün , uykumuzu güzel uyursak napıcaz [= ne yapacağız] ?
+*CHI:	yüzücez [: yüzeceğiz] .
+*EXP:	peki biz uykumuzu uyursak bugün , uykumuzu güzel uyursak napıcaz [: ne yapacağız] ?
 *EXP:	sen uykunu uyursan napıcan [*] ?
 *EXP:	ha ?
 *CHI:	ha ?
 *EXP:	napıcan [*] ?
-*CHI:	deniz kenarına götürücem [= götüreceğim] .
+*CHI:	deniz kenarına götürücem [: götüreceğim] .
 %com:	the verb above was understood through the mother's interpretation
-*EXP:	napıcan [= ne yapacaksın] ?
-*CHI:	yüzücem [= yüzeceğim] .
+*EXP:	napıcan [: ne yapacaksın] ?
+*CHI:	yüzücem [: yüzeceğim] .
 *EXP:	Bur'cak , Burçak , Burçak , bunu böyle sürersem ne olur ?
 *CHI:	ha ?
 *EXP:	bunu böyle sürersek ne olur ?
@@ -535,13 +535,13 @@
 *DAN:	ortasına ne koyacaksın ?
 *CHI:	ha ?
 *DAN:	ortasına ne koyacaksın ?
-*CHI:	buraya tahtaları koyacam [= koyacağım] .
+*CHI:	buraya tahtaları koyacam [: koyacağım] .
 *CHI:	yokmuş.
 *EXP:	ne aradın Burçak ?
 *CHI:	tahtaları.
 *EXP:	tahtaların nerde ?
 *EXP:	tahta demek istiyorsun değilmi ?
-*CHI:	tahta , nerde [= nerede] o ?
+*CHI:	tahta , nerde [: nerede] o ?
 *EXP:	bilmem .
 *CHI:	bulamadım ben .
 *EXP:	senin oyuncaklarının bir kısmı kalkmış ortadan .
@@ -557,7 +557,7 @@
 *CHI:	buna giremez .
 *CHI:	girmez .
 *CHI:	buna da giremez .
-*DAN:	başka var dimi [= değilmi] ?
+*DAN:	başka var dimi [: değilmi] ?
 *CHI:	yapma öyle .
 *CHI:	öyle yapma .
 *DAN:	niçin ?
@@ -584,10 +584,10 @@
 *CHI:	xxx tane daha da vardı , nerde o ?
 *EXP:	bilmem Burçak , senin tüfeğini de bulamadım .
 *EXP:	bu ne Burçak ?
-*CHI:	o itfaiye merdivesi [= merdiveni] .
-*EXP:	ne işe yarıyor Burçak , napılıyor [= ne yapılıyor] bunlan ?
+*CHI:	o itfaiye merdivesi [: merdiveni] .
+*EXP:	ne işe yarıyor Burçak , napılıyor [: ne yapılıyor] bunlan ?
 *CHI:	dur getiriyim .
-*CHI:	getiricem [= getireceğim] itfaiyemi .
+*CHI:	getiricem [: getireceğim] itfaiyemi .
 *CHI:	itfaiyemi getirdim .
 *CHI:	bu itfaiye merdiven .
 *CHI:	bunu vüüt diye maymun indiriyorlar itfaiyemde , üü xxx .
@@ -645,13 +645,13 @@
 *DAN:	nereye geliyorlar ?
 *CHI:	maymunu buraya koyuyorlar .
 *CHI:	vüüt xxx .
-*CHI:	sallanıyolar [= sallanıyorlar] .
-*CHI:	ah diye sallanıyolar [= sallanıyorlar] .
+*CHI:	sallanıyolar [: sallanıyorlar] .
+*CHI:	ah diye sallanıyolar [: sallanıyorlar] .
 *CHI:	bak , tahtaravalli ya .
 *CHI:	tahtaravalli ya .
 *CHI:	tahtaravalli ya .
 *CHI:	tahtaravalli ya .
-*CHI:	bunu tak tak diye katlıycaksın [= katlıyacaksın] .
+*CHI:	bunu tak tak diye katlıycaksın [: katlayacaksın] .
 %com:	trying to drive a stick through a hole
 *EXP:	onu çak istersen .
 *EXP:	çak onu .
@@ -667,7 +667,7 @@
 *EXP:	ha .
 *EXP:	senin de kovan varmı?
 *CHI:	hı.
-*EXP:	napıcaksın [= ne yapıcaksın] sen deniz kenarına gidince ?
+*EXP:	napıcaksın [: ne yapıcaksın] sen deniz kenarına gidince ?
 *CHI:	saatimi ver .
 *EXP:	hangi saatimi ?
 *EXP:	git al gel .
@@ -788,7 +788,7 @@
 *CHI:	anlat .
 *EXP:	ben mi anlatayım , sen bana anlat .
 *CHI:	sen bana anlat .
-*CHI:	bu nasıl çıkarınıcak [= çıkarılıcak] ?
+*CHI:	bu nasıl çıkarınıcak [: çıkarılıcak] ?
 *EXP:	efendim , çıkarıyımmı?
 *EXP:	çıkaramıyorum .
 *CHI:	çıktı.
@@ -868,7 +868,7 @@
 *EXP:	şurda galiba ?
 *CHI:	haah , kordon burdaymış.
 *CHI:	kordon .
-*CHI:	şunu tek sana [= taksana] .
+*CHI:	şunu tek sana [: taksana] .
 *EXP:	onu ben takıcam .
 *CHI:	onu da ben .
 *EXP:	hah , sen tak .
@@ -878,7 +878,7 @@
 *EXP:	kordonun senin taktığın ucu hangisi ?
 *CHI:	şu .
 *EXP:	hm .
-*CHI:	bak burasınna [= burasına] oynıycaz [= oynayacağız] .
+*CHI:	bak burasınna [: burasına] oynıycaz [: oynayacağız] .
 *EXP:	o tamir eder , arar orasını.
 *EXP:	sen orasını öyle yapma , yırtma .
 *EXP:	hadi sen tak .
@@ -926,9 +926,9 @@
 *CHI:	işte .
 *EXP:	getir bakıyım bana .
 *CHI:	işte .
-*CHI:	o tambanca [= tabanca] .
-*CHI:	tapanca [= tabanca] .
-*EXP:	tapanca demiycektin [= demiyecektin] , ne diyecektin ?
+*CHI:	o tambanca [: tabanca] .
+*CHI:	tapanca [: tabanca] .
+*EXP:	tapanca demiycektin [: demeyecektin] , ne diyecektin ?
 *CHI:	heh heh .
 *EXP:	ne diyecektin ?
 *CHI:	bana anlat .
@@ -936,9 +936,9 @@
 *CHI:	diye .
 *CHI:	tapanca diy(cem) (ben) .
 *CHI:	heh , buraya tırmandım ben .
-*CHI:	gene tırmanıcam [= tırmanacağım] .
+*CHI:	gene tırmanıcam [: tırmanacağım] .
 *EXP:	tırman istiyorsan .
-*CHI:	buraya tırmanıcam [= tırmanacağım] .
+*CHI:	buraya tırmanıcam [: tırmanacağım] .
 *DAN:	bu su tabancası mı?
 *CHI:	tapanca .
 *CHI:	tapanca .
@@ -968,7 +968,7 @@
 *CHI:	topal ayı , topal ayı.
 *CHI:	durdurtsana , durdurtsana , orıya düştü.
 *DAN:	duruyormu ?
-*CHI:	hah , been de durduttum [= durdurttum] .
+*CHI:	hah , been de durduttum [: durdurttum] .
 *DAN:	hmm .
 *EXP:	Burçak bak .
 *DAN:	çarpan arabayı bana ver .
@@ -1007,15 +1007,15 @@
 *CHI:	bak , ne yaptım ben .
 *CHI:	arkamda koydum .
 %com:	put the rabbit on his back
-*CHI:	düttü , didi [= gitti ?] .
+*CHI:	düttü , didi [: gitti ] .
 %com:	I am not sure whether it is a good idea to separate the words above into morphemes; they are pretty much made up words , although one can see the use of the past tense
 *CHI:	su içiriyorum [?] .
 *CHI:	bak ne yapıyor .
-*CHI:	bak ne yapıyom [= ne yapıyorum] .
+*CHI:	bak ne yapıyom [: yapıyorum] .
 %com:	he cuts off sth .
 *DAN:	söyliyecekmisin ?
 *EXP:	söyliyecekmisin Burçak ?
-*CHI:	xxx döver [=? döner] .
+*CHI:	xxx döver [: döner] .
 *EXP:	teybin içinde ne var ?
 *CHI:	ceryanı bitmiş.
 *EXP:	başka ne var içinde ?
@@ -1052,7 +1052,7 @@
 *EXP:	içine bakmış.
 *EXP:	senin tüfeğin nerde ?
 *CHI:	bulamadım .
-*CHI:	bak ne yapıyo [= yapıyor] .
+*CHI:	bak ne yapıyo [: yapıyor] .
 *EXP:	ne aradın Burçak ?
 *DAN:	ne arıyorsun ?
 *CHI:	makaraları aradım .
@@ -1105,7 +1105,7 @@
 *DAN:	sen okyabilirmisin ?
 *CHI:	ha .
 *DAN:	hı?
-*CHI:	ans pis yapıyo [= yapıyor] .
+*CHI:	ans pis yapıyo [: yapıyor] .
 *CHI:	kapat .
 *EXP:	kapatalım , sonra başımıza çarpar Burçak .
 *CHI:	bunu koyuyum .
@@ -1124,10 +1124,10 @@
 *CHI:	bam .
 %com:	sound gesture
 *EXP:	bam olur .
-*EXP:	Burca'k çıplak ayaklan [= ayakla] yere basarsan ne olursun ?
+*EXP:	Burca'k çıplak ayaklan [: ayakla] yere basarsan ne olursun ?
 *CHI:	ha ?
 %com:	the mother repeats the same question several times no response from Burçak although the mother says: "hasta olursun"
-*CHI:	bunu nasıl yapıcaz [= yapacağız] ?
+*CHI:	bunu nasıl yapıcaz [: yapacağız] ?
 *EXP:	onu bilmiyorum , sen bana cevap versene .
 *CHI:	anne , bunu na xxx nasıl yapıcaz ?
 *CHI:	nasıl yapıcaz ?
@@ -1217,15 +1217,15 @@
 *EXP:	nasıl kaldırdın onu ?
 *CHI:	kaldırdım .
 *DAN:	ah , çok kuvvetlisin .
-*CHI:	ah , ah , çok kuvvetlim [= kuvvetliyim] ben .
+*CHI:	ah , ah , çok kuvvetlim [: kuvvetliyim] ben .
 *EXP:	peki nasıl oldu da kuvvetli oldun sen Burçak ?
 *CHI:	hah , hah , indirdim .
 *EXP:	hı , nasıl oldu da kuvvetli oldun sen Burçak ?
 *CHI:	gene kaldırdım .
 *CHI:	ah , ah , ah .
-*CHI:	çok kuvvetlidim [= kuvvetliyim ? or kuvvetliydim ?] .
+*CHI:	çok kuvvetlidim [: kuvvetliyim] [=? kuvvetliydim] .
 *DAN:	ayır mı bu teyp , ayır mı?
-*CHI:	ayır [= ağır] .
+*CHI:	ayır [: ağır] .
 *CHI:	ne arıyorsun sen ?
 *DAN:	ama boş olduğunu dedin .
 *CHI:	ha ?
@@ -1237,7 +1237,7 @@
 *CHI:	boş.
 *DAN:	o zaman niçin ağır ?
 *CHI:	ha ?
-*CHI:	bak nasıl kuvvetliim [= kuvvetliyim] .
+*CHI:	bak nasıl kuvvetliim [: kuvvetliyim] .
 *CHI:	pazularım gibi .
 *CHI:	çıktı bak .
 *DAN:	bom .
@@ -1274,7 +1274,7 @@
 *EXP:	ne olur çekilmezsem ?
 *CHI:	olur ben .
 *CHI:	anne , ağbi [?] .
-*CHI:	anne hadi be yapıyo [= yapıyor] .
+*CHI:	anne hadi be yapıyo [: yapıyor] .
 *CHI:	hadi bee yapıyor .
 *CHI:	bana hadi bee yap .
 %com:	conversation between Dan and the mother
@@ -1282,7 +1282,7 @@
 *CHI:	çevir bunu ?
 *CHI:	çevir bunu takıyım .
 *EXP:	çekilmezsem ne olur , ha ?
-*CHI:	şunu takıcam [= takacağım] .
+*CHI:	şunu takıcam [: takacağım] .
 *CHI:	şunu çevir .
 *EXP:	tamam , çekilmezsem burdan ne olur .
 *CHI:	çekil .
@@ -1292,7 +1292,7 @@
 *CHI:	bunu .
 *CHI:	şuraya çekil .
 *CHI:	dolaba [?] çekil .
-*CHI:	bunu takıcam [= takacağım] ben .
+*CHI:	bunu takıcam [: takacağım] ben .
 *CHI:	bunu çekiyim ben .
 *CHI:	bunu da .
 @End

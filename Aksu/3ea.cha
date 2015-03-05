@@ -171,7 +171,7 @@
 *MOT:	evin neresi burası?
 *MOT:	hani geldiği zaman vuruyorlar böyle tak tak .
 *MOT:	tak yapıyorlar .
-*CHI:	şimdi ben ne yapacam [= yapacağım] bak .
+*CHI:	şimdi ben ne yapacam [: yapacağım] bak .
 *CHI:	yatacak bu .
 *CHI:	bu da bebeği .
 *CHI:	küçük bebek .
@@ -183,7 +183,7 @@
 *CHI:	şundan .
 *EXP:	bunu da verecem sana , sonra onların içinden çıkaracaksın onu .
 *EXP:	çünkü ben gidecem sonra gene gelecem sana .
-*CHI:	sen bunları götürecen [= götüreceksin] değil mi ?
+*CHI:	sen bunları götürecen [: götüreceksin] değil mi ?
 *MOT:	bırak şimdi bunlar uyusun , ben sana bak ne soracam şimdi , dünkü.
 *MOT:	çocuklar okula gitmişlerdi , ne yaptılar okulda ?
 *MOT:	anlatırmısın teyzeye ?
@@ -246,7 +246,7 @@
 *CHI:	parka gittik , orada şöyle .
 %com:	plaklar
 *CHI:	parka gittik .
-*CHI:	bıraktım parkada [= parkta] .
+*CHI:	bıraktım parkada [: parkta] .
 *MOT:	çocuk bahçesi açık mı Mıst'ik ?
 *CHI:	açık .
 *EXP:	hangi bahçe ?
@@ -274,7 +274,7 @@
 *CHI:	Hasan .
 *MOT:	benim adım ne ?
 *MOT:	annemin adı ne ?
-*CHI:	U'lker .
+*CHI:	Ülker .
 *EXP:	baban seni gezmeye götürüyormu ?
 *CHI:	ğtürmüyor .
 *EXP:	götürmüyormu ?
@@ -463,8 +463,8 @@
 *EXP:	burda ütülüyor .
 *EXP:	annen mi ütü ütülüyor ?
 *CHI:	yok , annem .
-*CHI:	U'lker ütülüyor .
-%com:	U'lker is the mother's name .
+*CHI:	Ülker ütülüyor .
+%com:	Ülker is the mother's name .
 *EXP:	Kezban hanım ne yapıyor ?
 *CHI:	çamaşır yıkıyor .
 *EXP:	neyle yıkıyor çamaşırı?
@@ -485,7 +485,7 @@
 *EXP:	sopayla mı süpürüyor ?
 *CHI:	sopayla .
 *EXP:	hayır , neyle süpürüyor ?
-*CHI:	bişeyle [= birşeyle] süpürüyor .
+*CHI:	bişeyle [: birşeyle] süpürüyor .
 *EXP:	o kitaplar kimin kitapları?
 *CHI:	babamın kitapları.
 *EXP:	ne zaman okuyor baban onları?

@@ -141,7 +141,7 @@
 *EXP:	bir de pantolon ütüle babaya bakayım .
 *CHI:	hı xxx .
 %com:	sound gesture meaning yes
-*CHI:	ütülüyüm [= ütülüyeyim] .
+*CHI:	ütülüyüm [: ütüleyeyim] .
 *CHI:	anne hangisini ütüledim ?
 *CHI:	hangi pantolonu ütüle'dim ?
 *CHI:	çocuklara da ver .
@@ -160,7 +160,7 @@
 *CHI:	bunun bezi olsunmu ?
 *CHI:	onu ütülüyeceğim ben .
 *MOT:	burda ütule de göreyim , sonra ne yapacaksın ?
-*CHI:	şimdi onları da ütüleyim [= ütülüyeyim] .
+*CHI:	şimdi onları da ütüleyim [: ütüleyeyim] .
 *CHI:	bak , ne yaptım !
 *EXP:	ne yaptın ?
 *CHI:	arkadaşlar geliyor .
@@ -168,10 +168,10 @@
 *CHI:	taşlar gelmiyor .
 *CHI:	yerde yapayım ben .
 %com:	the ironing
-*CHI:	yoruldum orda [= orada] .
+*CHI:	yoruldum orda [: orada] .
 *EXP:	hadi artık onu yaptın , gel bakalım buraya .
 *CHI:	yapmadım daha .
-*CHI:	arkasını ütülüyecem [= ütülüyeceğim] .
+*CHI:	arkasını ütülüyecem [: ütüleyeceğim] .
 *CHI:	otobüs .
 *CHI:	a çocukları xxx .
 *EXP:	hadi gel trafik oyunu oynayalım .
@@ -180,7 +180,7 @@
 *CHI:	otobüse alalım .
 *EXP:	alalım , şunları kaldıralım .
 *CHI:	çalıştırma yapalım bunları.
-*EXP:	nasıl yapacaz [= yapacağız] çalıştırma ?
+*EXP:	nasıl yapacaz [: yapacağız] çalıştırma ?
 *CHI:	böyle böyle .
 %com:	runs cars
 *EXP:	çalıştıralım .
@@ -189,23 +189,23 @@
 %com:	causative together with free speech speech; child seemed to be bored , so the examiner decided to combine the two .
 *CHI:	gidin , gidin , gidin .
 *CHI:	gelin , gelin , buyrun , gelin .
-*EXP:	kim giriyor şekerim , ne yapıyorlar onlar orda [= orada] ?
+*EXP:	kim giriyor şekerim , ne yapıyorlar onlar orda [: orada] ?
 *CHI:	gidecekler .
 *EXP:	Füsuncuğum , sen şu atı koşturabilirmisin ?
 *CHI:	koştururum .
 *CHI:	koşturamam .
-*EXP:	ama , ben acık [= azıcık] atla oynamanı isterim .
-*CHI:	Mürvet ablam nerde [= nerede] ?
+*EXP:	ama , ben acık [: azıcık] atla oynamanı isterim .
+*CHI:	Mürvet ablam nerde [: nerede] ?
 *CHI:	Mürvet abla nerdesin ?
-*REL:	burdayım [= buradayım] .
+*REL:	burdayım [: buradayım] .
 *CHI:	ne yapıyorsun ?
 *REL:	bak .
-*CHI:	ben şimdi gidecem [= gideceğim] .
+*CHI:	ben şimdi gidecem [: gideceğim] .
 *REL:	ne oluyor Füsun ?
 %com:	there is a call for prayer from the mosque .
 *CHI:	ezan okunuyor .
 *EXP:	nerden okunuyor ?
-*CHI:	burdan [= buradan] okunuyor .
+*CHI:	burdan [: buradan] okunuyor .
 *EXP:	ne diyor ?
 *EXP:	ne diyor adam ?
 *CHI:	xxx .
@@ -230,25 +230,25 @@
 *CHI:	işte ikisi gitsin .
 *EXP:	gördünmü?
 *EXP:	şimdi bak ne yapalım !
-*EXP:	bunlar insin , at deveyi koştursun [= koştursunmu] ?
-*CHI:	ben bindirecem [= bindireceğim] .
+*EXP:	bunlar insin , at deveyi koştursun [:: koştursun mu] ?
+*CHI:	ben bindirecem [: bindireceğim] .
 *CHI:	bak bindi .
 *CHI:	bindimi ?
 *EXP:	gitsinlermi ?
 *EXP:	atlar su içecekmiş.
 *CHI:	boncukları.
 *EXP:	bak burası deniz .
-*EXP:	burda [= burada] bir köpek , bir de kedi var .
+*EXP:	burda [: burada] bir köpek , bir de kedi var .
 *CHI:	yüzdüler hepsi .
 *EXP:	yıkandılarmı?
-*CHI:	yıkandi'lar .
-*EXP:	kurusunlar burda [= burada] .
+*CHI:	yıkandılar .
+*EXP:	kurusunlar burda [: burada] .
 *CHI:	bu deniz .
 *CHI:	yatırdım ben oğlanları.
 *CHI:	onlar da yıkansınmı?
 *CHI:	anneleri de düşürdü.
 *CHI:	biz babaları , çocukları oynayalım .
-*CHI:	çocuk da burda [= burada] oynuyor .
+*CHI:	çocuk da burda [: burada] oynuyor .
 *EXP:	getir peki , oynayalım .
 *CHI:	hani ben anneydim ?
 *CHI:	bu da anneydi ?
@@ -329,7 +329,7 @@
 *CHI:	bunlar da içinde dursun .
 *EXP:	neyin üstünde duruyor annler ?
 *CHI:	onun .
-*CHI:	baba sürda [= şurada] dursun .
+*CHI:	baba sürda [: şurada] dursun .
 *CHI:	dede de xxx .
 *CHI:	kuş da surda dursun .
 *CHI:	a kuş böyle durmaz .
@@ -470,7 +470,7 @@
 *CHI:	yüzer .
 *CHI:	bıcı bıcı xxx .
 %com:	demonstrates sound gesture imitating the sound made in swimming
-*EXP:	anlat acık [= azıcık] bana balıkları.
+*EXP:	anlat acık [: azıcık] bana balıkları.
 *EXP:	siz balık alıyormusunuz ?
 *CHI:	almıyoruz .
 *CHI:	ah , yedi ağzımı be !
@@ -481,7 +481,7 @@
 *EXP:	yemez .
 *CHI:	ne yapar ?
 *EXP:	hiçbirşey yapmaz .
-*CHI:	bakıyım [= bakayım] .
+*CHI:	bakıyım [: bakayım] .
 *CHI:	bak seni yer .
 *CHI:	şimdi ne alalım ?
 *EXP:	şimdi senlen bir oyun oynayalım .

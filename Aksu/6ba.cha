@@ -7,7 +7,7 @@
 @ID:	tur|Aksu|EXP|||||Investigator|||
 *CHI:	pisi pisi nerde ?
 *EXP:	ne yapacaksın onu ?
-*CHI:	böyle yapıcam [= yapacağım] .
+*CHI:	böyle yapıcam [: yapacağım] .
 *EXP:	pisi pisiler ne yapar ?
 *EXP:	miyav diyor .
 *CHI:	ne yapar atlar ?
@@ -22,7 +22,7 @@
 *EXP:	bir yere gidiyormusun ?
 *CHI:	içine girdi .
 *EXP:	ne yaptın Aylin ?
-*CHI:	içeriye girecem [= gireceğim] .
+*CHI:	içeriye girecem [: gireceğim] .
 *EXP:	gezmeye gidermisin ?
 *CHI:	gidiyorum .
 *EXP:	ne yapıyorsun halada ?
@@ -94,7 +94,7 @@
 *EXP:	baba ne yapıyor ?
 *EXP:	kim aldı onu sana ?
 *EXP:	yapıcakmısın ?
-*CHI:	yapıcam [= yapacağım] .
+*CHI:	yapıcam [: yapacağım] .
 *EXP:	baba ne yapıyor akşamları?
 *CHI:	baba dövüyor .
 *EXP:	kimi ?

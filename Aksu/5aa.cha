@@ -178,7 +178,7 @@
 *EXP:	sen dün ne yaptın ?
 *CHI:	xxxince .
 *EXP:	dün ne yaptın yavrum ?
-*CHI:	ben oynamışçım [= oynamışdım] .
+*CHI:	ben oynamışçım [: oynamışdım] .
 *EXP:	kim geldi buraya ?
 *CHI:	ben düşecem dedi bana .
 *EXP:	hı?
@@ -200,11 +200,11 @@
 *EXP:	başka kimler var bu evde ?
 *CHI:	burda biz oturuyoruz .
 *EXP:	başka ?
-*EXP:	hani bir abla vardı burda , U'lkü abla , o ne oldu ?
+*EXP:	hani bir abla vardı burda , Ülkü abla , o ne oldu ?
 *CHI:	o anne oldu .
 *EXP:	anne mi oldu ?
 *EXP:	oh .
-*EXP:	nerede U'lkü?
+*EXP:	nerede Ülkü?
 *CHI:	evinde .
 *EXP:	ah , evine gitmiş ha ?
 *CHI:	evine .
@@ -244,8 +244,8 @@
 *EXP:	kimler geldi ?
 *CHI:	anne , bize kimler geldi ?
 %com:	she answers offstage
-*MOT:	S'ule teyzeler geldi .
-*CHI:	S'ule teyzeler geldi bize .
+*MOT:	Şule teyzeler geldi .
+*CHI:	Şule teyzeler geldi bize .
 *EXP:	ne yaptılar ?
 *CHI:	bana .
 *EXP:	efendim ?
@@ -368,7 +368,7 @@
 *CHI:	ceket giydim .
 *EXP:	bir masal anlat bize .
 *EXP:	bir varmış , bir yokmuş xxx ne varmış?
-*CHI:	bir kudrun [= kurt] varmış.
+*CHI:	bir kudrun [: kurt] varmış.
 *EXP:	sonra ?
 %com:	somebody enters
 *EXP:	ne yapmış kurt ?

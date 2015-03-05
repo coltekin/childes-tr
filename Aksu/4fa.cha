@@ -82,7 +82,7 @@
 *CHI:	yenmez kedi , tavuk yenir .
 %com:	he misunderstood what he was asked , but note the passive tense
 *EXP:	başka ne yaparlar kızınca ?
-*CHI:	bişey [= birşey] yapmazlar .
+*CHI:	bişey [: birşey] yapmazlar .
 *EXP:	tırmalamazlarmı ama ?
 *CHI:	tırmalarlar ama .
 *EXP:	niye tırmalar kediler ?
@@ -100,7 +100,7 @@
 *CHI:	yaptımı , köpeğin yavrusunu kızdırdımı insan .
 *CHI:	gelir , korur onu .
 *CHI:	insanı , kızdırdımı yavrusunu .
-*CHI:	korkturdumu [= korkuttumu] , bir sopayla vurdumu .
+*CHI:	korkturdumu [: korkuttumu] , bir sopayla vurdumu .
 *CHI:	köpekler yine ısırır .
 *CHI:	yavrusunu değil ama başka şeyi .
 *CHI:	insanları ısırır köpekler .
@@ -163,7 +163,7 @@
 *CHI:	annem bana bir kitapta , aman bir gazetede bir gemi gösterdi .
 *CHI:	hem de bütün balıkları.
 *CHI:	bir ağı vardı.
-*CHI:	atarlar gemiden ağyı [= ağı] .
+*CHI:	atarlar gemiden ağyı [: ağı] .
 *CHI:	ağ bütün balıkları içine alır .
 *CHI:	kapanır , sıkışır yani o ağnın kapısı.
 *CHI:	kapı gemiye bütün xxx .
@@ -290,10 +290,10 @@
 *CHI:	alıcağım .
 *CHI:	yalnız gidemiyoruz .
 *EXP:	nerde çalısıyor baban ?
-*CHI:	Su işlerinde [= Suişlerinde ?] .
+*CHI:	<Su işlerinde> [: Suişlerinde] .
 %com:	Suişleri is the name of the place . it is actually one word .
 *EXP:	Taksim'de mi ?
-*CHI:	Su işlerinde [= Suişlerinde ?] .
+*CHI:	<Su işlerinde> [: Suişlerinde] .
 *EXP:	Taksim'de çalışıyorsa o zaman alır pili .
 *CHI:	Taksimde çalışmıyor .
 *EXP:	baban neler yapar ?
@@ -307,12 +307,12 @@
 *CHI:	annem var .
 *CHI:	annem geç gider .
 *EXP:	nerde annen ?
-*CHI:	Boğaziçi U'niversitesinde xxx .
+*CHI:	Boğaziçi Üniversitesinde xxx .
 *CHI:	kolej .
 *CHI:	hoca .
 *CHI:	talebelere ders veriyor .
 *EXP:	akşamları ne yapıyor ?
-*CHI:	akşam yok , öğlenleyin [= öğleyin] geliyor .
+*CHI:	akşam yok , öğlenleyin [: öğleyin] geliyor .
 *EXP:	akşamları ne y apıyor ?
 *CHI:	yemek yapıyor .
 *CHI:	yemek yiyoruz .
@@ -326,7 +326,7 @@
 *CHI:	yok aşağıda .
 *CHI:	bana sonra , o yatağı kaldırıp , iki tane , iki karyola yatak .
 *CHI:	alacaklar .
-*CHI:	birini çekecem [= çekeceğim] .
+*CHI:	birini çekecem [: çekeceğim] .
 *CHI:	bir altı var , bir üstü var .
 *CHI:	üstünde yatmak istedimmi üstünde yatacağım .
 *CHI:	altında yatmak istedimmi altına çekeceğim .
@@ -341,12 +341,12 @@
 *CHI:	var .
 *EXP:	nerde ?
 *CHI:	bir tane Pariste var , ismi Mehmet Ali .
-*CHI:	bir tane var , S'işlide oturuyor , onun ismi Pelin .
+*CHI:	bir tane var , Şişlide oturuyor , onun ismi Pelin .
 *CHI:	daha var .
 *CHI:	bir tane var , Hakan .
 *CHI:	o çok yaramaz , Allah muhafaza .
 %com:	we have a very outspoken , very smart kid here !
-*EXP:	ama Hakan taşındı , di mi [= değil mi] ?
+*EXP:	ama Hakan taşındı , di [: değil] mi ?
 *CHI:	taşındı.
 *CHI:	ev yıkılıyor .
 *EXP:	artık onu görüyormusun ?
@@ -361,7 +361,7 @@
 *CHI:	babamlarla bir yere gidiyorlardı onlar .
 *CHI:	izin verdi .
 *CHI:	geldiler beni aldılar .
-*CHI:	bir xxx lar da ordaydı [= oradaydı] .
+*CHI:	bir xxx lar da ordaydı [: oradaydı] .
 *CHI:	gitmişti .
 *CHI:	bizden daha evvel gitmişti .
 *CHI:	biz de oraya gittik .
@@ -435,7 +435,7 @@
 *CHI:	galiba kırılmış şurası.
 *EXP:	Birsenler kim ?
 *CHI:	Bingül var , Birsen var , Mustafa var .
-*CHI:	orda [= orada] dört kişi xxx .
+*CHI:	orda [: orada] dört kişi xxx .
 *EXP:	onlar kimdir ?
 *EXP:	sizin akrabanız mı?
 *CHI:	evet .
@@ -474,7 +474,7 @@
 *CHI:	bazı günleri uyuyorum .
 *CHI:	bazı günleri uyumuyorum .
 %com:	he means he takes naps
-*EXP:	bugün uyuyacanmı [= uyuyacakmısın] ?
+*EXP:	bugün uyuyacanmı [: uyuyacakmısın] ?
 *CHI:	hiç.
 *EXP:	niye ?
 *CHI:	bazı günler uyuyorum , bazı günler uyumuyorum .
@@ -550,9 +550,9 @@
 *CHI:	işte .
 *CHI:	bir dakka duştü!
 *CHI:	otobüsün üstüne arabayı çıkarıyorum .
-*CHI:	bu sefer başka birşey yapıcam [= yapaca'ım] .
+*CHI:	bu sefer başka birşey yapıcam [: yapacağım] .
 *EXP:	ne dedin anlamadım .
-*CHI:	başka birşey yapıcam [= yapacağım] .
+*CHI:	başka birşey yapıcam [: yapacağım] .
 *CHI:	dur .
 *CHI:	köprünün üstüne xxx .
 *EXP:	tarif et onu bana .
@@ -595,9 +595,9 @@
 *CHI:	kuşları.
 *EXP:	bu nesi kuşun ?
 *EXP:	bak dinle beni dinle .
-*CHI:	şimdi bak birşey yapıcam [= yapacağım] , birsey yapıcam .
+*CHI:	şimdi bak birşey yapıcam [: yapacağım] , birsey yapıcam .
 *CHI:	şunu içine sokacağım .
-*CHI:	kapadım , kitledim [= kilitledim] .
+*CHI:	kapadım , kitledim [: kilitledim] .
 %com:	although the correct form is "kilitlemek" , almost everybody says "kitlemek"/ kilitlemek , but kitlemek ?
 *EXP:	ne oldu şimdi ?
 *CHI:	çıkamaz .
@@ -657,7 +657,7 @@
 %com:	now he is telling the story from the pictures in the book
 *CHI:	bir eşek varmış.
 *CHI:	köpeğe rastlamış.
-*CHI:	köpek de gelmiş onlan [= onla] .
+*CHI:	köpek de gelmiş onlan [: onunla] .
 *CHI:	kediye rastlamışlar .
 *CHI:	gine gitmişler , gitmişler .
 *CHI:	bir kediye rastlamışlar .

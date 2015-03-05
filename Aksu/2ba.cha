@@ -154,7 +154,7 @@
 *CHI:	baba .
 *CHI:	beni duyuyormusun baba ?
 *CHI:	baba baba .
-*CHI:	baba babacım [= babacığım] .
+*CHI:	baba babacım [: babacığım] .
 *UNC:	hadi gel gidiyoruz .
 *CHI:	anne gitmiyorum ben .
 *CHI:	gitmiyorum .
@@ -205,7 +205,7 @@
 *EXP:	peki .
 *CHI:	şunu da yap .
 *EXP:	bak oğlana söyle kız yemek yesin .
-*CHI:	oğlan yemek yiyecenmi [= yiyecekmisin] ?
+*CHI:	oğlan yemek yiyecenmi [: yiyecekmisin] ?
 *EXP:	istiyormuymuş?
 *CHI:	istemiyormuş.
 *EXP:	hadi gel , sen oğlan ol konuş , eline al , ben de kız olayım .
@@ -234,10 +234,10 @@
 *EXP:	hadi buraya yatır .
 *CHI:	yatağını yaptım .
 *EXP:	yatağını yaptınmı?
-*CHI:	yapacam [= yapacağım] daha .
+*CHI:	yapacam [: yapacağım] daha .
 *EXP:	hadi yatsınlar bakalım .
 *CHI:	uyu bakalım .
-*CHI:	sana şeker verecem [= vereceğim] .
+*CHI:	sana şeker verecem [: vereceğim] .
 *EXP:	bacaklarını düzelteyimmi ?
 *CHI:	hı.
 *EXP:	kim bunlar şimdi ?

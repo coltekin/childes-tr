@@ -245,7 +245,7 @@
 *EXP:	ne oynarlar ?
 *CHI:	mendille oynarlar .
 *EXP:	ne oyunu ?
-*CHI:	evcicik [= evcilik] oynarlar .
+*CHI:	evcicik [: evcilik] oynarlar .
 *EXP:	senin arakadaşların kim ?
 *CHI:	kardeş onlar .
 *EXP:	sen kimle oynuyorsun ?
@@ -286,7 +286,7 @@
 *CHI:	xxx .
 *CHI:	oynuyorlar içerde .
 *EXP:	ne yapıyorlar ?
-*CHI:	bişey [= birşey] yapmıyorlar .
+*CHI:	bişey [: birşey] yapmıyorlar .
 *EXP:	nerde koşuyorlar ?
 *CHI:	orda koşuyorlar .
 *EXP:	niye koşarlar ?
@@ -395,7 +395,7 @@
 *EXP:	kim geldi ?
 *EXP:	ne dediniz , oynıyalımmı dediniz ?
 *CHI:	oynıyalım demedik .
-*CHI:	kahve içermisiniz dedinki [= dedik] .
+*CHI:	kahve içermisiniz dedinki [: dedik] .
 *EXP:	kime ?
 *CHI:	anneye .
 *EXP:	anne ne dedi ?

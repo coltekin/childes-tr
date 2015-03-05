@@ -22,14 +22,14 @@
 *EXP:	Işılla ne oyunlar oynuyorsunuz ?
 *CHI:	taş atıyoruz .
 *EXP:	kime atıyorsunuz taşı?
-*CHI:	aşağa [= aşağıya] .
+*CHI:	aşağa [: aşağıya] .
 *EXP:	nerden aşağı?
 *CHI:	sokaktan aşağı.
 *EXP:	çocuklar ne oyunlar oynarlar ?
 *CHI:	çocuklar yerlere yatıyorlar .
 *EXP:	başka neler ?
 *EXP:	saklambaç nasıl oynuyorsunuz ?
-*CHI:	iki tane çocuklar [= çocuk] saklanıyorlar .
+*CHI:	iki tane çocuklar [: çocuk] saklanıyorlar .
 *CHI:	iki tane çocuklar saklanıyorlar .
 *CHI:	gözlerini yuman çocuklar onları buluyorlar .
 *EXP:	koşmaca nasıl oynarlar ?
@@ -85,12 +85,12 @@
 *EXP:	baban sana güzel şeyler getiriyormu ?
 *EXP:	akşam eve gelirken ?
 *CHI:	bisiklet alacak babam bana .
-*EXP:	abinin pisikleti [= bisikleti] varmı?
-*EXP:	pisikletle [= bisikletle] gezeceksin .
+*EXP:	abinin pisikleti [: bisikleti] varmı?
+*EXP:	pisikletle [: bisikletle] gezeceksin .
 *CHI:	abim de arkasına biner .
-*CHI:	sonra da pisikletimi [= bisikletimi] itiyorum .
+*CHI:	sonra da pisikletimi [: bisikletimi] itiyorum .
 *EXP:	sen en çok hangisini seviyorsun bu hayvanların ?
-*CHI:	bunların hiç kimsesini [= hiç birini] sevmiyorum .
+*CHI:	bunların hiç kimsesini [: hiç birini] sevmiyorum .
 *EXP:	niye ?
 *CHI:	işte .
 *CHI:	yalnız bunu seviyorum o kadar .
@@ -174,7 +174,7 @@
 *EXP:	nerde sizin dükkan ?
 *EXP:	eve yakınmı?
 *EXP:	sen büyüyünce ne olacaksın ?
-*EXP:	okula gidecenmi [= gidecekmisin] ?
+*EXP:	okula gidecenmi [: gidecekmisin] ?
 *CHI:	büyüyünce okula gideceğim .
 *EXP:	ne olacaksın ?
 *CHI:	hiç birşey olmayacağım .
@@ -215,7 +215,7 @@
 *CHI:	şeyi .
 *CHI:	kamyonu .
 *EXP:	ona ne çarptı?
-*CHI:	bu , yine çarpsın hadi [= haydi] .
+*CHI:	bu , yine çarpsın hadi [: haydi] .
 *CHI:	yine çarpsın .
 *EXP:	kime getirdi onu ?
 *CHI:	kaza .

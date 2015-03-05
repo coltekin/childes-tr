@@ -17,7 +17,7 @@
 *CHI:	otobüs şeye gidiyor .
 *CHI:	buraya gidiyor .
 *EXP:	neresi orası?
-*CHI:	bardası [= bardağı?] .
+*CHI:	bardası [: bardağı] [?] .
 *CHI:	hadi gidiyor otobüs .
 *CHI:	kalktık .
 *CHI:	çıkart .
@@ -375,10 +375,10 @@
 *CHI:	yapıyorum .
 %com:	a letter
 *EXP:	senin soy adın ne ?
-*CHI:	benim C'ayan .
-%com:	means C'ağlayan
-*EXP:	C'ayan mı senin soyadın ?
-*CHI:	C'ayan .
+*CHI:	benim Çayan .
+%com:	means Çağlayan
+*EXP:	Çayan mı senin soyadın ?
+*CHI:	Çayan .
 *EXP:	kim var bu evde Tan ?
 *CHI:	annem oturuyor .
 *EXP:	başka ?

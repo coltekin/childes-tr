@@ -24,7 +24,7 @@
 *CHI:	yine bunlar bunun içine giriyorlarmış.
 *EXP:	evin içinde ne yapıyorlar ?
 *CHI:	yemek pişiriyor .
-*CHI:	babaları da gaste [= gazete] okuyor oturup .
+*CHI:	babaları da gaste [: gazete] okuyor oturup .
 *CHI:	bardak ta yerinde oluyor .
 *CHI:	bu böyle oluyor .
 *CHI:	içine giriyor sonra bardak böyle olduğu için .
@@ -134,7 +134,7 @@
 *CHI:	çekmiyorum .
 *CHI:	o benim çekiyor .
 *EXP:	çocuklar ne zaman oynarlar ?
-*CHI:	şimdik [= şimdi] oynarlar .
+*CHI:	şimdik [: şimdi] oynarlar .
 *CHI:	yemek yerler , uyurlar .
 *CHI:	sonra eve giderler .
 *CHI:	evlerine giderler .
@@ -149,7 +149,7 @@
 *CHI:	annem ütülüyor .
 *CHI:	bir de ben ütülüyorum mendillerimi .
 *EXP:	ne zaman ütülüyorsun ?
-*CHI:	şimdik [= şimdi] eve gidince ütülüyorum .
+*CHI:	şimdik [: şimdi] eve gidince ütülüyorum .
 *EXP:	yerleri kim temizliyor ?
 *CHI:	annem temizliyor .
 *EXP:	neyle temizliyor ?
@@ -172,11 +172,11 @@
 %com:	dolls
 *CHI:	onlar biraz sonra kalkarlar .
 *CHI:	arabanın arkasında tahta var iki tane .
-*CHI:	köprüyü alıcam [= alacağım] .
-*CHI:	buraya koyucam [= koyacağım] .
-*CHI:	arabayı da şöyle yapıcam [= yapacağım] .
-*CHI:	tahtaları da şöyle yapıcam [= yapacağım] .
-*CHI:	böyle yapıcam [= yapacağım] .
+*CHI:	köprüyü alıcam [: alacağım] .
+*CHI:	buraya koyucam [: koyacağım] .
+*CHI:	arabayı da şöyle yapıcam [: yapacağım] .
+*CHI:	tahtaları da şöyle yapıcam [: yapacağım] .
+*CHI:	böyle yapıcam [: yapacağım] .
 *CHI:	iki tane .
 *CHI:	köprünün altına .
 *EXP:	geçende hayvanlarla oynamıştık , hatırlıyormusun ?
@@ -222,7 +222,7 @@
 *EXP:	niçin ısırır ?
 *CHI:	yutar , ağzına kadar gelir .
 *EXP:	niçin ısırır ?
-*CHI:	işte , yaramazlık yaptılar [= yaptıkları] için .
+*CHI:	işte , yaramazlık yaptılar [: yaptıkları] için .
 *CHI:	bu ne ?
 *EXP:	o eşek .
 *EXP:	köpekler ne yapar ?
@@ -255,7 +255,7 @@
 *CHI:	su içer .
 *CHI:	bir de yem verirler , yer .
 *EXP:	niçin yer köpek ?
-*CHI:	köpeğin karnı acıkti'ğı için .
+*CHI:	köpeğin karnı acıktığı için .
 *EXP:	kediler ne yapar ?
 *CHI:	miyav derler .
 *EXP:	kediler neler yapar başka ?
@@ -303,33 +303,33 @@
 *CHI:	evin üstü nerde , damı?
 *EXP:	uyanmadılarmı daha ?
 *CHI:	uyanmamışlar .
-*CHI:	ben şimdik [= şimdi] bunları çıkartıcam [= çıkartacağım] .
+*CHI:	ben şimdik [: şimdi] bunları çıkartıcam [: çıkartacağım] .
 %com:	playing with dolls
 *CHI:	bunlar buraya gelmiş.
-*CHI:	bunları da böyle dizicem [= dizeceğim] .
+*CHI:	bunları da böyle dizicem [: dizeceğim] .
 *EXP:	ne yapıyorsun ?
 *CHI:	bunları dizdim .
-*EXP:	sonra ne yapıcan [= yapacaksın] ?
+*EXP:	sonra ne yapıcan [: yapacaksın] ?
 *EXP:	ne yapıyorlar şimdi onlar ?
 *CHI:	onlar şimdik yine kalkmışlar .
 *CHI:	gözlerini açmışlar .
 *CHI:	yine istirahat ediyorlarmış.
 *CHI:	bunun üstü , damı nerde ?
 *EXP:	istirahat ettikten sonra ne yapacaklar ?
-*CHI:	kalkıcaklar [= kalkacaklar] .
+*CHI:	kalkıcaklar [: kalkacaklar] .
 *CHI:	oturacaklar .
 *CHI:	sonra bunlar böyle oturacak .
 *CHI:	ayakları böyleymiş.
 *CHI:	oturacaklar .
 *CHI:	babasının yanına oturacakmış bu da .
-*CHI:	yatıcak [= yatacak] uyuyacakmış.
+*CHI:	yatıcak [: yatacak] uyuyacakmış.
 *CHI:	çocuklar , küçükler yatıp uyur .
 *CHI:	bu da yatıcakmış , uyuyacakmış.
 *CHI:	bu da yatacak , uyuyacakmış.
 *CHI:	bu da yatıp , uyuyacakmış.
 *CHI:	bunlar da uyuyacakmıs .
 *CHI:	bu da büyükmüş , bebekmiş.
-*CHI:	onların yavrularımış [= yavrularıymış] .
+*CHI:	onların yavrularımış [: yavrularıymış] .
 *CHI:	iki annesi babası.
 *CHI:	bu da anne baba .
 *CHI:	iki tane anne baba .
@@ -342,13 +342,13 @@
 *EXP:	kim bunlar ?
 *CHI:	Aynurla .
 *EXP:	kim Aynur ?
-*CHI:	burda [= burada] yatılı Aynur .
+*CHI:	burda [: burada] yatılı Aynur .
 *EXP:	niçin öyle bağırıyor ?
 *CHI:	şarkı söylüyor , bizim şarkımızı.
 *EXP:	sizin şarkınız hangisi ?
 *CHI:	ördeğimi .
 %com:	singing
-*EXP:	söyle bakayım [= bakalım] .
+*EXP:	söyle bakayım [: bakalım] .
 *CHI:	ördeğim vak vak .
 *CHI:	ördeğim vak vak .
 *CHI:	o kadarı söylüyor Aynur .

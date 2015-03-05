@@ -2,7 +2,7 @@
 @PID:	11312/c-00027980-1
 @Begin
 @Languages:	tur
-@Participants:	CHI O'zlem Target_Child , EXP Alev Investigator
+@Participants:	CHI Özlem Target_Child , EXP Alev Investigator
 @ID:	tur|Aksu|CHI|3;0.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @Situation:	eating lemonade and cookies; feeding time at the school
@@ -23,13 +23,13 @@
 *EXP:	yumurtalı ekmek mi yapıyor ?
 *EXP:	nasıl yapıyor onu ?
 *CHI:	şeysini yapıyor şey .
-*CHI:	okulda yatmıyacammı [= yatmıyacakmıyım] ?
+*CHI:	okulda yatmıyacammı [: yatmayacakmıyım] ?
 *EXP:	ne var canım ?
-*CHI:	okulda yatmıyacanmı [= yatmıyacakmısın] ?
+*CHI:	okulda yatmıyacanmı [: yatmayacakmısın] ?
 *EXP:	ben okulda yatmıyorum .
 *CHI:	ben okulda yatmıyorum .
 *EXP:	eve mi gidiyorsun ?
-*EXP:	sen okulu seviyormusun O'zlem ?
+*EXP:	sen okulu seviyormusun Özlem ?
 %com:	affirmative gesture
 *EXP:	seviyorsun değilmi , arkadaşların varmı?
 %com:	affirmative
@@ -140,7 +140,7 @@
 *CHI:	başka bir oyun .
 *CHI:	dur sileyim .
 %com:	with an eraser
-*EXP:	okulda yerleri kim süpürüyor O'zlem ?
+*EXP:	okulda yerleri kim süpürüyor Özlem ?
 *CHI:	annem süpürüyor evde .
 *CHI:	sonra şey .
 *EXP:	neyle süpürüyor ?
@@ -238,7 +238,7 @@
 *CHI:	niçin ?
 *EXP:	çünkü benim bir başka çocuğa gitmem lazım .
 *EXP:	tamam mı kızım ?
-*EXP:	ne yapıyorsun O'zlem ?
+*EXP:	ne yapıyorsun Özlem ?
 *CHI:	oynayalım hadi .
 *EXP:	oynuyorsun işte sen .
 *EXP:	ne oynuyorsun ?
@@ -293,7 +293,7 @@
 *CHI:	bunlar dışarda kalsın .
 *CHI:	ben istiyorum .
 *EXP:	gelir şimdi .
-*EXP:	O'zlemcim , kedilerden bahsediyorduk , kedi yavrularını severmisin .
+*EXP:	Özlemcim , kedilerden bahsediyorduk , kedi yavrularını severmisin .
 *EXP:	sen ?
 *CHI:	severim .
 *EXP:	hiç seni kedi tırmaladımı?
@@ -310,7 +310,7 @@
 *CHI:	sonra orda bir kedi gördüm .
 *CHI:	o beni tırmalamadı.
 *CHI:	o beni sevdi pantolonumdan .
-*EXP:	peki O'zlem , kediler niye tırmalar ?
+*EXP:	peki Özlem , kediler niye tırmalar ?
 *CHI:	tırmalamadı beni .
 *EXP:	başkalarını tırmalıyormu ?
 *CHI:	0.
@@ -356,7 +356,7 @@
 *EXP:	tabii sen yiyebilirsin ?
 *EXP:	sen kuşlara bisküvi veriyormusun bazen ?
 %com:	negative gesture
-*CHI:	okulda yatmayacammı [= yatmayacakmıyım] ?
+*CHI:	okulda yatmayacammı [: yatmayacakmıyım] ?
 *EXP:	bilmem ki .
 %com:	negative
 *EXP:	yatmayacakmısın ?

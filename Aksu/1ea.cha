@@ -100,7 +100,7 @@
 *CHI:	ha .
 *EXP:	sıcakmıydı su da ?
 *CHI:	ha sıcaktı.
-*EXP:	soğuk suda [= suyu da ?] açtık değilmi ?
+*EXP:	soğuk suda [: suyu da] [?] açtık değilmi ?
 *CHI:	sonra da minibüse bindik .
 *CHI:	hertarafa bindik .
 *CHI:	hertarafa götürdün beni .
@@ -175,7 +175,7 @@
 *CHI:	kaza oldu .
 *CHI:	sonra da çıktı arabadan .
 *CHI:	sonra bindi gitti .
-*CHI:	sonradan arabbanın kenarısına [= kenarına] geldi .
+*CHI:	sonradan arabbanın kenarısına [: kenarına] geldi .
 %com:	"kenarısı" is not correct; correct form: "kenarı". the child added an extra suffix sonra o girdi ona .
 *CHI:	değilmi bağırdı.
 *CHI:	sonra da arabaya bindi garaja gitti .
@@ -250,10 +250,10 @@
 *CHI:	bunlan oynarım .
 *CHI:	bak selam veriyor .
 *EXP:	arkadaşın varmı senin ?
-*CHI:	yok ama Tulga da [= Tolga ?] oynuyor benlen .
-*CHI:	sonra da Tanjuyla oynıycam [= oynayacağım] ben .
-*CHI:	Tulga da gitmiş arkaya .
-*CHI:	Tulga ben oynamıyorum senlen dedim .
+*CHI:	yok ama Tulga [: Tolga] da oynuyor benlen .
+*CHI:	sonra da Tanjuyla oynıycam [: oynayacağım] ben .
+*CHI:	Tulga [: Tolga] da gitmiş arkaya .
+*CHI:	Tulga [: Tolga] ben oynamıyorum senlen dedim .
 *CHI:	ben de Tanjuylan oynuyorum o zaman .
 *EXP:	iyi ediyorsun .
 *EXP:	ne oyunlar oynuyorsunuz ?
@@ -288,8 +288,8 @@
 *CHI:	ha seviyorum .
 *CHI:	ama otobüsten burdan çıkarlar değilmi kadınlar .
 %com:	busy with the bus
-*CHI:	bunun arkasına girecem [= gireceğim] , oturucam [= oturacağım].
-*CHI:	araba kullanacam [= kullanacağım] .
+*CHI:	bunun arkasına girecem [: gireceğim] , oturucam [: oturacağım].
+*CHI:	araba kullanacam [: kullanacağım] .
 *CHI:	Emirgan bir .
 %com:	imitating dolmuş drivers
 *EXP:	peki canım dışarda neler var ?
@@ -390,7 +390,7 @@
 *CHI:	süslenir ama arabaları karıştırır , arabaları atar .
 *CHI:	sokağa .
 *CHI:	bazen süsleniyor , arabada içine giriyor .
-*CHI:	uçağı versene , şuraya koyum [= koyayım] .
+*CHI:	uçağı versene , şuraya koyum [: koyayım] .
 *EXP:	halan nasıl süsleniyor senin ?
 *CHI:	halam öyle süsleniyor sonra .
 *CHI:	büyük oluyor yemek yiyince , ben büyük oluyorum .
@@ -437,7 +437,7 @@
 *CHI:	defter okuyor .
 *EXP:	başka ne okuyor ?
 *CHI:	başka da defter okuyor .
-*CHI:	gazte [= gazete] .
+*CHI:	gazte [: gazete] .
 *EXP:	baban seni gezmeye götürüyormu Levent ?
 *CHI:	götürüyor .
 *EXP:	nereye gotürüyor ?
@@ -463,12 +463,12 @@
 *CHI:	şimdi değil .
 *CHI:	öğretmen burda benlen konuştu , bunları getirdi .
 *EXP:	Barboroşa uğrıyalım giderken .
-*CHI:	yo [= yok] şimdi değil .
+*CHI:	yo [: yok] şimdi değil .
 *CHI:	şu öğretmen gitsin de öyle gidelim .
 *EXP:	olur .
 *CHI:	şimdi oynayayım da şurda .
 *CHI:	şu öğretmenin oyuncaklarıylan .
-*CHI:	bak hertaraf dağıtık [= dağınık] .
+*CHI:	bak hertaraf dağıtık [:: dağınık] .
 *CHI:	oynuyor baksana .
 *CHI:	bu oyuncaklar bunlar benim oldu .
 *EXP:	sabahleyin ne yedin evladım ?

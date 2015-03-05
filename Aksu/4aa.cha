@@ -88,7 +88,7 @@
 %com:	sound gestures xxx .
 *CHI:	çok teşekkür ederim efendiler .
 *GRM:	kim aldı onları?
-*CHI:	ben yemek yiyecem [= yiyeceğim] anne .
+*CHI:	ben yemek yiyecem [: yiyeceğim] anne .
 *CHI:	çok acıktım .
 *CHI:	bakkal amca .
 *CHI:	bakkal iki istiyorum .
@@ -169,14 +169,14 @@
 *CHI:	bak .
 *REL:	hangisi uzun ?
 *CHI:	he xxx .
-*CHI:	dövücem [= döveceğim] .
+*CHI:	dövücem [: döveceğim] .
 *CHI:	ah xxx hop xxx a xxx .
 %com:	singing
 *REL:	hangisi daha kısa ?
 *CHI:	o da , o da , o da , o da .
 *REL:	hangisi büyük ?
 *CHI:	xxx bir tane .
-*CHI:	ona da dolduracam [= dolduracağım] .
+*CHI:	ona da dolduracam [: dolduracağım] .
 *CHI:	anne ona doldur .
 *CHI:	anne xxx anne xxx .
 %com:	crying
@@ -188,7 +188,7 @@
 *CHI:	deli .
 %com:	she is referring to the lama
 *CHI:	ısırmıyor , ısırmıyor .
-*CHI:	söyliyecem ben , söylicem [= söyleyeceğim] .
+*CHI:	söyliyecem ben , söylicem [: söyleyeceğim] .
 *EXP:	lama dövsün tavuğu .
 *CHI:	bak ayağı kırılmış.
 *CHI:	bak ayağı kırık .
@@ -196,14 +196,14 @@
 *CHI:	bak o oturuyor .
 *CHI:	bir tane bana versene .
 *CHI:	bana ver xxx .
-*CHI:	ben odaya gidicem [= gideceğim] .
-*CHI:	ben odaya gidicem [= gideceğim] .
+*CHI:	ben odaya gidicem [: gideceğim] .
+*CHI:	ben odaya gidicem [: gideceğim] .
 *CHI:	bu orda duracak .
 *CHI:	ondan bebeği xxx .
-*CHI:	xxx gidicem [= gideceğim] .
+*CHI:	xxx gidicem [: gideceğim] .
 *CHI:	ondan xxx gidi xxx .
 *EXP:	sen kimle oynarsın ?
-*CHI:	oynamıycam [= oynamıyacağım] orda .
+*CHI:	oynamıycam [: oynamıyacağım] orda .
 *EXP:	baba nerde ?
 *CHI:	işe gitti .
 *CHI:	işe gitti .
@@ -223,7 +223,7 @@
 *EXP:	anne niye çamaşır yıkıyor ?
 *CHI:	temizlik yapıyor .
 *CHI:	benim elbisemi yıkıyor .
-*MOT:	kiminle [= kimle] oynarsın ?
+*MOT:	kiminle [: kiminle] oynarsın ?
 *CHI:	oh mummy , oh mummy xxx .
 %com:	she is singing
 *MOT:	anne nasıl süslenir ?
@@ -298,9 +298,9 @@
 *CHI:	büyük baba xxx .
 *CHI:	büyük baba !
 %com:	with a surprised tone
-*CHI:	mama yediricem [= yedireceğim] .
-*CHI:	sana vurucam [= vuracağım] .
-*CHI:	bebek orda [= orada] .
+*CHI:	mama yediricem [: yedireceğim] .
+*CHI:	sana vurucam [: vuracağım] .
+*CHI:	bebek orda [: orada] .
 %com:	although "orada" is the correct form , "orda" is more common .
 *REL:	bebek ne zaman uyur ?
 *CHI:	ondan .
@@ -315,7 +315,7 @@
 %com:	demonstrated
 *CHI:	ben attım .
 *EXP:	bu ne ?
-*CHI:	at geliyor ordan [= oradan] .
+*CHI:	at geliyor ordan [: oradan] .
 *EXP:	şimdi ne geldi ?
 *CHI:	hav hav .
 %com:	meaning a dog; also common sound imitation of a doğs barking

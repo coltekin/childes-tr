@@ -23,7 +23,7 @@
 *CHI:	koşmaz .
 *CHI:	kazarlar böyle böyle .
 *CHI:	ben nasıl kumu kazıyorum .
-*CHI:	büyük evde oturuyor [= oturuyorduk] o zaman .
+*CHI:	büyük evde oturuyor [: oturuyorduk] o zaman .
 *CHI:	öyle kazıyorlar işte .
 *EXP:	nerde oynuyorsun ?
 *CHI:	evde oy xxx kendi evimde oynuyorum .
@@ -53,7 +53,7 @@
 *EXP:	eviniz büyük .
 *CHI:	size getiririm .
 *EXP:	getirecekmisin bebeğini bize ?
-*CHI:	getirecem [= getireceğim] .
+*CHI:	getirecem [: getireceğim] .
 *EXP:	ne zaman getirecen ?
 *CHI:	siz o oyunu xxx sen oyun oynarken getirecem .
 *EXP:	güzel mi bebeğin ?
@@ -70,7 +70,7 @@
 %com:	öksürmesin diye
 *EXP:	sizin evde kimler oturuyor ?
 *CHI:	bir arkadaşlarım oturuyor .
-*CHI:	kalkıyorlar , evinize [= evlerine] gidiyorlar .
+*CHI:	kalkıyorlar , evinize [: evlerine] gidiyorlar .
 *EXP:	başka kim oturuyor ?
 *EXP:	baba , anne , sen .
 *CHI:	ben oturuyorum , başka birşey oturmuyor .
@@ -162,7 +162,7 @@
 *CHI:	kız olmak için .
 *CHI:	erkekler tabanca atar .
 *EXP:	kızlar ne yapar ?
-*CHI:	kızlar da şeyder [= şey eder] .
+*CHI:	kızlar da şeyder [: şey eder] .
 *CHI:	oyun oynarlar bir tane oyuncakla .
 *CHI:	benim oyuncaklarımla .
 *CHI:	o arkadaş.
@@ -217,7 +217,7 @@
 *EXP:	nerde ?
 *CHI:	orda .
 *EXP:	neyin üstünde ?
-*CHI:	çividin [= çivinin] üstünde .
+*CHI:	çividin [: çivinin] üstünde .
 *CHI:	onlar da köpek .
 *EXP:	duvardakileri anlat bakayım .
 *CHI:	iki tane köpek .
@@ -244,7 +244,7 @@
 *CHI:	seviyorum .
 *CHI:	üst katta da oyuncaklar var .
 *EXP:	siz nerde oturuyorsunuz ?
-*CHI:	cami , S'işlinin yanında .
+*CHI:	cami , Şişlinin yanında .
 *EXP:	hayvanları seviyormusun ?
 *CHI:	seviyorum .
 *EXP:	senin kedin varmı?
@@ -257,14 +257,14 @@
 *CHI:	yoktu hiç.
 *EXP:	kediler ne yapar ?
 *CHI:	miyav derler .
-*CHI:	köp te [= köpek te] hav der .
+*CHI:	köp [= köpek] de hav der .
 *CHI:	ısırır kö xxx ıh xxx .
 *CHI:	yaramazlık yapar çocuklar .
 *EXP:	niye ısırır köpekler ?
 *CHI:	ıh xxx ağlıyor çocuklar .
-*CHI:	onun için şeyderler [= şey ederler] .
+*CHI:	onun için şeyderler [: şey ederler] .
 %com:	or would we prefer to separate as: şeyderler ?
-*CHI:	ağzına alarlar [= alırlar] .
+*CHI:	ağzına alarlar [: alırlar] .
 *CHI:	böyle çiğnerler .
 *CHI:	yatarlar .
 *EXP:	kimi ?
@@ -314,7 +314,7 @@
 *CHI:	kuyruk .
 *EXP:	nasıl yüzer balık ?
 *CHI:	tutarlar .
-*CHI:	ben tutuy xxx [= tutuyorum] .
+*CHI:	ben tutuy xxx [: tutuyorum] .
 *CHI:	Mustafa .
 *CHI:	benim Mustafa abim tutuyor ya balık .
 *CHI:	yiyorum ya pırıl pırıl .
@@ -365,7 +365,7 @@
 *CHI:	cici oğlan .
 *CHI:	şurasını şöyle yapayım da .
 *CHI:	düşmesin diye .
-*CHI:	düşücem [= düşeceğim] .
+*CHI:	düşücem [: düşeceğim] .
 *CHI:	düşerim yoksa yere .
 *CHI:	olurmu ?
 *EXP:	bu odada başka kim oturuyor ?
@@ -384,7 +384,7 @@
 *CHI:	gitti eve .
 *EXP:	bugün ne yapıcaksın ben gittikten sonra ?
 *CHI:	gittikten sonra .
-*CHI:	anneme sorucam [= soracağım] .
+*CHI:	anneme sorucam [: soracağım] .
 *CHI:	başka oyun oynuyoruz Saimeyle .
 *CHI:	Ben yatıyorum .
 *CHI:	o uyuyor .
@@ -395,11 +395,11 @@
 *EXP:	orda sen .
 *CHI:	burda da Saime .
 *CHI:	düştü.
-*CHI:	az kalsaydı [= kalsın] düşerdı yere .
+*CHI:	az kalsaydı [: kalsın] düşerdı yere .
 *EXP:	eşek gördünmü?
 *CHI:	hiç görmemiştim .
 *CHI:	eşek şeyden .
-*CHI:	eşek şeyder [= şey eder] .
+*CHI:	eşek şeyder [: şey eder] .
 *CHI:	eşek şeyderler .
 *CHI:	miyav miyav miyav , bana yemek yokmu derler .
 *EXP:	ai ai yaparlar .

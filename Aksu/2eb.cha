@@ -8,7 +8,7 @@
 @ID:	tur|Aksu|BRO|||||Brother|||
 @ID:	tur|Aksu|FAT|||||Father|||
 *CHI:	Alev abla kedin varmı senin küçük kedin ?
-*EXP:	Muratcım [= Muratcığım] ben küçük kedimi kaybettim .
+*EXP:	Muratcım [: Muratçığım] ben küçük kedimi kaybettim .
 *EXP:	bir çocuk kırdı ben de kedisiz kaldım .
 *CHI:	o küçük bebek mi kaybet kırdı.
 *EXP:	hangi küçük bebek ?
@@ -17,12 +17,12 @@
 *CHI:	bak şu nasıl biliyormusun ?
 *CHI:	bak böyle .
 *EXP:	şımdı sen ordan bir otomobil alabilirsin istersen .
-*CHI:	ben de otobüsü alarım [= alırım] .
+*CHI:	ben de otobüsü alarım [: alırım] .
 *CHI:	alayımmı elime ?
 *EXP:	al canım .
 *EXP:	gel Musa sen de al istersen .
 %com:	brother refuses
-*EXP:	ne yapıyorsun Muratcım [= Muratcığım] ?
+*EXP:	ne yapıyorsun Muratcım [: Muratçığım] ?
 *CHI:	otobüsü.
 *CHI:	bu otomobili girdirdim .
 *EXP:	nereye girdirdin oğlum ?
@@ -54,7 +54,7 @@
 *CHI:	ayakta duruyor .
 *CHI:	bak şimdi ayakta duruyor .
 %com:	playing with the bus and the wolf
-*EXP:	Muratcım [= Muratcığım] çocuklar niçin oynar ?
+*EXP:	Muratcım [: Muratçığım] çocuklar niçin oynar ?
 *CHI:	işte oynar .
 *EXP:	sen niçin oynarsın ?
 *CHI:	oynarım .
@@ -147,9 +147,9 @@
 *EXP:	ne ayıp değilmi ?
 *CHI:	bir tane yumruklarsam onları bir .
 *CHI:	denizin içinde boğulurlar .
-*CHI:	giderken bir tane yumrukluycan [= yumrukluyacaksın] .
+*CHI:	giderken bir tane yumrukluycan [: yumruklayacaksın] .
 *CHI:	bunun içinde bum .
-*CHI:	adamın kafası burdan [= buradan] sıkışacak bom .
+*CHI:	adamın kafası burdan [: buradan] sıkışacak bom .
 *CHI:	şöylece kafası kırılacak .
 *EXP:	peki topun var mı senin ?
 *CHI:	var .
@@ -159,7 +159,7 @@
 *CHI:	bu topun bombası.
 *CHI:	bir tane attımmı bomba patlar .
 *EXP:	nasıl atarsın ?
-*CHI:	koyarım bir tane tekmek [= tekme] atarım .
+*CHI:	koyarım bir tane tekmek [: tekme] atarım .
 *CHI:	suyun içine bum patlar suyun içinde .
 *EXP:	e peki balıklar korkarsa ne olacak ?
 *CHI:	ben balıklar derim balıklar bum yüzer .
@@ -172,7 +172,7 @@
 *EXP:	peki sen bazen resim yaparmısın ?
 *CHI:	yaparım .
 *EXP:	neyle resim yaparsın .
-*CHI:	boyaylan [= boyayla] yaparım .
+*CHI:	boyaylan [: boyayla] yaparım .
 *EXP:	ne resmi ?
 *CHI:	ha kuş resmi .
 *EXP:	güzel yapabiliyormusun ?
@@ -180,10 +180,10 @@
 *EXP:	bu senin bu çok güzel .
 *EXP:	kim verdi bunu sana ?
 *CHI:	o pazardan aldık bunu .
-*EXP:	kimlen [= kimle] aldınız ?
+*EXP:	kimlen [: kimle] aldınız ?
 *CHI:	taa aşağıda o gazinoya gittik biz .
 *EXP:	gazinoya ?
-*CHI:	o hayvan bahçesinde ne var söyleyimmi [= söyleyeyimmi] ?
+*CHI:	o hayvan bahçesinde ne var söyleyimmi [: söyleyeyimmi] ?
 *EXP:	tabii söyle .
 *CHI:	dolu hayvanlar var .
 *CHI:	büyük hayvan .
@@ -218,7 +218,7 @@
 *EXP:	siz kimsiniz ?
 *EXP:	sen , başka ?
 *CHI:	ağbim , dedem , annem , babam .
-*CHI:	Zeki ağbim , Galip , C'iğdem .
+*CHI:	Zeki ağbim , Galip , Çiğdem .
 *EXP:	babaannen nerde ?
 *CHI:	babaannem Tayyarlarda .
 *EXP:	Tayyarlara mı gitti ?
@@ -226,7 +226,7 @@
 *EXP:	senin annen ne zaman uyur ?
 *CHI:	şimdi uyur .
 *CHI:	iki , üç sabah oluyor .
-*CHI:	hemdencik [= hemencik] yatıyoruz biz .
+*CHI:	hemdencik [: hemencik] yatıyoruz biz .
 *EXP:	sabah oluncamı yatıyorsunuz ?
 *CHI:	hı.
 *EXP:	e geceleri ne yapıyorsunuz ?
@@ -243,7 +243,7 @@
 *CHI:	taa o lunaparkın uzakta var .
 *CHI:	oraya o evin arkasında var .
 *CHI:	o sünnetçıler beni yapacak sünnet .
-*CHI:	hemencik bir tane gelin arabasına binecem [= bineceğim] .
+*CHI:	hemencik bir tane gelin arabasına binecem [: bineceğim] .
 *CHI:	sonra da gidecem .
 *EXP:	peki sen hala söylemedin annen süslenirmi bazen .
 *CHI:	süslenir .
@@ -282,7 +282,7 @@
 *CHI:	büyük iş makinaları var .
 *EXP:	evet .
 *CHI:	aygaz da var .
-*EXP:	ne yapıyorlar orda [= orada] .
+*EXP:	ne yapıyorlar orda [: orada] .
 *CHI:	orda mı?
 *CHI:	işleri .
 *CHI:	hem sıcak yapıyorlar .
@@ -328,13 +328,13 @@
 *FAT:	dün Ayşe halaya gitmedik .
 *FAT:	denize gittik değilmi ?
 *CHI:	denize gittik .
-*FAT:	beyendinmi [= beğendinmi] denizi ?
-*CHI:	hı beyendim [= beğendim] .
-*FAT:	yüzdün orda [= orada] değilmi ?
+*FAT:	beyendinmi [: beğendinmi] denizi ?
+*CHI:	hı beyendim [: beğendim] .
+*FAT:	yüzdün orda [: orada] değilmi ?
 *CHI:	hı.
 *CHI:	hepsine girmedim ben .
 *FAT:	dün akşam biz sinemaya gittik .
-*FAT:	sinemanın orda [= orada] sandalyelerin altında ne gördün sen ?
+*FAT:	sinemanın orda [: orada] sandalyelerin altında ne gördün sen ?
 *CHI:	bir tane .
 *CHI:	sandalyelerin altından kedi geçmişti .
 *CHI:	ben de baktım sandalyenin altına .

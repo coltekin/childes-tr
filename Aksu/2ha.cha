@@ -106,7 +106,7 @@
 *EXP:	tabii .
 *EXP:	sen niye kedilere verdin ?
 *CHI:	verdim işte .
-*CHI:	bitanesini [= birtanesini] , bitanesini ben .
+*CHI:	bitanesini [: birtanesini] , bitanesini ben .
 *CHI:	yedim .
 *EXP:	büyük müydü balıklar ?
 *CHI:	evet .
@@ -153,7 +153,7 @@
 *EXP:	nasıl bozdun onu öyle ?
 *CHI:	açtım işte .
 *EXP:	yazık .
-*CHI:	buraya şişircem [= şişireceğim] .
+*CHI:	buraya şişircem [: şişireceğim] .
 *EXP:	güzelmiş o zamanında , değil mi ?
 *EXP:	mayon varmı senin ?
 *CHI:	thip .
@@ -187,7 +187,7 @@
 *EXP:	sahi mi ?
 *EXP:	çok mu hızın var ?
 *EXP:	niye koşarsın ?
-*CHI:	koşuymmı [= koşayımmı] ?
+*CHI:	koşuymmı [: koşayımmı] ?
 *EXP:	koş bakalım .
 *EXP:	bir de buraya koş.
 *CHI:	çok hızlı koşuyorum ben .
@@ -204,7 +204,7 @@
 *EXP:	ne oyunu oynarsın ?
 *CHI:	huh .
 *EXP:	ne oyunları oynarsın Zeynep'le ?
-*CHI:	bilmiycem ki [= bilmiyeceğim ki] .
+*CHI:	bilmiycem ki [: bilmiyeceğim ki] .
 %com:	I think she actually means "bilemiyeceğim ki"
 *EXP:	ne oyunu oynadığını bilmiyormusun sen ?
 *CHI:	thip .
@@ -213,7 +213,7 @@
 *CHI:	thip .
 *CHI:	başka oyunu biliyorum .
 *EXP:	şimdi dur bakalım otur .
-*CHI:	bakıym [= bakayım] ona .
+*CHI:	bakıym [: bakayım] ona .
 *EXP:	yerine otur evvela .
 *CHI:	aa !
 *CHI:	araba .
@@ -251,7 +251,7 @@
 *EXP:	bak sana birşey sordum , dedim ki sana: sen ne zaman oynarsın ?
 *EXP:	dedim .
 *EXP:	söyle bakayım onu .
-*CHI:	söyleycem [= söyleyeceğim] .
+*CHI:	söyleycem [: söyleyeceğim] .
 *EXP:	ne zaman ama ?
 *EXP:	Zeynep'len ne zaman oynuyacaksın ?
 *CHI:	bir zaman oynarız .
@@ -262,7 +262,7 @@
 *EXP:	peki çocuğum .
 *EXP:	ne zamandı o ?
 *EXP:	hatırlıyormusun ?
-*CHI:	hatırlandım [= hatırladım*] .
+*CHI:	hatırlandım [:: hatırladım] .
 %com:	"hatırlandım" does not make sense in that context . she must have meant "hatırladım".
 *EXP:	hatırlamıyormusun ?
 *CHI:	sen birşeyler anlat .
@@ -293,13 +293,13 @@
 *CHI:	kalem .
 *EXP:	kalemle mi ?
 *EXP:	peki .
-*CHI:	anne , çıkartmanı versene , içine döküycem [= dökeceğim] .
+*CHI:	anne , çıkartmanı versene , içine döküycem [: dökeceğim] .
 *CHI:	bak arabalara .
-*CHI:	burdan geçim [= geçeyim] .
+*CHI:	burdan geçim [: geçeyim] .
 *EXP:	Yeşim , annen ne zaman uyur ?
 *EXP:	Yeşim !
 *EXP:	annen ne zaman uyur ?
-*CHI:	geceliyin [= geceleyin] .
+*CHI:	geceliyin [: geceleyin] .
 *EXP:	peki , annen nasıl süslenir ?
 *CHI:	xxx .
 *EXP:	annen nasıl süslenir kızım ?
@@ -325,14 +325,14 @@
 *EXP:	otur bakalım şimdi .
 *EXP:	şimdi söyle bakalım bana .
 *EXP:	niye huysuzluk ediyorsun ?
-*CHI:	oynıycaz [= oynayacağız] .
+*CHI:	oynıycaz [: oynayacağız] .
 *EXP:	oynuyacağız tabii , beraber .
 *EXP:	ama böyle bıyk bıyk yaparsan olmaz .
 *EXP:	tabii , öyle değilmi ?
 *EXP:	hım ?
 *CHI:	olur .
 *EXP:	hayır , ben o zaman oynamam .
-*CHI:	yapmıycam [= yapmayacağım] .
+*CHI:	yapmıycam [: yapmayacağım] .
 *EXP:	yapmıyacan değilmi , cici cici .
 *CHI:	hıh .
 *EXP:	peki annem .
@@ -348,7 +348,7 @@
 *CHI:	evet .
 *EXP:	sürüyorsun , başka ?
 *EXP:	tırnaklarını ne yapıyor ?
-*CHI:	yoyuyor [= boyuyor] .
+*CHI:	yoyuyor [: boyuyor] .
 *EXP:	boyuyormu tırnaklarını?
 *CHI:	evet .
 *EXP:	nasıl boyuyor ?
@@ -359,7 +359,7 @@
 *CHI:	onu boyuyor .
 *EXP:	kalemle mi boyuyor ?
 *CHI:	huhhh .
-*CHI:	kelamlan [= kalemlen] boyuyor .
+*CHI:	kelamlan [: kalemlen] boyuyor .
 *EXP:	kalemle boyamıyor .
 *CHI:	niye ?
 *EXP:	sen neyle boyuyorsun tırnaklarını?
@@ -372,7 +372,7 @@
 *EXP:	bir daha söyle doğrusunu .
 *CHI:	ha ?
 *EXP:	doğrusunu söyle .
-*CHI:	kelamlan [= kalemlen] .
+*CHI:	kelamlan [: kalemlen] .
 *EXP:	kelemlen boyuyorsun .
 *EXP:	iyi , ver bakalım tırnaklarını kelemlen boyuyalım .
 *EXP:	bak ne kadar .
@@ -383,8 +383,8 @@
 *EXP:	neyle boyamak lazım ?
 *CHI:	kelemlen boyuyacak .
 *CHI:	kelemlen boyanmaz .
-*CHI:	bakim [= bakayım] , güzel .
-*CHI:	bakim , ayağa kalkim [= kalakayım] da .
+*CHI:	bakim [: bakayım] , güzel .
+*CHI:	bakim , ayağa kalkim [: kalkayım] da .
 *CHI:	bakim .
 *EXP:	ayağa kalk da bak bakalım .
 *CHI:	içe alacak .
@@ -392,7 +392,7 @@
 *EXP:	ojeyle boyanmaz , kalemle boyamak lazım .
 *CHI:	ee .
 *CHI:	geri alalım bunu .
-*CHI:	buyam [= boyam] var .
+*CHI:	buyam [: boyam] var .
 *EXP:	ee .
 *EXP:	sen kalemlen boyanır dedin demin .
 *EXP:	neylen boyanır peki .
@@ -405,7 +405,7 @@
 *CHI:	dimi ?
 *CHI:	ablamınki küçük , boncuk onlar .
 *CHI:	ya , benimki de bukadardı.
-*CHI:	kocaman bir balık kadadı [= kadardı] , dimi [= değilmi] ?
+*CHI:	kocaman bir balık kadadı [: kadardı] , dimi [: değilmi] ?
 *EXP:	evet .
 *CHI:	uyuyordu .
 *CHI:	ha , uyumuyordu .
@@ -414,10 +414,10 @@
 *CHI:	sana kuş yaparım diye .
 %com:	?
 *EXP:	evet .
-*CHI:	onun tekerlekleri var , çıkmıyor dimi [= değilmi] , dimi ?
+*CHI:	onun tekerlekleri var , çıkmıyor dimi [: değilmi] , dimi ?
 *EXP:	sen tırnaklarına ne sürüyorsun kızım ?
 *CHI:	xxx e , sürüyorum ya .
-*CHI:	ay [= al] ojeni al .
+*CHI:	ay [: al] ojeni al .
 *CHI:	anne , hani benim böyle yok benim .
 *CHI:	anne , babam öyle şarkı okur dimi ?
 *CHI:	ama böyle yok anne sündan .
@@ -461,17 +461,17 @@
 *EXP:	üç zaman ütülüyor .
 *EXP:	peki , yerleri temizliyormu annen ?
 *CHI:	tabii .
-*CHI:	demincen [= deminden ?] temizledi .
+*CHI:	demincen [: deminden ?] temizledi .
 %com:	"demincen" or "deminden temizledi" does not make sense . a correct way of saying would be "demin temizledi".
 *EXP:	sahi ?
 *EXP:	çok güzel olmuş.
 *EXP:	mis gibi kokuyor zaten .
 *EXP:	neylen temizledi ?
 *EXP:	ne kullanıyor , neylen temizliyor yerleri ?
-*CHI:	omuylan [= omoylan] .
+*CHI:	omuylan [: omoyla] .
 %com:	"Omo" is a brand name for a washing detergent widely used in Turkey .
 *CHI:	evet .
-*CHI:	gösteriym [= göstereyim] omoyu .
+*CHI:	gösteriym [: göstereyim] omoyu .
 *EXP:	yok canım lüzum yok .
 *EXP:	bu soba başınıza dert oluyormu ?
 *EXP:	kim yakıyor bu sobayı?

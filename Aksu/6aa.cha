@@ -30,7 +30,7 @@
 *CHI:	balık , bak !
 *CHI:	böyle yapmış.
 *EXP:	balığı niye kesiyor ?
-*CHI:	bak , deniz var burda [= burada] .
+*CHI:	bak , deniz var burda [: burada] .
 *CHI:	bak bunlar .
 *CHI:	bak bu .
 *CHI:	bu düşmüş.
@@ -58,7 +58,7 @@
 *EXP:	köpekler ne yapar ?
 *CHI:	köpek , köpek .
 *EXP:	niçin içer köpekler ?
-*CHI:	su içer , ota [= ot] yiyer [= yer] .
+*CHI:	su içer , ota [: ot] yiyer [: yer] .
 %com:	the child added an extra suffix to the verb "yemek"
 *EXP:	niçin içer ?
 *CHI:	xxx .
@@ -67,7 +67,7 @@
 *CHI:	xxx yaptım ben .
 %com:	hav hav: sound imitation of a doğs barking; also stands for a dog
 *EXP:	neden içiyorsun süt ?
-*CHI:	içiyorum , içicem , içicem [= içeceğim] .
+*CHI:	içiyorum , içicem , içicem [: içeceğim] .
 *CHI:	anne de içer .
 *EXP:	neyle içersin su ?
 *CHI:	bir kuş yapacağım .
@@ -136,7 +136,7 @@
 *EXP:	anne okurmu ?
 *CHI:	okur , okuyor .
 *EXP:	ne zaman okuyor ?
-*CHI:	iki diye [= ikide] okuyor .
+*CHI:	<iki diye> [: ikide] okuyor .
 *CHI:	çocuk xxx .
 *CHI:	sesimi de al .
 *CHI:	çalsın .
@@ -153,29 +153,29 @@
 *CHI:	başka yok ama .
 *CHI:	başka yok ama .
 *CHI:	başka yok .
-*EXP:	nerde [= nerede] ?
-*CHI:	burda [= burada] .
+*EXP:	nerde [: nerede] ?
+*CHI:	burda [: burada] .
 *CHI:	yine yap .
-*EXP:	tavşan nerde [= nerede] ?
+*EXP:	tavşan nerde [: nerede] ?
 *CHI:	yok .
 *CHI:	yatıyor .
 *EXP:	nerde yatıyor ?
-*CHI:	orda [= orada] .
+*CHI:	orda [: orada] .
 *EXP:	kutunun neresinde ?
 *CHI:	kutunun içinde .
 *CHI:	onu koy .
 *EXP:	şimdi nerde ?
-*CHI:	orda [= orada] .
+*CHI:	orda [: orada] .
 *CHI:	vermedi .
 *EXP:	nerde tavşan ?
-*CHI:	tavşan yapıcam [= yapacağım] (alıcam) [= alacağım] ben .
+*CHI:	tavşan yapıcam [: yapacağım] alıcam [: alacağım] ben .
 *CHI:	tavşan .
 *EXP:	nerde uyuyor tavşan ?
 *CHI:	yine açsın .
 *CHI:	orda tavşan .
 *CHI:	yatıyor .
 *EXP:	nerede ?
-*CHI:	orda [= orada] ?
+*CHI:	orda [: orada] ?
 *EXP:	nerde tavşan ?
 *CHI:	yok .
 *CHI:	açsana şunu .

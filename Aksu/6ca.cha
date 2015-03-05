@@ -8,7 +8,7 @@
 *EXP:	dün ne yaptın ?
 *CHI:	kahve yaptım .
 *CHI:	kahve pişiriyorum .
-*CHI:	nerde [= nerede] bu xxx .
+*CHI:	nerde [: nerede] bu xxx .
 *EXP:	nasıl kahve yaptın , cezveye ne koydun ?
 *CHI:	çay koydum .
 *CHI:	koydum .
@@ -16,28 +16,28 @@
 *CHI:	hangisini ?
 *CHI:	ne oynıyacağız ?
 *CHI:	dur ama şeyi xxx .
-*CHI:	nerde [= nerede] çocuklar ?
+*CHI:	nerde [: nerede] çocuklar ?
 *CHI:	nerde ?
 *CHI:	bakayım nerde ki , yok .
 *CHI:	bak kahve yapacağım .
 *CHI:	ne ?
 *CHI:	dur , onu alma .
 *CHI:	xxx nerde ?
-*CHI:	bak bunu buraya koyacam [= koyacağım] .
+*CHI:	bak bunu buraya koyacam [: koyacağım] .
 *CHI:	bunun içine koyacam .
 *CHI:	ne yapıyorlar ?
 *CHI:	oynuyorlar .
 *CHI:	kahveyi de koyayım .
 *CHI:	oyuncak oynuyorlar .
 *CHI:	atıyorlar , gidiyorlar .
-*CHI:	bunlan [= bunla] oynuyorum .
+*CHI:	bunlan [: bunla] oynuyorum .
 *CHI:	kahveyi ne yapıyorsun ?
 *CHI:	dökülüyor .
 *CHI:	kahve yaptım .
 *CHI:	dur .
 *CHI:	oyuncak oynarım .
 *CHI:	ne yazıyorsun ?
-*CHI:	ne oynıyacaz [= oynıyacağız] ?
+*CHI:	ne oynıyacaz [: oynayacağız] ?
 *CHI:	koşmaca .
 *CHI:	ne ?
 *CHI:	bilmiyorum .
@@ -87,7 +87,7 @@
 *CHI:	hani başka birşey nerde ?
 *CHI:	hangisini ?
 *CHI:	o kalemi ver bana .
-*CHI:	vericenmi [= verecekmisin] kalemi ?
+*CHI:	vericenmi [: verecekmisin] kalemi ?
 %com:	the following is from the transcription on the loose sheets .
 *CHI:	bak plağımız var evde .
 *EXP:	hyvanları anlatsana .

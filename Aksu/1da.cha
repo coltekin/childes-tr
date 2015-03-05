@@ -9,7 +9,7 @@
 *CHI:	bu ne ?
 *EXP:	bunlar kim ?
 *CHI:	kızla oğlan .
-*EXP:	beraber ne yapar [= yaparlar] ?
+*EXP:	beraber ne yapar [:: yaparlar] ?
 *CHI:	bilmem .
 *CHI:	o çocuk mu ?
 *CHI:	onun üstünde koşsunmu ?
@@ -84,7 +84,7 @@
 *EXP:	onu kim aldı sana ?
 *CHI:	aldılar .
 *CHI:	dedemle .
-*EXP:	nerde [= nerede] aldılar ?
+*EXP:	nerde [: nerede] aldılar ?
 *CHI:	Istanbulda aldılar .
 *CHI:	doğum günümde verdiler .
 *EXP:	kaç yaşındaydın ?
@@ -107,7 +107,7 @@
 *EXP:	bugün ne yaptı annen ?
 *CHI:	birşey yapmadı.
 *EXP:	baba ne yaptı?
-*CHI:	babam bişey [= birşey] xxx .
+*CHI:	babam bişey [: birşey] xxx .
 *EXP:	Mustafa ne yaptı?
 *CHI:	kaka yaptı?
 *EXP:	anne nasıl süslenir ?
@@ -123,7 +123,7 @@
 *CHI:	ablam .
 *EXP:	ne zaman ütüler ?
 *CHI:	iki gün .
-*CHI:	şuna yazı yazıcam [= yazacağım] .
+*CHI:	şuna yazı yazıcam [: yazacağım] .
 *EXP:	yerleri kim temizler ?
 *CHI:	ben .
 *CHI:	ben temizlerim , süpürürüm .
@@ -142,7 +142,7 @@
 *CHI:	iki gün .
 *EXP:	anneni tarif etsene .
 *CHI:	yapamam .
-*CHI:	söyliyecem [= söyliyeceğim] .
+*CHI:	söyliyecem [: söyliyeceğim] .
 %com:	the word above was not very legible in the text
 *CHI:	kalemi versene .
 *EXP:	bugün ne oldu ?
@@ -190,9 +190,9 @@
 *CHI:	bunların hepsi yıkanacak .
 *CHI:	ben yıkarım .
 *EXP:	nasıl yıkarsın ?
-*CHI:	yesende [= yesene] .
+*CHI:	yesende [: yesene] .
 %com:	the child added an extra suffix; or does he mean: "ye sen de"?
-*CHI:	kaşık da vericem [= vereceğim] .
+*CHI:	kaşık da vericem [: vereceğim] .
 *CHI:	sen ye , kaşık da vereceğim .
 *CHI:	bir tane kaşık kaldı.
 *CHI:	al bakalım kaşiğı.
@@ -202,7 +202,7 @@
 *CHI:	tırmalar .
 *CHI:	işte , işte .
 *EXP:	kediler başka ne yapar ?
-*CHI:	başka birşey yapmaz [= yapmazlar] .
+*CHI:	başka birşey yapmaz [:: yapmazlar] .
 *CHI:	giderler sokağa .
 *CHI:	eve girmez ki .
 *CHI:	girmez ki eve .
@@ -239,14 +239,14 @@
 %com:	the text is not very legible here
 *EXP:	kuşlar nasıl uçar ?
 *CHI:	nasıl uçar kuşlar ?
-*CHI:	anne şu masanın üstüne yatıcam [= yatacağım] ben .
-*EXP:	neyin üstüne yatıcan [= yatacaksın] ?
+*CHI:	anne şu masanın üstüne yatıcam [: yatacağım] ben .
+*EXP:	neyin üstüne yatıcan [: yatacaksın] ?
 *CHI:	masanın .
 *EXP:	kurtlar ne yapar , yerler değil mi ?
 *CHI:	anne kurt yermi ?
 *CHI:	kurt yemez , ısırmaz .
-*CHI:	nerde [= nerede] gezer kurtlar ?
-*CHI:	nerdedir [= nerededir] dağlar ?
+*CHI:	nerde [: nerede] gezer kurtlar ?
+*CHI:	nerdedir [: nerededir] dağlar ?
 *CHI:	orman ne demek ?
 *EXP:	balıkları biliyormusun ?
 *CHI:	baliğı bilmiyorum .
@@ -256,11 +256,11 @@
 *CHI:	kuyruk .
 *CHI:	kuyruğunu da yerim .
 *CHI:	Mustafa xxx .
-*CHI:	anne bu nerde [= nerede] gezer ?
+*CHI:	anne bu nerde [: nerede] gezer ?
 *CHI:	ne yapar ?
-*CHI:	anne bu da burda [= burada] dursun .
+*CHI:	anne bu da burda [: burada] dursun .
 *CHI:	şu da .
 *CHI:	anne bunun tüylerini ben hiç çıkaramam .
-*CHI:	bu abiden [= ağabeyden] .
+*CHI:	bu abiden .
 %com:	although the correct form of abi is ağabey , abi is more common
 @End

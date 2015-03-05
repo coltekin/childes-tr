@@ -6,7 +6,7 @@
 @ID:	tur|Aksu|CHI|3;8.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
-*MOT:	bak şimdi Leventcim [= Leventciğim] , bu ne canım ?
+*MOT:	bak şimdi Leventcim [: Leventçiğim] , bu ne canım ?
 *CHI:	bu bardak .
 *MOT:	fincana benziyor değil mi ?
 *MOT:	kız nerede ?
@@ -19,7 +19,7 @@
 *MOT:	ondan sonra nereye bindik ?
 *CHI:	sonra da minibüse bindik , banyolara gittik .
 *MOT:	orada ne oynadın çocuğum ?
-*CHI:	taslan [= tasla] oynadım .
+*CHI:	taslan [: tasla] oynadım .
 %com:	tasla; no need for n; he added an extra letter , a common mistake
 *MOT:	ne aldık giderken ?
 *CHI:	giderken de poaça aldık , yedik .
@@ -121,7 +121,7 @@
 %com:	an affirmative sound gesture .
 *MOT:	kaç tane poaça yedin ?
 *MOT:	çok poaça yemişsindir .
-*CHI:	ben de orada gazozlan [= gazozla] poaça içtim .
+*CHI:	ben de orada gazozlan [: gazozla] poaça içtim .
 %com:	gazozla; no need for n , he added an extra suffix; a common mistake
 *MOT:	sonra peynir yemedinmi ?
 *CHI:	yemedim orda .
@@ -201,7 +201,7 @@
 *EXP:	altından mı geçiyor ?
 *CHI:	hı.
 *CHI:	bak kafasıza .
-*CHI:	direksiyon burda [= burada] .
+*CHI:	direksiyon burda [: burada] .
 *CHI:	a itiyor arabayı.
 *EXP:	Levent , ablan nerede senin ?
 *CHI:	okulda .
@@ -249,23 +249,23 @@
 *CHI:	böyle yukarıya selam veriyor .
 *EXP:	nerede selam veriyor ?
 *CHI:	burda .
-*EXP:	sen kiminle [= kimle] oynarsın ?
-*CHI:	bunlan [= bunla=bununla/ his is a common mistake] oynarım .
+*EXP:	sen kiminle oynarsın ?
+*CHI:	bunlan [: bununla] oynarım .
 %com:	points dolls
 *EXP:	arkadaş olarak kimle oynarsın ?
-*CHI:	bunlan [= bunla/bununla] oynarım .
+*CHI:	bunlan [: bununla] oynarım .
 %com:	again the same mistake . bununla is the correct form
 *EXP:	bak selam veriyor .
-*EXP:	kimlen [= kimle] oynarsın ?
+*EXP:	kimlen [: kiminle] oynarsın ?
 *EXP:	arkadaşın var mı senin ?
-*CHI:	yok ama Tolga da oynuyor benlen [= benle; no need for n] .
+*CHI:	yok ama Tolga da oynuyor benlen [: benimle] .
 *CHI:	sonra Tanjuyla oynayacağım ben de .
 *CHI:	dün Tolga da gitmiş arkaya .
-*CHI:	Tolga ben oynamıyorum senlen [= senle , no need for n] dedi .
+*CHI:	Tolga ben oynamıyorum senlen [: seninle] dedi .
 *CHI:	ben de Tanjuyla oynuyorum o zaman .
 *EXP:	ne oyunları oynuyorsunuz .
 *EXP:	oynuyoruz , oynuyoruz , çok oynuyoruz .
-*CHI:	sonra , çantam da orda [= orada] kalmış.
+*CHI:	sonra , çantam da orda [: orada] kalmış.
 *CHI:	çantamı , kitap da yok .
 *CHI:	karıştırmaz çocuklar .
 *CHI:	arabalarımı karıştırıyorlar .
@@ -279,8 +279,8 @@
 *CHI:	öğretmene veriyor .
 *EXP:	peki çocuklar ne zaman oynarlar ?
 *CHI:	sabahleyin .
-*EXP:	peki sen dişarıya kimlen [= kimle] gidiyorsun ?
-*CHI:	halamlan [= halamla] giderim .
+*EXP:	peki sen dişarıya kimlen [: kiminle] gidiyorsun ?
+*CHI:	halamlan [: halamla] giderim .
 *EXP:	ne yapıyorsunuz dışarda beraber ?
 *CHI:	beraber vapurlara gidiyoruz .
 *CHI:	istedim .
@@ -304,10 +304,10 @@
 *CHI:	ha .
 %com:	ha= an affirmative sound gesture
 *CHI:	özlüyorum .
-*CHI:	otobüsler burdan [= buradan] çıkarlar değilmi ?
+*CHI:	otobüsler burdan [: buradan] çıkarlar değilmi ?
 *CHI:	xxx dan ?
 *CHI:	bak , ben bunun arasına gireceğim .
-*CHI:	oturacam [= oturacağım] , arabayı kullanacam [= kullanacağım] .
+*CHI:	oturacam [: oturacağım] , arabayı kullanacam [: kullanacağım] .
 *CHI:	böyle .
 *EXP:	şekerim dışarda neler var ?
 *CHI:	dışarda hiçbirşey yok .
@@ -325,7 +325,7 @@
 *EXP:	senin topun varmı?
 *CHI:	bisikletim de var .
 *EXP:	topunla oynuyormusun ?
-*CHI:	oynuyorum topumlan [= topumla] .
+*CHI:	oynuyorum topumlan [: topumla] .
 *CHI:	ama biz de .
 *CHI:	ben de kedi alıp evimize koyuyorum .
 *EXP:	kedi alıyorsun ?
@@ -358,13 +358,13 @@
 *CHI:	ama o kalem de o kalem de .
 *CHI:	geçen sene bir tane araba .
 *EXP:	neyle resim yaparsın ?
-*CHI:	şeylen [= şeyle] , defterlen [= defterle] yaparım .
+*CHI:	şeylen [: şeyle] , defterlen [: defterle] yaparım .
 *MOT:	kalemle olurmu ?
 *CHI:	olur .
 *EXP:	buraya yapmak istermisin resim ?
 *CHI:	yaparım .
 *CHI:	yapmak isterim .
-*CHI:	araba burda [= burada] dursun .
+*CHI:	araba burda [: burada] dursun .
 %com:	picks up pencil and paper
 *CHI:	güzel bir Akbank yapayım sana .
 %com:	Akbank= name of a bank in Turkey
@@ -392,7 +392,7 @@
 *CHI:	peki .
 *MOT:	şuraya bir taksi yap , mercedesi yap bakayım .
 *CHI:	yapamam be .
-*CHI:	şunları yapım [= yapayım] da , dur .
+*CHI:	şunları yapım [: yapayım] da , dur .
 *CHI:	bak top yapıyorum sana .
 *CHI:	a , cız bunlar !
 %com:	to younger brother , "cız" is a sound gesture meaning don't touch
@@ -424,7 +424,7 @@
 *CHI:	karanlıkta öcü geliyor , camlara vuruyor .
 *EXP:	halan ne zaman uyur ?
 *CHI:	eniştem gelince uyur .
-*EXP:	bana anlat acık [= azıcık] halanı bakalım .
+*EXP:	bana anlat acık [: azıcık] halanı bakalım .
 *EXP:	ne yapar sein halan başka ?
 *CHI:	içine gider , otobüsü böyle açar .
 *CHI:	içine girer , oturur burasına .

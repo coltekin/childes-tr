@@ -2,7 +2,7 @@
 @PID:	11312/c-00027981-1
 @Begin
 @Languages:	tur
-@Participants:	CHI O'zlem Target_Child , EXP Alev Investigator , MOT Mother
+@Participants:	CHI Özlem Target_Child , EXP Alev Investigator , MOT Mother
 @ID:	tur|Aksu|CHI|3;4.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
@@ -37,7 +37,7 @@
 *CHI:	şunu .
 *EXP:	benim hayvanımı mı yedin ?
 %com:	affirmative gesture
-*EXP:	O'zlem !
+*EXP:	Özlem !
 %com:	she laughs
 *EXP:	ben hayvansız kaldım .
 %com:	I show
@@ -78,12 +78,12 @@
 *CHI:	bak nasıl okuyorum ?
 %com:	she repeats after me
 *CHI:	ben sana resim yapacağım .
-*MOT:	O'zlem , ben niçin bugün daireye gidemedim söylermisin Alev .
+*MOT:	Özlem , ben niçin bugün daireye gidemedim söylermisin Alev .
 *MOT:	teyzeye .
-*EXP:	O'zlem'in Sema öğretmeni dedi ki , ben O'zlem'i çok özledim dedi .
-*MOT:	sahi mi , O'zlemcim , sen ne kadar seviorsun Sema öğretmeni ?
+*EXP:	Özlem'in Sema öğretmeni dedi ki , ben Özlem'i çok özledim dedi .
+*MOT:	sahi mi , Özlemcim , sen ne kadar seviorsun Sema öğretmeni ?
 *CHI:	anne , sen bana birşey yap .
-*MOT:	Selim ne yapmış biliyormusun , O'zlem gelmedi diye üzülmüş.
+*MOT:	Selim ne yapmış biliyormusun , Özlem gelmedi diye üzülmüş.
 *MOT:	hastalanmış.
 *CHI:	hangi Selim ?
 *MOT:	senin okuldaki arkadaşın var ya .
@@ -106,7 +106,7 @@
 *MOT:	çocuklar gelince sen pencereye çıkıp onları döveceksin .
 *MOT:	değılmi ?
 *CHI:	ben dövemem ki .
-*MOT:	hani bagıracaz demek istiyorum , diyilmi [= değilmi] ?
+*MOT:	hani bagıracaz demek istiyorum , diyilmi [: değilmi] ?
 *MOT:	bu akşam televizyonda ne var Alev teyze'ye söyle bakalım .
 *EXP:	sizin televizyonunuz varmı?
 *MOT:	var , hastalandı , götürdü babası.
@@ -116,7 +116,7 @@
 *MOT:	Herbie nedir söylermisin ?
 *MOT:	Alev teyze bilmiyormuş.
 *MOT:	bizim arabamızın markası nedir ?
-*MOT:	söylermisin O'zlem .
+*MOT:	söylermisin Özlem .
 *CHI:	al sana .
 *EXP:	penceresi varmı evin ?
 *MOT:	hadi , nokta virgül yap ta görsün Alev teyze .
@@ -134,7 +134,7 @@
 *EXP:	gagasını da yap bakalım .
 *CHI:	yaparım işte .
 *MOT:	peki birtane güneş yap bakalım bana .
-*EXP:	O'zlemcim , ördek uçarmı?
+*EXP:	Özlemcim , ördek uçarmı?
 *CHI:	uçmaz .
 *EXP:	kuş uçarmı?
 *CHI:	ben sana birşey yapayım .
@@ -201,13 +201,12 @@
 *CHI:	başka misket nerde ?
 *EXP:	yere düştü , bak .
 *CHI:	hani ?
-*MOT:	Alev teyzesi , babası O'zlem'e piyano alıyor , müziği çok .
-*MOT:	sevdiği için .
+*MOT:	Alev teyzesi , babası Özlem'e piyano alıyor , müziği çok sevdiği için .
 *EXP:	yok canım .
 *EXP:	sahi mi , alacakmısın ?
 *EXP:	kim öğretecek ?
 *CHI:	sen şarkı söyleyeceksin .
-*CHI:	babam da şarkı söylecek [= söyleyecek] .
+*CHI:	babam da şarkı söylecek [: söyleyecek] .
 *EXP:	kim çalacak ?
 *CHI:	annem .
 *CHI:	annem şey çalacak .
@@ -229,7 +228,7 @@
 %com:	whimpers
 *CHI:	bak nasıl uçuyor .
 %com:	picks up an airplane
-*MOT:	senin amcan jet pilotumuydu O'zlem ?
+*MOT:	senin amcan jet pilotumuydu Özlem ?
 *CHI:	evet .
 *EXP:	ne oldu amcanıza yavrum ?
 *CHI:	hangi amcama ?
@@ -241,7 +240,7 @@
 *EXP:	sonra ?
 *CHI:	iyileşti .
 *CHI:	aşkolsun .
-*MOT:	O'zlem !
+*MOT:	Özlem !
 *CHI:	aşkolsun ama .
 *EXP:	ne oldu , neden aşkolsun diyorsun ?
 *CHI:	işte .
@@ -284,7 +283,7 @@
 *CHI:	heh heh heh hey .
 *CHI:	anne , bakabilirmisin ?
 *MOT:	nedir onlar kızım .
-*MOT:	O'zlemcım , benlen niçin konuşmuyorsun ?
+*MOT:	Özlemcım [: Özlemciğim] , benlen niçin konuşmuyorsun ?
 *MOT:	konuşsana .
 *MOT:	nedir onlar yavrucuğum ?
 *CHI:	hoppala .

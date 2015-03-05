@@ -30,8 +30,8 @@
 *CHI:	geldi .
 *EXP:	Rahim .
 *CHI:	geldi .
-*CHI:	S'aban efendi .
-*EXP:	S'aban efendi ?
+*CHI:	Şaban efendi .
+*EXP:	Şaban efendi ?
 %com:	referring to the doorkeeper and his sons
 *EXP:	o da mı geldi ?
 *CHI:	geldi .
@@ -42,7 +42,7 @@
 *CHI:	hı.
 *EXP:	ne yaptı , senlen oynadımı?
 *CHI:	oynadı.
-*CHI:	bibiplen [= bibiple] oynadım .
+*CHI:	bibiplen [: bibiple] oynadım .
 *EXP:	koştunmu ?
 *CHI:	koştu .
 *EXP:	niye koştun ?
@@ -152,7 +152,7 @@
 *EXP:	peki .
 *EXP:	dur bakalım şimdi , bunu bir deneyelim senlen .
 *CHI:	işaret , işaret nerde ?
-*EXP:	dur şimdi , sana verecem [= vereceğim] .
+*EXP:	dur şimdi , sana verecem [: vereceğim] .
 *EXP:	şimdik dur , ben sana koyayım .
 *CHI:	onlar ne ?
 *CHI:	ben ne yaptım bak .
@@ -406,7 +406,7 @@
 *CHI:	garaj .
 *CHI:	polis amca nerde ?
 *MOT:	polis amca dışarda sokakta .
-*CHI:	sen gidicen [= gideceksin] .
+*CHI:	sen gidicen [: gideceksin] .
 *MOT:	şimdi yağmur yağıyor , gidemezsin .
 *MOT:	ne yapıyor köpek ?
 *CHI:	burası nerde ?

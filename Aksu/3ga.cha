@@ -35,7 +35,7 @@
 *EXP:	ben sana istediğini vereyim , sen oynarsın .
 *EXP:	efendim çocuğum ?
 *EXP:	şimdi sen neyle oynamak istiyorsun ?
-*EXP:	Selimcim [= selimciğim] ben seni şunun boynuna takayımda .
+*EXP:	Selimcim [: Selimciğim] ben seni şunun boynuna takayımda .
 *EXP:	sesin güzel çıksın .
 *CHI:	olur .
 *EXP:	ha şöyle , şimdi ne istiyorsun sen ?
@@ -48,9 +48,9 @@
 %com:	house set up three vehicles
 *CHI:	bak ama bunlar daha büyük .
 *CHI:	bunlar ikisi aynı.
-*CHI:	sürüyümmü [= süreyimmi] ?
-*CHI:	bunlan [= bununla] oynayacam [= oynayacağım] .
-*CHI:	ben şimdik [= şimdi] bunla oynayacağım .
+*CHI:	sürüyümmü [: süreyimmi] ?
+*CHI:	bunlan [: bununla] oynayacam [: oynayacağım] .
+*CHI:	ben şimdik [: şimdi] bunla oynayacağım .
 *CHI:	acele kullanacağım .
 *EXP:	bir şeker yermisin ?
 *CHI:	evet .
@@ -80,7 +80,7 @@
 *CHI:	evet .
 *EXP:	bak bunlar çocuklar değilmi ?
 *EXP:	ne yapıyor çocuklar ?
-*CHI:	a burdan gelmesin burdan [= buradan] .
+*CHI:	a burdan gelmesin burdan [: buradan] .
 *EXP:	söyle bana ne yapıyorlar ?
 *CHI:	yürüyorlar .
 *EXP:	bak ama çok hızlı gidiyorlar .
@@ -103,7 +103,7 @@
 %com:	two dolls in bus
 *CHI:	sığarmış.
 *CHI:	c evet .
-*EXP:	ikisi oynuyacaklarmı [= oynayacaklarmı] ?
+*EXP:	ikisi oynuyacaklarmı [: oynayacaklarmı] ?
 *CHI:	hayır .
 *EXP:	ya ne yapacaklar ?
 *CHI:	eve .
@@ -122,7 +122,7 @@
 *EXP:	neyin ?
 *CHI:	eve girmek için sokak kapısı.
 *EXP:	şurda bak .
-*EXP:	masuscuktan [= mahsuscuktan] girsinler .
+*EXP:	masuscuktan [: mahsuscuktan] girsinler .
 %com:	small house
 *CHI:	şimdi bir sürü araba olacak .
 *CHI:	eve geldi .
@@ -142,7 +142,7 @@
 *CHI:	istiyorum şeker çünkü.
 *EXP:	veririm gene şeker .
 *CHI:	hani şurda şeker vardı.
-*CHI:	istersen bunu yiyimmi [= yiyeyimmi] , Keriminkini ?
+*CHI:	istersen bunu yiyimmi [: yiyeyimmi] , Keriminkini ?
 *EXP:	istersen ye .
 *EXP:	Kerime bir tane daha veririz .
 *EXP:	sen bana söyle bakalım , çocuklar ne zaman oynarlar ?
@@ -257,7 +257,7 @@
 *EXP:	sen resim mi yapmak istiyorsun , evet .
 *EXP:	şurdan kağıt koparayım .
 *CHI:	ver .
-*EXP:	kalem de veriyim [= vereyim] .
+*EXP:	kalem de veriyim [: vereyim] .
 *CHI:	ev yapmasını biliyorum .
 *EXP:	istermisin ?
 *CHI:	evet .
@@ -293,7 +293,7 @@
 *CHI:	işte çatısı bu .
 *EXP:	peki kapısı yok .
 *EXP:	nasıl girecek insanlar içine ?
-*CHI:	biraz daha söyle yapacam [= yapacağım] .
+*CHI:	biraz daha söyle yapacam [: yapacağım] .
 *EXP:	annenle baban ne yapıyorlar beraber ?
 *EXP:	ha ?
 *EXP:	ne yapar annenle baban beraber ?
@@ -340,12 +340,12 @@
 *EXP:	senin doğum günün oldumu ?
 *CHI:	olmadı , oldu .
 *CHI:	şurdakilerden oynayalımmı , şurdakilerlen .
-*EXP:	onlarlan [= onlarla] biraz sonra oynayacağız .
+*EXP:	onlarlan [: onlarla] biraz sonra oynayacağız .
 *EXP:	biraz da babandan bahset bana , işe gidiyormu ?
 *CHI:	işe gidiyor .
 *CHI:	şey yapıyor .
 *CHI:	bu uyumu , bak ne oldu .
-*CHI:	istersen bunu yiyim [= yiyeyim] .
+*CHI:	istersen bunu yiyim [: yiyeyim] .
 *CHI:	Kerime başka veririz , olurmu ?
 %com:	candy
 *EXP:	olur .
@@ -368,7 +368,7 @@
 *CHI:	Kerim de sütlü kakao .
 *EXP:	yumurta da yiyormusun ?
 *CHI:	yiyoruz ama hiç yemedik biz yumurta .
-*CHI:	bunu da koyuyummu [= koyayımmı] buraya ?
+*CHI:	bunu da koyuyummu [: koyayımmı] buraya ?
 *EXP:	sabah yumurta yemedinizmi siz ?
 *CHI:	yedik , şimdi yedik .
 *CHI:	bunların burasımı yeri ?
@@ -484,7 +484,7 @@
 *EXP:	traktör .
 *EXP:	bak traktörün üstüne bir adam çıkmış.
 *CHI:	bunlar ne ?
-*EXP:	şimdi oynayacağız onlarlan [= onlarla] .
+*EXP:	şimdi oynayacağız onlarlan [: onlarla] .
 *CHI:	olur .
 *CHI:	c şu arabaların yanına gelecek , bu da buraya .
 @End

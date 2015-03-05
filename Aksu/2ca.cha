@@ -279,7 +279,7 @@
 *CHI:	kapayım ben .
 *CHI:	kapayım ben .
 *EXP:	hayır .
-*CHI:	kapayacam [= kapayacağım] .
+*CHI:	kapayacam [: kapayacağım] .
 *EXP:	hayır .
 *EXP:	ne yapsın ?
 *CHI:	çalsın .
@@ -396,7 +396,7 @@
 *EXP:	nasıl attın ?
 *CHI:	attım öyle .
 %com:	demonstrates
-*EXP:	Tan gel acık [= azıcık] bana resim yap .
+*EXP:	Tan gel acık [: azıcık] bana resim yap .
 *CHI:	oooohh .
 *CHI:	resim .
 *CHI:	sana ne oluyor ?
