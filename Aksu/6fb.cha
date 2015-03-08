@@ -70,12 +70,12 @@
 *CHI:	anne baba diye bağırıyor .
 *CHI:	ağlıyor .
 *FAT:	uyuyormu sinemada ?
-*CHI:	uyumuyorki .
+*CHI:	uyumuyor ki .
 *CHI:	bazen uyuyor ama .
 *CHI:	aşağkinde [: aşağıdakinde] uyuyor .
 *CHI:	aşağkinde yaramazlık yapmıyor hiç.
 *FAT:	yukarkinde [: yukarıdakinde] mi uyuyor ?
-*CHI:	yukarkinde uyumuyorki .
+*CHI:	yukarkinde uyumuyor ki .
 *CHI:	aşagkinde uyuyor .
 *CHI:	yukarkinde yaramazlık yapıyor .
 *CHI:	anne diyor , anne anne diye ağlıyor .
@@ -180,7 +180,7 @@
 *EXP:	Fatma öğretmen mi ?
 *CHI:	ha .
 *CHI:	ona söyleseydin dövseydi o .
-*EXP:	ben zannettimki sen çocukları durdurursun .
+*EXP:	ben zannettim ki sen çocukları durdurursun .
 *CHI:	ben onlardan esas kuvvetliyim .
 *EXP:	tabii sen onlardan esas kuvvetlisin .
 *EXP:	onlar çok koşuyorlardı filan değilmi ?
@@ -304,7 +304,7 @@
 *FAT:	E bulamadınmı topunu oğlum ?
 *CHI:	alayım .
 *CHI:	nerde arabalar ?
-*CHI:	E hiç sen babanla konuşmuyorsunki vereyim ben .
+*CHI:	E hiç sen babanla konuşmuyorsun ki vereyim ben .
 *CHI:	arabaları.
 *FAT:	sorduklarıma cevap ver .
 *CHI:	oldu .
@@ -337,7 +337,7 @@
 *CHI:	hiç birşey kullanmam .
 *CHI:	E elinle mi resim yapıyorsun ?
 *CHI:	elimle yapıyorum , böyle böyle .
-%com:	draws with his finger E ama resim olmuyorki böyle . E hani resim nerde ? E resim yok .
+%com:	draws with his finger E ama resim olmuyor ki böyle . E hani resim nerde ? E resim yok .
 *CHI:	işte bak .
 %com:	to the father
 *CHI:	E hani ben görmüyorum .

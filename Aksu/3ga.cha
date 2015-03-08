@@ -13,7 +13,7 @@
 *CHI:	küçük .
 *EXP:	kaç yaşında Sinan ?
 *CHI:	bilmiyorum .
-*TEA:	Sinan senin kardeşin değilki .
+*TEA:	Sinan senin kardeşin değil ki .
 *EXP:	kaç yaşında Sinan , bebek mi ?
 *CHI:	bebek .
 *EXP:	çok mu bebek daha ?
@@ -218,7 +218,7 @@
 *CHI:	bunun ayağı nasıl basmıyor ?
 *EXP:	ben bindiririm sana .
 *CHI:	bak ayağı böyle yüksekte olur .
-*CHI:	böyle olmazki böyle .
+*CHI:	böyle olmaz ki böyle .
 *CHI:	ayakları değiyor .
 *EXP:	tabii , bunlar oyuncak .
 *EXP:	atlar daha çok küçük .
@@ -358,7 +358,7 @@
 *EXP:	sabahları.
 *CHI:	evet .
 *EXP:	çayını içerken ?
-*CHI:	çayını içmiyorki .
+*CHI:	çayını içmiyor ki .
 *EXP:	ne içiyor ?
 *CHI:	sütlü kahve içiyor .
 *EXP:	hıı.
@@ -392,7 +392,7 @@
 *EXP:	bayağı konuşurlar , nasılsın der .
 *CHI:	böyle yapsınlarmı?
 *EXP:	nasılsınız desin , o da ona nasılsınız desin .
-*CHI:	demiyorki .
+*CHI:	demiyor ki .
 *EXP:	sen söylet .
 *EXP:	ben de bunu söyletirim .
 *EXP:	Ayşe nasılsın ?

@@ -439,7 +439,7 @@
 *EXP:	şimdi ne yapıyorsun ?
 *CHI:	temizledim , yeniden bulaşık çıktı.
 *EXP:	sen bana bir masal anlatırmısın ?
-*CHI:	ben bilmiyorumki masal .
+*CHI:	ben bilmiyorum ki masal .
 *EXP:	nasıl bilmiyorsun , bin kuzu masalını bilmiyormusun ?
 *CHI:	giriyormu içine , bu giriyormu içine .
 %com:	trying to place a large box into smaller one
@@ -490,7 +490,7 @@
 *EXP:	e , hadi [: haydi] bekliyorum .
 *CHI:	bekle işte .
 *EXP:	sen babaannene gittinmi bu günlerde ?
-*EXP:	almıyorlarki hastaneye .
+*EXP:	almıyorlar ki hastaneye .
 %com:	grandfather was sick at the hospital
 *EXP:	görmedinmi dedeni ?
 *CHI:	cık .
@@ -517,7 +517,7 @@
 *CHI:	iplen [: iple] oynayacazmı [: oynayacakmıyız] ?
 *CHI:	aynı xxx var .
 *EXP:	nerden almış Aynur teyzen ?
-*CHI:	hiçbiryerden almamışki .
+*CHI:	hiçbiryerden almamış ki .
 *EXP:	kim vermiş onu ona ?
 *EXP:	nasıl hiç kimseden ?
 *EXP:	yüzüğü çarşıdan mı almış?
@@ -551,9 +551,9 @@
 *EXP:	keçiler ne yer ?
 *CHI:	ot yer .
 *EXP:	su içermi keçiler ?
-*CHI:	ıh , ıh , suyu yokki .
+*CHI:	ıh , ıh , suyu yok ki .
 *EXP:	susuz kalırsa ne yapar keçiler ?
-*CHI:	içmediki su .
+*CHI:	içmedi ki su .
 *EXP:	bak kedi , bizim evin önüne gelen kediye benziyor değil mi ?
 *EXP:	o kedi ne yapıyor , bizim evin önüne gelen kedi ?
 *CHI:	hiçbirşey .
@@ -571,7 +571,7 @@
 *EXP:	durup dururken tırmalanırmı?
 *CHI:	tırmalanır tabii .
 *EXP:	başka ne yapar kediler , ağaca çıkarlarmı?
-*CHI:	çıkmazki .
+*CHI:	çıkmaz ki .
 *CHI:	siz gördünüzmü?
 *CHI:	bizim orda da mırnav var .
 *EXP:	benim kedinin bir arkadaşı var , o da köpek .

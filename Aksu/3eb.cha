@@ -12,7 +12,7 @@
 %com:	he plays with the house
 *EXP:	ne yapacaksın o evle ?
 *CHI:	içine girer diyorum .
-*EXP:	evin içine giremezsinki , girebilirmisin ?
+*EXP:	evin içine giremezsin ki , girebilirmisin ?
 *CHI:	girerim .
 *CHI:	ev yapsana .
 *EXP:	oynama mikrofonla .
@@ -23,7 +23,7 @@
 *EXP:	yüksek sesle konuş.
 *CHI:	hadi [: haydi] bu kuşu koysana .
 *EXP:	sen koy al .
-*CHI:	koyamamki .
+*CHI:	koyamam ki .
 *CHI:	uyusunlarmı burda [: burada] ?
 %com:	animals
 *CHI:	yatmıyacaklarmı [: yatmayacaklarmı] ?
@@ -176,7 +176,7 @@
 *EXP:	Mustafa , çocuklar ne zaman oynar oğlum ?
 *CHI:	iki buçukta .
 *EXP:	sen bana bir masal anlatsana ?
-*CHI:	anlatmamki .
+*CHI:	anlatmam ki .
 *EXP:	ben de o zaman kaldırırım oyuncakları.
 *CHI:	duydunmu ?
 *CHI:	pencereye bak .

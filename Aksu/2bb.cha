@@ -138,7 +138,7 @@
 *EXP:	bunlar nesi bebeğin biliyormusun .
 *EXP:	ayakkabıları değilmi .
 *CHI:	hadi çıkar .
-*EXP:	çıkmazki bak .
+*EXP:	çıkmaz ki bak .
 *CHI:	giymişmi ?
 *EXP:	çocuklar beraber dans edecekler bak .
 *EXP:	day la lay lay lay ne yapıyorlar ?
@@ -470,7 +470,7 @@
 *CHI:	çorba yiyormuş.
 *EXP:	işte kuş.
 *CHI:	bir tane daha çantandan çıkarsana .
-*EXP:	yokki başka kuşum .
+*EXP:	yok ki başka kuşum .
 *CHI:	oyuncak çıkar oyuncak .
 *EXP:	peki hangi oyuncağı istiyorsun ?
 *CHI:	boncuk istiyorum ben boncuk .

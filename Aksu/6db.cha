@@ -125,7 +125,7 @@
 *EXP:	nerede ?
 *CHI:	bilemem ki .
 *EXP:	ne yapmak istiyorsun kızım ?
-*CHI:	söylememki .
+*CHI:	söylemem ki .
 *MOT:	peki , öğretmenim canım benimi söylermisin ?
 *CHI:	ördek yaptım ben sana .
 *EXP:	ördek mi yaptın ?
@@ -180,7 +180,7 @@
 *EXP:	ondan sonra tereyağında kızarttım .
 *CHI:	bak misketlerime .
 *EXP:	bakayım , gel göster bakalım .
-*EXP:	hani nerede , göstermiyorsunki .
+*EXP:	hani nerede , göstermiyorsun ki .
 *CHI:	gösteriyorum .
 *EXP:	ben görmüyorum .
 %com:	she drops them
@@ -262,7 +262,7 @@
 %com:	doing something with her beads
 *MOT:	ne yapmak istiyorsun onu sen ?
 *EXP:	oraya mı geçecek onlar ?
-*CHI:	geçiremiyorumki ben .
+*CHI:	geçiremiyorum ki ben .
 *MOT:	neden geçiriyorsun onları?
 *EXP:	sen kaç yaşındasın şimdi ?
 *CHI:	on yaşımdayım .

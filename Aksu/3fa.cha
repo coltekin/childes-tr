@@ -6,7 +6,7 @@
 @ID:	tur|Aksu|CHI|3;8.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
-*CHI:	Işıklan teyzem dediki .
+*CHI:	Işıklan teyzem dedi ki .
 *EXP:	evet ne dedi canım ?
 *CHI:	bir daha okula getirmiyeceğim [: getirmeyeceğim] hiç dedi .
 *EXP:	niçin ?
@@ -133,7 +133,7 @@
 *CHI:	geldi .
 *CHI:	kocaman bir yataklara .
 *EXP:	xxx yatağı , bu yorganı olabilir istiyorsan .
-*CHI:	ee , sığmazki .
+*CHI:	ee , sığmaz ki .
 *EXP:	sığar herhalde .
 *CHI:	böyle küçücük yapalımmı?
 *EXP:	evin de tepesini açarsan sığar zannederim .
@@ -144,7 +144,7 @@
 *CHI:	böyle küçültelim .
 *CHI:	küçültüyorum böyle .
 *EXP:	küçült .
-*CHI:	eee , bunları sokamayızki .
+*CHI:	eee , bunları sokamayız ki .
 *EXP:	sokarız , sokarız .
 *CHI:	neresinden ?
 *EXP:	kapısından sığıyor gördünmü.
@@ -182,7 +182,7 @@
 *CHI:	gidiyorum .
 *CHI:	bu niye açılıyor yürüyünce ?
 *EXP:	içine insanlar binsin diye .
-*EXP:	açılmazsa binemezki insanlar içine değil mi ?
+*EXP:	açılmazsa binemez ki insanlar içine değil mi ?
 *CHI:	o zaman ben açarım .
 *EXP:	aç açabilirsin tabii , aç bakalım .
 *CHI:	vızz , şimdi alalım içinden .
@@ -241,14 +241,14 @@
 *EXP:	ne yapıyorsun onlarla ?
 *CHI:	yazı yazıyorum .
 *EXP:	neyle yazıyorsun yazıyı?
-*CHI:	bilmiyorumki .
+*CHI:	bilmiyorum ki .
 *EXP:	neyle yazarsın , bilmiyorum olurmu ?
 *CHI:	gazeteye yazarım .
 *EXP:	ama neyle ?
 *CHI:	ee , şeyle , gazeteye yazarım .
 *EXP:	peki neyle resim yaparsın ?
 *CHI:	bilmiyorum .
-*CHI:	ama öğretmedilerki bana .
+*CHI:	ama öğretmediler ki bana .
 *EXP:	ne oluyor o arabalar öyle ?
 *CHI:	eee , yürütecem [: yürüteceğim] .
 *EXP:	bir yere mi gidecekler ?
@@ -274,7 +274,7 @@
 *EXP:	hı.
 *CHI:	şey .
 *EXP:	ney [: ne] ?
-*CHI:	bilmiyorumki kızının ismini .
+*CHI:	bilmiyorum ki kızının ismini .
 *EXP:	senin annen ne zaman uyur ?
 *CHI:	benim annem erkenden uyur .
 *EXP:	Türkan dimi [: değilmi] senin annenin ismi ?
@@ -353,7 +353,7 @@
 *EXP:	gittinizmi ?
 *CHI:	gittik ama .
 *EXP:	hıh , nereye ?
-*CHI:	bilmiyorumki .
+*CHI:	bilmiyorum ki .
 *EXP:	sen yüzmesini biliyormusun ?
 *CHI:	bilmiyorum .
 *EXP:	yüzemiyormusun ?
@@ -450,7 +450,7 @@
 *CHI:	yaramazlık yapmayan Elif doğuracak .
 *EXP:	ee , sen yaramazlık yapmıyorsun zaten .
 *EXP:	sen cicisin .
-*CHI:	yapmamki .
+*CHI:	yapmam ki .
 *EXP:	yapmazsın tabii sen .
 *EXP:	bu aşağıdaki şımarık çocuklarla oynamıyım en iyisi ben .
 *EXP:	değilmi ?
@@ -571,7 +571,7 @@
 *EXP:	hiç gitmedinmi ?
 *EXP:	güzel bir tane kül kedisi oynuyor .
 *EXP:	söyle annene de götürsün seni .
-*MOT:	geçen sene olsunki .
+*MOT:	geçen sene olsun ki .
 *EXP:	evet .
 *CHI:	o zaman bi [: bir] , bir oraya gidelim .
 *CHI:	bir de oraya gidelim .
@@ -599,7 +599,7 @@
 %com:	following , during task . kids in school singing at the background
 *CHI:	ben bu şarkıyı çok seviyorum .
 *EXP:	ne diyor o şarkı?
-*CHI:	bilmiyorumki .
+*CHI:	bilmiyorum ki .
 *EXP:	ta ra ra ra .
 *EXP:	şarkı söyleyelimmi senlen [: seninle] .
 *CHI:	söylemiyelim .
@@ -766,11 +766,11 @@
 *CHI:	ağlıyor .
 *EXP:	ağlamıyor .
 *EXP:	bu ne bu ?
-*CHI:	bilmiyorumki .
+*CHI:	bilmiyorum ki .
 *EXP:	çok güzel kız ama değilmi ?
 *CHI:	hadi oku .
 *EXP:	ne okuyum sana ?
-*CHI:	okusana bana sabahleyinki gibi .
+*CHI:	okusana bana sabahleyin ki gibi .
 *EXP:	dur bakalım , sana birşey okuycaz [: okuyacağız] elbet .
 *EXP:	ooo , ne kadar bağırıyor çocuklar değilmi Elif ?
 *CHI:	tabi [: tabii] .
@@ -821,7 +821,7 @@
 *CHI:	ben cici mi kızım ?
 *EXP:	bilmem ki .
 *EXP:	cici misin acaba ?
-*CHI:	annem bana diyorki , cici kız diyor .
+*CHI:	annem bana diyor ki , cici kız diyor .
 *EXP:	cicimisin sahiden , laf dinliyormusun ?
 *CHI:	diliyorum .
 *EXP:	ha , üzüyormusun anneni ?
@@ -896,14 +896,14 @@
 *CHI:	olmadı.
 *EXP:	yakında mı olacak doğum günün ?
 *CHI:	evet .
-*CHI:	Türkana diyorlarki .
+*CHI:	Türkana diyorlar ki .
 *CHI:	Türkanın doğum günü olacak diyorlar .
 *EXP:	aaa , napıcaklarmış [: ne yapacaklarmış] ?
 *CHI:	olmıyacakmış doğum günü demek , olmıyacakmış.
 *EXP:	başkalarının doğum günü oluyormu burda ?
 *CHI:	ı ıh .
 *EXP:	aa , yazık .
-*CHI:	yazık olmazki .
+*CHI:	yazık olmaz ki .
 *EXP:	niye , bir güzel doğum günü olsun .
 *EXP:	fena mı?
 *EXP:	kocaman pasta yaparlar .
@@ -940,7 +940,7 @@
 *CHI:	somya , somya .
 *CHI:	yatak var , yatak .
 *EXP:	kim yatıyor o yatakta ?
-*CHI:	bilmemki .
+*CHI:	bilmem ki .
 *EXP:	bir de kapı var .
 *EXP:	kapının içinde ne var acaba ?
 *CHI:	kapının içinde hiç birşey .

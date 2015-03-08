@@ -40,7 +40,7 @@
 *CHI:	nasıl kapanıyor bu ?
 *EXP:	böyle kapanıyor işte .
 *CHI:	hani kapanmıyor .
-*EXP:	sen kapatamazsınki .
+*EXP:	sen kapatamazsın ki .
 *CHI:	zorlamayın şimdi zorlamayın .
 *EXP:	oraya da birşey kaçmış.
 *EXP:	bırak , açık dursun böyle .
@@ -127,7 +127,7 @@
 *CHI:	kendi kendine .
 *CHI:	ver .
 *CHI:	bak abla vermiyor .
-*CHI:	vermiyorki aaa .
+*CHI:	vermiyor ki aaa .
 *CHI:	bak ne yapacam [: yapacağım] .
 *CHI:	bak ne güzel resimler .
 *CHI:	ay güzel .
@@ -138,13 +138,13 @@
 *CHI:	al bakalım , al bakalım .
 *CHI:	el arabası da var .
 *CHI:	sesi gelmiyor , sesi gelmiyor .
-*EXP:	sen ses çıkarmıyorsunki gelsin .
+*EXP:	sen ses çıkarmıyorsun ki gelsin .
 *EXP:	sen doğru dürüst konuşsan .
 *EXP:	bana masal falan anlatsan çıkacak sesin .
 *CHI:	buraya mı çikacam [: çıkacağım] .
 *EXP:	sen birşey söylede buraya çıksın güzelcene .
 *EXP:	bir masal falan anlat bana .
-*CHI:	bilmiyorumki ben masal .
+*CHI:	bilmiyorum ki ben masal .
 *EXP:	biliyorsun sen birşey anlat bana .
 *CHI:	sen bana çanta .
 *EXP:	biliyorsan bir şarkı söyle .
@@ -488,7 +488,7 @@
 %com:	silence
 *EXP:	baban hangi takımdan biliyormusun ?
 *CHI:	hangi takımdan ?
-*EXP:	bilmemki .
+*EXP:	bilmem ki .
 *EXP:	annene soralım .
 *EXP:	Galatasaraylıymış baksana .
 *EXP:	annen hangi takımdan .
@@ -651,7 +651,7 @@
 *EXP:	şimdi gitmiyorum ben .
 *CHI:	şimdi sigara içiyorsun .
 *CHI:	ışığı yakayımmi .
-*EXP:	buraya çıkamıyorumki .
+*EXP:	buraya çıkamıyorum ki .
 *EXP:	orda [: orada] Zeynep yapar belki .
 *EXP:	Zeynep sizin kediniz varmı?
 *GCH:	senin .

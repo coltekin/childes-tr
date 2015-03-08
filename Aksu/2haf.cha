@@ -199,7 +199,7 @@
 *EXP:	ne oyunu oynarsın ?
 *CHI:	huh .
 *EXP:	ne oyunları oynarsın Zeyneple ?
-*CHI:	bilmiycemki [: bilemiyeceğimki] .
+*CHI:	bilmiycem [: bilemiyeceğim] ki  .
 *EXP:	ne oyunu oynadığını bilmiyormusun sen ?
 %com:	no
 *EXP:	allah , allah , neyi bilmiyorsun ?
@@ -237,7 +237,7 @@
 *EXP:	efendim ?
 *EXP:	evela bana söyle bakalım .
 *EXP:	bak sana birşey sordum .
-*EXP:	dedimki sana , sen ne zaman oynarsın dedim .
+*EXP:	dedim ki sana , sen ne zaman oynarsın dedim .
 *EXP:	söyle bakayım [: bakalım] onu .
 *CHI:	söyleyecem [: söyleyeceğim] .
 *EXP:	ne zaman ama ?
@@ -287,7 +287,7 @@
 *CHI:	geceleyin .
 *EXP:	peki annen nasıl süslenir ?
 *EXP:	annen nasıl süslenir kızım ?
-*CHI:	bilmemki , taraklan [: tarakla] süslenir .
+*CHI:	bilmem ki , taraklan [: tarakla] süslenir .
 *EXP:	başka ?
 *CHI:	bilmiyorum .
 *EXP:	yüzünü falan boyuyormu annen ?
@@ -320,7 +320,7 @@
 *EXP:	ben süslenmesini bilmiyorum .
 *EXP:	onun için sana soruyorum .
 *EXP:	annen nasıl süslenir diye .
-*EXP:	bana söyleki ben de süsleneyim .
+*EXP:	bana söyle ki ben de süsleneyim .
 *EXP:	gözünün üstüne falan birşey sürüyormu annen ?
 *CHI:	sürüyor .
 *EXP:	nasıl yapıyor ?
@@ -334,7 +334,7 @@
 *CHI:	evet .
 *EXP:	nasıl boyuyor ?
 *EXP:	neyle boyuyor , hıh ?
-*CHI:	bilmemki , onu boyuyor .
+*CHI:	bilmem ki , onu boyuyor .
 *EXP:	kalemle mi boyuyor ?
 *CHI:	uuuh , kelamlan [: kalemle] boyuyor .
 *EXP:	kalemle boyamıyor .
@@ -363,7 +363,7 @@
 *CHI:	bakım [: bakayım] , ayağa kalkımda bakim [: bakayım] .
 *EXP:	ayağa kalkta bak bakalım .
 *CHI:	xxx alacak .
-*EXP:	boyanmazki , kalemlen [: kalemle] boyanır .
+*EXP:	boyanmaz ki , kalemlen [: kalemle] boyanır .
 *EXP:	ojeyle boyanmaz .
 *EXP:	kalemle boyamak lazım .
 *CHI:	geri alalım bunu .

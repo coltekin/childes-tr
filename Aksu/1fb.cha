@@ -308,14 +308,14 @@
 *EXP:	eve gitmek istemiyormusun ?
 *CHI:	hayır .
 *EXP:	annen ağlıyacak .
-*CHI:	ağlamazki .
+*CHI:	ağlamaz ki .
 *GRM:	attılar onu öylemi Elvan ?
 %com:	grandfather says
 *CHI:	evet .
 *EXP:	seni attılarmı?
 *CHI:	attılar , buraya geldim .
 *EXP:	atarmı annesi ayol hiç.
-*CHI:	annem beni atmazki .
+*CHI:	annem beni atmaz ki .
 *CHI:	yalan söylüyor yalan .
 *CHI:	babam getirdi buraya beni .
 *CHI:	yalan , yalan söylemek ne kadar ayıp .
@@ -345,7 +345,7 @@
 *CHI:	bu niye yapıştı?
 *EXP:	şunu ver bakayım .
 *CHI:	bunu ?
-*CHI:	nerde öbürki ?
+*CHI:	nerde öbürki [: öbürü] ?
 *CHI:	yapıştımı bakayım .
 *CHI:	nerde ?
 *CHI:	bunu açınca kabuk mu var ?
@@ -445,7 +445,7 @@
 *EXP:	köpeğe bak ne yapıyor ?
 *CHI:	ısırırmı insanı bu ?
 *EXP:	ısırır tabii .
-*CHI:	hani ısırmıyorki ?
+*CHI:	hani ısırmıyor ki ?
 *EXP:	o oyuncak köpek .
 *EXP:	hakiki köpekler ısırır .
 *EXP:	bizim orda çok var .

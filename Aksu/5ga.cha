@@ -310,7 +310,7 @@
 *EXP:	akşam kirletmiş üstelik .
 *CHI:	kızın da abisi bu .
 *EXP:	ismi ne abisinin ?
-*CHI:	ben bilmiyorumki .
+*CHI:	ben bilmiyorum ki .
 *EXP:	kız dışarıya gidiyormu bazen , bu kız ?
 *CHI:	gidiyor .
 *EXP:	kimle gidiyor ?
@@ -390,7 +390,7 @@
 *EXP:	şu , şu , şu bak .
 *CHI:	şu , şu mu ?
 *EXP:	ne kızım o ?
-*CHI:	onu bilmiyorumki .
+*CHI:	onu bilmiyorum ki .
 *CHI:	şu kaşığa bak , bak ne güzel .
 *EXP:	çok güzel kaşık değilmi .
 *CHI:	bak bak .
@@ -400,7 +400,7 @@
 *EXP:	resim var .
 *CHI:	dedem var .
 *EXP:	deden var , senin deden .
-*CHI:	yok , benim öyle hiç dedem yokki .
+*CHI:	yok , benim öyle hiç dedem yok ki .
 *EXP:	yokmu ?
 *EXP:	senin deden varmı?
 *CHI:	var .
@@ -472,7 +472,7 @@
 *EXP:	annen süsleniyormu senin ?
 *CHI:	süsleniyor .
 *EXP:	nasıl süsleniyor ?
-*CHI:	ben bilmiyorumki .
+*CHI:	ben bilmiyorum ki .
 *EXP:	saçını falan tarıyormu ?
 *EXP:	yüzünü boyuyormu ?
 *CHI:	yok .
@@ -483,7 +483,7 @@
 *EXP:	ne kadar kestireceksin ?
 *EXP:	çok mu kısa kestireceksin ?
 *CHI:	annem gibi .
-*EXP:	anneninki gibimi kestireceksin ?
+*EXP:	annenin ki gibimi kestireceksin ?
 *CHI:	xxx açılıyor .
 *EXP:	evet , peki baban kitap okurmu senin ?
 *CHI:	şuna bak , evlerinin haline bakıyorlar .
@@ -505,7 +505,7 @@
 %com:	she changed sides
 *CHI:	bastın başladı.
 *EXP:	baştan bastım , tekrar çalıştırıyorum , değilmi ?
-*CHI:	niye çalıştırdınki ?
+*CHI:	niye çalıştırdın ki ?
 *EXP:	çünkü senin sesini alıyorum teype , onun için .
 *EXP:	sen Boğazlıyana gittiğinde ne yapıyorsun Boğazlıyanda ?
 *CHI:	Zelihayla oynuyorum .
@@ -517,7 +517,7 @@
 *EXP:	sen ona vurmuyormusun ?
 *CHI:	vuruyor .
 *EXP:	tabii , o sana vurursa sende ona vuracaksın değilmi ?
-*CHI:	ben birşey yapmıyorumki ona .
+*CHI:	ben birşey yapmıyorum ki ona .
 *CHI:	o bana vuruyor .
 *EXP:	bazı çocuklar terbiyesiz olur değilmi ?
 *EXP:	herhalde terbiyesiz bir çocuk .
@@ -550,7 +550,7 @@
 *EXP:	dur ben sana birşey yapayım bu evle bak .
 *CHI:	paspası çekme .
 *EXP:	paspası çekmeyim , bak şimdi .
-*CHI:	niye oraya karaladınki ?
+*CHI:	niye oraya karaladın ki ?
 *EXP:	buraya işaret yapıyorum , sen cevap verdiğin zaman .
 *CHI:	senin öğretmenin döverse ya .
 *EXP:	benim öğretmenim yok , ben çok büyüğüm cünkü.

@@ -56,7 +56,7 @@
 *EXP:	neler dikiyor , kime dikiyor acaba ?
 *CHI:	bilmiyorum .
 *EXP:	bir sorsana .
-*CHI:	bilmiyorumki ama .
+*CHI:	bilmiyorum ki ama .
 *EXP:	dün akşam televizyon seyrettinmi ?
 *CHI:	seyrettim .
 *EXP:	ne vardı?
@@ -65,14 +65,14 @@
 *EXP:	hı , güzelmiydi ?
 *CHI:	güzeldi .
 *EXP:	anlat bakalım biraz .
-*CHI:	ya ben bilmiyorumki .
+*CHI:	ya ben bilmiyorum ki .
 *EXP:	bilmiyorsun , sen hayvanlarla oyna en iyisi .
 *EXP:	at var burda bak .
 *CHI:	at , neden konuşmuyor ?
 %com:	recorder
 *EXP:	evvela sen konuşacaksın .
 *EXP:	sonra o konuşacak .
-*EXP:	senin sesin içine gitmezse konuşamazki .
+*EXP:	senin sesin içine gitmezse konuşamaz ki .
 *CHI:	tabii .
 *EXP:	bak burası çiftlik olsun .
 *CHI:	tamam .
@@ -84,14 +84,14 @@
 *EXP:	bu çocuk atın üstüne binebilirmi ?
 *CHI:	binebilir .
 *EXP:	bindir bakalım .
-*CHI:	ama bindiremiyorumki ben .
+*CHI:	ama bindiremiyorum ki ben .
 *EXP:	niçin .
 *CHI:	işte , ayağını böyle yaptı.
 *CHI:	böyle .
 *EXP:	biner belki bir dene bakalım .
-*CHI:	binmiyorki .
+*CHI:	binmiyor ki .
 *EXP:	niye binmiyor ama .
-*CHI:	binemiyorki .
+*CHI:	binemiyor ki .
 *EXP:	sen parkta neler gördün anlatsana bana .
 *EXP:	nasıldı hava ?
 *CHI:	iyiydi .
@@ -197,7 +197,7 @@
 *EXP:	burdaki ne yapıyor ?
 *CHI:	telefon ediyor .
 *EXP:	ne söylüyor telefonda ?
-*CHI:	a , bu gazete , söyleyemezki .
+*CHI:	a , bu gazete , söyleyemez ki .
 *EXP:	bu ne yapıyor ?
 *CHI:	hiçbirşey yapmıyor .
 *EXP:	bu ne yapıyor ?
@@ -306,7 +306,7 @@
 *CHI:	kanatları değil mi ?
 *EXP:	nasıl uçuyor kuşlar ?
 *CHI:	havada uçar .
-*CHI:	ama bu havada uçmazki .
+*CHI:	ama bu havada uçmaz ki .
 %com:	the toy
 *EXP:	niçin uçmaz ?
 *CHI:	oyuncak olduğu için uçmaz .
@@ -359,7 +359,7 @@
 *CHI:	sütsüz kalır .
 *EXP:	karınları acıkınca nasıl haber veriyorlar ?
 *CHI:	acıkıyorlar ama ses veremiyorlar .
-*CHI:	nasıl yiyecek ama , yiyemezki , ağzı açılmazki .
+*CHI:	nasıl yiyecek ama , yiyemez ki , ağzı açılmaz ki .
 *EXP:	sahici balıkların ağzı açılır .
 *CHI:	denizdekiler açılır ama yer .
 *EXP:	değil mi ?
@@ -391,7 +391,7 @@
 *EXP:	bunu da istiyormusun ?
 *CHI:	isterim bak iki tane var .
 *EXP:	niye kaşlarını çatıyorsun öyle ?
-*CHI:	çatmıyorumki .
+*CHI:	çatmıyorum ki .
 *EXP:	ne yapıyorsun gözlerini ?
 *CHI:	hiçbirşey yapmıyorum .
 *CHI:	niye öyle yaptın onu ?
@@ -425,7 +425,7 @@
 *EXP:	hadi [: haydi] bunlar konuşsunlar , sen konuştur bunları.
 *CHI:	hı.
 *EXP:	sen konuştur onları.
-*CHI:	konuşmuyorlarki bunlar .
+*CHI:	konuşmuyorlar ki bunlar .
 *EXP:	canım mahsuscuktan konuşsunlar .
 %com:	laughs
 *CHI:	düşüyor .
@@ -445,7 +445,7 @@
 *CHI:	evet .
 *CHI:	yemeği yok ki .
 *EXP:	işte , canım mahsuscuktan oynuyorsuz , işte tabak .
-*CHI:	durmazki bunlarda .
+*CHI:	durmaz ki bunlarda .
 *EXP:	ayağa kaldırırsın durur bak işte .
 *CHI:	ayağa kalkınca bunlar duruyorlar .
 *CHI:	bu durmaz hiç.
@@ -501,7 +501,7 @@
 *CHI:	kapanırmı gözleri .
 *EXP:	kapanır .
 *CHI:	kapandı.
-*CHI:	açılmıyorki .
+*CHI:	açılmıyor ki .
 *EXP:	açılır .
 *CHI:	nasıl açılır şu ?
 *CHI:	bak açılmadı.
@@ -533,7 +533,7 @@
 *EXP:	nerdeydi Pirayenin babası?
 *CHI:	çalışıyor ya .
 *EXP:	nerde çalışıyor ?
-*CHI:	ben bilmiyorumki .
+*CHI:	ben bilmiyorum ki .
 *EXP:	Nafiye halanın Ihsan amca nerde ?
 *CHI:	uçağa bindi .
 *CHI:	her yerde geziyor , her yerde geziyor .
@@ -548,10 +548,10 @@
 *CHI:	gelecek .
 *CHI:	hep bekletiyor .
 *CHI:	halam gelmek istiyor .
-*CHI:	halam gelemezki .
+*CHI:	halam gelemez ki .
 *EXP:	niye gelemez canım ?
 *CHI:	işi var .
-*CHI:	ama binmiyorki uçağa .
+*CHI:	ama binmiyor ki uçağa .
 *CHI:	başka bir yere gitti ya hani .
 *EXP:	kim başka bir yere gitti ?
 *CHI:	Ihsan amca .
@@ -593,7 +593,7 @@
 *CHI:	çikıyor ya onun için bağlanır .
 *CHI:	bu durarmı [: dururmu] ?
 *CHI:	bebek sallamıyorsunuz bak .
-*CHI:	e , durmazki yerinda .
+*CHI:	e , durmaz ki yerinda .
 *EXP:	yerinde durmazmı?
 *CHI:	ama bak üstü var ya .
 *EXP:	biliyormusun benim uykum geldi .
@@ -614,7 +614,7 @@
 *EXP:	çocuğunuz var mı?
 *CHI:	yook .
 *EXP:	çocuksuz mu otnuyorsunuz annecilik ?
-*CHI:	ama Funda gelmiyorki .
+*CHI:	ama Funda gelmiyor ki .
 *CHI:	siz evdesiniz ya .
 *CHI:	biz ikimiz oynuyoruz ama .
 *CHI:	düşüyor .
@@ -645,12 +645,12 @@
 %com:	trying to get baby doll stand up
 *CHI:	niye ?
 *EXP:	Haticenin bebeği de kalkmıyor ya .
-*CHI:	tabii bu oturmazki .
+*CHI:	tabii bu oturmaz ki .
 *CHI:	küçük bu bebek .
 *CHI:	büyüyecek , büyüyecek .
 *EXP:	nasıl büyüyecek ?
-*CHI:	büyüyemezki .
-*CHI:	ağzı açılmazki .
+*CHI:	büyüyemez ki .
+*CHI:	ağzı açılmaz ki .
 *CHI:	di mi [: değil mi] ?
 *EXP:	evet , oyuncak değil mi ?
 *CHI:	tabii .
@@ -735,7 +735,7 @@
 *EXP:	neyle yapıyorsun resim ?
 *CHI:	fırçaylan [: fırçayla] .
 *EXP:	büyük resimler yapıyormusun ?
-*CHI:	ben yapamamki .
+*CHI:	ben yapamam ki .
 *CHI:	göz yaparım .
 *EXP:	göz yaparsın değil mi ?
 *EXP:	Nezih te boyuyormu ?
@@ -798,5 +798,5 @@
 *CHI:	kapısını böyle xxx .
 *EXP:	ne zaman gazete okuyor ?
 *CHI:	başka gün okuyor .
-*CHI:	eve götürmemki ben bunu .
+*CHI:	eve götürmem ki ben bunu .
 @End
