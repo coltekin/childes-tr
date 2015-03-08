@@ -58,8 +58,8 @@
 *EXP:	yüzme bilmiyormusun sen ?
 *CHI:	thip .
 *EXP:	aa ?
-*CHI:	bilmiyorum , mayomlan gidiyorum .
-*EXP:	mayonlan gidiyorsun , simidin varmı?
+*CHI:	bilmiyorum , mayomlan [: mayomla] gidiyorum .
+*EXP:	mayonlan [: mayonla] gidiyorsun , simidin varmı?
 *CHI:	ha ?
 *EXP:	simit , simit .
 *CHI:	var .
@@ -253,7 +253,7 @@
 *EXP:	söyle bakayım onu .
 *CHI:	söyleycem [: söyleyeceğim] .
 *EXP:	ne zaman ama ?
-*EXP:	Zeynep'len ne zaman oynuyacaksın ?
+*EXP:	Zeynep'len [: Zeynep'le] ne zaman oynuyacaksın ?
 *CHI:	bir zaman oynarız .
 *EXP:	ne zaman canım ?
 *CHI:	bir kere gelmiştik , oynamıştık evde .
@@ -270,8 +270,8 @@
 *EXP:	peki dışarıya gidermisin sen bazen ?
 *CHI:	evet .
 *EXP:	kimle gidersin ?
-*CHI:	annemlen .
-*EXP:	annenlen , peki .
+*CHI:	annemlen [: annemle] .
+*EXP:	annenlen [: annenle] , peki .
 *CHI:	aman şunları kırdı [?] .
 *EXP:	topun varmı senin peki ?
 *CHI:	ne ?
@@ -304,7 +304,7 @@
 *CHI:	xxx .
 *EXP:	annen nasıl süslenir kızım ?
 *CHI:	bilmem ki .
-*CHI:	taraklan süslenir .
+*CHI:	taraklan [: tarakla] süslenir .
 *EXP:	başka ?
 *CHI:	bilmiyorum .
 *EXP:	yüzünü felan boyuyormu annen ?
@@ -363,39 +363,39 @@
 *EXP:	kalemle boyamıyor .
 *CHI:	niye ?
 *EXP:	sen neyle boyuyorsun tırnaklarını?
-*CHI:	şeylen .
-*EXP:	neylen ?
-*CHI:	göz boyasınlan .
-*EXP:	göz boyasınlan sen tırnaklarını mı boyuyorsun ?
+*CHI:	şeylen [: şeyle] .
+*EXP:	neylen [: neyle] ?
+*CHI:	göz boyasınlan [: boyasınla] .
+*EXP:	göz boyasınlan [: boyasınla] sen tırnaklarını mı boyuyorsun ?
 *CHI:	hım .
 *EXP:	olmadı işte .
 *EXP:	bir daha söyle doğrusunu .
 *CHI:	ha ?
 *EXP:	doğrusunu söyle .
 *CHI:	kelamlan [: kalemlen] .
-*EXP:	kelemlen boyuyorsun .
-*EXP:	iyi , ver bakalım tırnaklarını kelemlen boyuyalım .
+*EXP:	kelemlen [: kelemle] boyuyorsun .
+*EXP:	iyi , ver bakalım tırnaklarını kelemlen [: kelemle] boyuyalım .
 *EXP:	bak ne kadar .
 *EXP:	çirkin olacak şimdi .
 *EXP:	uuuh , çok kötü olacak .
 *EXP:	oldu mu şimdi bu böyle ?
 *CHI:	thip .
 *EXP:	neyle boyamak lazım ?
-*CHI:	kelemlen boyuyacak .
-*CHI:	kelemlen boyanmaz .
+*CHI:	kelemlen [: kelemle] boyuyacak .
+*CHI:	kelemlen [: kelemle] boyanmaz .
 *CHI:	bakim [: bakayım] , güzel .
 *CHI:	bakim , ayağa kalkim [: kalkayım] da .
 *CHI:	bakim .
 *EXP:	ayağa kalk da bak bakalım .
 *CHI:	içe alacak .
-*EXP:	boyanmaz ki , kalemlen boyanır .
+*EXP:	boyanmaz ki , kalemlen [: kalemle] boyanır .
 *EXP:	ojeyle boyanmaz , kalemle boyamak lazım .
 *CHI:	ee .
 *CHI:	geri alalım bunu .
 *CHI:	buyam [: boyam] var .
 *EXP:	ee .
-*EXP:	sen kalemlen boyanır dedin demin .
-*EXP:	neylen boyanır peki .
+*EXP:	sen kalemlen [: kalemle] boyanır dedin demin .
+*EXP:	neylen [: neyle] boyanır peki .
 *CHI:	bilmem .
 *CHI:	bak şurda var , şurda var , bak benimki .
 *CHI:	işte .
@@ -466,8 +466,8 @@
 *EXP:	sahi ?
 *EXP:	çok güzel olmuş.
 *EXP:	mis gibi kokuyor zaten .
-*EXP:	neylen temizledi ?
-*EXP:	ne kullanıyor , neylen temizliyor yerleri ?
+*EXP:	neylen [: neyle] temizledi ?
+*EXP:	ne kullanıyor , neylen [: neyle] temizliyor yerleri ?
 *CHI:	omuylan [: omoyla] .
 %com:	"Omo" is a brand name for a washing detergent widely used in Turkey .
 *CHI:	evet .

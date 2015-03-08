@@ -284,17 +284,17 @@
 %com:	no response
 *FAT:	Burçak , hani kaşı yarılmış kimle oynuyorsun sen karşıda ?
 %com:	the child continues to play with the tractor
-*FAT:	Burçak sen sabahları hani deniz kenarına gidip kimlen oynuyorsun .
+*FAT:	Burçak sen sabahları hani deniz kenarına gidip kimlen [: kimle] oynuyorsun .
 %com:	no response
 *FAT:	ha ?
 *EXP:	balıklarla .
 *FAT:	hayır , hani karşıda bir çocuk var , kimle oynuyorsun ?
 %com:	no response
-*FAT:	adı ne kimlen oynuyorsun ?
+*FAT:	adı ne kimlen [: kimle] oynuyorsun ?
 %com:	still silent
-*FAT:	çok ayıp , söyle bakayım , kimlen oynuyorsun ?
+*FAT:	çok ayıp , söyle bakayım , kimlen [: kimle] oynuyorsun ?
 *CHI:	Muratlan [: Muratla] .
-*FAT:	peki , ne oynuyorsun sen Murat'lan Burçak ?
+*FAT:	peki , ne oynuyorsun sen Murat'lan [: Murat'la] Burçak ?
 *CHI:	koşmuş , koşmuş Murat .
 *CHI:	kaşı patlamış.
 *FAT:	düşmüsmü?
@@ -325,8 +325,8 @@
 *CHI:	gen açtım .
 *CHI:	gene .
 *FAT:	Burçakcım , sen çarşıya kimlen [: kimle] gitmiştin dün ?
-*FAT:	kimlen gittin ?
-*FAT:	Arı Pastahanesıne kimlen gittin ?
+*FAT:	kimlen [: kimle] gittin ?
+*FAT:	Arı Pastahanesıne kimlen [: kimle] gittin ?
 *CHI:	aninoyla .
 *CHI:	anneyle .
 *FAT:	ne yapıyorsun Arı Pastahanesınde ?
@@ -526,11 +526,11 @@
 *CHI:	niye ?
 *EXP:	çok korkuyorum aklım çıkıyor .
 *FAT:	yapma Burçak , çok korkuyorum .
-*FAT:	ver onu sen , terazini göster , ne tartıcaksın bunlan şimdi ?
+*FAT:	ver onu sen , terazini göster , ne tartıcaksın bunlan [: bunla] şimdi ?
 *CHI:	ne var bak .
 *FAT:	kimin var böyle terazisi ?
 *CHI:	bakkalın da böyle var .
-*FAT:	Ramazan ne tartıyor bunlan böyle ?
+*FAT:	Ramazan ne tartıyor bunlan [: bunla] böyle ?
 *CHI:	bir tane Ramazanın da var .
 *FAT:	ne tartıyor Ramazan öyle ?
 *CHI:	meyva .
@@ -555,22 +555,22 @@
 *EXP:	ha canım ?
 *EXP:	yalnız başına mı gidersin ?
 *CHI:	bunlan [: bunla] giderim .
-*EXP:	bunlan mı gidersin , kimle gidersin ?
+*EXP:	bunlan [: bunla] mı gidersin , kimle gidersin ?
 %com:	no response
 *EXP:	aninoyla mı gidersin ?
 %com:	no response
 *EXP:	Özcan , Burçak resim yapıyormu bazen ?
-*FAT:	kağıt kalemlen birşeyler yapıyor bazen .
+*FAT:	kağıt kalemlen [: kalemle] birşeyler yapıyor bazen .
 *EXP:	resim yaparmısın sen ?
 *EXP:	resim yapıyormusun bazen ?
 *CHI:	mektup yazıyorum .
 *EXP:	neyle mektup yazıyorsun ?
 *CHI:	mektubu postaneye atıyorum .
 *EXP:	öyle mi , neyle mektup yazıyorsun sen ?
-*CHI:	kalemlen .
+*CHI:	kalemlen [: kalemle] .
 *EXP:	peki resim yapıyormusun ?
 *CHI:	yapıyorum .
-*EXP:	resmi neylen yapıyorsun ?
+*EXP:	resmi neylen [: neyle] yapıyorsun ?
 %com:	no response
 *FAT:	veriyimmi kağıt kalem , resim yaparmısin ?
 *FAT:	hadi resim yap ta Alev teyzen görsün .
@@ -644,7 +644,7 @@
 *FAT:	şimdi ben tutucam [: tutacağım] bunu Burçak , sen bize xxx .
 *EXP:	mesela kedilerden bahsetsene , kediler niçin tırmalar filan .
 *CHI:	Özcan Özcan .
-*FAT:	peki Burçak biz dün nereye gittik , aninoylan senlen; arabaya .
+*FAT:	peki Burçak biz dün nereye gittik , aninoylan [: aninoyla] senlen; arabaya .
 %com:	tabışkan is the toy rabbit
 *FAT:	atladık , yallah nereye gittik ha ?
 *FAT:	nereye gittik ?
@@ -661,16 +661,16 @@
 *FAT:	ben senin sesini alacam [: alacağım] şimdi burdan .
 %com:	no response
 *FAT:	sen anlat .
-*FAT:	bakalım biz senlen akşamları Kadıköy iskelesine gidiyormuyuz tabışkanla ?
+*FAT:	bakalım biz senlen [: senle] akşamları Kadıköy iskelesine gidiyormuyuz tabışkanla ?
 *FAT:	ha Burçak ?
-*FAT:	gece olunca senlen gidiyormuyuz Kadıköy iskelesine ?
+*FAT:	gece olunca senlen [: senle] gidiyormuyuz Kadıköy iskelesine ?
 *FAT:	gidiyormuyuz , gitmiyormuyuz ?
 *CHI:	gidiyoruz .
 *FAT:	peki nereye gidiyoruz Burçak ?
 *CHI:	işte .
 *FAT:	niye gidiyoruz ama ?
 *CHI:	anneyi alıyoruz işte .
-*FAT:	anneyi alıyoruz , peki anne neylen geliyor ?
+*FAT:	anneyi alıyoruz , peki anne neylen [: neyle] geliyor ?
 *CHI:	vapurlan [: vapurla] .
 *FAT:	peki nasıl geliyor anne ?
 *CHI:	vuuu yapıyor .
@@ -702,7 +702,7 @@
 *CHI:	nereye gidiyorsun ?
 %com:	to the examiner
 *EXP:	su içecem [: içeceğim] .
-*FAT:	su içecek olurmu oğlum; Burçakcım biz senlen konuşalım .
+*FAT:	su içecek olurmu oğlum; Burçakcım biz senlen [: senle] konuşalım .
 *FAT:	Burçak biz kulübe yüzmeye gidiyormuyuz ?
 *CHI:	gidiyoruz .
 *FAT:	niçin gidiyoruz ?
@@ -711,7 +711,7 @@
 *CHI:	işte .
 *FAT:	işte değil , niçin gidiyoruz ?
 *CHI:	yüzücez [: yüzeceğiz] .
-*FAT:	peki yüzerken biz senlen soyunuyormuyuz ?
+*FAT:	peki yüzerken biz senlen [: senle] soyunuyormuyuz ?
 *CHI:	soyunuyoruz .
 *FAT:	nerede soyunuyoruz ?
 *CHI:	baylarda .
@@ -784,7 +784,7 @@
 *FAT:	çok üzülürüm ama !
 *FAT:	Burçakcım bir dakika bak , açma orayı.
 *CHI:	açacam [: açacağım] .
-*EXP:	sen konuşmuyorsun benlen diye üzüldüm .
+*EXP:	sen konuşmuyorsun benlen [: benle] diye üzüldüm .
 *EXP:	nerde anino ?
 *EXP:	evde yok .
 *CHI:	gitti yok .

@@ -7,7 +7,7 @@
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
 @ID:	tur|Aksu|GRM|||||Grandmother|||
-*EXP:	peki şekerim , senlen şu masanın örtüsüne bakalım .
+*EXP:	peki şekerim , senlen [: senle] şu masanın örtüsüne bakalım .
 *EXP:	gülün ortasında ne var ?
 *CHI:	çiçek var .
 *EXP:	neyin ortasında çiçek ?
@@ -64,7 +64,7 @@
 *EXP:	ondan sonra nereye gittik ?
 *CHI:	sonra da minibüse bindik , ondan sonra banyolara gittik .
 *EXP:	orda ne oynadın çocuğum ?
-*CHI:	orda taşlan oynadım .
+*CHI:	orda taşlan [: taşla] oynadım .
 *EXP:	ne aldık giderken ?
 *CHI:	giderken de poğaça aldık yedik .
 *EXP:	başka ?
@@ -72,8 +72,8 @@
 *EXP:	başka .
 *CHI:	başka da .
 *EXP:	kocaman birşey aldık , ne aldık .
-*EXP:	neylen oynadın ?
-*CHI:	toplan .
+*EXP:	neylen [: neyle] oynadın ?
+*CHI:	toplan [: topla] .
 *CHI:	oynadık değilmi ?
 *EXP:	anlat bakalım nasıl gittik ?
 *CHI:	öyle bayağı , çiçeklerin arasından .
@@ -148,7 +148,7 @@
 *CHI:	ha .
 *EXP:	kaç tane poğaça yedin ?
 *EXP:	çok yemiş gibi bir halin var senin .
-*CHI:	ben orda gazozlan poğaça içtim .
+*CHI:	ben orda gazozlan [: gazozla] poğaça içtim .
 *MOT:	sonra peynir yemedinmi ?
 *CHI:	yemedim orda .
 *EXP:	pasta yemedinmi ?
@@ -214,7 +214,7 @@
 *CHI:	okula gidiyorlar .
 *EXP:	anaokuluna mı?
 *CHI:	hı.
-*EXP:	onlarlan oynuyormusun bazen ?
+*EXP:	onlarlan [: onlarla] oynuyormusun bazen ?
 *CHI:	oynuyorum ama onlar da beni dövüyorlar .
 *EXP:	niçin ?
 *CHI:	işte .
@@ -247,14 +247,14 @@
 *CHI:	bunla oynarım .
 %com:	toy
 *EXP:	arkadaş olarak kiminle oynarsın ?
-*CHI:	bunlan oynarım .
+*CHI:	bunlan [: bunla] oynarım .
 *CHI:	bak selam veriyor .
 *EXP:	arkadaşın varmı senin ?
-*CHI:	yok ama Tulga [: Tolga] da oynuyor benlen .
+*CHI:	yok ama Tulga [: Tolga] da oynuyor benlen [: benle] .
 *CHI:	sonra da Tanjuyla oynıycam [: oynayacağım] ben .
 *CHI:	Tulga [: Tolga] da gitmiş arkaya .
-*CHI:	Tulga [: Tolga] ben oynamıyorum senlen dedim .
-*CHI:	ben de Tanjuylan oynuyorum o zaman .
+*CHI:	Tulga [: Tolga] ben oynamıyorum senlen [: senle] dedim .
+*CHI:	ben de Tanjuylan [: Tanjuyla] oynuyorum o zaman .
 *EXP:	iyi ediyorsun .
 *EXP:	ne oyunlar oynuyorsunuz ?
 *CHI:	oynuyoruz , oynuyoruz , çok oynuyoruz .
@@ -307,8 +307,8 @@
 *EXP:	senin topun varmı?
 *CHI:	var .
 *CHI:	bisikletim de var .
-*EXP:	topunlan oynuyormusun ?
-*CHI:	oynuyorum topumlan .
+*EXP:	topunlan [: topunla] oynuyormusun ?
+*CHI:	oynuyorum topumlan [: topumla] .
 *CHI:	ama bizde .
 *CHI:	bende kedi alıp evimize koyuyoruz .
 *CHI:	kedi alıyoruz , kağıt bağlıyoruz .
@@ -328,7 +328,7 @@
 *CHI:	ama o kalem de .
 *CHI:	geçen sene böyle araba .
 *EXP:	neyle resim yaparsın ?
-*CHI:	hiç defterlen resim yaparım .
+*CHI:	hiç defterlen [: defterle] resim yaparım .
 *CHI:	gızzzz .
 %com:	sound gesture
 *MOT:	kalemsiiz olurmu ?
@@ -407,7 +407,7 @@
 *CHI:	teyze temizliyor .
 *EXP:	neyle temizliyor yerleri ?
 *CHI:	okadar .
-*CHI:	bezlen temizliyor .
+*CHI:	bezlen [: bezle] temizliyor .
 *EXP:	süpürüyormu ?
 *CHI:	süpürüyor , sonra da gırgırlıyor .
 %com:	gırgır is a brand name for a type of instrument which does the job of a vacuum cleaner
@@ -415,14 +415,14 @@
 *EXP:	niye süpürüyor , neden ?
 *CHI:	sonra sular da yere şakır şakır .
 *CHI:	yağmış , sonrra da yerler de su içinde kalmış.
-*CHI:	Elmas teyzem de siliyor yerleri bezlen .
+*CHI:	Elmas teyzem de siliyor yerleri bezlen [: bezle] .
 *EXP:	peki neden süpürüyor ?
 *CHI:	süpürüyor , gırgırlıyor .
 *EXP:	neden ama ?
 *CHI:	işte .
 *EXP:	sen bana biraz da babanı anlat .
-*CHI:	sonra babam da pastahaneye gidip arabasınlan .
-*CHI:	Mercedes arabada , burdan Mercedesinlen gitmiş.
+*CHI:	sonra babam da pastahaneye gidip arabasınlan [: arabasıyla] .
+*CHI:	Mercedes arabada , burdan Mercedesinlen [: Mercedesiyle] gitmiş.
 *CHI:	Hülya da gitmiş yanına , amcamın arabasına binmiş.
 *CHI:	gitmiş amcamın arabasında orda olmuş.
 *CHI:	amcamın arabası da model gibi yürüyor .
@@ -461,13 +461,13 @@
 *CHI:	içmedim tükürdüm .
 *EXP:	hadi evimize gidelimmi ?
 *CHI:	şimdi değil .
-*CHI:	öğretmen burda benlen konuştu , bunları getirdi .
+*CHI:	öğretmen burda benlen [: benle] konuştu , bunları getirdi .
 *EXP:	Barboroşa uğrıyalım giderken .
 *CHI:	yo [: yok] şimdi değil .
 *CHI:	şu öğretmen gitsin de öyle gidelim .
 *EXP:	olur .
 *CHI:	şimdi oynayayım da şurda .
-*CHI:	şu öğretmenin oyuncaklarıylan .
+*CHI:	şu öğretmenin oyuncaklarıylan [: oyuncaklarıyla] .
 *CHI:	bak hertaraf dağıtık [:: dağınık] .
 *CHI:	oynuyor baksana .
 *CHI:	bu oyuncaklar bunlar benim oldu .
@@ -486,7 +486,7 @@
 *EXP:	tabii şaka söylüyorum .
 *CHI:	başka ne yedin ?
 *EXP:	çorba .
-*CHI:	a yemeklen çorba yenirmi ?
+*CHI:	a yemeklen [: yemekle] çorba yenirmi ?
 *EXP:	bir de üstüne çay içtim .
 *CHI:	aa .
 %com:	laughs

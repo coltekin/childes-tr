@@ -137,17 +137,17 @@
 *CHI:	koşar .
 *EXP:	niçin ama ?
 *CHI:	işte .
-*EXP:	sen kiminlen oynarsın ?
+*EXP:	sen kiminlen [: kiminle] oynarsın ?
 *CHI:	bebekle oynarım .
 *EXP:	başka arkadaşın varmı?
 *CHI:	arkadaşım yok be .
 *EXP:	e kim geldi demin ?
 *EXP:	Müge geldi .
 *CHI:	Müge geldi .
-*CHI:	koştuk Mügeylen .
+*CHI:	koştuk Mügeylen [: Mügeyle] .
 *EXP:	efendim ?
-*CHI:	koştuk Mügeylen .
-*EXP:	koştunuzmu Müge'ylen ?
+*CHI:	koştuk Mügeylen [: Mügeyle] .
+*EXP:	koştunuzmu Müge'ylen [: Müge'yle] ?
 *CHI:	koştuk , koştuk .
 *EXP:	Müge senin arkadaşın mı?
 *CHI:	evet .
@@ -156,7 +156,7 @@
 *EXP:	ne ?
 *CHI:	sokulmuyor .
 %com:	trying to get a toy into the house
-*EXP:	Müge'ylen ne oyunlar oynarsınız ?
+*EXP:	Müge'ylen [: Müge'yle] ne oyunlar oynarsınız ?
 *CHI:	araba oynarız .
 *EXP:	başka ?
 *CHI:	okadar .
@@ -169,21 +169,21 @@
 *EXP:	ya .
 *EXP:	denize gidiyormusunuz ?
 *CHI:	gidioruz .
-*EXP:	kimlen gidiyorsunuz ?
+*EXP:	kimlen [: kimle] gidiyorsunuz ?
 %com:	no response
-*EXP:	denize kimlen gidersin ?
-*CHI:	şeylen .
-*EXP:	kimlen ?
-*CHI:	şeylen .
+*EXP:	denize kimlen [: kimle] gidersin ?
+*CHI:	şeylen [: şeyle] .
+*EXP:	kimlen [: kimle] ?
+*CHI:	şeylen [: şeyle] .
 *EXP:	kim şey ?
 *CHI:	oraya giderim .
 *CHI:	köpek nerde ?
-*EXP:	şimdi sen bana söyle , denize kimlen gidersin .
+*EXP:	şimdi sen bana söyle , denize kimlen [: kimle] gidersin .
 *EXP:	köpek burda .
 *CHI:	köpek nerde bakayım ?
 *EXP:	köpek burda işte .
 *CHI:	nerde ?
-*EXP:	işte elimde; kimlen gidersin denize ?
+*EXP:	işte elimde; kimlen [: kimle] gidersin denize ?
 *CHI:	şeyle giderim .
 *CHI:	ha .
 *CHI:	bak gel .
@@ -230,7 +230,7 @@
 *CHI:	kaşık .
 *EXP:	ne işe yarıyor bu kaşık ?
 *CHI:	yiyorum işte .
-*EXP:	yemek mi yiyorsun bunlan ?
+*EXP:	yemek mi yiyorsun bunlan [: bunla] ?
 *CHI:	yemek yiyorum .
 *EXP:	biraz büyük gelmiyormu ağzına ?
 %com:	for it is a spatula
@@ -341,11 +341,11 @@
 *CHI:	İstanbulda kalmış.
 *EXP:	peki nasıl top atarsın sen ?
 *CHI:	buraya atıyorum .
-*EXP:	ellerinlen mi ayağınlan mı?
-*CHI:	ayağımlan .
+*EXP:	ellerinlen [: ellerinle] mi ayağınlan [: ayağınla] mı?
+*CHI:	ayağımlan [: ayağımla] .
 *EXP:	futbbol mu oynuyorsun ?
 *CHI:	ha .
-*CHI:	anne bunlan oynayacağım .
+*CHI:	anne bunlan [: bunla] oynayacağım .
 *MOT:	olmaz , onları gösterdi artık bitti .
 *CHI:	bunu kesecem .
 %com:	brings the saw to cut up the toy house
@@ -365,8 +365,8 @@
 *EXP:	Tan sen resim yapıyormusun bazen ?
 *EXP:	resim yapıyormusun ?
 *CHI:	yapıyorum .
-*EXP:	neylen resim yapıyorsun ?
-*CHI:	kalemlen .
+*EXP:	neylen [: neyle] resim yapıyorsun ?
+*CHI:	kalemlen [: kalemle] .
 *EXP:	ha , varmı kalemlerin ?
 *CHI:	hı.
 *EXP:	kim verdi sana kalem ?
@@ -462,11 +462,11 @@
 *CHI:	dadı.
 *EXP:	ona dadı mı dedin ?
 *EXP:	neyle temizliyor ?
-*CHI:	süpürgeylen .
-*EXP:	süpürgeylen ?
+*CHI:	süpürgeylen [: süpürgeyle] .
+*EXP:	süpürgeylen [: süpürgeyle] ?
 *EXP:	niye süpürüyor ?
 *EXP:	ha , niye süpürüyor ?
-*CHI:	süpürgeylen .
+*CHI:	süpürgeylen [: süpürgeyle] .
 *EXP:	niye temizliyor yerleri ?
 *CHI:	süpürüyor , pis oluyor .
 *EXP:	baban kitap okuyormu ?

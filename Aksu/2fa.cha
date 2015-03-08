@@ -43,7 +43,7 @@
 *EXP:	kim senin arkadaşın ?
 *CHI:	Funda benim arkadaşım .
 *EXP:	tabii , siz Fundayla ne oynuyorsunuz ?
-*CHI:	taktaklan .
+*CHI:	taktaklan [: taktakla] .
 %com:	blocks
 *EXP:	başka ne oynuyorsunuz ?
 *CHI:	oyuncak .

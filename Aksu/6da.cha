@@ -67,7 +67,7 @@
 *CHI:	ben seninle oynarım .
 *EXP:	peki , sen resim yaparmısın hiç?
 %com:	affirmative gesture
-*EXP:	neylen yapıyorsun resim ?
+*EXP:	neylen [: neyle] yapıyorsun resim ?
 *CHI:	kalemle .
 *EXP:	güzel resimler yaparmısın ?
 %com:	affirmative

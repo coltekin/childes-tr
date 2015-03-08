@@ -103,14 +103,14 @@
 *CHI:	bak , silindir resmi , babam yapıcaktı , sonra kırdım .
 *EXP:	baba ne yapıcaktı sana ?
 *CHI:	silindir yapıcaktı , ben de kırdım .
-*EXP:	neylen yapıyordu silindiri ?
+*EXP:	neylen [: neyle] yapıyordu silindiri ?
 *CHI:	ha ?
-*EXP:	neylen silindir yapıyordu ?
+*EXP:	neylen [: neyle] silindir yapıyordu ?
 *CHI:	sen anlat .
 *EXP:	sen bana anlat .
-*EXP:	neylen yapıyordu silindiri ?
+*EXP:	neylen [: neyle] yapıyordu silindiri ?
 *CHI:	ha .
-*EXP:	silindiri neylen yapıyordu ?
+*EXP:	silindiri neylen [: neyle] yapıyordu ?
 *EXP:	niye kırdın Burçak peki ?
 *CHI:	işte .
 *EXP:	Burçak aninoya nasıl gideceğiz biz ?
@@ -453,7 +453,7 @@
 *EXP:	tamir etmedimi baban ?
 *CHI:	tamir etti .
 *EXP:	ee , yine mi kırıldı?
-*EXP:	sen onlan ne yapıcaksın deniz kenarında ?
+*EXP:	sen onlan [: onla] ne yapıcaksın deniz kenarında ?
 *EXP:	Burçak , napıcaksın [: ne yapıcaksın] sen onlan [: onla] deniz .
 *EXP:	kenarında ?
 *EXP:	biz aninoya gidersek napıcaz orda , biz denize gidersek napıcaz ?
@@ -585,7 +585,7 @@
 *EXP:	bilmem Burçak , senin tüfeğini de bulamadım .
 *EXP:	bu ne Burçak ?
 *CHI:	o itfaiye merdivesi [: merdiveni] .
-*EXP:	ne işe yarıyor Burçak , napılıyor [: ne yapılıyor] bunlan ?
+*EXP:	ne işe yarıyor Burçak , napılıyor [: ne yapılıyor] bunlan [: bunla] ?
 *CHI:	dur getiriyim .
 *CHI:	getiricem [: getireceğim] itfaiyemi .
 *CHI:	itfaiyemi getirdim .

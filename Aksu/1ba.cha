@@ -194,9 +194,9 @@
 *CHI:	yok .
 *EXP:	hiçkimse yok mu ?
 *CHI:	yok .
-*EXP:	kimlen oynuyorsun ?
+*EXP:	kimlen [: kimle] oynuyorsun ?
 %com:	no response
-*EXP:	yalnız mı oynuyorsun bebeklerinlen ?
+*EXP:	yalnız mı oynuyorsun bebeklerinlen [: bebeklerinle] ?
 *CHI:	hı.
 %com:	affirmative sound gesture
 *EXP:	babaanne de var .
@@ -206,7 +206,7 @@
 *CHI:	evet .
 *EXP:	senden biraz büyük; o da sarı saçlı böyle , ama senin .
 *EXP:	saçların daha güzel .
-*EXP:	senlen açık oyun oynayalımmı?
+*EXP:	senlen [: senle] açık oyun oynayalımmı?
 *CHI:	evet .
 *EXP:	bak ben sana şimdi bir kız verecem [: vereceğim] , bir de oğlan .
 *CHI:	bir kız , bir de oğlan .
@@ -246,11 +246,11 @@
 *CHI:	örmüş bak .
 *EXP:	peki şekerim sen kiminle oynarsın ?
 *CHI:	ablayla .
-*EXP:	hangi ablaylan ?
+*EXP:	hangi ablaylan [: ablayla] ?
 %com:	points the interviewer
 *EXP:	Alev benim ismim biliyormusun ?
 *CHI:	Alev .
-*EXP:	ne oynuyoruz biz senlen ?
+*EXP:	ne oynuyoruz biz senlen [: senle] ?
 *CHI:	oyuncak .
 *EXP:	başka ne oynuyorsun sen ?
 *EXP:	senin arkadaşın varmı?
@@ -261,7 +261,7 @@
 *CHI:	gitmiyorum .
 *EXP:	tanıyormusun sen Tayfun'u ?
 *CHI:	tanıyorum , o Tayfun .
-*EXP:	Tayfun'lan oyun oynadınmı sen hiç?
+*EXP:	Tayfun'lan [: Tayfun'la] oyun oynadınmı sen hiç?
 *CHI:	oynamadım .
 *EXP:	ben olmayınca sen ne oynuyorsun ?
 *CHI:	oğlanla oynuyorum .
@@ -356,7 +356,7 @@
 *EXP:	senin boyaların varmı?
 *CHI:	yok .
 *CHI:	ben boya sevmiyorum ondan almadım .
-*EXP:	neylen yazıyorsun Füsuncum ?
+*EXP:	neylen [: neyle] yazıyorsun Füsuncum ?
 *CHI:	kalemle .
 *MOT:	ev yapabilirmisin bize ?
 *CHI:	hangisini ?
@@ -475,7 +475,7 @@
 *CHI:	koyalımmı?
 *EXP:	koyalım bakalım .
 *EXP:	bak şimdi burda .
-*EXP:	gel bak senlen ne yapalım .
+*EXP:	gel bak senlen [: senle] ne yapalım .
 *EXP:	bu evin halısı olsun .
 *CHI:	halı.
 *EXP:	nereye serdim halıyı?

@@ -26,7 +26,7 @@
 *CHI:	ablası.
 *MOT:	neydi ablasının ismi neydi ?
 *CHI:	Serap ablası.
-*MOT:	oynuyormu senlen ?
+*MOT:	oynuyormu senlen [: senle] ?
 *CHI:	hı.
 *MOT:	nasıl oynuyor ?
 *CHI:	jiit gidiyor .
@@ -178,10 +178,10 @@
 *CHI:	ah girdi .
 *CHI:	bir daha .
 *CHI:	bir tane daha .
-*EXP:	ne yapıyorsun sen bunlarlan ?
+*EXP:	ne yapıyorsun sen bunlarlan [: bunlarla] ?
 *CHI:	yapıyorum .
 *CHI:	bahçe .
-*CHI:	bahçe yapıyorum onlan .
+*CHI:	bahçe yapıyorum onlan [: onla] .
 *EXP:	bir bahçe yap bakalım bana .
 *CHI:	bak .
 *CHI:	bak ışık gelmiş.
@@ -273,7 +273,7 @@
 *CHI:	ona bakıyım , bakıyım , kapattın .
 *MOT:	nedir bu ?
 *CHI:	para .
-*MOT:	senlen beraber başka birşey yapalım biz .
+*MOT:	senlen [: senle] beraber başka birşey yapalım biz .
 *CHI:	bak çalıyor bak .
 *EXP:	hı , çalıyor değilmi ?
 *CHI:	kapayım ben .
@@ -378,7 +378,7 @@
 *CHI:	iki günde döver .
 *CHI:	bak otobüs .
 *EXP:	sen dışarıya gidiyormusun bazen ?
-*CHI:	a dadımlan .
+*CHI:	a dadımlan [: dadımla] .
 *EXP:	ne yapıyorsunuz dışarda ?
 *CHI:	oynuyoruz .
 *EXP:	ne oynuyorsunuz ?
@@ -477,7 +477,7 @@
 *EXP:	bak yerleri temizliyor .
 %com:	the lady is cleaning
 *EXP:	neyle temizliyor ?
-*CHI:	bezlen .
+*CHI:	bezlen [: bezle] .
 *CHI:	ay bak buraya ra xxx .
 *EXP:	baba eve gelecekmi aksa'm ?
 *CHI:	gelecek .

@@ -40,7 +40,7 @@
 *CHI:	Sabahattin dede .
 *EXP:	Sabahattin dede de geldimi ?
 *CHI:	hı.
-*EXP:	ne yaptı , senlen oynadımı?
+*EXP:	ne yaptı , senlen [: senle] oynadımı?
 *CHI:	oynadı.
 *CHI:	bibiplen [: bibiple] oynadım .
 *EXP:	koştunmu ?
@@ -81,7 +81,7 @@
 *CHI:	omo temizledim .
 %com:	omo is a brand name for a cleaning detergent used in Turkey
 *EXP:	sahi mi ?
-*EXP:	başka şey oynıyalım senlen .
+*EXP:	başka şey oynıyalım senlen [: senle] .
 *EXP:	bunu sana kim verdi ?
 *CHI:	kazak .
 *CHI:	bunu kim getirdi ?
@@ -150,7 +150,7 @@
 %com:	the inerviewer's note: "note that he tends to use the 2nd person singular"
 *CHI:	yaparım .
 *EXP:	peki .
-*EXP:	dur bakalım şimdi , bunu bir deneyelim senlen .
+*EXP:	dur bakalım şimdi , bunu bir deneyelim senlen [: senle] .
 *CHI:	işaret , işaret nerde ?
 *EXP:	dur şimdi , sana verecem [: vereceğim] .
 *EXP:	şimdik dur , ben sana koyayım .

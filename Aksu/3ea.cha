@@ -260,7 +260,7 @@
 *CHI:	gelmiş.
 *EXP:	ne yapıyor bekçi baba ?
 *CHI:	oynuyor .
-*EXP:	kimlen oynuyor ?
+*EXP:	kimlen [: kimle] oynuyor ?
 *CHI:	Mıstıkla .
 *EXP:	bekcı babanın adı var mı?
 *CHI:	var .
@@ -371,8 +371,8 @@
 *CHI:	çiktım .
 *EXP:	oynadınmı?
 *CHI:	oynadım .
-*EXP:	kimlen oynadın ?
-*CHI:	Semihlen .
+*EXP:	kimlen [: kimle] oynadın ?
+*CHI:	Semihlen [: Semihle] .
 *EXP:	o da kim ?
 *EXP:	o da kim ?
 *EXP:	kiminle koştün ?
@@ -383,9 +383,9 @@
 *CHI:	xxx biz taşla .
 *EXP:	ne yaptınız taşla ?
 %com:	no response
-*EXP:	peki sen kiminlen oynarsın ?
+*EXP:	peki sen kiminlen [: kiminle] oynarsın ?
 *CHI:	arabada .
-*EXP:	kimlen oynuyorsun beraber ?
+*EXP:	kimlen [: kimle] oynuyorsun beraber ?
 *CHI:	amcada .
 *EXP:	amcayla .
 *EXP:	ne zaman oynar çocuklar ?
@@ -397,7 +397,7 @@
 *EXP:	yok canım .
 *EXP:	Kezban teyze seni sokağa çıkarıyormu ?
 *CHI:	çıkarıyor .
-*EXP:	onlan çıkıyorsun değilmi ?
+*EXP:	onlan [: onla] çıkıyorsun değilmi ?
 *EXP:	neler var sokakta , güzel şeyler .
 *EXP:	varmı?
 *CHI:	taşlar .
@@ -491,7 +491,7 @@
 *EXP:	ne zaman okuyor baban onları?
 *CHI:	ikibuçukta .
 *CHI:	ben de ikibuçukta okuyorum .
-*EXP:	şimdi senlen oynuyalımmı başka şey artık ?
+*EXP:	şimdi senlen [: senle] oynuyalımmı başka şey artık ?
 *CHI:	başka şey varmış.
 *EXP:	varmış değil mi ?
 *EXP:	bu ev .

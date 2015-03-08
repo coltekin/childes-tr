@@ -6,7 +6,7 @@
 @ID:	tur|Aksu|CHI|3;8.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
-*CHI:	Işıklan teyzem dedi ki .
+*CHI:	Işıklan [: Işıkla] teyzem dedi ki .
 *EXP:	evet ne dedi canım ?
 *CHI:	bir daha okula getirmiyeceğim [: getirmeyeceğim] hiç dedi .
 *EXP:	niçin ?
@@ -612,7 +612,7 @@
 *CHI:	ben güneş.
 *CHI:	önce güneş havasını istiyorum .
 *EXP:	ee , hadi [: haydi] söyleyelim .
-*EXP:	önce güneş havasını senlen .
+*EXP:	önce güneş havasını senlen [: senle] .
 *CHI:	önce güneş havası.
 *CHI:	sonra .
 %com:	the song

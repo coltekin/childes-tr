@@ -27,7 +27,7 @@
 *EXP:	neyle kestim biliyormusun ?
 *EXP:	bıçakla .
 *CHI:	bıçakla .
-*EXP:	Alper gel , onu çekme ordan , gel bak biz senlen ne yapacağız .
+*EXP:	Alper gel , onu çekme ordan , gel bak biz senlen [: senle] ne yapacağız .
 *CHI:	neler var ?
 *EXP:	hepsini ben sana göstereceğim .
 *CHI:	hepsini ver .
@@ -40,7 +40,7 @@
 *EXP:	birer tane .
 *CHI:	birer tane .
 *CHI:	hepsini .
-*EXP:	sen bir dakka dur , senlen konuşacağız , bak bunları ben sana .
+*EXP:	sen bir dakka dur , senlen [: senle] konuşacağız , bak bunları ben sana .
 *EXP:	getirdim beraber oynayalım diye , bunlar benim oyuncaklarım .
 *CHI:	beraber oynayalım .
 *EXP:	beraber oynayacağız .
@@ -105,8 +105,8 @@
 *EXP:	senin Arif amcan mı geldi ?
 *CHI:	tavla oynuyorlar .
 *EXP:	tavla oynuyorlar ?
-*EXP:	kimlen kim ?
-*EXP:	hadi gel senlen bakalım nasıl tavla oynuyorlar .
+*EXP:	kimlen [: kimle] kim ?
+*EXP:	hadi gel senlen [: senle] bakalım nasıl tavla oynuyorlar .
 *CHI:	hadi .
 *EXP:	nerde tavla oynuyorlar ?
 *CHI:	burda .
@@ -121,7 +121,7 @@
 *UNC:	üç değil , iki .
 *CHI:	beş?
 *UNC:	atamıyorum .
-*FAT:	abla ne yapıyor senlen ?
+*FAT:	abla ne yapıyor senlen [: senle] ?
 *CHI:	oyun oynuyoruz .
 *CHI:	beraber oynuyoruz .
 *FAT:	gel ablan bekliyor .
@@ -165,8 +165,8 @@
 *EXP:	hadi gel bakalım .
 *CHI:	bundan .
 *EXP:	hayır onu açmayacağım , gel oyuncaklarınla oynuyacağız .
-*CHI:	oyuncaklarlan oynuyacağız .
-*EXP:	bak şimdi biz senlen nerede oyun oynuyacağız .
+*CHI:	oyuncaklarlan [: oyuncaklarla] oynuyacağız .
+*EXP:	bak şimdi biz senlen [: senle] nerede oyun oynuyacağız .
 *EXP:	oo nee yapıyorsun .
 *EXP:	şekerim ?
 *EXP:	dur bakalım çık oradan .
@@ -174,7 +174,7 @@
 *CHI:	kaldıralım .
 *EXP:	şimdi ben kaldırayım bir güzel .
 *CHI:	bir güzel .
-*EXP:	ondan sonra başka oyun oynayalım senlen .
+*EXP:	ondan sonra başka oyun oynayalım senlen [: senle] .
 *CHI:	oynayalım .
 *CHI:	bu da onda var .
 *CHI:	bunu da .

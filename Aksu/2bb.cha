@@ -10,7 +10,7 @@
 *CHI:	oyuncak oynayalım .
 *EXP:	oyuncak oynayalım değıl mı?
 *EXP:	koyalim şunları şu tarafa .
-*EXP:	şımdı senlen nerede oyunu oynayalım olmaz mı?
+*EXP:	şımdı senlen [: senle] nerede oyunu oynayalım olmaz mı?
 *CHI:	olur .
 *CHI:	oyuncaklar sonra çıkacak .
 *CHI:	şunlar bitsin ondan sonra oynayacağız .
@@ -155,16 +155,16 @@
 *CHI:	işte köprünün altısına girer .
 *CHI:	dur anne bebeğe bak bebeklere .
 *EXP:	Alper sen kiminle oynarsın .
-*CHI:	şunlan oynarım .
+*CHI:	şunlan [: şunla] oynarım .
 %com:	points bus
-*EXP:	kimlen canım ?
-*CHI:	şunlan .
+*EXP:	kimlen [: kimle] canım ?
+*CHI:	şunlan [: şunla] .
 *EXP:	arkadaşın varmı senin hiç?
 *CHI:	yok .
-*EXP:	kimseylen oynamıyormusun .
+*EXP:	kimseylen [: kimseyle] oynamıyormusun .
 *CHI:	oynamıyorum .
 *CHI:	Fatoş gelecek bize .
-*EXP:	Fatoşlan oynuyormusun bazen ?
+*EXP:	Fatoşlan [: Fatoşla] oynuyormusun bazen ?
 *CHI:	oynuyorum .
 *EXP:	ne oyun oynuyorsunuz ?
 *CHI:	fırın oynuyoruz .
@@ -182,7 +182,7 @@
 *EXP:	peki sen bana anlat ziyanı yok .
 *EXP:	fırın varmı sahici fırın ?
 *CHI:	var .
-*EXP:	ne yapıyorsunuz fırınlan ?
+*EXP:	ne yapıyorsunuz fırınlan [: fırınla] ?
 *CHI:	şey pişiriyoruz .
 *CHI:	böbrek pişiriyoruz .
 *EXP:	böbrek ?

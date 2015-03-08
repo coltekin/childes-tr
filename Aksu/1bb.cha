@@ -36,9 +36,9 @@
 *CHI:	oynamam .
 *EXP:	evde oynar mısın ?
 *CHI:	oynamam .
-*EXP:	e benlen oynuyorsun , benlen ne oynuyorsun ?
-*CHI:	bunlarlan .
-*EXP:	başka ne oynuyoruz biz senlen ?
+*EXP:	e benlen [: benle] oynuyorsun , benlen [: benle] ne oynuyorsun ?
+*CHI:	bunlarlan [: bunlarla] .
+*EXP:	başka ne oynuyoruz biz senlen [: senle] ?
 *CHI:	otobüsü şey yapalımmı?
 *CHI:	yürütelim mi ?
 *EXP:	tabii , al otobüsü.
@@ -484,7 +484,7 @@
 *CHI:	bakıyım [: bakayım] .
 *CHI:	bak seni yer .
 *CHI:	şimdi ne alalım ?
-*EXP:	şimdi senlen bir oyun oynayalım .
+*EXP:	şimdi senlen [: senle] bir oyun oynayalım .
 *EXP:	bak Füsun .
 *CHI:	efendim ?
 @End
