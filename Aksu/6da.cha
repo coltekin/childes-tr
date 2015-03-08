@@ -42,7 +42,7 @@
 *EXP:	yemeğimizi bitirelim , sonra oynarız .
 *CHI:	niçin ?
 *EXP:	e tabii , şimdi konuşuyoruz , ahbaplık ediyoruz .
-*EXP:	Yalçın'la sokağa cıkıyormusunuz siz ?
+*EXP:	Yalçın'la sokağa çıkıyormusunuz siz ?
 *CHI:	ı ıhh .
 %com:	the question is repeated . she makes an affirmative gesture
 *EXP:	ne yapıyorsunuz dışarda ?
@@ -234,7 +234,7 @@
 *EXP:	işte geyik .
 *CHI:	ben hayvan istiyorum .
 *EXP:	hayvan geyik işte .
-*EXP:	birazcık daha oynuyacağız , ben sonra gidecem .
+*EXP:	birazcık daha oynuyacağız [: oynuyacağız] , ben sonra gidecem .
 *CHI:	niçin ?
 *EXP:	çünkü benim bir başka çocuğa gitmem lazım .
 *EXP:	tamam mı kızım ?
@@ -253,8 +253,8 @@
 *EXP:	ne oluyor ?
 *CHI:	benim babam geldi galiba .
 *CHI:	benim babam gelirse xxx .
-*EXP:	burda uyumuycakmısın bugün sen , eve mi gideceksin ?
-*CHI:	uyumuyacağım .
+*EXP:	burda uyumuycakmısın [: uyumayacakmısın] bugün sen , eve mi gideceksin ?
+*CHI:	uyumuyacağım [: uyumayacağım] .
 *EXP:	peki ben onları toplayım o zaman senin baban gelirse .
 *CHI:	olmadı bak .
 *EXP:	ne olmadı çocuğum , köprü mü olmadı?
@@ -361,7 +361,7 @@
 %com:	negative
 *EXP:	yatmayacakmısın ?
 *EXP:	niçin ?
-*EXP:	niye yatmıyacaksın okulda ?
+*EXP:	niye yatmıyacaksın [: yatmayacaksın] okulda ?
 *EXP:	sen balıkların nasıl yüzdüğünü biliyormusun ?
 *CHI:	oynamayalım artık .
 *CHI:	görmüştüm balığı.

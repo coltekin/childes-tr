@@ -48,7 +48,7 @@
 *CHI:	şimdi ben sana , bir tane bir tane vereceğim .
 *EXP:	ama sen hepsini karmakarışık edersen ben oynamam .
 *CHI:	ben gidecem .
-*EXP:	tabii sen gideceksin ama beraber oynuyacağız .
+*EXP:	tabii sen gideceksin ama beraber oynuyacağız [: oynayacağız] .
 *EXP:	bak kuzu .
 *CHI:	kuzu .
 *CHI:	elime .
@@ -148,7 +148,7 @@
 *CHI:	lay lay lay lo .
 *CHI:	lay lo .
 *UNC:	ağzına alma mikrafonu .
-*CHI:	yok ya oynıyacağım .
+*CHI:	yok ya oynıyacağım [: oynayacağım] .
 %com:	trying to get the microphone away
 *CHI:	baba .
 *CHI:	baba .
@@ -164,7 +164,7 @@
 *CHI:	ben değilim .
 *EXP:	hadi gel bakalım .
 *CHI:	bundan .
-*EXP:	hayır onu açmayacağım , gel oyuncaklarınla oynuyacağız .
+*EXP:	hayır onu açmayacağım , gel oyuncaklarınla oynuyacağız [: oynuyacağız] .
 *CHI:	oyuncaklarlan [: oyuncaklarla] oynuyacağız .
 *EXP:	bak şimdi biz senlen [: senle] nerede oyun oynuyacağız .
 *EXP:	oo nee yapıyorsun .
@@ -363,7 +363,7 @@
 *CHI:	anne .
 *EXP:	burda kim yatıyor ?
 *CHI:	baba .
-*EXP:	beraber mi yatıyoorsunuz gece ?
+*EXP:	beraber mi yatıyorsunuz gece ?
 *CHI:	beraber .
 *EXP:	peki sen bazen bağırıyormusun geceleyin ?
 *CHI:	evet .

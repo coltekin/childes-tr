@@ -112,7 +112,7 @@
 *CHI:	a xxx hikaye xxx .
 *CHI:	ne yapıyorsun öyle ?
 *EXP:	bir hikaye anlat .
-*CHI:	hayır , tekrar oynıyalım biz .
+*CHI:	hayır , tekrar oynıyalım [: oynayalım] biz .
 *EXP:	once upon a time xxx .
 %com:	only the english version is transcribed in the text .
 *CHI:	evet , sen anlat , seni dinliyeyim .
@@ -242,8 +242,8 @@
 *EXP:	evet , ne gördün ?
 *CHI:	a xxx bitti dedim be , yeter artık !
 *CHI:	su içeceğim .
-*CHI:	oyun oynıyacağım daha .
-*EXP:	biraz konuşalım , oyun oynıyacağız .
+*CHI:	oyun oynıyacağım [: oynayacağım] daha .
+*EXP:	biraz konuşalım , oyun oynıyacağız [: oynayacağız] .
 *CHI:	oyun oynuyoruz .
 *EXP:	yatmak istiyormusun ?
 *CHI:	yo yo , yatmak istemiyorum .
@@ -265,7 +265,7 @@
 *EXP:	nerde kediniz ?
 *EXP:	kediler niye tırmalar ?
 *EXP:	yatalım .
-*CHI:	yatmıyalım .
+*CHI:	yatmıyalım [: yatmayalım] .
 *CHI:	kaç bakalım ?
 *EXP:	niye tırmalar ?
 *CHI:	başka bir yeri tırmalar .

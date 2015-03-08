@@ -158,8 +158,8 @@
 *CHI:	evet çıkarıyor anneciğimle nanny .
 *CHI:	nanny bizi çıkarıyor .
 *CHI:	Afiy Sinanı çıkarıyor .
-*CHI:	nanny de bizi çikarıyor .
-*CHI:	anne bizi çikarıyor sokağa .
+*CHI:	nanny de bizi çıkarıyor .
+*CHI:	anne bizi çıkarıyor sokağa .
 *EXP:	nereye çıkarıyor , oynamayamı?
 *CHI:	hayır .
 *EXP:	sokakta neler var ?
@@ -447,7 +447,7 @@
 *CHI:	hepsi düşüyormu ?
 *CHI:	aa , bu yapmıyor niye ?
 *EXP:	yapabilir , bunların hepsi öyle oturabilir rahatlıkla .
-*EXP:	niye oyuruyorlar öyle diz üstüne ?
+*EXP:	niye oturuyorlar öyle diz üstüne ?
 *CHI:	niye ?
 *EXP:	sen oturtuyorsun öyle , niye oturtuyorsun ?
 *CHI:	ee , biz de otururuz diz üstüne .

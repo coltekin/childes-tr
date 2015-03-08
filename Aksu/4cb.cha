@@ -111,7 +111,7 @@
 *CHI:	dişlerimizi fırçalıyoruz böyle böyle .
 *CHI:	böyle böyle yapıyoruz .
 *CHI:	dışlerimi fırçalıyorum .
-*CHI:	oğlanı da ver , senle oyun oynıyalım .
+*CHI:	oğlanı da ver , senle oyun oynıyalım [: oynayalım] .
 *EXP:	sen masal biliyormusun ?
 *CHI:	biliyorum .
 *EXP:	anlatsana .
@@ -126,11 +126,11 @@
 *CHI:	bir varmış bir yokmuş , bir tilki varmış.
 *CHI:	bir karpuz varmış.
 %com:	she means "karga"
-*CHI:	o karpuz böyle böyle yakal(ıya)cak .
-*CHI:	böyle bir yakalıyacak .
+*CHI:	o karpuz böyle böyle yakal(aya)cak .
+*CHI:	böyle bir yakalıyacak [: yakalayacak] .
 %com:	ağzından/ boğazından
 *CHI:	götürecek , çöpe atacak .
-*EXP:	bir yakalaıyacak boğazından kaldırıp çöpe atacak .
+*EXP:	bir yakalayacak boğazından kaldırıp çöpe atacak .
 *EXP:	sonra ?
 *CHI:	kendisi oturacak gazete okuyacak .
 *EXP:	bir gün kırmızı şapkalı kız nereye gidiyormuş?
@@ -183,7 +183,7 @@
 *CHI:	mama pişiriyor .
 *EXP:	annen ne mamaları pişiriyor ?
 *CHI:	xxx taba , tabağa koyuyor , pişiriyor .
-*EXP:	sen ne yapıyyorsun , yardım ediyormusun ?
+*EXP:	sen ne yapıyorsun , yardım ediyormusun ?
 *CHI:	yardım ediyorum .
 *CHI:	bardakları al diyorum .
 *CHI:	yıkıyor .
@@ -326,10 +326,10 @@
 *CHI:	ısırırlar .
 *CHI:	hav hav derler , ısırırlar .
 *EXP:	niye ısırırlar ?
-*CHI:	ama ağlıyan çocukları hiç ısır xxx .
+*CHI:	ama ağlıyan [: ağlayan] çocukları hiç ısır xxx .
 *CHI:	ısırmadı xxx lazım ol xxx .
 *CHI:	yaramazlık yapan çocukları hiç xxx .
-*EXP:	ağlıyan çocukları niye ısırmasın kurtlar ?
+*EXP:	ağlıyan [: ağlayan] çocukları niye ısırmasın kurtlar ?
 %com:	the statement above is transcribed as child speech with a note from the examiner to check the speaker . I entered it as adult speech since it sounds like an adult voice . yet , we may still want to check it .
 *CHI:	ısırsınmı?
 *EXP:	ısırsınmı?

@@ -510,13 +510,13 @@
 *CHI:	kedi .
 *EXP:	kim öptü?
 *CHI:	bu öptü.
-*EXP:	oynıyacakmıyız , ben gideyimmi ?
-*CHI:	oynıyacak .
+*EXP:	oynıyacakmıyız [: oynayacakmıyız] , ben gideyimmi ?
+*CHI:	oynıyacak [: oynayacak] .
 *EXP:	kim düşürdü?
 *CHI:	o düşürdü.
 *EXP:	senin kardeşin yapabilirmi onu ?
 *CHI:	yapar .
-*EXP:	ondan oynıyalımmı bebekle ?
+*EXP:	ondan oynıyalımmı [: oynayalımmı] bebekle ?
 *CHI:	bebekle .
 *EXP:	senin arkadaşların varmı?
 *CHI:	yok .

@@ -297,10 +297,10 @@
 *EXP:	neresinden motoru o traktörün göster bana ?
 *CHI:	başka var mı?
 *EXP:	başka yok .
-*CHI:	ben kapatıyımmı bunu ?
+*CHI:	ben kapatıyımmı [: kapatayımmı] bunu ?
 *EXP:	kapat .
 *EXP:	koparma .
-*CHI:	a bak birşey yapmıyacam .
+*CHI:	a bak birşey yapmıyacam [: yapmayacağım] .
 *CHI:	ev yapacak .
 *MOT:	yok kırarsın .
 %com:	trying to disassemble the house
@@ -367,7 +367,7 @@
 *EXP:	kaçta uyudun ?
 *EXP:	ne zaman uyudun ?
 *CHI:	dokuzda .
-*EXP:	sen bugün d'şarıya çiktınmı?
+*EXP:	sen bugün dışarıya çiktınmı?
 *CHI:	çiktım .
 *EXP:	oynadınmı?
 *CHI:	oynadım .

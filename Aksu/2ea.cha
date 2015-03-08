@@ -72,7 +72,7 @@
 *CHI:	ben ağbimlen [: ağbimle] oynarım .
 *EXP:	ne oynarsın ?
 *CHI:	bu traktörü bırakacanmı?
-*EXP:	hayır , traktörü bırakmıyacağım , sen ağbinlen [: ağbinle] ne oynarsın ?
+*EXP:	hayır , traktörü bırakmıyacağım [: bırakmayacağım] , sen ağbinlen [: ağbinle] ne oynarsın ?
 *CHI:	kovboyculuk .
 *EXP:	başka ne oynarsın ?
 *CHI:	oyun oynarım .
@@ -237,7 +237,7 @@
 *CHI:	op kapandı.
 *CHI:	arabayı çekmesin .
 %com:	referring to a bridge
-*CHI:	bunu kapatıyımmı?
+*CHI:	bunu kapatıyımmı [: kapatayımmı] ?
 *EXP:	sen gel başka birşey oynayacağız .
 *EXP:	ne yaptım ben ?
 *CHI:	saldırttırdın .

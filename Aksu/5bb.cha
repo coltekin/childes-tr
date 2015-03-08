@@ -311,7 +311,7 @@
 *CHI:	amca varmiş , o dikmiş.
 *FAT:	acımişmı?
 *CHI:	acımamiş.
-*FAT:	ilaç koymuşlarmıydi .
+*FAT:	ilaç koymuşlarmıydı .
 *CHI:	bant koymuşlar .
 *FAT:	duruyormu bant yerinde ?
 *CHI:	hı.
@@ -371,7 +371,7 @@
 *CHI:	ordan köpük çıkarıyor .
 *FAT:	niçin ?
 *CHI:	işte .
-*FAT:	ne var vurda da köpük cıkarıyor ?
+*FAT:	ne var vurda da köpük çıkarıyor ?
 *CHI:	köp'ük .
 *CHI:	vuttttt .
 %com:	again imitating the sound of a ship's horn
@@ -379,7 +379,7 @@
 *CHI:	orda altında pervanesi var .
 *CHI:	burda .
 *EXP:	evet , ne oluyor , pervanesi ne yapıyor ?
-*CHI:	kaptan çalıstırıyor .
+*CHI:	kaptan çalıştırıyor .
 *CHI:	açıl dedığı [?] pervane dönüyor .
 *EXP:	sonra ne oluyor ?
 *CHI:	vuttt .
@@ -516,7 +516,7 @@
 *FAT:	yazıyor , ne zaman yazıyor baba yazı?
 *CHI:	yarın .
 *FAT:	şaka yapıyorsun , şaka mı yapıyorsun ?
-*CHI:	tüfeklen [: tüfekle] korkutuyummu Özcanı?
+*CHI:	tüfeklen [: tüfekle] korkutuyummu [ korkutayımmı] Özcanı?
 *FAT:	korkacaz [: korkacağız] ama , sen bir kere niye şaka yaptın ?
 *CHI:	bir tane ver .
 *FAT:	sen niye baba yazmıyor dedin , baba hep daktiloda yazı yazıyor ?
@@ -750,7 +750,7 @@
 *FAT:	peki Burçak , sen vapurda kaptan amcaya çalıstır vapuru .
 *FAT:	diyormusun ?
 *CHI:	diyorum , çalıştırıyor .
-*FAT:	nasıl çalısıyor vapur ?
+*FAT:	nasıl çalışıyor vapur ?
 *CHI:	vuuu geliyor , anne de çıkıyor vapurdan .
 *CHI:	arabaya biniyor , bizim tabışkanımıza .
 *FAT:	peki vapur nasıl çalışıyor Burçak ?

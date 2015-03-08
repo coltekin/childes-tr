@@ -24,7 +24,7 @@
 *EXP:	bunları niye söktün burdan ?
 *CHI:	bunlar takılıyor ya .
 *EXP:	dur çocuğum .
-*CHI:	şunlar gelıyor buraya .
+*CHI:	şunlar geliyor buraya .
 *CHI:	böyle gidiyor .
 *CHI:	bunlar nerde bunlar ?
 *CHI:	nerden geliyor bunlar .
@@ -107,7 +107,7 @@
 *EXP:	bebek nerde ama bizim oğlan ?
 *EXP:	hayır onları tıkma içine artık .
 %com:	trying to put the little houses in the bus
-*CHI:	tıkmıyayımmı?
+*CHI:	tıkmıyayımmı [: tıkmayayımmı] ?
 *CHI:	niye tıkmıyım ?
 *EXP:	çünkü onlar bozuluyor tıktığın zaman .
 *EXP:	yalnız sen bebeği nereye koydun onu bul .

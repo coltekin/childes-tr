@@ -24,7 +24,7 @@
 *EXP:	ne yapacaksınız onunla ?
 *CHI:	kavga edeceğiz .
 *EXP:	niye ?
-*CHI:	kovboyculuk oynıyacağız .
+*CHI:	kovboyculuk oynıyacağız [: oynayacağız] .
 *EXP:	nasıl oynuyorsunuz kovboyculuk ?
 *CHI:	tüfekle .
 *CHI:	sope benim tüfeğim olacak .
@@ -70,7 +70,7 @@
 *EXP:	ben korktum bu oyundan .
 *EXP:	ben durmam burda bu oyun oynanırken .
 *CHI:	biz içeride oyniyacağız .
-*EXP:	nerede oynıyacaksınız ?
+*EXP:	nerede oynıyacaksınız [: oynayacaksınız] ?
 *CHI:	şimdi gelecek bu .
 *EXP:	nereden geliyor Kadir ?
 *CHI:	Kadir içeri odadan geliyor .
@@ -136,7 +136,7 @@
 *REL:	Türkan Şoray'ın kucağında ne vardı?
 %com:	Türkan Şoray is a wellknown Turkish actress
 *CHI:	bebek xxx ne bebeği be ?
-*REL:	Alıyi babası hiçbir yere götürmüyor .
+*REL:	Aliyi babası hiçbir yere götürmüyor .
 *CHI:	Ben onun ablası değilim .
 %com:	irrelevant comment
 *EXP:	o senin baban mı?
@@ -282,7 +282,7 @@
 *CHI:	başka denize atlıyordum .
 *EXP:	denizde ne yapıyorsun ?
 *CHI:	denizden sonra , denizin merdiveni var .
-*CHI:	işte orda biz evcilik oynıyorduk Kadirlen [: Kadir'le] .
+*CHI:	işte orda biz evcilik oynıyorduk [: oynuyorduk] Kadirlen [: Kadir'le] .
 %com:	the child added an extra suffix , no need for "n": Kadir ile
 *EXP:	nasıl oyun o ?
 *CHI:	denizcilik oyunu .

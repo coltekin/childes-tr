@@ -351,13 +351,13 @@
 *CHI:	kalemlan [: kalemle] .
 *EXP:	kalemlen [: kalemle] boyuyorsun .
 *EXP:	iyi , ver bakalım tırnaklarını.
-*EXP:	kalemlen [: kalemle] boyuyalım .
+*EXP:	kalemlen [: kalemle] boyuyalım [: boyayalım] .
 *EXP:	bak ne kadar çirkin olacak .
 *EXP:	şimdi , ooooh , çok kötü olacak .
 *EXP:	oldumu şimdi bu böyle ?
 %com:	negative
 *EXP:	neyle boyamak lazım ?
-*CHI:	kalemlen [: kalemle] boyuyacak .
+*CHI:	kalemlen [: kalemle] boyuyacak [: boyayacak] .
 *CHI:	kalemlen [: kalemle] boyanmaz .
 *CHI:	bakim [: bakayım] , güzel .
 *CHI:	bakım [: bakayım] , ayağa kalkımda bakim [: bakayım] .

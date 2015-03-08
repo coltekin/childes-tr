@@ -31,7 +31,7 @@
 *CHI:	oynar .
 *CHI:	arabayla oynar .
 *CHI:	gider , hadi gel der .
-*CHI:	oynıyalim , at der .
+*CHI:	oynıyalım [: oynayalım] , at der .
 *CHI:	bu .
 *CHI:	hadi gel .
 *CHI:	giderim guguyla .
@@ -53,7 +53,7 @@
 *CHI:	arabayla oynar .
 *CHI:	gider .
 *CHI:	hadi gel .
-*CHI:	oynıyalım , at der .
+*CHI:	oynıyalım [: oynayalım] , at der .
 *CHI:	bu .
 *CHI:	hadi gel .
 *CHI:	giderim guguyla .
@@ -295,10 +295,10 @@
 *CHI:	sınıfa gidiyorlar .
 *EXP:	ne yaparlar sınıfta ?
 *CHI:	ders çalışacaklar .
-*CHI:	oynıyacak .
+*CHI:	oynıyacak [: oynayacak] .
 *CHI:	buraya gelecekler .
 *CHI:	geriye gelmiyecekler .
-*CHI:	oynıyacaklar bunlarla .
+*CHI:	oynıyacaklar [: oynayacaklar] bunlarla .
 *EXP:	ne oyunlar oynarsın ?
 *CHI:	hiçbirşey oynamam .
 *EXP:	dışarı gitmezmisin ?
@@ -393,8 +393,8 @@
 *CHI:	temiz oldu evimiz .
 *CHI:	geldik evimizde .
 *EXP:	kim geldi ?
-*EXP:	ne dediniz , oynıyalımmı dediniz ?
-*CHI:	oynıyalım demedik .
+*EXP:	ne dediniz , oynıyalımmı [: oynayalımmı] dediniz ?
+*CHI:	oynıyalım [: oynayalım] demedik .
 *CHI:	kahve içermisiniz dedinki [: dedik] .
 *EXP:	kime ?
 *CHI:	anneye .

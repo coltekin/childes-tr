@@ -82,9 +82,9 @@
 *EXP:	neyle yazıyor Aylin ?
 *CHI:	yerde yazıcağım .
 *CHI:	burda yazacağım .
-*EXP:	oynıyalımmı?
+*EXP:	oynıyalımmı [: oynayalımmı] ?
 *CHI:	oynama .
-*CHI:	oynıyacağım .
+*CHI:	oynıyacağım [: oynayacağım] .
 %com:	not clear in the text who says the sentence right above
 *CHI:	anne , bırakmam .
 *CHI:	başka kuş , başka kuş.

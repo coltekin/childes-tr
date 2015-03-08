@@ -611,12 +611,12 @@
 %com:	no response
 *EXP:	Burçak maymunu kim indiriyor ordan ?
 *CHI:	burdan itfaiye amca indiriyor .
-*EXP:	ben takıyım istersen onu sana .
+*EXP:	ben takıyım [: takayım] istersen onu sana .
 *CHI:	şunu .
 *CHI:	ay , ben takarım .
 *EXP:	takabildinmi ?
 *CHI:	takamadım .
-*EXP:	ver ben takıyım sana .
+*EXP:	ver ben takıyım [: takayım] sana .
 *CHI:	ordan giricek .
 *EXP:	Burçak , nerden bilmiş itfaiyeciler maymunum orda olduğunu ?
 *EXP:	kim söylemiş?
@@ -789,16 +789,16 @@
 *EXP:	ben mi anlatayım , sen bana anlat .
 *CHI:	sen bana anlat .
 *CHI:	bu nasıl çıkarınıcak [: çıkarılıcak] ?
-*EXP:	efendim , çıkarıyımmı?
+*EXP:	efendim , çıkarıyımmı [: çıkarayımmı] ?
 *EXP:	çıkaramıyorum .
 *CHI:	çıktı.
-*CHI:	şunu da ben çıkartıyım .
+*CHI:	şunu da ben çıkartıyım [: çıkartayım] .
 *CHI:	kırmızıyı çıkartsana .
 *EXP:	ha .
 *CHI:	kırmızıyı.
 *EXP:	hangi kırmızıyı?
 *CHI:	şu .
-*CHI:	şu kırmızıyı da çıkartıyımmı ben ?
+*CHI:	şu kırmızıyı da çıkartıyımmı [: çıkartayımmı] ben ?
 *EXP:	çıkart .
 *CHI:	çıkartamam .
 *CHI:	şu kırmızıyı çıkartsana .
@@ -924,7 +924,7 @@
 *CHI:	ha ?
 *EXP:	Güneş'in getirdiği tren ?
 *CHI:	işte .
-*EXP:	getir bakıyım bana .
+*EXP:	getir bakıyım [: bakayım] bana .
 *CHI:	işte .
 *CHI:	o tambanca [: tabanca] .
 *CHI:	tapanca [: tabanca] .
@@ -946,7 +946,7 @@
 *CHI:	nasıl tırmandım .
 %com:	after he climbs
 *EXP:	çok güzel tırmandın .
-*CHI:	gene tırmanıyımmı?
+*CHI:	gene tırmanıyımmı [: tırmanayımmı]?
 *EXP:	tırman ama o kırılıcağa benzer .
 *CHI:	ayı varmış?
 *EXP:	Burçak , senin topal ayının bacakları nerde ?
@@ -966,7 +966,7 @@
 *CHI:	bunun bacakları var .
 *EXP:	var .
 *CHI:	topal ayı , topal ayı.
-*CHI:	durdurtsana , durdurtsana , orıya düştü.
+*CHI:	durdurtsana , durdurtsana , orıya [: oraya] düştü.
 *DAN:	duruyormu ?
 *CHI:	hah , been de durduttum [: durdurttum] .
 *DAN:	hmm .
@@ -1065,7 +1065,7 @@
 *EXP:	hangi makarayı arıyorsun ?
 *CHI:	su iğne varmış.
 *CHI:	kapat .
-*EXP:	getir kapatıyım onu .
+*EXP:	getir kapatıyım [: kapatayım] onu .
 *CHI:	hii , yırtar .
 *CHI:	Allah korusun .
 %com:	Dan and the mother laugh
@@ -1076,10 +1076,10 @@
 *EXP:	hii .
 *CHI:	ver .
 *EXP:	kaldırdık .
-*CHI:	ben koyıyım .
-*EXP:	ben koyıyım .
-*CHI:	ben koyıyım .
-*CHI:	ben koyıyım .
+*CHI:	ben koyıyım [: koyayım] .
+*EXP:	ben koyıyım [: koyayım] .
+*CHI:	ben koyıyım [: koyayım] .
+*CHI:	ben koyıyım [: koyayım] .
 *EXP:	yok , sen koyma .
 *CHI:	ben .
 *EXP:	sen merdiven inerken ne diyorsun Burçak ?
@@ -1109,10 +1109,10 @@
 *CHI:	kapat .
 *EXP:	kapatalım , sonra başımıza çarpar Burçak .
 *CHI:	bunu koyuyum .
-*CHI:	açıyım .
+*CHI:	açıyım [: açayım] .
 *CHI:	şunu katlıyım .
-*CHI:	açıyım .
-*CHI:	bunu koyıyım .
+*CHI:	açıyım [: açayım] .
+*CHI:	bunu koyıyım [: koyayım] .
 *EXP:	olur .
 *CHI:	bak .
 %com:	conversation between Dan and the mother
@@ -1154,8 +1154,8 @@
 *EXP:	ne yaptın ama , sen bana cevap vermiyorsun .
 *CHI:	çevir annee .
 *CHI:	çevir .
-*EXP:	sen bana cevap vermiyorsun , ağlıycam .
-*EXP:	ağlıyımmı?
+*EXP:	sen bana cevap vermiyorsun , ağlıycam [: ağlayacağım] .
+*EXP:	ağlıyımmı [: ağlayayımmı]?
 *CHI:	ağla .
 *EXP:	peki .
 *CHI:	çevir anne .
@@ -1165,7 +1165,7 @@
 *CHI:	heh .
 *CHI:	ne yaptım ben , çevirdim .
 *EXP:	Burçak .
-*EXP:	Burçak ben ağlıycam , ağlıyımmı?
+*EXP:	Burçak ben ağlıycam [: ağlayacağım] , ağlıyımmı [: ağlayayımmı]?
 *CHI:	ağlama .
 *EXP:	o zaman bana cevap ver .
 *CHI:	kaybettim ben .
@@ -1280,7 +1280,7 @@
 %com:	conversation between Dan and the mother
 *CHI:	anne .
 *CHI:	çevir bunu ?
-*CHI:	çevir bunu takıyım .
+*CHI:	çevir bunu takıyım [: takayım] .
 *EXP:	çekilmezsem ne olur , ha ?
 *CHI:	şunu takıcam [: takacağım] .
 *CHI:	şunu çevir .

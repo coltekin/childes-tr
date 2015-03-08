@@ -104,18 +104,18 @@
 *CHI:	bak oynuyor .
 %com:	recorder
 *CHI:	öyle dönüyor , öyle dönüyor .
-*CHI:	M kapatıyımmı canım bunu da ?
+*CHI:	M kapatıyımmı [: kapatayımmı] canım bunu da ?
 *CHI:	kapat .
 *CHI:	kapat .
-*CHI:	bakıyım .
-*CHI:	kapıyım .
+*CHI:	bakıyım [: bakayım] .
+*CHI:	kapıyım [: kapatayım] .
 *CHI:	a .
 *CHI:	açtım .
 *CHI:	açtı bak .
 *CHI:	kalsın o .
 *CHI:	bunu açıyım .
 *MOT:	dur kapalı dursun .
-*CHI:	bakıyım , açıyım .
+*CHI:	bakıyım [: bakayım] , açıyım [: açayım] .
 *CHI:	bak çalışıyor .
 *CHI:	anneanne bak .
 *CHI:	çalıyor , dönüyor , dönüyor .
@@ -188,9 +188,9 @@
 *CHI:	çikar cıkar .
 *CHI:	cıkar cıkar .
 *CHI:	cıkar cıkar .
-*MOT:	neyi cıkarıyım ?
-*CHI:	cıkar .
-*MOT:	kamyonu mu cıkarıyım ?
+*MOT:	neyi çıkarıyım [: çıkarayım] ?
+*CHI:	çıkar .
+*MOT:	kamyonu mu çıkarıyım [: çıkarayım] ?
 *CHI:	kamyonu çıkar .
 *CHI:	kutu ver .
 *CHI:	kutu ver .
@@ -245,10 +245,10 @@
 *CHI:	iki .
 *CHI:	up da .
 %com:	sound gesture again/ throwing toys around now playing with a car
-*CHI:	cıkıyor , cıkıyor bunlar .
-*CHI:	cıktı.
-*CHI:	kamyon cıktı.
-*CHI:	bu da cıktı.
+*CHI:	çıkıyor , çıkıyor bunlar .
+*CHI:	çıktı.
+*CHI:	kamyon çıktı.
+*CHI:	bu da çıktı.
 *CHI:	bak bibip .
 *CHI:	bu bibip .
 *CHI:	buraya gelsin .
@@ -270,7 +270,7 @@
 *CHI:	hadi .
 *CHI:	açmak istemiyorum .
 *CHI:	up ba , up ba .
-*CHI:	ona bakıyım , bakıyım , kapattın .
+*CHI:	ona bakıyım [: bakayım] , bakıyım [: bakayım] , kapattın .
 *MOT:	nedir bu ?
 *CHI:	para .
 *MOT:	senlen [: senle] beraber başka birşey yapalım biz .
@@ -545,7 +545,7 @@
 *CHI:	yanmıyor .
 *EXP:	niye yakmıyor kapıcı?
 *CHI:	e yakmıyor .
-*CHI:	yakmıyacak .
-*CHI:	hiç yakmıyacak .
+*CHI:	yakmıyacak [: yakmayacak] .
+*CHI:	hiç yakmıyacak [: yakmayacak] .
 %com:	the rest of the speech is recorded as "word order" , although it does not appear like "word order". The interviewer has a note that the child cannot really repeat after her . This must be the reason why it appears to be somewhat like "free speech". I am leaving it out for now , but perhaps we may decide to add it to the text above later on .
 @End

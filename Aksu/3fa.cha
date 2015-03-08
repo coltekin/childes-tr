@@ -452,7 +452,7 @@
 *EXP:	sen cicisin .
 *CHI:	yapmam ki .
 *EXP:	yapmazsın tabii sen .
-*EXP:	bu aşağıdaki şımarık çocuklarla oynamıyım en iyisi ben .
+*EXP:	bu aşağıdaki şımarık çocuklarla oynamıyım [: oynamayayım] en iyisi ben .
 *EXP:	değilmi ?
 *CHI:	ha .
 *CHI:	ben bir daha buraya gelmiycem [: gelmeyeceğim] .
@@ -738,7 +738,7 @@
 *EXP:	dur bakalım şimdi ne okuyum sana ?
 *EXP:	sen bana bir masal anlat .
 *CHI:	cık .
-*EXP:	niye anlatmıyacaksın ?
+*EXP:	niye anlatmıyacaksın [: anlatmayacaksın] ?
 *CHI:	istemiyorum .
 *EXP:	e , ben öyle istiyorum .
 *CHI:	istemiyorum ben .
@@ -899,7 +899,7 @@
 *CHI:	Türkana diyorlar ki .
 *CHI:	Türkanın doğum günü olacak diyorlar .
 *EXP:	aaa , napıcaklarmış [: ne yapacaklarmış] ?
-*CHI:	olmıyacakmış doğum günü demek , olmıyacakmış.
+*CHI:	olmıyacakmış [: olmayacakmış] doğum günü demek , olmıyacakmış [: olmayacakmış] .
 *EXP:	başkalarının doğum günü oluyormu burda ?
 *CHI:	ı ıh .
 *EXP:	aa , yazık .

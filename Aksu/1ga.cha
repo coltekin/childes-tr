@@ -111,7 +111,7 @@
 *EXP:	ne zaman gidiyorsun ?
 *CHI:	arada sırada .
 *EXP:	seviyormuydun okulu ?
-*CHI:	ama okula başlıyacağım .
+*CHI:	ama okula başlıyacağım [: başlayacağım] .
 *EXP:	ne yapıyorsun okulda ?
 *CHI:	oyuncaklar var , oynuyorduk .
 *CHI:	bir sürü oyuncak , dolu .
@@ -134,7 +134,7 @@
 *CHI:	babam , annem , ben , okadar .
 *EXP:	babanı anlat .
 *CHI:	babam inşaate gidiyor .
-*CHI:	yazıhaneye gidıyor .
+*CHI:	yazıhaneye gidiyor .
 *CHI:	heryere gidiyor .
 *CHI:	Beşiktaşa gidiyor .
 *CHI:	uzak yer .
@@ -410,7 +410,7 @@
 *CHI:	yok üstünden atlayacak , direğin üstünden atlayacak at .
 *EXP:	neyin üstünden ?
 *CHI:	direğin .
-*CHI:	atlıyamazı?
+*CHI:	atlıyamaz [: atlayamaz] ?
 *EXP:	atlar .
 *CHI:	çünkü at ayakları vardır .
 *CHI:	şu direk şurda [: şurada] .
@@ -418,8 +418,8 @@
 *CHI:	hepsini dizeyim .
 *CHI:	hepsini durdur .
 *CHI:	çocuk ta [: da] şurda mı çocuk yahu ?
-*CHI:	ben durduruyum onu ama , ben onu durduruyummu ?
-*CHI:	durduruyum onu .
+*CHI:	ben durduruyum [: durdurayım] onu ama , ben onu durduruyummu [: durdurayımmı] ?
+*CHI:	durduruyum [: durdurayım] onu .
 *CHI:	dur , o durmadı , dur .
 *EXP:	bu kızla oğlan ne yapsın ?
 *CHI:	el ele tutsunlar .
@@ -427,7 +427,7 @@
 *CHI:	parka .
 *CHI:	hayvanat bahçesi de burasıymış.
 *CHI:	kedi olmaz tabii .
-*CHI:	onu sokmıyalım .
+*CHI:	onu sokmıyalım [: sokmayalım] .
 *CHI:	şu , şu ne acaba ?
 *EXP:	o kaz .
 *CHI:	kaz; bir tane daha ufak birşey varmı bukadar ?
@@ -518,7 +518,7 @@
 *CHI:	ben bir daha geçireyimmi acaba .
 *EXP:	neresinden geçiyor köprünün ?
 *CHI:	altından .
-*CHI:	çünkü üstünden atlıyamaz zebra da .
+*CHI:	çünkü üstünden atlıyamaz [: atlayamaz] zebra da .
 *CHI:	ben bir araba getireyim , dur , ben .
 *CHI:	ufacık bi araba .
 *CHI:	koskocaman araba .
@@ -542,9 +542,9 @@
 *CHI:	arabayı devirdi zebra .
 *CHI:	zebra korktu .
 *CHI:	arabanın üstünde kaldı diye .
-*CHI:	artık atlıyamaz zebra .
-*CHI:	çunkü atlıyamaz .
-*CHI:	at atlıyabilir .
+*CHI:	artık atlıyamaz [: atlayamaz] zebra .
+*CHI:	çunkü atlıyamaz [: atlayamaz] .
+*CHI:	at atlıyabilir [: atlayabilir] .
 *CHI:	kaldı zebra .
 *CHI:	hop düştü bunun üstünden .
 *CHI:	zebrayı ezecekti araba .
@@ -624,8 +624,8 @@
 *CHI:	zebraya bak , köprünün üstünde .
 *CHI:	kuş ta [: da] zebranın üst , köprünün üstüne geldi .
 *CHI:	kurt ta [: da] geliyor .
-*CHI:	kurt atlıyamaz tabii .
+*CHI:	kurt atlıyamaz [: atlayamaz] tabii .
 *CHI:	kurt amuda kalkabilir .
-*CHI:	zebra atlıyabilir ama kartal kuş xxx .
+*CHI:	zebra atlıyabilir [: atlayabilir] ama kartal kuş xxx .
 *CHI:	gagaladı kartal kuşu , kurdu .
 @End
