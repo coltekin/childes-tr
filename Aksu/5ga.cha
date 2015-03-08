@@ -38,7 +38,7 @@
 *EXP:	geçer .
 *CHI:	kırmızı gözlük alıcam [: alacağım] .
 *EXP:	pek yakışacak sana .
-*CHI:	Nuran xxx te , Nurhan teyzeminde var kırmızı gözlüğü.
+*CHI:	Nuran xxx te [: de] , Nurhan teyzeminde var kırmızı gözlüğü.
 *EXP:	öyle mi .
 *EXP:	benim de var gözlüğüm .
 *EXP:	bak Zühal sen şimdi bana söyle ne oluyor ?
@@ -455,7 +455,7 @@
 *CHI:	bunu köpekler ısırmasın .
 *CHI:	bu akıllı abi , demi [: değilmi] .
 *EXP:	tabii .
-*CHI:	kuyruğundan tutmazsa , köpek te onu yakalar .
+*CHI:	kuyruğundan tutmazsa , köpek te [: de] onu yakalar .
 *CHI:	evlerine götürür .
 *CHI:	şurası mı sizin ev der .
 *CHI:	orası der .

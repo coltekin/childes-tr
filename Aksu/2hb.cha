@@ -502,7 +502,7 @@
 *CHI:	evet .
 *EXP:	kimle çıkıyorsun ?
 *CHI:	Zeyneplen [: Zeyneple] .
-*EXP:	Zeynep te kim ?
+*EXP:	Zeynep te [: de] kim ?
 *CHI:	bu .
 %com:	points the guest child
 *CHI:	gel Zeynep , gel benim yanıma Zeynep .

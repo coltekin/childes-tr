@@ -22,7 +22,7 @@
 *EXP:	hayat zor değil mi ?
 *EXP:	hüçük ukalam benim .
 *CHI:	zor , yerleri silmek zor .
-*EXP:	ev temizlemek te zor .
+*EXP:	ev temizlemek te [: de] zor .
 *CHI:	tabii , bizim xxx toplanmıştı.
 %com:	comments on my hair
 *EXP:	topladım canım .
@@ -562,7 +562,7 @@
 *EXP:	gelsin artık o da değil mi ?
 *CHI:	tabii , geç kaldı.
 *CHI:	hep gelmiyor .
-*EXP:	Nezih te gidiyor .
+*EXP:	Nezih te [: de] gidiyor .
 *CHI:	niye ?
 *EXP:	gitmiyormu Nezih ?
 *CHI:	yoo , okulda Nezih ya .
@@ -602,7 +602,7 @@
 *EXP:	niye koşuyor Nevcihan ?
 %com:	girl upstairs
 *CHI:	arabalardan ezilir diye .
-*CHI:	yok ta , koşuyor arkasından araba geliyor ya ezer .
+*CHI:	yok ta [: da] , koşuyor arkasından araba geliyor ya ezer .
 *EXP:	sen Piraye olmayınca kimle oynuyorsun ?
 *CHI:	Fundayla .
 *EXP:	ne oyunları oynuyorsunuz siz Fundayla ?
@@ -738,9 +738,9 @@
 *CHI:	ben yapamam ki .
 *CHI:	göz yaparım .
 *EXP:	göz yaparsın değil mi ?
-*EXP:	Nezih te boyuyormu ?
+*EXP:	Nezih te [: de] boyuyormu ?
 *CHI:	boyuyor .
-*CHI:	Nezih te okula gidiyor , ders çalışıyor .
+*CHI:	Nezih te [: de] okula gidiyor , ders çalışıyor .
 *EXP:	fakat bu kazağın çok güzel .
 *EXP:	kim verdi onu sana ?
 *CHI:	kimse vermedi .

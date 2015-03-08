@@ -61,8 +61,8 @@
 *CHI:	o tarafa .
 *CHI:	ver otomobili bana hıı.
 *CHI:	anne gene fruko getir .
-*CHI:	bebek te şurda dursun .
-*CHI:	bebek te .
+*CHI:	bebek te [: de] şurda dursun .
+*CHI:	bebek te [: de] .
 *EXP:	köprünün içine girmez girer mi ?
 *CHI:	girmez .
 *CHI:	bebek girer .
@@ -646,7 +646,7 @@
 *CHI:	ben de severim .
 *EXP:	yavru köpekler güzel olur değilmi ?
 *CHI:	güzel olur yavru köpekler .
-*CHI:	köpek te seni yakalasın .
+*CHI:	köpek te [: de] seni yakalasın .
 %com:	screams
 *EXP:	köpekler ne yapar ?
 *EXP:	anlat sen bana biraz .

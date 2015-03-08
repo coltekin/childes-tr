@@ -90,7 +90,7 @@
 *CHI:	içiyor bizim köpekler .
 *EXP:	sen niçin su içersin ?
 *CHI:	insanız , biz insanız .
-*CHI:	köpek te xxx .
+*CHI:	köpek te [: de] xxx .
 *EXP:	peki köpeklerden başka neler var dışarda ?
 *CHI:	yapraklar .
 *CHI:	hiç birşey yok .
@@ -438,7 +438,7 @@
 *CHI:	ayağın altına .
 *EXP:	üst tarafa halı koydular ha ?
 *CHI:	evet .
-*EXP:	peki birazcık ta babandan bahset .
+*EXP:	peki birazcık ta [: da] babandan bahset .
 *EXP:	baban nasıl ?
 *CHI:	babam .
 *EXP:	ha ?
@@ -611,7 +611,7 @@
 *CHI:	hiçbirşey yapmasakta ısırır .
 *EXP:	niçin ?
 *CHI:	yaramazlık yaparsak ısırır .
-*CHI:	yaramazlık ta yapmazsak ısırır .
+*CHI:	yaramazlık ta [: da] yapmazsak ısırır .
 *EXP:	eh , hiç balık tuttunmu ?
 *CHI:	hayır .
 *EXP:	balık nasıl şey biliyorsun ama değilmi ?

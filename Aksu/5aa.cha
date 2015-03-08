@@ -437,7 +437,7 @@
 *CHI:	bak bunun arabasına binemiyor .
 *EXP:	binemiyormu ?
 *CHI:	binemiyor ya , binemiyor bu .
-*EXP:	küçük bebek te , onun için binemiyor .
+*EXP:	küçük bebek te [: de] , onun için binemiyor .
 *CHI:	donunu çıkartıver bana donunu .
 *EXP:	çıkartmasın .
 *EXP:	bak kahve fincanına bak .

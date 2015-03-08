@@ -49,7 +49,7 @@
 *CHI:	oynuyoruz .
 *EXP:	dışarıda ne yapıyorsunuz ?
 *CHI:	kuyu kazıyoruz .
-*CHI:	Arif te var .
+*CHI:	Arif te [: de] var .
 *EXP:	efendim ?
 *CHI:	Arif , Arif .
 *EXP:	nasıl kazıyorsunuz kuyuyu ?
@@ -409,7 +409,7 @@
 *CHI:	bu şey burda [: burada] .
 *CHI:	bu şeyler bunun içinde .
 *CHI:	bu şey de burda [: burada] .
-*CHI:	bu taş ta nerde ?
+*CHI:	bu taş ta [: da] nerde ?
 *CHI:	kahvenin içinde .
 %com:	meaning in the coffee cup
 *EXP:	kahve nasıl pişirilir ?
