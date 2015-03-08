@@ -69,9 +69,9 @@
 *CHI:	orda bak .
 *CHI:	oturmuş.
 *CHI:	çabuk .
-*CHI:	bukadar .
-*CHI:	oturur bukadar .
-*CHI:	dur bukadar .
+*CHI:	bu kadar .
+*CHI:	oturur bu kadar .
+*CHI:	dur bu kadar .
 *CHI:	o xxx tı.
 *MOT:	hadi şarkı söyle bir tane .
 *CHI:	bir iki üç.
@@ -479,7 +479,7 @@
 *EXP:	neyle temizliyor ?
 *CHI:	bezlen [: bezle] .
 *CHI:	ay bak buraya ra xxx .
-*EXP:	baba eve gelecekmi aksa'm ?
+*EXP:	baba eve gelecekmi akşam ?
 *CHI:	gelecek .
 *EXP:	okuyacakmı?
 *CHI:	okuyacak .

@@ -83,7 +83,7 @@
 *MOT:	niçin temizliyor ?
 *CHI:	pis olunca temizliyor .
 *EXP:	Vahide , sen hiç masal biliyormusun ?
-*EXP:	birtane anlat bize .
+*EXP:	bir tane anlat bize .
 *CHI:	anlatmıyorum ben masal .
 *CHI:	bilmiyorum .
 *EXP:	bilirsin .
@@ -183,7 +183,7 @@
 *CHI:	ben düşecem dedi bana .
 *EXP:	hı?
 *CHI:	xxx (çiçek) xxx (şimdi) .
-*EXP:	düşe'cekmi ?
+*EXP:	düşecekmi ?
 *CHI:	çek .
 *EXP:	çiçek ?
 *CHI:	çek bu xxx (işte) (bak) xxx .
@@ -293,7 +293,7 @@
 *CHI:	ben çay içmiyorum .
 *CHI:	Bon içiyor .
 *CHI:	ben çay da içtim , Bon da içti .
-*CHI:	a , birtane , aaa , annem .
+*CHI:	a , bir tane , aaa , annem .
 %com:	mother interprets this as: "annem görünüyor"
 *CHI:	içeri gir , içeri , dışarda üşürsün .
 *CHI:	çok sogük .

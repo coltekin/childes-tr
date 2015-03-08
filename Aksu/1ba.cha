@@ -334,7 +334,7 @@
 *EXP:	nasıl atıyorsun ?
 *CHI:	böyle .
 %com:	gestures
-*EXP:	bana birazcık yazı yaz , ben sana birtane kağıt buluyum .
+*EXP:	bana birazcık yazı yaz , ben sana bir tane kağıt buluyum .
 *CHI:	kağıt .
 *EXP:	bana oraya bir resim yapsana .
 *EXP:	ne yapıyorsun ?
@@ -544,7 +544,7 @@
 *CHI:	kalemle .
 *EXP:	nereye yazdın ?
 *CHI:	deftere .
-*EXP:	bak birtane balık , kırmızı balık .
+*EXP:	bak bir tane balık , kırmızı balık .
 *CHI:	nerde balık ?
 *EXP:	elimde balık .
 *CHI:	nerde ?

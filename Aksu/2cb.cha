@@ -98,13 +98,13 @@
 *EXP:	al .
 *CHI:	nerde çocuk ?
 *EXP:	işte .
-*CHI:	birtane daha varmı?
+*CHI:	bir tane daha varmı?
 *EXP:	bak bir kız , bir de oğlan .
 *CHI:	bunlar girsin .
 *EXP:	nereye girsinler ?
 *CHI:	eve girsinler .
 *EXP:	ne yapıyorlar o çocuklar beraber ?
-*CHI:	birtanesi xxx mış.
+*CHI:	bir tanesi xxx mış.
 *CHI:	çocuklar .
 *CHI:	a bebeğe bak .
 *CHI:	bu bebek ?
@@ -128,7 +128,7 @@
 *CHI:	bebeğe baktım .
 *EXP:	bak bu çocuklar ne yapıyorlar ?
 *CHI:	köprüye çıktılar .
-*CHI:	ah , birtane .
+*CHI:	ah , bir tane .
 *EXP:	bak ne yaptı bu ?
 *CHI:	gitti .
 *EXP:	koştu değilmi ?

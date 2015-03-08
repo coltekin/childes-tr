@@ -64,7 +64,7 @@
 *CHI:	acımadım .
 *EXP:	dövüyormuş sahibi eşeği .
 *CHI:	döğmüyormuş.
-*CHI:	hayır' döğmüyormuş.
+*CHI:	hayır döğmüyormuş.
 *CHI:	döğmüyormuş.
 *EXP:	ne yapıyormuş ya ?
 *EXP:	parkta ne yaptınız ?
@@ -132,7 +132,7 @@
 *EXP:	sen süt içermisin ?
 *CHI:	içerim .
 *EXP:	neyle içersin ?
-*CHI:	babam bana herzaman milkshake yapıyor , milkshake de .
+*CHI:	babam bana her zaman milkshake yapıyor , milkshake de .
 *CHI:	içerim , süt de içerim .
 *EXP:	neyle içiyorsun sütü?
 *CHI:	bardağımla .
@@ -278,7 +278,7 @@
 *EXP:	kim aldı?
 *CHI:	Ankaradan , babam .
 *EXP:	pil alın .
-*CHI:	ayni pili bulmak la'zım .
+*CHI:	ayni pili bulmak lazım .
 *CHI:	başka pilsiz işliyemez .
 %com:	he means: başka pille işleyemez .
 *CHI:	onun pili beyaz pil .
@@ -679,5 +679,5 @@
 *CHI:	evden kovmuş.
 *CHI:	masal da xxx kahkahalarla gülmüşler .
 *CHI:	masal da burda bitmiş.
-*CHI:	bukadar .
+*CHI:	bu kadar .
 @End

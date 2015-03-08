@@ -159,7 +159,7 @@
 *EXP:	sen bana bir yol yaparmısın .
 *CHI:	yaparsın .
 *EXP:	al bunları sen bana dümdüz bir yol yap .
-*CHI:	birtane daha .
+*CHI:	bir tane daha .
 *CHI:	onu da .
 *EXP:	evet .
 *EXP:	koy bakalım da göreyim .
@@ -295,7 +295,7 @@
 *EXP:	köpeğin öyle kürkü var .
 *CHI:	onun .
 *EXP:	onun puanı yok , o kara kediymiş.
-*EXP:	hani birtane karakedi biliyorsun ya , ne olmuştu kara kedi ?
+*EXP:	hani bir tane karakedi biliyorsun ya , ne olmuştu kara kedi ?
 *CHI:	hı.
 *EXP:	kara kedi ne olmuştu ?
 *CHI:	uf olmuştu .
@@ -349,7 +349,7 @@
 *CHI:	bebek geliyor .
 %com:	a doll on a bus
 *EXP:	ne yapıyorsun ?
-*CHI:	birtane daha koyuyorsun .
+*CHI:	bir tane daha koyuyorsun .
 %com:	the interviewer's note: "note the use of the second person singular
 *EXP:	çıkart onları ondan .
 *CHI:	sen çıkart onları.
@@ -376,7 +376,7 @@
 %com:	he puts the toy buses
 *CHI:	anne ben sana dizdim .
 *CHI:	bunun mamasını.
-*CHI:	anne birtane xxx .
+*CHI:	anne bir tane xxx .
 *CHI:	anne onun maması nede ?
 *MOT:	mamasını yemiş bitirmiş.
 *CHI:	yok .

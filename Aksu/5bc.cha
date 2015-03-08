@@ -247,7 +247,7 @@
 *CHI:	senin de trenin varmı?
 *DAN:	yok .
 *CHI:	var .
-*EXP:	yokmuş , istersen al birtane çarşıya çıkınca .
+*EXP:	yokmuş , istersen al bir tane çarşıya çıkınca .
 *CHI:	bak burda xxx yanıyor .
 *CHI:	bu sönmüş.
 *EXP:	niye yanıyor acaba bu üçak ?
@@ -727,7 +727,7 @@
 *CHI:	devrilir .
 *EXP:	devrilir tabii .
 *CHI:	niçin yapmam ?
-*CHI:	bukadar yaparım .
+*CHI:	bu kadar yaparım .
 *CHI:	kitapları versene bana .
 *DAN:	hangi kitapları?
 *CHI:	alış verişi ver .

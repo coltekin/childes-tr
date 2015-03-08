@@ -324,7 +324,7 @@
 *CHI:	kapattım kapisını.
 *CHI:	gen açtım .
 *CHI:	gene .
-*FAT:	Burçakcım , sen çarşıya kimlen [: kimle] gitmiştin dün ?
+*FAT:	Burçakcım [: Burçakçığım] , sen çarşıya kimlen [: kimle] gitmiştin dün ?
 *FAT:	kimlen [: kimle] gittin ?
 *FAT:	Arı Pastahanesıne kimlen [: kimle] gittin ?
 *CHI:	aninoyla .
@@ -352,7 +352,7 @@
 *CHI:	hı.
 *EXP:	nasıl yüzüyorsun , göster bana .
 *CHI:	simitsiz yüzüyorum .
-*EXP:	simitsiz yüzüyorsun , nasıl y'züyorsun göster bana .
+*EXP:	simitsiz yüzüyorsun , nasıl yüzüyorsun göster bana .
 *EXP:	deniz topun varmı?
 *CHI:	yok .
 *EXP:	e sana bir deniz topu alalım .
@@ -372,7 +372,7 @@
 *FAT:	niçin ?
 *CHI:	işte .
 *FAT:	ne var vurda da köpük çıkarıyor ?
-*CHI:	köp'ük .
+*CHI:	köpük .
 *CHI:	vuttttt .
 %com:	again imitating the sound of a ship's horn
 *FAT:	Burçak , vapurun nesi var burda ?
@@ -388,7 +388,7 @@
 *EXP:	niçin düdük çalar vapurlar ?
 *CHI:	işte .
 *CHI:	vutt .
-*EXP:	Burçakcım annen nerde ?
+*EXP:	Burçakcım [: Burçakçığım] annen nerde ?
 *CHI:	gitti .
 *EXP:	nereye gitti ?
 *CHI:	gitti işte .
@@ -466,7 +466,7 @@
 *CHI:	ben uyuyorum .
 *EXP:	ne zaman ?
 *CHI:	birazdan .
-*EXP:	peki Burçakcım , yerleri kim temizliyor ?
+*EXP:	peki Burçakcım [: Burçakçığım] , yerleri kim temizliyor ?
 *CHI:	nine .
 *FAT:	adı ne ninenin ?
 *CHI:	Remziye Güney .
@@ -494,7 +494,7 @@
 *CHI:	böyle toz atıyorum ben , nene de siliyor böyle .
 *FAT:	Burçak , ütü yapıyormu nine ?
 *CHI:	yapıyor .
-*FAT:	ne zaman yapıyor üt'uyü nine ?
+*FAT:	ne zaman yapıyor ütüyü nine ?
 %com:	no response
 *FAT:	ne zaman yapıyor ?
 *CHI:	nine ütüyü yapıyor , getiriyor , oraya getiriyor .
@@ -508,7 +508,7 @@
 *CHI:	kırmızı yanıyor .
 *CHI:	yanıyor , sönüyor .
 *CHI:	onun .
-*FAT:	peki Burçakcım , babacık okuyormu , kitap okuyormu hiç?
+*FAT:	peki Burçakcım [: Burçakçığım] , babacık okuyormu , kitap okuyormu hiç?
 *CHI:	okumuyor .
 *FAT:	baba kitap okumuyormu hiç , yazı yazmıyormu daktiloda ?
 *CHI:	yazmıyor .
@@ -550,7 +550,7 @@
 *CHI:	yiyorum .
 *FAT:	söyle bakalım Burçak , nasıl söyleyeceksin ?
 %com:	no response
-*EXP:	Burçakcım sen dışarıya kimle gidiyorsun ?
+*EXP:	Burçakcım [: Burçakçığım] sen dışarıya kimle gidiyorsun ?
 %com:	no response
 *EXP:	ha canım ?
 *EXP:	yalnız başına mı gidersin ?
@@ -680,7 +680,7 @@
 *FAT:	peki niye geliyor ?
 *CHI:	işte .
 *FAT:	a işte olurmu ?
-*FAT:	söyle bakalım Burçakcım niçin geliyor vapur ?
+*FAT:	söyle bakalım Burçakcım [: Burçakçığım] niçin geliyor vapur ?
 *CHI:	işte .
 *FAT:	peki biz anneyi niçin alıyoruz vapurdan ?
 *CHI:	alıyoruz .
@@ -691,18 +691,18 @@
 *FAT:	söyle sen söyle , almazsak ne olur ?
 *CHI:	bak ne olmuş?
 *FAT:	ne olmuş Burçak ?
-*FAT:	Burçakcım bak biz arabayla giderken bize yol veriyorlarmı.
+*FAT:	Burçakcım [: Burçakçığım] bak biz arabayla giderken bize yol veriyorlarmı.
 *FAT:	vermiyorlarmı?
 *CHI:	vermiyorlar .
 *FAT:	niçin vermiyorlar ?
 *CHI:	işte .
 *FAT:	peki Burçak biz kulübe gidiyormuyuz yüzmeye ?
-*FAT:	Burçak , Burçakcım .
+*FAT:	Burçak , Burçakcım [: Burçakçığım] .
 *EXP:	a konuşmayacaksan ben gideyim öyleyse .
 *CHI:	nereye gidiyorsun ?
 %com:	to the examiner
 *EXP:	su içecem [: içeceğim] .
-*FAT:	su içecek olurmu oğlum; Burçakcım biz senlen [: senle] konuşalım .
+*FAT:	su içecek olurmu oğlum; Burçakcım [: Burçakçığım] biz senlen [: senle] konuşalım .
 *FAT:	Burçak biz kulübe yüzmeye gidiyormuyuz ?
 *CHI:	gidiyoruz .
 *FAT:	niçin gidiyoruz ?
@@ -777,12 +777,12 @@
 *FAT:	peki helikopter niçin uçuyor ?
 *CHI:	bak .
 *CHI:	bak içerde bak .
-*FAT:	Bur'cak , baba nasıl yüzüyor denizde söylesene .
+*FAT:	Burçak , baba nasıl yüzüyor denizde söylesene .
 *FAT:	Burçak aaa .
 *FAT:	konuşmadan olmaz ki .
 *CHI:	bakacam [: bakacağım] .
 *FAT:	çok üzülürüm ama !
-*FAT:	Burçakcım bir dakika bak , açma orayı.
+*FAT:	Burçakcım [: Burçakçığım] bir dakika bak , açma orayı.
 *CHI:	açacam [: açacağım] .
 *EXP:	sen konuşmuyorsun benlen [: benle] diye üzüldüm .
 *EXP:	nerde anino ?

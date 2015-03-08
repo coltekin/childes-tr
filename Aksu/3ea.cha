@@ -129,9 +129,9 @@
 *CHI:	bak .
 *MOT:	onları kim arayacak ?
 *CHI:	şu aramayacak .
-*CHI:	birtane , birtane .
+*CHI:	bir tane , bir tane .
 *MOT:	neden aramayacak ?
-*CHI:	birtane versene .
+*CHI:	bir tane versene .
 *CHI:	dolu versene .
 *EXP:	ne vereyim ?
 *CHI:	araba .
@@ -233,7 +233,7 @@
 %com:	no response
 *MOT:	hadi bırakalım .
 %com:	asks him to leave the toy .
-*CHI:	bir'akmayalım .
+*CHI:	bırakmayalım .
 *CHI:	burayı kapatalım .
 %com:	house covered with roof
 *EXP:	kapattık .
@@ -247,7 +247,7 @@
 %com:	plaklar
 *CHI:	parka gittik .
 *CHI:	bıraktım parkada [: parkta] .
-*MOT:	çocuk bahçesi açık mı Mıst'ik ?
+*MOT:	çocuk bahçesi açık mı Mıstık ?
 *CHI:	açık .
 *EXP:	hangi bahçe ?
 *CHI:	iki tane bahçe .
@@ -270,7 +270,7 @@
 *CHI:	baba .
 *EXP:	Hasan baba ?
 *CHI:	baba .
-*MOT:	adı , ad'i .
+*MOT:	adı , adı .
 *CHI:	Hasan .
 *MOT:	benim adım ne ?
 *MOT:	annemin adı ne ?
@@ -282,7 +282,7 @@
 *EXP:	nereye götürüyor ?
 *CHI:	şey götürüyor .
 *MOT:	nereye götürüyor baba seni ?
-*CHI:	şey göt'urüyor , parka .
+*CHI:	şey götürüyor , parka .
 %com:	correct way of saying the above would be "şeye götürüyor xxx "
 *EXP:	dün akşam nereye gittin hatırlıyormusun ?
 *CHI:	sen sorma bu da .
@@ -348,7 +348,7 @@
 *CHI:	ayım da yok .
 *EXP:	köpek ?
 *CHI:	köpek te [: de] yok .
-*EXP:	hiç birtanesi yok , o zaman sana biraz oyuncak alalım .
+*EXP:	hiç bir tanesi yok , o zaman sana biraz oyuncak alalım .
 *CHI:	alma .
 *EXP:	niçin ?
 *CHI:	yok oyuncaklarım be .

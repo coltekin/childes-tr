@@ -280,7 +280,7 @@
 *CHI:	ha .
 *EXP:	enişten nerde ?
 *CHI:	eniştem de dükkanda .
-*CHI:	bukadar araba değilmi ?
+*CHI:	bu kadar araba değilmi ?
 *EXP:	cumartesi pazar enişten geliyormu ?
 *CHI:	geliyor ama karanlıkta geliyor .
 *CHI:	gidiyor sabahleyin , sonra da gidiyor karanlıkta geliyor .
@@ -345,14 +345,14 @@
 *EXP:	peki , yap bir Akbank .
 *CHI:	biraz böyle yol yaptım .
 *EXP:	yolun üstüne ne yapacaksın ?
-*GRM:	birtane top yap bakayım .
+*GRM:	bir tane top yap bakayım .
 *CHI:	top yapamam be .
 *GRM:	böyle yapacaaksın .
 *CHI:	kocaman .
 *GRM:	aferin .
 *CHI:	ayyy .
 %com:	laughs
-*GRM:	silme , silme güzel oldu , birtane daha yap .
+*GRM:	silme , silme güzel oldu , bir tane daha yap .
 *CHI:	peki .
 *EXP:	bir de çiçek yap .
 *CHI:	yap .
@@ -448,7 +448,7 @@
 *CHI:	böyle çeviriyorum , çeviriyorum .
 *CHI:	o yaramaz yaramaz .
 %com:	commenting on the brother
-*GRM:	Levent , yar'in sabah nereye gidelim ?
+*GRM:	Levent , yarın sabah nereye gidelim ?
 *CHI:	yarın sabah dişçiye gidelim hadi .
 *EXP:	dişçide dişine baktılarmı senin ?
 *CHI:	bakmadılar .

@@ -206,7 +206,7 @@
 *EXP:	başka birşey okurmu ?
 *CHI:	bunu bozma .
 *CHI:	bozuyormusun ?
-*EXP:	onu bozuyorum , çünkü ba'ka şey oynayacağım senlen [: senle] .
+*EXP:	onu bozuyorum , çünkü başka şey oynayacağım senlen [: senle] .
 *CHI:	ha , bunu bozuyorsun .
 *CHI:	bunları kırmıyorsun .
 *EXP:	bunları kırmıyorum .
@@ -439,7 +439,7 @@
 *EXP:	bak Muratcım , kuşun bu nesi ?
 *CHI:	bunun bir aynı var .
 %com:	points outside
-*CHI:	bak birtane geçti , ona benziyor .
+*CHI:	bak bir tane geçti , ona benziyor .
 %com:	referring to a bird
 *EXP:	kuşlar nasıl uçar ?
 *CHI:	kanadını açar , fırlar dışarı.
