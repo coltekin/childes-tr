@@ -6,7 +6,7 @@
 @ID:	tur|Aksu|CHI|3;4.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
-*EXP:	bak canım sen bu teybi beyendinmi ?
+*EXP:	bak canım sen bu teybi beyendinmi [: beğendinmi] ?
 *EXP:	onu açacam tabii , otur sen buraya .
 *EXP:	hepsini bunların çıkartacağım , oynayacağım seninle .
 *CHI:	ne var burada ?
@@ -200,7 +200,7 @@
 *EXP:	teyzen var mı canım senin ?
 *CHI:	yok .
 *MOT:	kim teyze ?
-*EXP:	gel sen bana anlat bunu biraz , bu uçağin kanatları var mı.
+*EXP:	gel sen bana anlat bunu biraz , bu uçağın kanatları var mı.
 *EXP:	canım ?
 *CHI:	var .
 *EXP:	nerede kanatları?
@@ -215,7 +215,7 @@
 *EXP:	sen hiç uçağa bindinmi ?
 *CHI:	bindim .
 *EXP:	ne zaman bindin ?
-*CHI:	iki büçukta .
+*CHI:	iki buçukta .
 *EXP:	ne yapıyorsun Mustafa ?
 *CHI:	dönmüyor .
 *MOT:	dönmüyormu ?
@@ -252,7 +252,7 @@
 *EXP:	hangi bahçe ?
 *CHI:	iki tane bahçe .
 *MOT:	nerde ?
-*CHI:	iki büçükta .
+*CHI:	iki buçukta .
 *CHI:	bak bak bak .
 *CHI:	pencereden bakalım .
 *MOT:	şimdi sen onları bırak , uyuyorlar .
@@ -262,7 +262,7 @@
 *CHI:	oynuyor .
 *EXP:	kimlen [: kimle] oynuyor ?
 *CHI:	Mıstıkla .
-*EXP:	bekcı babanın adı var mı?
+*EXP:	bekçi babanın adı var mı?
 *CHI:	var .
 *EXP:	babanın adı ne senin ?
 *CHI:	babam ?
@@ -276,7 +276,7 @@
 *MOT:	annemin adı ne ?
 *CHI:	Ülker .
 *EXP:	baban seni gezmeye götürüyormu ?
-*CHI:	ğtürmüyor .
+*CHI:	götürmüyor .
 *EXP:	götürmüyormu ?
 *CHI:	götürüyor .
 *EXP:	nereye götürüyor ?
@@ -336,7 +336,7 @@
 *MOT:	teyze gidecek .
 *CHI:	gitmesin .
 *MOT:	bu oyuncakları ver teyzeye , sen git kendi oyuncaklarını getir .
-*CHI:	yok , yok bütün oyuncaklarım benım .
+*CHI:	yok , yok bütün oyuncaklarım benim .
 *EXP:	hiç yokmu oyuncağın ?
 *CHI:	yok .
 *EXP:	vah yazık .
@@ -367,15 +367,15 @@
 *EXP:	kaçta uyudun ?
 *EXP:	ne zaman uyudun ?
 *CHI:	dokuzda .
-*EXP:	sen bugün dışarıya çiktınmı?
-*CHI:	çiktım .
+*EXP:	sen bugün dışarıya çıktınmı?
+*CHI:	çıktım .
 *EXP:	oynadınmı?
 *CHI:	oynadım .
 *EXP:	kimlen [: kimle] oynadın ?
 *CHI:	Semihlen [: Semihle] .
 *EXP:	o da kim ?
 *EXP:	o da kim ?
-*EXP:	kiminle koştün ?
+*EXP:	kiminle koştun ?
 *CHI:	iki tane koştum .
 *EXP:	niye koştunuz ?
 *EXP:	niçin koştunuz ?

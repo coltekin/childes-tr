@@ -76,7 +76,7 @@
 *CHI:	elmalar .
 *CHI:	başka ?
 *CHI:	birşey görmüyorum .
-*EXP:	şimdi şuradan baksan neler görürsun ?
+*EXP:	şimdi şuradan baksan neler görürsün ?
 %com:	she means the view out of the window
 *CHI:	ağaçlar .
 *CHI:	ağaç.
@@ -212,12 +212,12 @@
 *CHI:	parmağımı soktum .
 *EXP:	ee xxx .
 *CHI:	sonra sıkıştı.
-*EXP:	başka birşey söyliyecenmi [: soyleyecekmisin] ?
+*EXP:	başka birşey söyliyecenmi [: söyleyecekmisin] ?
 *EXP:	sen bir hikaye biliyormusun ?
 *CHI:	bilmiyorum .
 *MOT:	üç keçiciği anlat .
 *CHI:	ben onu sevmiyorum .
-*MOT:	peki , Arslan Mehmetcik'i söyle .
+*MOT:	peki , Arslan Mehmetçik'i söyle .
 *MOT:	kargayı anlat .
 *CHI:	birgün bir birgün parça aptal karga , peynir çalmış.
 *CHI:	uçmuş , bir dala konmuş.
@@ -437,7 +437,7 @@
 *CHI:	ben yapmam .
 *CHI:	anneannem yapar .
 *EXP:	nasıl yapıyor ?
-*CHI:	bayaği yapıliyor .
+*CHI:	bayağı yapılıyor .
 *CHI:	kahveyi döküyor .
 *CHI:	biz kahve çekiyoruz .
 *CHI:	sonra biz .
@@ -498,8 +498,8 @@
 *CHI:	bardakla .
 *CHI:	bardakla içiyorum .
 *EXP:	kimle oynuyorsun ?
-*CHI:	Ilhanla .
-*EXP:	Ilhan kim ?
+*CHI:	İlhanla .
+*EXP:	İlhan kim ?
 *EXP:	kim o ?
 *CHI:	yukardakiler .
 *EXP:	o aşağı geliyormu ?

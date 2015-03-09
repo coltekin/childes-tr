@@ -48,7 +48,7 @@
 *CHI:	tamam .
 *EXP:	veriyimmi tekrar , ver .
 *CHI:	istiyorum .
-*CHI:	buda bırakırsan araabaları.
+*CHI:	buda bırakırsan arabaları.
 *CHI:	burda kalsın .
 *CHI:	arabalar da bizde kalsın .
 *CHI:	oraya saklıyalım [: saklayalım] .
@@ -102,8 +102,8 @@
 *CHI:	ha sıcaktı.
 *EXP:	soğuk suda [: suyu da] [?] açtık değilmi ?
 *CHI:	sonra da minibüse bindik .
-*CHI:	hertarafa bindik .
-*CHI:	hertarafa götürdün beni .
+*CHI:	her tarafa bindik .
+*CHI:	her tarafa götürdün beni .
 *CHI:	çünkü hasta oldum .
 *CHI:	ver otomobili .
 *MOT:	ne içtin başka , çay içtinmi ?
@@ -164,7 +164,7 @@
 *CHI:	babam yolluyor .
 *EXP:	nerde baban senin ?
 *CHI:	arabada , Mercedes almış.
-*EXP:	aman ne güzel , sen beyendinmi , bindinmi ?
+*EXP:	aman ne güzel , sen beğendinmi , bindinmi ?
 *CHI:	beyendim , böyle bindim .
 *CHI:	arabasını elledim böyle .
 *CHI:	tutarken elledim bir baktım tekerleklerin burası.
@@ -175,7 +175,7 @@
 *CHI:	kaza oldu .
 *CHI:	sonra da çıktı arabadan .
 *CHI:	sonra bindi gitti .
-*CHI:	sonradan arabbanın kenarısına [: kenarına] geldi .
+*CHI:	sonradan arabanın kenarısına [: kenarına] geldi .
 %com:	"kenarısı" is not correct; correct form: "kenarı". the child added an extra suffix sonra o girdi ona .
 *CHI:	değilmi bağırdı.
 *CHI:	sonra da arabaya bindi garaja gitti .
@@ -274,7 +274,7 @@
 *EXP:	peki sen dışarıya kimle gidiyorsun ?
 *CHI:	halamla gidiyorum .
 *EXP:	ne yapıyorsunuz dışarda ?
-*CHI:	beraber gidioruz .
+*CHI:	beraber gidiyoruz .
 *CHI:	çıkmıyoruz tabii .
 *EXP:	beraber yemeklik mi alıyorsunuz ?
 *CHI:	ha .
@@ -331,7 +331,7 @@
 *CHI:	hiç defterlen [: defterle] resim yaparım .
 *CHI:	gızzzz .
 %com:	sound gesture
-*MOT:	kalemsiiz olurmu ?
+*MOT:	kalemsiz olurmu ?
 *CHI:	olur .
 *EXP:	buraya yapmak istermisin resim ?
 *CHI:	yaparım .
@@ -347,7 +347,7 @@
 *EXP:	yolun üstüne ne yapacaksın ?
 *GRM:	bir tane top yap bakayım .
 *CHI:	top yapamam be .
-*GRM:	böyle yapacaaksın .
+*GRM:	böyle yapacaksın .
 *CHI:	kocaman .
 *GRM:	aferin .
 *CHI:	ayyy .
@@ -414,7 +414,7 @@
 *CHI:	alıyor sularla .
 *EXP:	niye süpürüyor , neden ?
 *CHI:	sonra sular da yere şakır şakır .
-*CHI:	yağmış , sonrra da yerler de su içinde kalmış.
+*CHI:	yağmış , sonra da yerler de su içinde kalmış.
 *CHI:	Elmas teyzem de siliyor yerleri bezlen [: bezle] .
 *EXP:	peki neden süpürüyor ?
 *CHI:	süpürüyor , gırgırlıyor .
@@ -440,7 +440,7 @@
 *CHI:	gazte [: gazete] .
 *EXP:	baban seni gezmeye götürüyormu Levent ?
 *CHI:	götürüyor .
-*EXP:	nereye gotürüyor ?
+*EXP:	nereye götürüyor ?
 *CHI:	pastahaneye .
 *EXP:	pastahanede ne görüyorsun sen , ne yapıyorsun orda ?
 *CHI:	pastahanede arabalara biniyorum .
@@ -462,7 +462,7 @@
 *EXP:	hadi evimize gidelimmi ?
 *CHI:	şimdi değil .
 *CHI:	öğretmen burda benlen [: benle] konuştu , bunları getirdi .
-*EXP:	Barboroşa uğrıyalım [: uğrayalım] giderken .
+*EXP:	Barborosa uğrıyalım [: uğrayalım] giderken .
 *CHI:	yo [: yok] şimdi değil .
 *CHI:	şu öğretmen gitsin de öyle gidelim .
 *EXP:	olur .
@@ -477,7 +477,7 @@
 *CHI:	yalan söyleyenlere ne yapacaksın ?
 *EXP:	sen yalan değil , şaka yapıyorsun .
 *CHI:	şaka yapıyorum .
-*EXP:	ben ne yedim biliyormmusun ?
+*EXP:	ben ne yedim biliyormusun ?
 *EXP:	balık .
 *CHI:	aaaa !
 %com:	surprised

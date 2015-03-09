@@ -17,7 +17,7 @@
 *CHI:	ev yapsana .
 *EXP:	oynama mikrofonla .
 *EXP:	dikkat et .
-*EXP:	ne yapıyor kezban teyze ?
+*EXP:	ne yapıyor Kezban teyze ?
 *CHI:	arabayı ver .
 *CHI:	nerede ?
 *EXP:	yüksek sesle konuş.
@@ -385,7 +385,7 @@
 *GCH:	peki senin arkadaşların kim ?
 *EXP:	isimlerini saysana bana .
 *EXP:	kim var ?
-*CHI:	şey var , Ilhan .
+*CHI:	şey var , İlhan .
 *GCH:	başka kim var ?
 *CHI:	başka yok .
 *CHI:	bundan daha .
@@ -398,7 +398,7 @@
 *EXP:	sen otur , bakarlar .
 %com:	runs to door
 *CHI:	gel sen buraya .
-*CHI:	bunuda .
+*CHI:	bunu da .
 %com:	playing with the beads still
 *EXP:	kapı çalındı değil mi ?
 *EXP:	kim gelmiş Mustafa ?

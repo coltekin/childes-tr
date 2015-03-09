@@ -59,13 +59,13 @@
 *EXP:	kim öğretti bunu sana ?
 *CHI:	kendi kendime öğrendim .
 *CHI:	ama sinemadan öğren .
-*CHI:	ama televizyondan oğrendim .
+*CHI:	ama televizyondan öğrendim .
 *EXP:	acıdınmı eşeğe ?
 *CHI:	acımadım .
 *EXP:	dövüyormuş sahibi eşeği .
-*CHI:	döğmüyormuş.
-*CHI:	hayır döğmüyormuş.
-*CHI:	döğmüyormuş.
+*CHI:	döğmüyormuş [: dövmüyormuş] .
+*CHI:	hayır döğmüyormuş [: dövmüyormuş] .
+*CHI:	döğmüyormuş [: dövmüyormuş] .
 *EXP:	ne yapıyormuş ya ?
 *EXP:	parkta ne yaptınız ?
 *EXP:	kedileri anlat bana .
@@ -86,7 +86,7 @@
 *EXP:	tırmalamazlarmı ama ?
 *CHI:	tırmalarlar ama .
 *EXP:	niye tırmalar kediler ?
-*CHI:	çünkü insanlar kızdırdıgı için .
+*CHI:	çünkü insanlar kızdırdığı için .
 *CHI:	ama bir de yavruları korktuğu için insanlardan yine .
 %com:	devrik cümle .
 *CHI:	tırmalarlar , korktukları için yavrular .
@@ -165,7 +165,7 @@
 *CHI:	bir ağı vardı.
 *CHI:	atarlar gemiden ağyı [: ağı] .
 *CHI:	ağ bütün balıkları içine alır .
-*CHI:	kapanır , sıkışır yani o ağnın kapısı.
+*CHI:	kapanır , sıkışır yani o ağın kapısı.
 *CHI:	kapı gemiye bütün xxx .
 *CHI:	dökerler balıkları motorlara .
 *CHI:	motorla İstanbula getirir motorlar .
@@ -244,7 +244,7 @@
 *CHI:	ikisinde de ayni şey .
 *EXP:	ikisi de ayni .
 *CHI:	ikisinde de ayni şey var .
-*CHI:	ama iksi de ayni yerde değil , ama ikisinde de ayni şeyler .
+*CHI:	ama ikisi de ayni yerde değil , ama ikisinde de ayni şeyler .
 *CHI:	var .
 *EXP:	hangisine gitmeyi seviyorsun ?
 *CHI:	ikisini de seviyorum işte .
@@ -460,7 +460,7 @@
 *CHI:	herkes dikti .
 *EXP:	kime diktiler dikiş?
 *CHI:	küçüğe .
-*CHI:	küçuğe etek yaptılar .
+*CHI:	küçüğe etek yaptılar .
 *CHI:	bir de büyüğe şey yaptılar .
 *CHI:	ona da elbise yaptılar .
 *EXP:	annene ?
@@ -531,7 +531,7 @@
 *CHI:	bu da bunun içine xxx girdi .
 *CHI:	gine dur , başka birşey sokayım içine .
 *CHI:	kapatayım üstünü.
-*CHI:	kücük birşey alayım .
+*CHI:	küçük birşey alayım .
 *CHI:	işte tavuk .
 *CHI:	üstünde kutu .
 *CHI:	içinde .
@@ -548,7 +548,7 @@
 *CHI:	oh , kaza oldu .
 *CHI:	xxx vincim var .
 *CHI:	işte .
-*CHI:	bir dakka duştü!
+*CHI:	bir dakka düştü!
 *CHI:	otobüsün üstüne arabayı çıkarıyorum .
 *CHI:	bu sefer başka birşey yapıcam [: yapacağım] .
 *EXP:	ne dedin anlamadım .
@@ -572,8 +572,8 @@
 *CHI:	küçük yavru köpek .
 *CHI:	kakasını balkona yapıyor .
 *CHI:	çişini balkona yapıyor .
-*CHI:	hiçkimseye havlamıyor .
-*CHI:	hiçmimseyi ısırmıyor .
+*CHI:	hiç kimseye havlamıyor .
+*CHI:	hiç kimseyi ısırmıyor .
 *EXP:	köpekler ısırırmı?
 *CHI:	iyi köpekler ısırmaz işte .
 *EXP:	niye ısırır öbür köpekler ?
@@ -595,7 +595,7 @@
 *CHI:	kuşları.
 *EXP:	bu nesi kuşun ?
 *EXP:	bak dinle beni dinle .
-*CHI:	şimdi bak birşey yapıcam [: yapacağım] , birsey yapıcam .
+*CHI:	şimdi bak birşey yapıcam [: yapacağım] , birşey yapıcam [: yapacağım] .
 *CHI:	şunu içine sokacağım .
 *CHI:	kapadım , kitledim [: kilitledim] .
 %com:	although the correct form is "kilitlemek" , almost everybody says "kitlemek"/ kilitlemek , but kitlemek ?
@@ -616,9 +616,9 @@
 *CHI:	evvel zaman içinde kalbur saman içinde .
 *CHI:	bir kedi varmış.
 *CHI:	kediler beş tane olmuş.
-*CHI:	bütün fareleri öldürmuş.
+*CHI:	bütün fareleri öldürmüş.
 *CHI:	köpekler beş olmuş.
-*CHI:	bütün fareleri öldürmuş.
+*CHI:	bütün fareleri öldürmüş.
 *CHI:	şöyle bir tane köprüden fener yapmışlar .
 *CHI:	gözetliyorlar şimdi gemileri .
 *CHI:	ateş edecekler .
@@ -627,17 +627,17 @@
 *CHI:	bir tane daha batıyor .
 *CHI:	bir tane daha batıyor .
 *CHI:	başka gemi yok diyor , bitiyor .
-*EXP:	Brem Mızıacıları'nı anlat .
+*EXP:	Brem Mızıkacıları'nı anlat .
 *CHI:	bir varmış , bir yokmuş.
 *CHI:	bir eşek varmış.
 *EXP:	biraz hızlı anlat .
 *CHI:	yalnız duyarlar onlar da .
-*CHI:	şimdi bir varmıs , bir yokmuş.
+*CHI:	şimdi bir varmış , bir yokmuş.
 *CHI:	evvel zaman içinde .
 *CHI:	kalbur saman içinde .
 *CHI:	ben annemin beşiğini sallarken .
 *CHI:	bir varmış , bir yokmuş.
-*CHI:	bir eşek varmiş.
+*CHI:	bir eşek varmış.
 *CHI:	ihtiyarlamış.
 *CHI:	sahibi atmış.
 *CHI:	gitmiş , gitmiş , gitmiş , bir köpeğe rastlamış.
@@ -645,15 +645,15 @@
 *CHI:	Brem Mızıkacıları.
 *CHI:	onlar Brem Mızıkacıları.
 *CHI:	gitmişler , gitmişler .
-*CHI:	bir tane kediye rastlamişlar .
+*CHI:	bir tane kediye rastlamışlar .
 *CHI:	kedi de xxx .
 *CHI:	orda benim kitabım vardı.
 *CHI:	kitabımı getiriyorum .
 *EXP:	hangi kitabı?
-*CHI:	Brem Mizikacıları.
+*CHI:	Brem Mızıkacıları.
 *EXP:	sonra ?
 *CHI:	dur , resmini gösteriyim .
-*CHI:	Saimeye söyleyim de getirsin kitabiı.
+*CHI:	Saimeye söyleyim de getirsin kitabı .
 %com:	now he is telling the story from the pictures in the book
 *CHI:	bir eşek varmış.
 *CHI:	köpeğe rastlamış.
@@ -667,7 +667,7 @@
 *CHI:	eşek , hepimiz biz .
 *CHI:	aklıma birşey geldi demiş.
 *CHI:	yüksek kapısı kilitli bu evin .
-*CHI:	üstüste çikmışlar , görmüşler .
+*CHI:	üstüste çıkmışlar , görmüşler .
 *CHI:	horoz görmüş.
 *CHI:	içerde bir sürü yemekler var .
 *CHI:	hırsızlar da oturmuş yemek yiyor .
@@ -675,7 +675,7 @@
 *CHI:	bak burda kaçırıyorlar .
 *CHI:	eve girecekler sonra .
 *CHI:	eve girmişler .
-*CHI:	eşek tekme atmiş.
+*CHI:	eşek tekme atmış .
 *CHI:	evden kovmuş.
 *CHI:	masal da xxx kahkahalarla gülmüşler .
 *CHI:	masal da burda bitmiş.

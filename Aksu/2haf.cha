@@ -92,7 +92,7 @@
 *CHI:	attım .
 *EXP:	nereye ?
 *CHI:	kestim , attım .
-*EXP:	kestgin , attın ?
+*EXP:	kestin , attın ?
 *CHI:	hıh .
 %com:	gülerek
 *EXP:	kediler mi yedi ?
@@ -133,7 +133,7 @@
 *EXP:	şişiriliyormu bu ?
 *CHI:	hıh .
 *EXP:	neresinden ?
-*EXP:	şişir bakalım , nereden şisireceksin ?
+*EXP:	şişir bakalım , nereden şişireceksin ?
 *CHI:	sönüyor ama , bak .
 *EXP:	niye sönüyor ?
 *CHI:	sönüyor bak .
@@ -235,7 +235,7 @@
 *EXP:	sen ne zaman oynarsın ?
 *CHI:	öyleyse oynamam .
 *EXP:	efendim ?
-*EXP:	evela bana söyle bakalım .
+*EXP:	evvela bana söyle bakalım .
 *EXP:	bak sana birşey sordum .
 *EXP:	dedim ki sana , sen ne zaman oynarsın dedim .
 *EXP:	söyle bakayım [: bakalım] onu .
@@ -361,7 +361,7 @@
 *CHI:	kalemlen [: kalemle] boyanmaz .
 *CHI:	bakim [: bakayım] , güzel .
 *CHI:	bakım [: bakayım] , ayağa kalkımda bakim [: bakayım] .
-*EXP:	ayağa kalkta bak bakalım .
+*EXP:	ayağa kalk da bak bakalım .
 *CHI:	xxx alacak .
 *EXP:	boyanmaz ki , kalemlen [: kalemle] boyanır .
 *EXP:	ojeyle boyanmaz .
@@ -398,7 +398,7 @@
 *CHI:	başka türkü.
 *EXP:	babanın kitapları varmı?
 *CHI:	yok .
-*EXP:	kitaplarıda mı yok ?
+*EXP:	kitapları da mı yok ?
 %com:	negative
 *EXP:	yazık babana .
 *CHI:	işe gidiyor .

@@ -29,7 +29,7 @@
 *EXP:	hayır onları ben verecem [: vereceğim] .
 *CHI:	daha çok şeyler ver .
 *CHI:	araba .
-*EXP:	arabalari verecem [: vereceğim] şimdi evvela .
+*EXP:	arabaları verecem [: vereceğim] şimdi evvela .
 *EXP:	al bakalım .
 *FAT:	bu ne ?
 *CHI:	otobüs .
@@ -50,7 +50,7 @@
 %com:	repeat
 *CHI:	jet .
 *FAT:	söylesene ne markaydı?
-*CHI:	mersedes .
+*CHI:	Mersedes .
 *CHI:	jet arabası.
 *FAT:	başka ?
 *CHI:	şey .
@@ -97,10 +97,10 @@
 *CHI:	annesi de ona yapma diyor .
 *CHI:	hala yapıyor .
 *CHI:	ahhh diye bağırıyor annesine .
-*FAT:	ama küçuk te [: de] bilmiyor konuşmasını.
+*FAT:	ama küçük te [: de] bilmiyor konuşmasını.
 *FAT:	ondan öyle diyor değilmi Alp ?
 *CHI:	tabii .
-*CHI:	E Alpciğim çocuklar niye bağırır , biliyormusun sen ?
+*CHI:	E Alpçiğim çocuklar niye bağırır , biliyormusun sen ?
 *CHI:	tabii .
 *EXP:	neden bağırır çocuklar ?
 *CHI:	yaramazlık yapar , ondan .
@@ -169,7 +169,7 @@
 *EXP:	çok yoruyordu onlar beni .
 *CHI:	onun için mi gelmedin ?
 *EXP:	e , tabii .
-*EXP:	hepsi tepeme çıkıyordu devamli .
+*EXP:	hepsi tepeme çıkıyordu devamlı .
 *CHI:	sen de öğretmenine söyleseydin onları.
 *EXP:	öğretmen ne yapardı?
 *CHI:	döverdi onları.
@@ -191,7 +191,7 @@
 *CHI:	onları ben dövüyorum .
 *EXP:	ne yapacan [: yapacaksın] senin gibi cici değiller değilmi ?
 *CHI:	değiller .
-*FAT:	sen yaramaz mısın değil mısin Alp ?
+*FAT:	sen yaramaz mısın değil mısın Alp ?
 *CHI:	yaramazım .
 *CHI:	ben yaramaz değilim .
 *EXP:	sen ne oyunları oynarsın canım ?
@@ -204,7 +204,7 @@
 *FAT:	bir kere kaçıyor diyor .
 *FAT:	annesi kapının önünde oyna diyormuş , dinlemiyormuş.
 *FAT:	kaçıyor gidiyormuş başka sokaklara .
-*FAT:	E hagi sokaklara gidiyorsun ?
+*FAT:	E hangi sokaklara gidiyorsun ?
 *CHI:	Özcanların o arka bahçesine gidiyorum ne haber .
 *CHI:	ne olacak ?
 *EXP:	başka ?
@@ -252,7 +252,7 @@
 *CHI:	araba ver diyorum .
 *CHI:	haline bak , bu kız mı anne mi ?
 %com:	the doll
-*EXP:	bilmem ki sen bak ta [: da] bana soyle .
+*EXP:	bilmem ki sen bak ta [: da] bana söyle .
 *CHI:	kız .
 *CHI:	bu kız değil anne değil .
 *EXP:	ne olsa gerek o ?
@@ -278,7 +278,7 @@
 *FAT:	pardon ben görmedim .
 *FAT:	sen bana erkekçe söz veriyorsun .
 *FAT:	bir daha yapmıyacağım [: yapmayacağım] diyorsun değilmi ?
-*CHI:	yapmiyorum ben birşey .
+*CHI:	yapmıyorum ben birşey .
 *FAT:	peki benim sorduğuma cevap ver .
 *FAT:	çocuklar ne zaman oynarlar ?
 *CHI:	gündüz .
@@ -319,8 +319,8 @@
 *CHI:	birşey yapmam .
 *CHI:	E balık tutarmısın ?
 *CHI:	tutarım .
-*CHI:	E ne baliğı?
-*CHI:	kurt baliğı.
+*CHI:	E ne balığı ?
+*CHI:	kurt balığı .
 *CHI:	E nasıl birşey o kurt balığı?
 *CHI:	öbek öbek tutarım .
 *CHI:	bardağı kıracam [: kıracağım] .
@@ -432,7 +432,7 @@
 *FAT:	nereye gidiyordu saçlarını yaptırmaya ?
 *CHI:	virrry virrry .
 *CHI:	E köpekmisin sen canım ?
-*CHI:	köpekim .
+*CHI:	köpekim [: köpeğim] .
 *CHI:	E ismin ne ?
 *CHI:	hav hav hav .
 *CHI:	E ismin ne senin ?

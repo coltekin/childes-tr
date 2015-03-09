@@ -81,14 +81,14 @@
 *CHI:	gördüm , sokaklarda uçar .
 *EXP:	sen kuşlara ne yediriyorsun ?
 *CHI:	ekmek .
-*CHI:	ıslatıp yediriorum .
+*CHI:	ıslatıp yediriyorum .
 *CHI:	ondan sonra ıslatıp veriyorum .
 *CHI:	pencereden atıyorum aşağıya bazıları.
 *CHI:	ondan sonra yerlerde geziniyorlar .
 *CHI:	hem onlar yiyorlar , hem yavruları.
 *EXP:	kurtları anlat .
 *CHI:	kurt ne yer ?
-*EXP:	sen kurt hikayesi biliormusun ?
+*EXP:	sen kurt hikayesi biliyormusun ?
 *CHI:	bilmiyorum .
 *EXP:	bak bu nesi ?
 *CHI:	ayağı.
@@ -112,8 +112,8 @@
 *EXP:	ibre kuşunu anlat .
 *EXP:	bir varmış bir yokmuş xxx .
 *EXP:	cadı karıyı anlat .
-*CHI:	hic ben sevmem cadı karıyı.
-*CHI:	Okolonya bir gün top düsürmüş.
+*CHI:	hiç ben sevmem cadı karıyı.
+*CHI:	Okolonya bir gün top düşürmüş.
 %com:	Okolanya is the name of the character in the story
 *CHI:	Okolonya hemen xxx .
 *CHI:	ondan sonra Okolanya xxx .
@@ -137,8 +137,8 @@
 *CHI:	şimdi dur kurt kardeşe söyliyeyim de seni xxx versin .
 *EXP:	dün ne yaptınız ?
 *CHI:	Fatma teyzem geldi .
-*CHI:	Bop ammca , ondan sonra Serpil .
-*CHI:	Sepil teyze .
+*CHI:	Bop amca , ondan sonra Serpil .
+*CHI:	Sepil [: Serpil] teyze .
 *CHI:	ondan sonra onun kocası da geldi .
 *CHI:	onun karısı da geldi .
 *CHI:	ondan sonra kaç kişi , on kişi olduk .
@@ -253,7 +253,7 @@
 *EXP:	nerde ?
 *CHI:	masanın üstünde .
 *EXP:	başka ?
-*CHI:	başka biryerde değil .
+*CHI:	başka bir yerde değil .
 *EXP:	sehpa nerde ?
 *CHI:	sandalyenin ortasında .
 *EXP:	oyuncaklar nerde ?

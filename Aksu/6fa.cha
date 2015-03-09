@@ -16,7 +16,7 @@
 *CHI:	tepelerin üstünde .
 *EXP:	kardeşin varmı senin ?
 *CHI:	var .
-*EXP:	kaçtane ?
+*EXP:	kaç tane ?
 *CHI:	bir tane .
 *EXP:	kız mı , oğlan mı?
 *CHI:	bir tane de Simtan var .
@@ -359,10 +359,10 @@
 *CHI:	horoz bana yumurta yapar .
 *EXP:	uçarmı?
 *EXP:	horoz uçuyormu bazen ?
-*CHI:	cık , uçmuyorda , uçamıyor .
+*CHI:	cık , uçmuyor da , uçamıyor .
 *EXP:	uçamıyor değilmi ?
 *EXP:	peki hangi kuş uçuyor ?
-*EXP:	guvercin uçuyormu ?
+*EXP:	güvercin uçuyormu ?
 *CHI:	uçar .
 *EXP:	nasıl uçar biliyormusun ?
 *CHI:	kanadınlan [: kanadıyla] .

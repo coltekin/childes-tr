@@ -45,7 +45,7 @@
 *CHI:	hayır .
 *CHI:	gitmiyorum .
 *EXP:	kiminle gidiyorsun bazen ?
-*CHI:	Ilhan olunca gidiyorum .
+*CHI:	İlhan olunca gidiyorum .
 *CHI:	oynuyoruz .
 *EXP:	dışarıda ne yapıyorsunuz ?
 *CHI:	kuyu kazıyoruz .
@@ -162,7 +162,7 @@
 *CHI:	akşam .
 *EXP:	nasıl süsleniyor annen ?
 *CHI:	bayağı , bayağı.
-*EXP:	göster bakayım [: abakalım] .
+*EXP:	göster bakayım .
 *CHI:	bayağı süsleniyor .
 *EXP:	kim ütü ütülüyor ?
 *CHI:	anneannem , annem .
@@ -205,9 +205,9 @@
 *CHI:	ben onu sevmiyorum .
 *EXP:	peki aslan Mehmetçiği söyle .
 *EXP:	kargayı anlat .
-*CHI:	bigün , bir parça aptal karga peynir çalmış.
+*CHI:	bigün [: bir gün] , bir parça aptal karga peynir çalmış.
 *CHI:	uçmuş bir dala konmuş.
-*CHI:	her tarafı seyre dalmıs .
+*CHI:	her tarafı seyre dalmış .
 *CHI:	ordan [: oradan] geçen bir tilki şen sesiyle öt demiş.
 *CHI:	aptal karga gak demiş.
 *EXP:	sonra ?
@@ -251,7 +251,7 @@
 *CHI:	oraya delik delikleri bırakıyor .
 *EXP:	nereye ?
 *CHI:	yerlere .
-*CHI:	sonra taşlar çakılir .
+*CHI:	sonra taşlar çakılır .
 *CHI:	sonra , sonra horozlar .
 *CHI:	bu horozlar xxx .
 *CHI:	çocuklar yürer .
@@ -270,7 +270,7 @@
 *CHI:	köpekler .
 *CHI:	köpekler kemik yer .
 *EXP:	ne içer ?
-*CHI:	kediler süt icerler .
+*CHI:	kediler süt içerler .
 *CHI:	köpekler et yerler .
 *CHI:	sonra daha çok yerler .
 *CHI:	sonra kuzular .
@@ -318,8 +318,8 @@
 *CHI:	gezer denizin içinde .
 *CHI:	biz gitmiştik , hiç balık yok .
 *CHI:	hiç balık yok .
-*CHI:	dibindeymiş onlar hepside .
-*CHI:	hepside dibindeymiş.
+*CHI:	dibindeymiş onlar hepsi de .
+*CHI:	hepsi de dibindeymiş.
 *EXP:	bu nesi ?
 *CHI:	kuyruğu .
 *CHI:	sonra xxx .
@@ -338,7 +338,7 @@
 *CHI:	gak demiş.
 *CHI:	öt demiş.
 *CHI:	aptal karga gak demiş.
-*CHI:	peyniride tilki yemiş.
+*CHI:	peyniri de tilki yemiş.
 *EXP:	Atatürkü anlat .
 *CHI:	Atatürk en güzel yer senin yerin .
 *CHI:	en güzel yer senin yer Atatürk .
@@ -346,7 +346,7 @@
 %com:	to brother
 *CHI:	kalbimde en güzel yer senin yerin Atatürk .
 *CHI:	yazıyı öğrendim .
-*CHI:	ilk yazıyı ögrendim .
+*CHI:	ilk yazıyı öğrendim .
 *CHI:	dersi öğrendim .
 *CHI:	okumayı öğrendim .
 *CHI:	senin yazın Atatürk .
@@ -480,8 +480,8 @@
 *EXP:	neyle içiyormuşsun öyleyse ?
 *CHI:	bardakla , bardakla içiyorum .
 *EXP:	kimle oynuyorsun ?
-*CHI:	Ilhanla .
-*EXP:	Ilhan kim ?
+*CHI:	İlhanla .
+*EXP:	İlhan kim ?
 *EXP:	kim o ?
 *CHI:	yukardakiler .
 *EXP:	o aşağı geliyormu ?
@@ -521,7 +521,7 @@
 *EXP:	ne yaptın görmeyeli ?
 *CHI:	oyniyordum [: oynuyordum] .
 *EXP:	neler oynadın ?
-*EXP:	dişarda mı oynadın ?
+*EXP:	dışarda mı oynadın ?
 *CHI:	evet .
 *EXP:	ben seni görüyorum her gün .
 *EXP:	neler oynuyorsun ?
@@ -553,7 +553,7 @@
 *CHI:	Kilyosa .
 *EXP:	kim götürdü?
 *CHI:	babamlar .
-*CHI:	Idris abimler vardı.
+*CHI:	İdris abimler vardı.
 *CHI:	bir de babam , annem .
 *CHI:	sonra biz de vardık .
 *EXP:	yandın orda .
@@ -674,7 +674,7 @@
 *EXP:	başka ne söyleyecen [: söyleyeceksin] bana ?
 *CHI:	okuyunca .
 *CHI:	şey , büyük olunca ben , okula gidecem .
-*CHI:	büyük sınıfcı olucam [: olacağım] .
+*CHI:	büyük sınıfçı olucam [: olacağım] .
 *CHI:	sonra ben eczacı olacağım .
 *EXP:	eczacılar ne yapar ?
 *CHI:	iş görür .
@@ -714,7 +714,7 @@
 *EXP:	çıkartma ne ?
 *CHI:	böyle kalıp çıkartmak için .
 %com:	çıkartma must be to mold
-*CHI:	abimin doğum günü olduda .
+*CHI:	abimin doğum günü oldu da .
 *CHI:	abimin arkadaşları getirdi .
 *EXP:	ne yaptınız doğum gününde ?
 *CHI:	pasta çıkarttık .

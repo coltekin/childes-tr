@@ -99,14 +99,14 @@
 *EXP:	hapur hupur yedilermi kediler ?
 *CHI:	evet .
 *EXP:	hadii ?
-*EXP:	beyendilermi bari ?
+*EXP:	beyendilermi [: beğendilermi] bari ?
 *CHI:	heh , thip , yedim .
 *EXP:	ben bir defasında balık tuttum , kestim ve kendim yedim .
 *CHI:	ıhı.
 *EXP:	tabii .
 *EXP:	sen niye kedilere verdin ?
 *CHI:	verdim işte .
-*CHI:	bitanesini [: bir tanesini] , bitanesini ben .
+*CHI:	bitanesini [: bir tanesini] , bitanesini [: bir tanesini] ben .
 *CHI:	yedim .
 *EXP:	büyük müydü balıklar ?
 *CHI:	evet .
@@ -399,8 +399,8 @@
 *CHI:	bilmem .
 *CHI:	bak şurda var , şurda var , bak benimki .
 *CHI:	işte .
-*CHI:	şukadar kocaman .
-*CHI:	şukadardı.
+*CHI:	şu kadar kocaman .
+*CHI:	şu kadardı.
 *EXP:	evet .
 *CHI:	dimi ?
 *CHI:	ablamınki küçük , boncuk onlar .
@@ -420,7 +420,7 @@
 *CHI:	ay [: al] ojeni al .
 *CHI:	anne , hani benim böyle yok benim .
 *CHI:	anne , babam öyle şarkı okur dimi ?
-*CHI:	ama böyle yok anne sündan .
+*CHI:	ama böyle yok anne şundan .
 *CHI:	başka türkü.
 *EXP:	babanın kitapları varmı?
 *CHI:	yok .

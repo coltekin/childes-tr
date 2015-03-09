@@ -51,7 +51,7 @@
 *EXP:	traktör veririm istersen .
 *CHI:	traktör ver .
 *EXP:	al .
-*CHI:	bunları veirmisin ?
+*CHI:	bunları verirmisin ?
 *CHI:	bunları , bunları.
 *EXP:	ne istiyorsun ben anlamıyorum ki .
 *CHI:	bu evi ver .
@@ -114,7 +114,7 @@
 *EXP:	nesi o bebeğin ?
 *CHI:	gitmedikmi ?
 *CHI:	bebeğe bak .
-*CHI:	düt [?] içersine içersine dönmuştü bebek .
+*CHI:	düt [?] içersine içersine dönmüştü bebek .
 *EXP:	içersine dönmüşmüydü bebek ?
 *CHI:	ha .
 %com:	affirmative sound gesture
@@ -168,7 +168,7 @@
 *CHI:	oynuyoruz .
 *EXP:	ya .
 *EXP:	denize gidiyormusunuz ?
-*CHI:	gidioruz .
+*CHI:	gidiyoruz .
 *EXP:	kimlen [: kimle] gidiyorsunuz ?
 %com:	no response
 *EXP:	denize kimlen [: kimle] gidersin ?
@@ -259,7 +259,7 @@
 *EXP:	bilmiyorum ki ben o masalı.
 *CHI:	kuzu nereye gidiyormuş?
 *EXP:	ben bilmiyorum .
-*MOT:	hani yavrusunu alıp ta [: da] nereye gidiyorlarmıs ?
+*MOT:	hani yavrusunu alıp ta [: da] nereye gidiyorlarmış ?
 *MOT:	ormana .
 *CHI:	ormana gitmiyorlarmış.
 *EXP:	nereye gidiyormuş peki ?
@@ -343,7 +343,7 @@
 *CHI:	buraya atıyorum .
 *EXP:	ellerinlen [: ellerinle] mi ayağınlan [: ayağınla] mı?
 *CHI:	ayağımlan [: ayağımla] .
-*EXP:	futbbol mu oynuyorsun ?
+*EXP:	futbol mu oynuyorsun ?
 *CHI:	ha .
 *CHI:	anne bunlan [: bunla] oynayacağım .
 *MOT:	olmaz , onları gösterdi artık bitti .

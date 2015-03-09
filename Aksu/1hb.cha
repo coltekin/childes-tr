@@ -65,7 +65,7 @@
 *CHI:	ben sallandım .
 *CHI:	sonra , biraz sonra annem geldi .
 *CHI:	sonra ağbimi aldı.
-*CHI:	berberin orda [: orada] bekliyordu ağbım .
+*CHI:	berberin orda [: orada] bekliyordu ağbim .
 *CHI:	sonra geldi .
 *CHI:	koştuk eve gittik .
 *CHI:	bitti .
@@ -96,8 +96,8 @@
 *CHI:	e .
 *EXP:	dışarıda oynuyormusun bu günlerde ?
 *CHI:	oturuyorum .
-*EXP:	oynuyormusun dışarida ?
-*CHI:	dışarda [: dişarıda] mı  ?
+*EXP:	oynuyormusun dışarıda ?
+*CHI:	dışarda [: dışarıda] mı  ?
 *EXP:	evet .
 *CHI:	oturuyorum .
 *EXP:	oturuyorsun , oynuyormusun ?
@@ -190,7 +190,7 @@
 *CHI:	uyuyor her gece , ben uyuyamıyorum .
 *CHI:	annem uyu diyor , uyumuyorum .
 *CHI:	uyu diyor uyumuyorum .
-*CHI:	bu sefer abim uyuyor ilk once .
+*CHI:	bu sefer abim uyuyor ilk önce .
 *CHI:	xxx yavaş yavaş ses çıkarıyorum ben .
 *CHI:	sonra abim hiç uyanmıyor .
 *CHI:	annem geliyor sonra , sus diyor .
@@ -200,7 +200,7 @@
 *CHI:	sonra annem diyor ki yat , yatmıyorum .
 *CHI:	yat diyor yatmıyorum .
 *CHI:	hiç yatmıyorum , işte .
-*CHI:	o akadar .
+*CHI:	o kadar .
 *EXP:	peki dışarda ne yaparsın sen ?
 *CHI:	dışarda [: dışarıda] oynarım .
 *EXP:	neler var dışarda ?
@@ -324,7 +324,7 @@
 *CHI:	unutuyor , gelmiyor işte .
 *CHI:	gelmiyor , gelmiyor , gelmiyor .
 *CHI:	gelmiyor , çok işi var .
-*CHI:	bıkıyor , bıkiyor , bıkıyor .
+*CHI:	bıkıyor , bıkıyor , bıkıyor .
 *CHI:	çalışmıyor .
 *EXP:	çalışmıyormu , onun için mi gelmiyor ?
 *CHI:	çalışıyor , çalışınca gelmiyor şimdi .
@@ -337,7 +337,7 @@
 %com:	neighbor
 *CHI:	geldi bize sataştı.
 *CHI:	aşağıdaki komşu , gürültü yapıyorsunuz .
-*CHI:	bağıriyor bize .
+*CHI:	bağırıyor bize .
 *CHI:	aptal Şadan , birşey bilmiyor .
 *CHI:	aşağıda çingeneler gibi yaşıyor .
 *CHI:	kapıcılar kapısı tutsa xxx .
@@ -348,7 +348,7 @@
 *CHI:	Buraklar bir gece , çalışması lazım onların .
 *CHI:	gürültüden xxx oturuyorlar .
 *CHI:	asıl taş var , taş var .
-*CHI:	nereden geciyorsunuz , bizim ev nerede duruyor ?
+*CHI:	nereden geçiyorsunuz , bizim ev nerede duruyor ?
 %com:	imaginary conversation with Burak , I think
 *CHI:	ortada duruyorlar , yanda duruyorlar onlar .
 *CHI:	yanda duruyorlar değilmi ?
@@ -393,7 +393,7 @@
 *CHI:	ama demek kaşıyor .
 *EXP:	peki kediler başka ne yaparlar ?
 *CHI:	başka , bütün çöplere girerler .
-*CHI:	bir minicik pisi varya gördüm .
+*CHI:	bir minicik pisi var ya gördüm .
 *CHI:	erikle oynuyorlar .
 *EXP:	erikle mi ?
 *CHI:	top olacağına erikle oynuyorlar .
@@ -488,7 +488,7 @@
 *CHI:	kanatlarını açmış.
 *EXP:	kalkacakta onun için .
 *CHI:	açmış , açmış.
-*CHI:	bir de ben üşuyen kuş gördüm .
+*CHI:	bir de ben üşüyen kuş gördüm .
 *CHI:	bu kadar tüyleri , öyle büyük ki .
 *CHI:	ördeği gördüm .
 *CHI:	bir tane ördek gördüm ben .
@@ -521,7 +521,7 @@
 *CHI:	ama bu neden duruyor böyle ?
 *EXP:	nasıl dursun peki ?
 *CHI:	sen neden havuzda yüzdürmüyorsun bu balığı?
-*CHI:	çunkü oyuncak diye .
+*CHI:	çünkü oyuncak diye .
 *EXP:	sen balık tutmaya gidiyormusun bazen ?
 *CHI:	ben sana birşey anlatayım .
 *EXP:	anlat bakalım .
@@ -601,7 +601,7 @@
 *CHI:	ah dili büyük görüyorum , kocaman .
 %com:	looking through glass singing
 *EXP:	sen Nafiye halalara gidiyormusun bazen .
-*CHI:	başka birseyim yok .
+*CHI:	başka birşeyim yok .
 *EXP:	ne yapıyorsun .
 *CHI:	fotoğraf makinası.
 *CHI:	bak , orda [: orada] neden o duruyor .
@@ -610,7 +610,7 @@
 *EXP:	Alper ağbinin balık kutusu .
 *EXP:	oltalar var içinde .
 *CHI:	oltalar .
-*CHI:	Fundanın babasinın mı?
+*CHI:	Fundanın babasının mı?
 *EXP:	evet .
 *CHI:	ne kadar olta ?
 *EXP:	bir sürü.
@@ -626,7 +626,7 @@
 *CHI:	böyle sırtüstü yatarlar .
 *EXP:	yok balıklar durdukları yerde uyurlar böyle .
 *CHI:	ama ben balık gördüm .
-*CHI:	biryerlerde oturmuyorlardı.
+*CHI:	bir yerlerde oturmuyorlardı.
 *EXP:	geceleyin karanlıkta , böyle sessiz , hareketsiz durur .
 *EXP:	balıklar o zaman uyuyorlar işte .
 *CHI:	öyle uyumazlar ki balıklar , ben gördüm .
@@ -654,14 +654,14 @@
 *CHI:	rahat ta [: da] durmazmış.
 *CHI:	hep ağlarmış.
 *CHI:	bir gece annesi odasına girmiş.
-*CHI:	boncuk bebek pencereden atlamiş.
+*CHI:	boncuk bebek pencereden atlamış.
 *CHI:	aşağıya .
 *CHI:	çok yüksekte oturuyorlarmış.
 *CHI:	taa yukarda oturuyorlarmış.
 *CHI:	aşağısı da çok yüksekmiş.
 *CHI:	çok kat varmış.
 *CHI:	hop deyince bir kemiği kırılmış.
-*CHI:	kırılınca anneside pencereden atlamıs .
+*CHI:	kırılınca annesi de pencereden atlamış .
 *CHI:	onun kemiğini yapmamış.
 *CHI:	tabii ölmüş Boncuk bebek .
 *EXP:	evet sonra .
@@ -673,7 +673,7 @@
 *CHI:	ah çivi çakmışsın bana demiş.
 *CHI:	sonra çiviyi çıkartırken Boncuk bebeğin eti .
 *CHI:	kopmamışmı.
-*EXP:	eti mi kopmus ?
+*EXP:	eti mi kopmuş ?
 *EXP:	vah yazık Boncuk bebeğe .
 *CHI:	ölmüş tabii , gebermiş.
 *CHI:	böylece gebermiş.
@@ -685,7 +685,7 @@
 *CHI:	uyanınca sonra pat pat gelmiş.
 *CHI:	doktor onu xxx .
 *CHI:	sonra gözü ağrıyormuş bir gece .
-*CHI:	sonra anneside gitmiş damla almış.
+*CHI:	sonra annesi de gitmiş damla almış.
 *CHI:	gözüne damlatmış.
 *CHI:	çapak alamıyor Boncuk bebek .
 *CHI:	karıştırıyor , karıştırıyor , karıştırıyor .
@@ -700,5 +700,5 @@
 *EXP:	pamuk değil ki bu .
 *EXP:	sonra ne olmuş anlat bakalım .
 *CHI:	nerde ?
-*CHI:	ah bacağım acidı.
+*CHI:	ah bacağım acıdı.
 @End

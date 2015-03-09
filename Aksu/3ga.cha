@@ -35,7 +35,7 @@
 *EXP:	ben sana istediğini vereyim , sen oynarsın .
 *EXP:	efendim çocuğum ?
 *EXP:	şimdi sen neyle oynamak istiyorsun ?
-*EXP:	Selimcim [: Selimciğim] ben seni şunun boynuna takayımda .
+*EXP:	Selimcim [: Selimciğim] ben seni şunun boynuna takayım da .
 *EXP:	sesin güzel çıksın .
 *CHI:	olur .
 *EXP:	ha şöyle , şimdi ne istiyorsun sen ?
@@ -122,7 +122,7 @@
 *EXP:	neyin ?
 *CHI:	eve girmek için sokak kapısı.
 *EXP:	şurda bak .
-*EXP:	masuscuktan [: mahsuscuktan] girsinler .
+*EXP:	masuscuktan [: mahsusçuktan] girsinler .
 %com:	small house
 *CHI:	şimdi bir sürü araba olacak .
 *CHI:	eve geldi .
@@ -147,9 +147,9 @@
 *EXP:	Kerime bir tane daha veririz .
 *EXP:	sen bana söyle bakalım , çocuklar ne zaman oynarlar ?
 *CHI:	biz yemek vakti gelince yemekte oynuyoruz .
-*CHI:	evet yemeğe oyuncak alıyoruz , kücük arabaları.
+*CHI:	evet yemeğe oyuncak alıyoruz , küçük arabaları.
 *EXP:	yemeğe götürüyormusunuz küçük arabaları?
-*CHI:	evet , biz mutfakta yiyoruz yamağimizi .
+*CHI:	evet , biz mutfakta yiyoruz yemeğimizi .
 *EXP:	kim yediriyor ?
 *CHI:	nanny yediriyor .
 *EXP:	nanniyi seviyormusun ?
@@ -189,7 +189,7 @@
 *CHI:	Sinan atmasını bilmiyor .
 *EXP:	niye ?
 *CHI:	öyle bir atıyor , yere düşürüyor .
-*EXP:	küçuk mü Sinan ?
+*EXP:	küçük mü Sinan ?
 *CHI:	evet .
 *EXP:	kaç yaşında ?
 *CHI:	nerdeydi , yeri burasımıydı?
@@ -222,7 +222,7 @@
 *CHI:	ayakları değiyor .
 *EXP:	tabii , bunlar oyuncak .
 *EXP:	atlar daha çok küçük .
-*EXP:	bunların resminbi yapmak lazım değilmi ?
+*EXP:	bunların resmini yapmak lazım değilmi ?
 *CHI:	yap .
 *EXP:	sen yaparmısın ?
 *EXP:	resim ?
@@ -273,7 +273,7 @@
 %com:	drawing a house
 *EXP:	nerden aldı annenler kemeri canım ?
 *CHI:	bilmiyorum .
-*CHI:	bizi götürmedıler .
+*CHI:	bizi götürmediler .
 *CHI:	eve götüreyimmi ?
 *EXP:	neyi götüreceksin , resmi mi ?
 *CHI:	evet .
@@ -411,7 +411,7 @@
 *CHI:	gemilere baktım .
 *EXP:	başka ?
 *CHI:	başka birşey yapmadım .
-*CHI:	tekrar eveyemek yemeğe döndüm .
+*CHI:	tekrar eve yemek yemeğe döndüm .
 *EXP:	ne yemeği yedin ?
 *EXP:	çocuklar yaramazlık yaptımı bugün ?
 *CHI:	evet , hayır .
@@ -421,7 +421,7 @@
 *CHI:	a bu garaj .
 *CHI:	içinde arabalar var .
 *EXP:	o dışarıda güneşlensin .
-*EXP:	denize gitmişler mahsuscuktan .
+*EXP:	denize gitmişler mahsusçuktan .
 *CHI:	burda durmuyor bu niye ?
 *EXP:	yattı işte .
 *CHI:	bunlar da yatsın .
@@ -454,7 +454,7 @@
 *EXP:	sen Kerimi seviyormusun ?
 *CHI:	evet , Kerim de beni seviyor .
 *CHI:	kuş tada burda duracakmı?
-*CHI:	küşu da kaldıralım .
+*CHI:	kuşu da kaldıralım .
 *CHI:	kuşun yeri nerede ?
 %com:	in the toy box
 *EXP:	istersen televizyon seyretsinler .

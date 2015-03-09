@@ -89,7 +89,7 @@
 *EXP:	bunu kendim aldım .
 *EXP:	sevdinmi rengini , güzel mi ?
 *CHI:	hı.
-*EXP:	beyendinmi rengini , hı?
+*EXP:	beğendinmi rengini , hı?
 *EXP:	saçların uzamış.
 *CHI:	hı?
 *EXP:	ben sana bir araba vereyim bak .
@@ -174,7 +174,7 @@
 *MOT:	sen dizdinmi bunları cici cici ?
 *CHI:	dizdim .
 *CHI:	otobüs ne yapmış?
-*CHI:	anne otobüs ne yapmiş?
+*CHI:	anne otobüs ne yapmış?
 *CHI:	anne otobüs nerede ?
 *EXP:	al canım .
 *CHI:	anne otobüs .
@@ -265,7 +265,7 @@
 *CHI:	anne kuş nerde ?
 *MOT:	hı , ne o ?
 *CHI:	uçak .
-*EXP:	uçak degıl , uçağa benziyormu ?
+*EXP:	uçak değil , uçağa benziyormu ?
 *EXP:	kanatları nerde ?
 *EXP:	kanatları varmı?
 *CHI:	var .
@@ -295,7 +295,7 @@
 *EXP:	köpeğin öyle kürkü var .
 *CHI:	onun .
 *EXP:	onun puanı yok , o kara kediymiş.
-*EXP:	hani bir tane karakedi biliyorsun ya , ne olmuştu kara kedi ?
+*EXP:	hani bir tane kara kedi biliyorsun ya , ne olmuştu kara kedi ?
 *CHI:	hı.
 *EXP:	kara kedi ne olmuştu ?
 *CHI:	uf olmuştu .
@@ -358,7 +358,7 @@
 *CHI:	şimdi ne yapacağız ?
 *CHI:	anne köprü nerde ?
 *CHI:	köprü nerde ?
-*MOT:	bunun köprüsu ?
+*MOT:	bunun köprüsü ?
 *EXP:	vereyimmi sana ?
 *CHI:	vereyim .
 *CHI:	öbürkünü nerde ?
@@ -429,7 +429,7 @@
 *CHI:	burdan çıkıyor .
 *MOT:	ordan çıkamaz , kapısı arkada ?
 *CHI:	ay çıkamadı.
-*MOT:	çek ayaklarından cıksın .
+*MOT:	çek ayaklarından çıksın .
 %com:	trying to get a doll out of a box
 *CHI:	şöyle .
 *CHI:	çıkmaz .

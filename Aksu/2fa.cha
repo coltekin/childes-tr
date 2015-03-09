@@ -60,7 +60,7 @@
 *CHI:	çiçek gibi , böyle böyle , böyle sıralıyorsun .
 %com:	gestures
 *EXP:	peki ne zaman oynuyorsunuz Fundayla ?
-*CHI:	öbürgün .
+*CHI:	öbür gün .
 *EXP:	gece oynuyormusunuz beraber ?
 *CHI:	ama babam kızıyor .
 *CHI:	sabahleyin oyna diyor .
@@ -267,7 +267,7 @@
 *EXP:	peki evde kim ütü ütülüyor ?
 *CHI:	annem .
 *EXP:	ne zaman ütülüyor ?
-*CHI:	bugünleri öbürgünleri .
+*CHI:	bugünleri öbür günleri .
 *EXP:	neyle ütülüyor ?
 *CHI:	babamın gömleğini .
 *EXP:	başka ne ütülüyor ?
@@ -355,7 +355,7 @@
 *CHI:	ama uyuyoruz gündüz .
 *EXP:	peki Nezih ne yapıyor ?
 *CHI:	ne yapıyor , ders .
-*EXP:	okula gidiyor degilmi Nezih ?
+*EXP:	okula gidiyor değilmi Nezih ?
 %com:	affirmative
 *EXP:	kaçıncı sınıfta sen biliyormusun ?
 *CHI:	çik .
@@ -517,7 +517,7 @@
 *CHI:	iplen [: iple] oynayacazmı [: oynayacakmıyız] ?
 *CHI:	aynı xxx var .
 *EXP:	nerden almış Aynur teyzen ?
-*CHI:	hiçbiryerden almamış ki .
+*CHI:	hiç bir yerden almamış ki .
 *EXP:	kim vermiş onu ona ?
 *EXP:	nasıl hiç kimseden ?
 *EXP:	yüzüğü çarşıdan mı almış?
@@ -583,7 +583,7 @@
 *CHI:	düştü kedi de .
 *EXP:	köpekler niçin su içer sen biliyormusun ?
 *CHI:	bilmiyorum .
-*EXP:	sen niçin su icersin ?
+*EXP:	sen niçin su içersin ?
 *CHI:	niçin .
 *CHI:	susadım diye .
 *EXP:	köpekler niçin içer ?
@@ -619,10 +619,10 @@
 %com:	of the bird
 *CHI:	kuş.
 *EXP:	soyadı ne ?
-*EXP:	kuşoğlu .
+*EXP:	Kuşoğlu .
 %com:	laughs
 *CHI:	değil .
-*EXP:	tabii , kuş kuşoğlu onun ismi .
+*EXP:	tabii , kuş Kuşoğlu onun ismi .
 *CHI:	ismi kuş.
 *EXP:	soyadı olmazmı kuşun ?
 *EXP:	senin soyadın yokmu ?
@@ -631,7 +631,7 @@
 *CHI:	Yetiş mi ?
 *EXP:	tabii Yetiş.
 *CHI:	bunun varmı?
-*EXP:	var tabii , kuşoğlu .
+*EXP:	var tabii , Kuşoğlu .
 *CHI:	değil .
 *CHI:	ah ne güzel bu ya .
 *CHI:	sıcacık .
@@ -645,7 +645,7 @@
 *CHI:	a ne güzel balık .
 *CHI:	akşamleyin gördüm ben balık .
 *EXP:	anlat bana balıkları.
-*CHI:	bu balıkın gözleri .
+*CHI:	bu balıkın [: balığın] gözleri .
 *CHI:	kopartırsın bunları.
 %com:	wings
 *CHI:	koyarsın pişer .
@@ -657,7 +657,7 @@
 *EXP:	balık beni seviyormu ?
 *EXP:	bu ne bu bak ?
 *CHI:	bu ne ?
-*EXP:	neresi bu baliğın ?
+*EXP:	neresi bu balığın ?
 *CHI:	neresi ?
 *EXP:	kuyruğu .
 *EXP:	balıklar nasıl yüzer ?

@@ -64,11 +64,11 @@
 *CHI:	yok .
 *EXP:	bu kimin teybi ?
 *CHI:	benim teybim .
-*EXP:	hayır , benım teybim , senin teybin değil .
+*EXP:	hayır , benim teybim , senin teybin değil .
 *EXP:	bu ne biliyormusun ?
 *CHI:	plak .
-*EXP:	plak değil , mikrafon .
-*CHI:	mikrafon .
+*EXP:	plak değil , mikrafon [: mikrofon] .
+*CHI:	mikrafon [: mikrofon] .
 *CHI:	bakayım .
 *EXP:	bak .
 *CHI:	alo , kimsiniz ?
@@ -86,13 +86,13 @@
 *EXP:	bunu böyle tutalım da senin senin buraya gitsin .
 *EXP:	plak mı bu ?
 *CHI:	plak .
-*EXP:	hayır mikrafon .
-*CHI:	bana mikrafonu çalsana .
-*EXP:	çalıyım ama mikrafon çalınmaz .
+*EXP:	hayır mikrafon [: mikrofon] .
+*CHI:	bana mikrafonu [: mikrofonu] çalsana .
+*EXP:	çalıyım ama mikrafon [: mikrofon] çalınmaz .
 *EXP:	bak burda ne oluyor .
 *EXP:	biliyormusun , sen konuşuyorsun , burdan ses gidiyor geliyor .
 *EXP:	geliyor .
-*EXP:	mikrafonun içine gidiyor .
+*EXP:	mikrafonun [: mikrofonun] içine gidiyor .
 *EXP:	buraya doluyor değilmi ?
 *CHI:	geliyor , geliyor , burasına doluyor .
 *EXP:	sen hiç televizyon seyrettinmi ?
@@ -147,7 +147,7 @@
 *EXP:	öyle değil , lay lay diye .
 *CHI:	lay lay lay lo .
 *CHI:	lay lo .
-*UNC:	ağzına alma mikrafonu .
+*UNC:	ağzına alma mikrafonu [: mikrofonu] .
 *CHI:	yok ya oynıyacağım [: oynayacağım] .
 %com:	trying to get the microphone away
 *CHI:	baba .
@@ -170,7 +170,7 @@
 *EXP:	oo nee yapıyorsun .
 *EXP:	şekerim ?
 *EXP:	dur bakalım çık oradan .
-*EXP:	bunlari burdan kaldıralımmı artık ?
+*EXP:	bunları burdan kaldıralımmı artık ?
 *CHI:	kaldıralım .
 *EXP:	şimdi ben kaldırayım bir güzel .
 *CHI:	bir güzel .
@@ -257,7 +257,7 @@
 *EXP:	hani .
 %com:	he points
 *EXP:	o etek .
-*EXP:	bak onlar elbise giyiorlar .
+*EXP:	bak onlar elbise giyiyorlar .
 *CHI:	bu ne ?
 *EXP:	bu kız .
 *EXP:	bu da Alper .
@@ -287,7 +287,7 @@
 *EXP:	nasıl ütüler ?
 %com:	demonstrates
 *EXP:	öyle mi ütülüyor ?
-*EXP:	senin elbbiselerini kim yıkıyor ?
+*EXP:	senin elbiselerini kim yıkıyor ?
 *CHI:	anne yıkıyor ?
 *EXP:	süsleniyormu anne bazen ?
 *CHI:	süsleniyor .
@@ -388,7 +388,7 @@
 *CHI:	değilsin .
 *EXP:	ben misafir değilmiyim ?
 *CHI:	değilsin .
-*EXP:	ben sana oyuncaklarımı veriorum ama .
+*EXP:	ben sana oyuncaklarımı veriyorum ama .
 *CHI:	verme .
 *EXP:	peki öyleyse , ver oyuncaklarımı.
 *CHI:	vermem .
@@ -402,8 +402,8 @@
 *EXP:	onu alırsan annen kızar .
 *CHI:	çık .
 %com:	sound gesture
-*EXP:	bu yatak örtüsü ne kadar güzel , sen bunu beyeniormusun ?
-*CHI:	beyeniyorum .
+*EXP:	bu yatak örtüsü ne kadar güzel , sen bunu beğeniyormusun ?
+*CHI:	beğeniyorum .
 *EXP:	hani nerde örtü , göster bana .
 *CHI:	işte .
 *EXP:	ne var onun içinde ?

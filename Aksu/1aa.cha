@@ -120,7 +120,7 @@
 *CHI:	hıh .
 *CHI:	eve .
 *EXP:	peki bak bakalım , bu bir köprü.
-*EXP:	şimdik bak , bu araba , xxx araba nerde ?
+*EXP:	şimdik [: şimdi] bak , bu araba , xxx araba nerde ?
 *CHI:	acaba .
 *EXP:	acaba nerde ?
 *CHI:	orda .
@@ -240,7 +240,7 @@
 *CHI:	dönüyor .
 *EXP:	niye dönüyor ?
 *CHI:	şu da , o da , o da .
-*EXP:	sen yemek yedinmmi ?
+*EXP:	sen yemek yedinmi ?
 *CHI:	yedim .
 *EXP:	ne yedin yemekte ?
 *MOT:	sen ne yemek yedin ?
@@ -343,7 +343,7 @@
 *CHI:	oooo no .
 *EXP:	kim bu yapıyor ?
 *CHI:	hani o saçları.
-*MOT:	ceylanların pınari .
+*MOT:	ceylanların pınarı .
 *MOT:	hani kuşlar xxx .
 *CHI:	pınarı.
 *CHI:	ağaçlar .
@@ -411,7 +411,7 @@
 *EXP:	ne renk ?
 *CHI:	hı.
 *EXP:	sarı mı , kırmızı mı , mavi mi ?
-*CHI:	yağmurkü.
+*CHI:	yağmurkü .
 *EXP:	bu araba ne renk ?
 *EXP:	bu kaç?
 *CHI:	hı.
@@ -606,8 +606,8 @@
 *EXP:	bak ben sana güzel şeyler vereceğim .
 *EXP:	gel yanıma .
 *CHI:	otobüsü.
-*EXP:	ootobüsü sonra vereceğim .
-*CHI:	düstü.
+*EXP:	otobüsü sonra vereceğim .
+*CHI:	düştü.
 %com:	something falls
 *CHI:	duracak .
 %com:	setting up toy street signs
@@ -649,14 +649,14 @@
 *CHI:	acıdı.
 *EXP:	kim itti ?
 *CHI:	bu itti .
-*CHI:	keçi düştü.
+*CHI:	keçi düştü .
 *CHI:	xxx ne oldu ?
-*EXP:	bacaği acımış.
-*CHI:	keçi ayağ?
+*EXP:	bacağı acımış .
+*CHI:	keçi ayağı ?
 *EXP:	hm .
 *CHI:	keçi ?
 *EXP:	tabii .
-*CHI:	ayağ?
+*CHI:	ayağı ?
 *EXP:	hm .
 *CHI:	kesti .
 *CHI:	keçi bunu yaptı.

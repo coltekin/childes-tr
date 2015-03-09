@@ -24,7 +24,7 @@
 *EXP:	kim bunlar ?
 *CHI:	arkadaşlarım .
 *EXP:	ne zaman gelirler buraya ?
-*CHI:	dogüm günümde .
+*CHI:	doğum günümde .
 *EXP:	ne yaptınız doğum gününde ?
 *CHI:	oynucaklarla oynadık .
 *EXP:	başından anlat .
@@ -40,8 +40,8 @@
 *CHI:	Kerem , Nil , Hayri , Kağan , okadar .
 *EXP:	neler yediniz ?
 *CHI:	pasta .
-*EXP:	ne yaptıniz ?
-*EXP:	neler oynadıniz ?
+*EXP:	ne yaptınız ?
+*EXP:	neler oynadınız ?
 *CHI:	oyuncaklarla oynadık .
 *EXP:	çocuklar niye koşar ?
 *CHI:	canı sıkılıyordur .
@@ -81,7 +81,7 @@
 *EXP:	buna yap , o iyi değil .
 *CHI:	bende var kağıt kalem .
 *CHI:	zürafa , zürafayı yapamam .
-*CHI:	sincapı yaparım ama .
+*CHI:	sincapı [: sincabı] yaparım ama .
 *CHI:	sincap şöyle .
 *CHI:	düz , bir de şöyle yuvarlak .
 *CHI:	ama yazarım .
@@ -133,9 +133,9 @@
 *EXP:	hayır , sizin evde , bu apartmanın içinde ?
 *CHI:	babam , annem , ben , okadar .
 *EXP:	babanı anlat .
-*CHI:	babam inşaate gidiyor .
+*CHI:	babam inşaate [: inşaata] gidiyor .
 *CHI:	yazıhaneye gidiyor .
-*CHI:	heryere gidiyor .
+*CHI:	her yere gidiyor .
 *CHI:	Beşiktaşa gidiyor .
 *CHI:	uzak yer .
 *CHI:	bir kere Kuşadasına gittiler .
@@ -174,7 +174,7 @@
 *CHI:	arabama bindim okadar .
 *EXP:	başka ne yaptınız sabahleyin kalkınca ?
 *CHI:	pijamalarımı soyundum , giyindim .
-*CHI:	oyuncaklarımla oynamaya basladım .
+*CHI:	oyuncaklarımla oynamaya başladım .
 *CHI:	elime kolanya döktüm .
 *EXP:	anne nasıl süslenir ?
 *EXP:	süslenirmi anne ?
@@ -214,7 +214,7 @@
 *CHI:	yarı yolda bir adam .
 *CHI:	kurt geliyormuş arkasından .
 *CHI:	saldırmış , okadar .
-*CHI:	okadarcık yeter .
+*CHI:	o kadarcık yeter .
 *EXP:	kargayla tilkiyi bilirmisin ?
 *CHI:	bilirim .
 *CHI:	ama sincap da var .
@@ -242,7 +242,7 @@
 *EXP:	kısa bir masal dimi [: değil mi] ?
 *CHI:	kısa .
 *CHI:	ama daha uzununu da biliyorum .
-*EXP:	hadi onu soyle .
+*EXP:	hadi onu söyle .
 *CHI:	o aynı değil ama .
 *CHI:	bir kurt gidiyormuş.
 *CHI:	yarı yolda kardeşine rastlamış.
@@ -257,24 +257,24 @@
 *CHI:	onları yutacakmış , kurtları.
 *CHI:	sonra bir avcı gelmiş.
 *CHI:	kurdu bir vurmuş.
-*CHI:	sincabı da içinden cıkarmış.
+*CHI:	sincabı da içinden çıkarmış.
 *CHI:	bitti .
 *CHI:	sonra .
 *CHI:	yerde bir böcek uç uç böceğiymiş.
 *CHI:	uç uç böceğiymiş.
 %com:	uç uç böceği= lady bug
 *CHI:	bir uçmuş , bir arı.
-*CHI:	bir arıyı sokmuş uç üc böceği .
+*CHI:	bir arıyı sokmuş uç uç böceği .
 *CHI:	ondan sonra su içmiş.
 *CHI:	kahve de içmiş.
 *CHI:	bir ördek havuzda yüzüyor .
 *CHI:	ondan sonra maymunmuş.
-*CHI:	bir bakmiş kurt gidiyor .
+*CHI:	bir bakmış kurt gidiyor .
 *CHI:	hoop maymunu yutmuş.
 *CHI:	kurt yutamaz .
 *CHI:	en büyüğü maymun .
 *EXP:	maymun daha büyük kurttan değilmi ?
-*CHI:	evet , ama goril şısman , yer .
+*CHI:	evet , ama goril şişman , yer .
 *CHI:	sonra kurt yine .
 *CHI:	bir köprü.
 *CHI:	çukur varmış.
@@ -297,7 +297,7 @@
 *EXP:	ne yer kediler ?
 *CHI:	pislik yer .
 *CHI:	pisliklerin içine , çöplerin içine girer .
-*CHI:	çopleri devirir .
+*CHI:	çöpleri devirir .
 *EXP:	tırmalarmı kediler ?
 *CHI:	tırmalar .
 *EXP:	niye ?
@@ -468,7 +468,7 @@
 *EXP:	bu ne yapacakmış?
 *CHI:	hayvanat arabası bu .
 *CHI:	hah , durdu .
-*CHI:	ama duştü gine .
+*CHI:	ama düştü gine [: yine] .
 *CHI:	neyle durdursak xxx .
 *EXP:	tarif etsene şu hayvanların yerini .
 *CHI:	hayvanat bahçesi , hah oldu .
@@ -543,7 +543,7 @@
 *CHI:	zebra korktu .
 *CHI:	arabanın üstünde kaldı diye .
 *CHI:	artık atlıyamaz [: atlayamaz] zebra .
-*CHI:	çunkü atlıyamaz [: atlayamaz] .
+*CHI:	çünkü atlıyamaz [: atlayamaz] .
 *CHI:	at atlıyabilir [: atlayabilir] .
 *CHI:	kaldı zebra .
 *CHI:	hop düştü bunun üstünden .
@@ -585,7 +585,7 @@
 *CHI:	niçin ü ağlıyor ?
 *CHI:	bunlar , bu elimi bıraktı.
 *CHI:	çocuk gidiyor şimdi .
-*CHI:	yarıyolda rastliyacak zebraya .
+*CHI:	yarı yolda rastliyacak zebraya .
 *CHI:	zebra çocuğu yutacak .
 *CHI:	op kaçıyor .
 *CHI:	kız geldi şimdi .

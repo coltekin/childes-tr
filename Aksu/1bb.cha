@@ -32,7 +32,7 @@
 *EXP:	ne yaptın öyle ?
 *EXP:	sen oynar mısın ?
 *CHI:	nerede ?
-*EXP:	dişarda .
+*EXP:	dışarda .
 *CHI:	oynamam .
 *EXP:	evde oynar mısın ?
 *CHI:	oynamam .
@@ -56,7 +56,7 @@
 *CHI:	girdiler .
 %com:	trying to put something in the bus
 *EXP:	Füsuncuğum , baban ne zaman eve gelir ?
-*CHI:	aa xxx kapanmiş.
+*CHI:	aa xxx kapanmış.
 *EXP:	sen söyle bana , baban ne zaman eve gelir ?
 *CHI:	on buçukta gelir .
 *EXP:	peki canım .
@@ -132,7 +132,7 @@
 *EXP:	bunu vereyim ben sana , bir de bluzu ütüle .
 *EXP:	top vurursa ne olur Füsun ?
 *CHI:	bacağıma gelir işte .
-*EXP:	gelsin bacağina , ne olacak ?
+*EXP:	gelsin bacağına , ne olacak ?
 *CHI:	çocukların elbisesi bu .
 *CHI:	bu da annelerin elbisesi .
 *EXP:	bir tane daha vereyim mi ?
@@ -159,7 +159,7 @@
 *CHI:	babaya da pantolon .
 *CHI:	bunun bezi olsunmu ?
 *CHI:	onu ütülüyeceğim ben .
-*MOT:	burda ütule de göreyim , sonra ne yapacaksın ?
+*MOT:	burda ütüle de göreyim , sonra ne yapacaksın ?
 *CHI:	şimdi onları da ütüleyim [: ütüleyeyim] .
 *CHI:	bak , ne yaptım !
 *EXP:	ne yaptın ?
@@ -264,7 +264,7 @@
 *EXP:	ben kıvırabilirmiyim ?
 *CHI:	kıvırabilirsin .
 *CHI:	bu çocuğu da .
-*CHI:	bu çocugu .
+*CHI:	bu çocuğu .
 *CHI:	ver bir tane .
 *CHI:	a böyle otursun .
 %com:	<1w> an exclamatory sound gesture
@@ -301,14 +301,14 @@
 %com:	<1w> an exclamatory sound gesture
 *CHI:	aman , bundan yemiyorlar .
 %com:	<1w> an exclamatory sound gesture
-*CHI:	obürünü ver bakalım .
+*CHI:	öbürünü ver bakalım .
 *CHI:	o küçük değil ki , bu büyük .
 *EXP:	hangisini istiyorsun , şunu mu ?
 *CHI:	onu .
 *CHI:	kahvaltı ederler .
 *EXP:	kedi nerde duruyor , bir bakalım .
-*CHI:	bnun içine gelecekmi bakalım .
-*CHI:	aman , babanne de yani xxx .
+*CHI:	bunun içine gelecekmi bakalım .
+*CHI:	aman , babaanne de yani xxx .
 %com:	<1w> an exclamatory sound gesture
 *CHI:	düşmüş babaanne .
 *EXP:	kedi nerede duruyor şimdi ?
@@ -325,7 +325,7 @@
 *CHI:	anneler uyusunlar .
 *CHI:	annelere bir yorgan ver .
 *CHI:	anneler sarılsınlar .
-*CHI:	gotürelim eve .
+*CHI:	götürelim eve .
 *CHI:	bunlar da içinde dursun .
 *EXP:	neyin üstünde duruyor annler ?
 *CHI:	onun .
@@ -357,7 +357,7 @@
 *CHI:	o şu değil ki !
 *CHI:	bardağı ver .
 *CHI:	sen fincanı ver .
-*EXP:	fincani vereyim ama bardaktan içemez köpek .
+*EXP:	fincanı vereyim ama bardaktan içemez köpek .
 *CHI:	içer , içer .
 *EXP:	içsin bakalım .
 *EXP:	köpek niçin içer ?
@@ -462,7 +462,7 @@
 *CHI:	o ne ?
 *EXP:	ne bu ?
 *CHI:	balık .
-*CHI:	burası ne baliğın ?
+*CHI:	burası ne balığın ?
 *CHI:	kuyruğu .
 *CHI:	ah , ne güzel ?
 %com:	<1w> an exclamatory sound gesture

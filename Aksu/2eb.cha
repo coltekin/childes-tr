@@ -16,7 +16,7 @@
 *EXP:	hı , işte kedinin ayağını kırdılar .
 *CHI:	bak şu nasıl biliyormusun ?
 *CHI:	bak böyle .
-*EXP:	şımdı sen ordan bir otomobil alabilirsin istersen .
+*EXP:	şimdi sen ordan bir otomobil alabilirsin istersen .
 *CHI:	ben de otobüsü alarım [: alırım] .
 *CHI:	alayımmı elime ?
 *EXP:	al canım .
@@ -80,7 +80,7 @@
 *CHI:	bak .
 *EXP:	kim açmış arkasını acaba ?
 *CHI:	kim açtı o şeyin arkasını.
-*CHI:	bunun arkasıni .
+*CHI:	bunun arkasını .
 *EXP:	Murat sen kiminle oynarsın ?
 *CHI:	Piraye ile oynarım .
 *EXP:	ne oynarsın ?
@@ -93,10 +93,10 @@
 *BRO:	uçağı var .
 *CHI:	sonra Tayyarın büyük .
 *CHI:	bak o Tayyarın bir tane roketini bir takıyorsun .
-*CHI:	volkswagen de var .
+*CHI:	Volkswagen de var .
 *CHI:	Tayyarın roketi de var .
 *CHI:	bir tane ayakta yürüyordu füze .
-*CHI:	sonra durdurttumda ben .
+*CHI:	sonra durdurttum da ben .
 *EXP:	ne oyunlar oynarsınız siz beraber ?
 *CHI:	biz mi ?
 *EXP:	siz .
@@ -113,7 +113,7 @@
 *CHI:	annemle babamla .
 *EXP:	ne var dışarda ?
 *CHI:	he Pirayelere gidiyoruz biz .
-*EXP:	ne var pirayelerde ?
+*EXP:	ne var Pirayelerde ?
 *CHI:	büyük uçak var benzinli .
 *CHI:	bir koyuyorsun vız yukarı kalkıyor .
 *EXP:	peki dışarıda neler var , sokakta ?
@@ -142,7 +142,7 @@
 *EXP:	nerde gördün sen bunu ?
 *CHI:	babamla gitmiştik bakmıştık .
 *CHI:	bir tane televizyonda bir tane kovboylar vardı.
-*CHI:	bir tane kayiğı yakmışlardı bir tanesini .
+*CHI:	bir tane kayığı yakmışlardı bir tanesini .
 *CHI:	bir tanesini yakmışlar .
 *EXP:	ne ayıp değilmi ?
 *CHI:	bir tane yumruklarsam onları bir .
@@ -235,14 +235,14 @@
 *CHI:	sonra kapatıyoruz yatıyoruz .
 *EXP:	peki annen süslenirmi senin ?
 *CHI:	ha .
-*CHI:	takmiş biliyormusun ?
+*CHI:	takmış biliyormusun ?
 *CHI:	sünnet yapacaklar .
 *EXP:	kimler canım ?
 *CHI:	o sünnetçiler .
 *EXP:	nerde bu sünnetçiler ?
 *CHI:	taa o lunaparkın uzakta var .
 *CHI:	oraya o evin arkasında var .
-*CHI:	o sünnetçıler beni yapacak sünnet .
+*CHI:	o sünnetçiler beni yapacak sünnet .
 *CHI:	hemencik bir tane gelin arabasına binecem [: bineceğim] .
 *CHI:	sonra da gidecem .
 *EXP:	peki sen hala söylemedin annen süslenirmi bazen .
@@ -252,7 +252,7 @@
 *EXP:	annen nasıl süsleniyor peki ?
 *CHI:	şapka , sonra yeni elbise , sonra giyiyor sonra .
 *CHI:	gelin arabasına biniyor .
-*CHI:	babam da kullanıyor gelin arabasıni .
+*CHI:	babam da kullanıyor gelin arabasını .
 *CHI:	ben de arkaya oturuyorum .
 *CHI:	sonra gidiyoruz .
 *EXP:	peki canım kim ütü ütüler evde ?
@@ -281,7 +281,7 @@
 *CHI:	büyük işler var .
 *CHI:	büyük iş makinaları var .
 *EXP:	evet .
-*CHI:	aygaz da var .
+*CHI:	Aygaz da var .
 *EXP:	ne yapıyorlar orda [: orada] .
 *CHI:	orda mı?
 *CHI:	işleri .
@@ -308,11 +308,11 @@
 *CHI:	uzakta .
 *CHI:	camisine gittik .
 *CHI:	sonra o çirkin yola gittik .
-*CHI:	şisko uçağı gördük .
+*CHI:	şişko uçağı gördük .
 *CHI:	biz onun gibi uçak gördük .
 *EXP:	nerde o uçak canım ?
-*CHI:	bir karşiya geçiyorsun ya .
-*CHI:	ta kırmızı işik .
+*CHI:	bir karşıya geçiyorsun ya .
+*CHI:	ta kırmızı ışık .
 *CHI:	yuvarlaklı bir uçak , büyük .
 *CHI:	tınaz uçak .
 *CHI:	mazallah bir uçsa .

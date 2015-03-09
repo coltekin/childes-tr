@@ -178,7 +178,7 @@
 *CHI:	annemle babamla .
 *EXP:	niye korktun ondan ?
 *CHI:	işte .
-*EXP:	sen sinemaya gidiyormusum bazen ?
+*EXP:	sen sinemaya gidiyormusun bazen ?
 *CHI:	gidiyorum .
 *CHI:	bu niye açılıyor yürüyünce ?
 *EXP:	içine insanlar binsin diye .
@@ -321,7 +321,7 @@
 *EXP:	neyle ?
 *CHI:	şeyle .
 *EXP:	neyle temizliyor annen ?
-*CHI:	ama ütu ütüyle .
+*CHI:	ama ütü ütüyle .
 *EXP:	hı.
 *CHI:	ütü ütüyle temizliyor .
 *EXP:	niye süpürüyor yerleri ?
@@ -374,7 +374,7 @@
 *EXP:	hiii , nerde koptu ?
 *CHI:	hame [?] Seyfettin dayıcığıma giderken koptu .
 *EXP:	aa , ben hiç bilmiyordum .
-*CHI:	ben , o , geçecek geçen sene olunce .
+*CHI:	ben , o , geçecek geçen sene olunca .
 *EXP:	ee , ne yaptılar kolunu ?
 *CHI:	ee , kendisi düştü.
 *EXP:	kendisi düştü değilmi ?
@@ -488,7 +488,7 @@
 *CHI:	olmaz .
 *EXP:	sahi mi ?
 *EXP:	ben de xxx .
-*EXP:	oğretmenlerini seviyormusun ?
+*EXP:	öğretmenlerini seviyormusun ?
 *CHI:	cık .
 *EXP:	beni seviyormusun ?
 *CHI:	hı?
@@ -576,7 +576,7 @@
 *CHI:	o zaman bi [: bir] , bir oraya gidelim .
 *CHI:	bir de oraya gidelim .
 *EXP:	tabii , denize de gideceksin bu sene dimi [: değilmi] .
-*CHI:	bir kere oturya [?] gidelim , bi [: bir] de xxx .
+*CHI:	bir kere otur ya [?] gidelim , bi [: bir] de xxx .
 *CHI:	Fıstık sinemasına , bir de sinemaya gidelim .
 *EXP:	sinemada gazoz içiyormusun ?
 *CHI:	gazoz içiyorum .
@@ -671,7 +671,7 @@
 *EXP:	kurtlar yemek yemezmi ?
 *CHI:	yeer .
 *EXP:	niçin kurtlar yemek yer ?
-*CHI:	ee , karnıları acıkır .
+*CHI:	ee , karnıları [: karınları] acıkır .
 *EXP:	tabii , peki .
 *EXP:	bunlar niye su içer ?
 *EXP:	susarlarda onun için .
@@ -698,7 +698,7 @@
 %com:	song , balık
 *EXP:	haa ne güzel değilmi ?
 *CHI:	çok güzel bir balık .
-*EXP:	Elifciğim , bu ne bu ?
+*EXP:	Elifçiğim , bu ne bu ?
 *EXP:	burası neresi balığın .
 *CHI:	kuyruğu .
 *EXP:	nasıl yüzer balıklar ?
@@ -723,7 +723,7 @@
 *CHI:	evet .
 *EXP:	hayır burası Fıstık sineması.
 *CHI:	Fıstık mı?
-*EXP:	hı , mahsuscuktan Fıstık sinemasıymış.
+*EXP:	hı , mahsusçuktan Fıstık sinemasıymış.
 *CHI:	tabii .
 *EXP:	ne oluyor sinemada ?
 *CHI:	ne oluyor .
@@ -745,7 +745,7 @@
 *EXP:	bak ne güzel resim .
 *EXP:	ne var o resimde ?
 *CHI:	bebek var .
-*EXP:	alalimmı o resmi oradan ?
+*EXP:	alalımmı o resmi oradan ?
 *CHI:	alma .
 *EXP:	hadi bakalım .
 *CHI:	bakmıycam [: bakmayacağım] .
@@ -855,7 +855,7 @@
 *EXP:	biraz tuz koyup üstüne , biraz da biber .
 *EXP:	biraz da yağ.
 *CHI:	üstüm kaka olur .
-*EXP:	sımdi yiyelimmi ?
+*EXP:	şimdi yiyelimmi ?
 *EXP:	hadi [: haydi] hap , hap , hap .
 *CHI:	üstüm kaka olur .
 *EXP:	ee , olsun canım sen makarnasın zaten .
@@ -911,7 +911,7 @@
 *EXP:	sen nasıl pasta seviyorsun ?
 *CHI:	ben sevmiyorum pasta .
 *EXP:	ben çok severim çikolatalı pasta .
-*CHI:	ben cikolatalı pasta sevmem .
+*CHI:	ben çikolatalı pasta sevmem .
 *EXP:	ne yapıyorlar ?
 %com:	to kids singings etc .
 *CHI:	bak , bak , bak ormanı diyorlar ormanı.

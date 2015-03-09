@@ -27,7 +27,7 @@
 *CHI:	kovboyculuk oynıyacağız [: oynayacağız] .
 *EXP:	nasıl oynuyorsunuz kovboyculuk ?
 *CHI:	tüfekle .
-*CHI:	sope benim tüfeğim olacak .
+*CHI:	sope [: sopa] benim tüfeğim olacak .
 *CHI:	o da düşman olacak .
 *CHI:	öbürüki [: öbürü] de derilikız [: kızılderili] olacak .
 %com:	there is no such word as "derilikız" in Turkish , the child got it wrong . also added an extra suffix to "öbürü"
@@ -93,7 +93,7 @@
 *EXP:	nereye kaçıyordu kızılderili kız ?
 *CHI:	o bahçeye kadar , dağa kadar .
 *CHI:	füt xxx onlardan bizden kaçıyor o .
-*CHI:	bizim dağlara , hani bahçede var ya , ışte oradakine .
+*CHI:	bizim dağlara , hani bahçede var ya , işte oradakine .
 *CHI:	biz de düşüyorduk .
 *EXP:	sen dışarıya kiminle çıkıyorsun ?
 *CHI:	Kadirle .

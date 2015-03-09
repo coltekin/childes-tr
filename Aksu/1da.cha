@@ -18,7 +18,7 @@
 *EXP:	oğlan ne yapıyor ?
 *CHI:	yatıyor .
 %com:	A tell the boy to eat . there is only the english version here .
-*CHI:	öglan kız yemiyor , yiyecek .
+*CHI:	oğlan kız yemiyor , yiyecek .
 *EXP:	niye koşarlar ?
 *CHI:	yemiyelim diye .
 *EXP:	kiminle oynarsın ?
@@ -62,8 +62,8 @@
 *CHI:	herşeyden xxx .
 *EXP:	vereyimmi sana ?
 *CHI:	ver .
-*CHI:	heryerini yaparım .
-*CHI:	heryerini yaparım .
+*CHI:	her yerini yaparım .
+*CHI:	her yerini yaparım .
 *EXP:	ismini yazabilirmisin ?
 *CHI:	xxx .
 *EXP:	bu ne resmi ?
@@ -85,7 +85,7 @@
 *CHI:	aldılar .
 *CHI:	dedemle .
 *EXP:	nerde [: nerede] aldılar ?
-*CHI:	Istanbulda aldılar .
+*CHI:	İstanbulda aldılar .
 *CHI:	doğum günümde verdiler .
 *EXP:	kaç yaşındaydın ?
 *CHI:	iki yaşında .
@@ -107,7 +107,7 @@
 *EXP:	bugün ne yaptı annen ?
 *CHI:	birşey yapmadı.
 *EXP:	baba ne yaptı?
-*CHI:	babam bişey [: birşey] xxx .
+*CHI:	babam bi [: bir] şey xxx .
 *EXP:	Mustafa ne yaptı?
 *CHI:	kaka yaptı?
 *EXP:	anne nasıl süslenir ?
@@ -116,7 +116,7 @@
 *CHI:	yüzüne pamuk sürer .
 *CHI:	birşey sürmez .
 *EXP:	dudaklarına birşey sürermi ?
-*CHI:	gözlerine oje süruyor .
+*CHI:	gözlerine oje sürüyor .
 *EXP:	saçını kim tarar ?
 *CHI:	annem , babam .
 *EXP:	ütü kim ütüler ?
@@ -157,7 +157,7 @@
 *CHI:	xxx .
 *EXP:	kim kokladı?
 *CHI:	geyik kokladı.
-*CHI:	sünu versene .
+*CHI:	şunu versene .
 *CHI:	xxx getirmedinmi buraya ?
 *CHI:	çimdikledi .
 *EXP:	kim çimdikledi ?
@@ -195,7 +195,7 @@
 *CHI:	kaşık da vericem [: vereceğim] .
 *CHI:	sen ye , kaşık da vereceğim .
 *CHI:	bir tane kaşık kaldı.
-*CHI:	al bakalım kaşiğı.
+*CHI:	al bakalım kaşığı.
 *EXP:	kedi ne yapar ?
 *CHI:	çimdikler .
 *EXP:	başka ne yapar ?
@@ -249,7 +249,7 @@
 *CHI:	nerdedir [: nerededir] dağlar ?
 *CHI:	orman ne demek ?
 *EXP:	balıkları biliyormusun ?
-*CHI:	baliğı bilmiyorum .
+*CHI:	balığı bilmiyorum .
 *CHI:	hani böyle yüzer ya balıklar .
 *CHI:	anne bu balığı keselim bugün , yiyelim .
 *EXP:	bu ne ?

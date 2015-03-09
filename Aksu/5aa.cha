@@ -267,10 +267,10 @@
 *CHI:	belki ben , belki .
 *CHI:	ben (giymiş) , bak .
 *EXP:	ne (giymiş) ?
-*CHI:	bak aynısinden .
+*CHI:	bak aynısından .
 *EXP:	efendim ?
-*CHI:	aynısinden .
-*EXP:	ha , aynısinden .
+*CHI:	aynısınden .
+*EXP:	ha , aynısınden .
 *EXP:	Vahide , kediler niye tırmalar ?
 *EXP:	niçin tırmalar , çocuğum ?
 *CHI:	otobüsün içine girdiler .
@@ -296,7 +296,7 @@
 *CHI:	a , bir tane , aaa , annem .
 %com:	mother interprets this as: "annem görünüyor"
 *CHI:	içeri gir , içeri , dışarda üşürsün .
-*CHI:	çok sogük .
+*CHI:	çok soğuk .
 *EXP:	kuşlar ne yapar ?
 *CHI:	cik yaparlar .
 *EXP:	sonra ne yaparlar böyle böyle ?
@@ -319,7 +319,7 @@
 *EXP:	ya , kanatları.
 *EXP:	peki , bu ne ?
 *CHI:	o balık .
-*EXP:	bu nesi balıgın ?
+*EXP:	bu nesi balığın ?
 *CHI:	kuyruğu .
 *EXP:	balıklar ne yapar ?
 *CHI:	ne yapar ?
@@ -327,7 +327,7 @@
 *CHI:	denizde onlar .
 *EXP:	ah , balıklar yüzer denizde .
 *CHI:	yüzer denizde .
-*EXP:	biraz anlatsana balıklari bana ?
+*EXP:	biraz anlatsana balıkları bana ?
 *CHI:	bu gider , gider böyle de .
 *EXP:	böyle gider ha , denizde ?
 *CHI:	bunu .
@@ -340,7 +340,7 @@
 *EXP:	anlatsana bana .
 *CHI:	bu tırmaladı , balığı tırmaladı kurt .
 *MOT:	kurt tırmalamış balığı.
-*EXP:	bu tırmaladı balıgı , bu hı?
+*EXP:	bu tırmaladı balığı , bu hı?
 *CHI:	tırmaladı kurt , tırmaladı.
 *CHI:	çok tırmaladı.
 *MOT:	teyze neler getirmiş sana ?
@@ -381,7 +381,7 @@
 *CHI:	bak durdu bak .
 *CHI:	a burda durdu ya .
 *CHI:	a , bu düşüyor .
-*MOT:	hoşgeldin de .
+*MOT:	hoş geldin de .
 *CHI:	söylemiyecem .
 *MOT:	çok ayıp .
 *EXP:	nesi var bu kurdun ?
@@ -447,7 +447,7 @@
 *CHI:	bak .
 *CHI:	korkuttum onu ben .
 *CHI:	ha ha , korktu .
-*CHI:	cıktı bunun içinden bu .
+*CHI:	çıktı bunun içinden bu .
 *CHI:	donunu çıkartmasına [?] bana .
 *CHI:	çıkartmadı , bak .
 *EXP:	çıkartmadı.
@@ -469,7 +469,7 @@
 *CHI:	picamasıymış , bak picaması.
 *EXP:	efendim .
 *CHI:	picamasıymış , bunun picaması.
-*EXP:	ah , pıcaması varmış.
+*EXP:	ah , picaması varmış.
 *CHI:	onun donu yok , yalnız benim donum var .
 *CHI:	bak , benim donuma benziyor bu .
 *CHI:	donum bana çıkartmasınlar .

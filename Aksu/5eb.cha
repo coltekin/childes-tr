@@ -7,7 +7,7 @@
 @ID:	tur|Aksu|EXP|||||Investigator|||
 *EXP:	ne oynuyordun dışarıda ?
 *EXP:	ben seni gördüm .
-*CHI:	bilmiyorumki .
+*CHI:	bilmiyorum ki .
 *EXP:	ben gördüm seni .
 *EXP:	ne oyunlar oynuyordun ?
 *CHI:	unuttum .
@@ -33,9 +33,9 @@
 *CHI:	iki tane çocuklar saklanıyorlar .
 *CHI:	gözlerini yuman çocuklar onları buluyorlar .
 *EXP:	koşmaca nasıl oynarlar ?
-*CHI:	onu bilmiyorumki .
+*CHI:	onu bilmiyorum ki .
 *EXP:	çocuklar niçin koşar ?
-*CHI:	bilmiyorumki .
+*CHI:	bilmiyorum ki .
 *EXP:	çocuklar ne zaman oynarlar ?
 *CHI:	biraz sonra .
 *EXP:	sizin evde kimler oturuyor ?
@@ -121,13 +121,13 @@
 *EXP:	evde ?
 *CHI:	oturduk .
 *EXP:	ne vardı televizyonda ?
-*CHI:	ben bilmiyorumki .
+*CHI:	ben bilmiyorum ki .
 *EXP:	ne gördünüz ?
 *CHI:	ama ben yatıyordum .
 *EXP:	kim seyrediyordu ?
 *CHI:	annemle abim .
 *EXP:	masal anlatsana .
-*CHI:	ama ben masalı bilmiyorumki .
+*CHI:	ama ben masalı bilmiyorum ki .
 *EXP:	biliyorsun .
 *CHI:	vallahi bilmiyorum .
 *EXP:	kedileri anlat , seviyorum dedin .

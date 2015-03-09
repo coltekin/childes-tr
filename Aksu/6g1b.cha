@@ -62,7 +62,7 @@
 *CHI:	evet .
 *EXP:	niçin içer ?
 *CHI:	çünkü susadığı için .
-*EXP:	küşlar ne yapar ?
+*EXP:	kuşlar ne yapar ?
 *CHI:	kuşlar şey yapar .
 *CHI:	kuşlar kendisine yem getirir .
 *CHI:	ot yiyerler [: yerler] .
@@ -101,7 +101,7 @@
 *CHI:	kuyruğu .
 *EXP:	nasıl yüzer balıklar ?
 *CHI:	balıklar bayağı yüzerler .
-*EXP:	hiç gordünmü suyun içinde ?
+*EXP:	hiç gördünmü suyun içinde ?
 *CHI:	gördüm .
 *EXP:	nasıl yüzüyorlar ?
 *CHI:	bayağı.
@@ -128,7 +128,7 @@
 *CHI:	aptal karga gak demiş.
 *CHI:	peyniri de tilki yemiş.
 *EXP:	anneanne hikaye anlatmıyormu sana ?
-*CHI:	aslan Memetciği biliyordum .
+*CHI:	aslan Memetçiği biliyordum .
 *CHI:	şimdi unuttum .
 %com:	brother said something
 *CHI:	yahu unuttum .
@@ -146,16 +146,16 @@
 *EXP:	anneanne ne yaptı?
 *CHI:	anneannem de yemek pişirdi .
 *EXP:	baba ne zaman geliyor .
-*CHI:	aslan Mehmetcik .
+*CHI:	aslan Mehmetçik .
 %com:	a poem about the Turkish soldier
 *CHI:	tarlada rençber .
 *CHI:	sınırlarda asker .
 *CHI:	tunç gibi gezer .
-*CHI:	aslan Mehmetcik .
+*CHI:	aslan Mehmetçik .
 *CHI:	doyuranım ol .
 *CHI:	koruyanım ol .
 *CHI:	benim canım ol .
-*CHI:	aslan Mehmetcik .
+*CHI:	aslan Mehmetçik .
 %com:	he is repeating after brother
 *EXP:	kim öğretmişti bunu sana ?
 *CHI:	babam .
@@ -168,7 +168,7 @@
 *EXP:	ne yapıyor senle ?
 *CHI:	hergün oynuyoruz .
 *EXP:	ne oyunları oynuyorsunuz ?
-*CHI:	atçilık .
+*CHI:	atçılık .
 *EXP:	atçılık nasıl oynanıyor ?
 *CHI:	oklavayla .
 *EXP:	ne yapıyor bu ?

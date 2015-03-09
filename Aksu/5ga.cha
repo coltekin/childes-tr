@@ -24,7 +24,7 @@
 *CHI:	kaka yapıyor .
 *EXP:	kim temizliyor ?
 *CHI:	annem temizliyor .
-*EXP:	kızıyormusun kaka yaptıgı zaman ?
+*EXP:	kızıyormusun kaka yaptığı zaman ?
 *EXP:	kızmıyormusun ?
 *EXP:	küçük dimi [: değilmi] .
 *CHI:	a ma lazımlığına yapıyor .
@@ -38,7 +38,7 @@
 *EXP:	geçer .
 *CHI:	kırmızı gözlük alıcam [: alacağım] .
 *EXP:	pek yakışacak sana .
-*CHI:	Nuran xxx te [: de] , Nurhan teyzeminde var kırmızı gözlüğü.
+*CHI:	Nuran xxx te [: de] , Nurhan teyzemin de var kırmızı gözlüğü.
 *EXP:	öyle mi .
 *EXP:	benim de var gözlüğüm .
 *EXP:	bak Zühal sen şimdi bana söyle ne oluyor ?
@@ -97,7 +97,7 @@
 *EXP:	hmmm .
 *EXP:	sucuğu nasıl pişireceksin ?
 *CHI:	su .
-*CHI:	sucuğu pişiririm , milangazı yakarım .
+*CHI:	sucuğu pişiririm , Milangazı yakarım .
 *CHI:	üstünde durar [: durur] .
 *EXP:	durar [: durur] .
 *CHI:	tava , yağı da koyarım .
@@ -112,7 +112,7 @@
 *EXP:	otursunlar orda onlar .
 *CHI:	ba .
 *CHI:	babası da gelmedi zaten .
-*EXP:	babasıda mı gelmedi ?
+*EXP:	babası da mı gelmedi ?
 *EXP:	kız o zaman seviyormusun anneni sen ?
 *CHI:	seviyorum .
 *EXP:	cici mi annen senin ?
@@ -131,7 +131,7 @@
 *EXP:	seni mi dövüyor ?
 *CHI:	Mukanı da dövüyor , beni dövüyor .
 %com:	brother's name ? .
-*EXP:	ikinizide mi dövüyor ?
+*EXP:	ikinizi de mi dövüyor ?
 *EXP:	niye dövüyor çocuğum ?
 *CHI:	banyoyu karıştırıyoruz .
 *EXP:	banyoya ne yapıyorsunuz ?
@@ -163,7 +163,7 @@
 *EXP:	peki sen al .
 %com:	task
 *CHI:	denize , içinde hoplayacam [: hoplayacağım] .
-*CHI:	ordan [: oradan] şoyle şöyle hoplıycam [: hoplayacağım] .
+*CHI:	ordan [: oradan] şöyle şöyle hoplıycam [: hoplayacağım] .
 *CHI:	ama şöyle .
 *CHI:	bak böyle , şöyle .
 *EXP:	öyle mi canım ?
@@ -219,12 +219,12 @@
 *CHI:	böyle mi ?
 *EXP:	hı hı.
 *EXP:	bak burda bir oğlanla bir de kız var .
-*CHI:	basarmi ?
+*CHI:	basarmı ?
 %com:	toy
 *EXP:	tabii basar .
 *EXP:	ne yaparlar onlar beraber ?
 *CHI:	nasıl basıyor ?
-*EXP:	bastırmaya çalışayım ben , dur bakalim .
+*EXP:	bastırmaya çalışayım ben , dur bakalım .
 *CHI:	otobüsler çarpmasın .
 *CHI:	eve götürürüm .
 *EXP:	otobüsler çarpmasın tabii .
@@ -328,7 +328,7 @@
 *EXP:	köpekler mi ısırır öyle ?
 *EXP:	havhavlar ısırırmı?
 *CHI:	tabii , şöyle saçına değersen , kuyruğuna değersen .
-*CHI:	seni ısırir .
+*CHI:	seni ısırır .
 *CHI:	annem dedi öyle .
 *EXP:	allah allah , niçin ısırıyormuş?
 *CHI:	işte .
@@ -477,7 +477,7 @@
 *EXP:	yüzünü boyuyormu ?
 *CHI:	yok .
 *EXP:	boyamıyormu ?
-*CHI:	uf be , şu saçlardanda bıktım be .
+*CHI:	uf be , şu saçlardan da bıktım be .
 *CHI:	kestireceğiz berberde .
 *EXP:	niye çok yakışıyor sana .
 *EXP:	ne kadar kestireceksin ?

@@ -22,9 +22,9 @@
 *CHI:	taslan [: tasla] oynadım .
 %com:	tasla; no need for n; he added an extra letter , a common mistake
 *MOT:	ne aldık giderken ?
-*CHI:	giderken de poaça aldık , yedik .
+*CHI:	giderken de poaça [: poğaça] aldık , yedik .
 *MOT:	sonra başka ?
-*CHI:	başka , daha poaça aldık .
+*CHI:	başka , daha poaça [: poğaça] aldık .
 *MOT:	başka ?
 *CHI:	başka da xxx .
 *MOT:	kocaman birşey aldık orda , ne aldık ?
@@ -75,7 +75,7 @@
 *MOT:	ne içtin başka , çay içtinmi ?
 *CHI:	arabalı vapura bindik .
 *CHI:	sonra da gittik .
-*CHI:	poaça aldık .
+*CHI:	poaça [: poğaça] aldık .
 *CHI:	arabalı vapura bindik .
 *EXP:	parkta oynuyormusun sen ?
 *EXP:	evin önünde para var mı?
@@ -105,23 +105,23 @@
 *CHI:	o senin araban değil .
 %com:	to the brother who wants to pick up the car .
 *MOT:	akşam olunca , enişten ne getiriyor sana çocuğum ?
-*CHI:	oğretmenin arabası.
+*CHI:	öğretmenin arabası.
 %com:	calls the examiner teacher
-*CHI:	bak oğretmen burda .
-*CHI:	bu oğretmen , oğretmenin arabası.
+*CHI:	bak öğretmen burda .
+*CHI:	bu öğretmen , öğretmenin arabası.
 *CHI:	arkasındaki uçağı unuttum be .
 %com:	remembers the questions for acting out
 *MOT:	peki ama anlat bakayım , Yalova'dan geldik , ne yaptık sonra ?
 *CHI:	sonra da vapura bindik .
 *CHI:	vapurda gazoz içtik , vapurda .
 *MOT:	başka ?
-*CHI:	başka daha , poaça yedik .
+*CHI:	başka daha , poaça [: poğaça] yedik .
 *EXP:	sen onun için mi şişmanladın ?
 *CHI:	ha .
 %com:	an affirmative sound gesture .
-*MOT:	kaç tane poaça yedin ?
-*MOT:	çok poaça yemişsindir .
-*CHI:	ben de orada gazozlan [: gazozla] poaça içtim .
+*MOT:	kaç tane poaça [: poğaça] yedin ?
+*MOT:	çok poaça [: poğaça] yemişsindir .
+*CHI:	ben de orada gazozlan [: gazozla] poaça [: poğaça] içtim .
 %com:	gazozla; no need for n , he added an extra suffix; a common mistake
 *MOT:	sonra peynir yemedinmi ?
 *CHI:	yemedim orda .
@@ -139,9 +139,9 @@
 *CHI:	babam yolluyor .
 *EXP:	nerede baban senin ?
 *CHI:	arabada .
-*CHI:	mercedes almış.
+*CHI:	Mercedes almış.
 *EXP:	aman ne güzel !
-*EXP:	güzel mi mercedes ?
+*EXP:	güzel mi Mercedes ?
 *CHI:	hı.
 %com:	an affirmative sound gesture
 *EXP:	beğendinmi , sen de bindinmi ?
@@ -154,11 +154,11 @@
 *CHI:	taksi de amcamın arabasının burasına çarpmış.
 *EXP:	hay allah , kaza oldumu ?
 *CHI:	kaza oldu .
-*CHI:	sonra da çiktı arabadan .
+*CHI:	sonra da çıktı arabadan .
 *CHI:	sonra bindi gitti .
 *CHI:	sonra da arabanın kenarısına geldi .
 *CHI:	sonra bağırdı ona .
-*CHI:	sonra , değil mi , bağirdı.
+*CHI:	sonra , değil mi , bağırdı.
 *CHI:	sonra da arabaya bindi , garaja gitti .
 *EXP:	hay allah , çok pahalı oldumu ?
 *CHI:	araba da gitti .
@@ -220,13 +220,13 @@
 *EXP:	niçin ?
 *CHI:	işte .
 *CHI:	yemek yedirmiyorlar onlar da bir türlü.
-*EXP:	ne terbiyesiz cocuklar onlar öyle .
+*EXP:	ne terbiyesiz çocuklar onlar öyle .
 *CHI:	terbiyesiz , ne terbiyesiz .
 *CHI:	okulda da burnum akıyordu .
 *CHI:	yemek yerken de akıyor .
 %com:	his nose is running , it ran all year in that school for the school was never heated and he got quite sick . that is what he remembers
 *CHI:	ağzımı xxx dum .
-*CHI:	sonra oğretmen kızıyor sonra .
+*CHI:	sonra öğretmen kızıyor sonra .
 *CHI:	burnun aktı diyor .
 *CHI:	vuruyor burnuma .
 *CHI:	burnum akıyor .
@@ -372,7 +372,7 @@
 *CHI:	hı.
 %com:	an affirmative sound gesture
 *EXP:	hadi yap bir Akbank .
-*EXP:	o eski turkçeye benzedi değil mi ?
+*EXP:	o eski Türkçeye benzedi değil mi ?
 *CHI:	ha .
 %com:	an affirmative sound gesture
 *CHI:	biraz böyle yol yaptım .
@@ -390,7 +390,7 @@
 *CHI:	peki .
 *EXP:	bir çiçek yap bakayım .
 *CHI:	peki .
-*MOT:	şuraya bir taksi yap , mercedesi yap bakayım .
+*MOT:	şuraya bir taksi yap , Mercedesi yap bakayım .
 *CHI:	yapamam be .
 *CHI:	şunları yapım [: yapayım] da , dur .
 *CHI:	bak top yapıyorum sana .
@@ -404,7 +404,7 @@
 *MOT:	say bakayım .
 *CHI:	bir , iki , üç , dört , beş xxx .
 *MOT:	bir daha say .
-*CHI:	dur süraya yazayım da .
+*CHI:	dur şuraya yazayım da .
 *EXP:	oraya yaz , ondan sonra başka birşey yapalım seninle .
 *CHI:	şurası da xxx .
 *EXP:	tamam .
@@ -431,7 +431,7 @@
 *MOT:	yemek pişirmiyormu ?
 *EXP:	dur bakalım , başka birşey soralım , senin halan süslenirmi ?
 *CHI:	süslenir ama .
-*CHI:	arabayı karıstırir , arabaları atar sokağa .
+*CHI:	arabayı karıştırır , arabaları atar sokağa .
 *EXP:	peki süsleniyormu bazen ?
 *CHI:	bazen süsleniyor .
 *CHI:	arabanın içine giriyor .

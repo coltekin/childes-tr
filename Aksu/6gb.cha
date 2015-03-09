@@ -52,7 +52,7 @@
 *CHI:	gazete okuyor .
 *EXP:	başka ?
 *CHI:	o kadar , başka hiçbirşey yapmıyor .
-*CHI:	birtek gazeteyi alıyor .
+*CHI:	bir tek gazeteyi alıyor .
 *CHI:	okuyor .
 *EXP:	senle oynuyormu ?
 *CHI:	oynuyor .
@@ -82,9 +82,9 @@
 *CHI:	babam , annem , bir de ben .
 *CHI:	o kadar , başka kimse oturmuyor .
 *EXP:	bu sabah ne yaptınız siz ?
-*CHI:	annem yemek pısiriyor , o kadar .
+*CHI:	annem yemek pişiriyor , o kadar .
 *CHI:	başka hiçbirşey yapmıyor .
-*CHI:	sofrayi , annem yemeği hazırlıyor .
+*CHI:	sofrayı , annem yemeği hazırlıyor .
 *CHI:	yiyoruz .
 *CHI:	sonra kaldırıyoruz sofrayı.
 *EXP:	dışarı gitmiyormusunuz ?
@@ -141,7 +141,7 @@
 *CHI:	kendi evlerine .
 *CHI:	annemiz geç gelir bize .
 *CHI:	başka hiçbirşey .
-*CHI:	işte çalişır .
+*CHI:	işte çalışır .
 *CHI:	gelir bizi alır okuldan .
 *CHI:	ben dışarıda oynarım derler .
 *CHI:	oynarlar .
@@ -163,10 +163,10 @@
 *CHI:	dışarıya atıyor .
 *EXP:	ne yapıyorlar evin içinde ?
 *CHI:	uyuyorlar .
-*EXP:	arabayı nereye parkedeceksin ?
+*EXP:	arabayı nereye park edeceksin ?
 *CHI:	buraya .
 *CHI:	evin üstü nerde , bunun ?
-*EXP:	arabayı evlerinin neresine parkedeceksin ?
+*EXP:	arabayı evlerinin neresine park edeceksin ?
 *CHI:	burasına .
 *EXP:	ne zaman kalkarlar ?
 %com:	dolls
@@ -202,7 +202,7 @@
 *CHI:	uçmak için böyle .
 *EXP:	kanatları.
 *CHI:	kanatları.
-*EXP:	küşlar nasıl uçar ?
+*EXP:	kuşlar nasıl uçar ?
 *CHI:	böyle uçar .
 *CHI:	havada uçar .
 *EXP:	bu ne ?
@@ -327,7 +327,7 @@
 *CHI:	bu da yatıcakmış , uyuyacakmış.
 *CHI:	bu da yatacak , uyuyacakmış.
 *CHI:	bu da yatıp , uyuyacakmış.
-*CHI:	bunlar da uyuyacakmıs .
+*CHI:	bunlar da uyuyacakmış .
 *CHI:	bu da büyükmüş , bebekmiş.
 *CHI:	onların yavrularımış [: yavrularıymış] .
 *CHI:	iki annesi babası.

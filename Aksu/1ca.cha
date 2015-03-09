@@ -205,7 +205,7 @@
 *EXP:	sen o arabaları ver bana; ben yerine koyarım; sen kendininkileri .
 *EXP:	getir .
 *CHI:	buraya , bu kutunun içine xxx .
-*EXP:	ıçine koyalım .
+*EXP:	içine koyalım .
 %com:	they are putting the cars in a box .
 *CHI:	senin arabaların çok güzel be .
 %com:	break for lunch
@@ -233,7 +233,7 @@
 *CHI:	hm .
 *EXP:	kim kaldırdı?
 *CHI:	ben .
-*CHI:	kapalı heryerler .
+*CHI:	kapalı her yerler .
 %com:	kapalı? still playing with the house
 *CHI:	kapalı , giremezler .
 *EXP:	ne yapıyorsun ?
@@ -270,7 +270,7 @@
 *CHI:	giremezsiniz .
 %com:	swearing
 *EXP:	ben de güzel oyunlar öğreneyim , değil mi ?
-*CHI:	tabii , oğren .
+*CHI:	tabii , öğren .
 *CHI:	ben de öğrenirim .
 %com:	free speech continued using toys , a cowboy and a soldier as a boy and a girl
 *EXP:	kovboya söyle , bu kovboy ateş etsin .
@@ -314,7 +314,7 @@
 *CHI:	ıh ıh .
 %com:	sound gesture for a negative answer .
 *EXP:	hiç?
-*CHI:	tabaanca neredeymiş be ?
+*CHI:	tabanca neredeymiş be ?
 *EXP:	senin kedin var mı hiç?
 *EXP:	sahici kedin ?
 *CHI:	yok sahici kedi işte o .
@@ -529,7 +529,7 @@
 *CHI:	hipotam .
 *EXP:	ne yapıyor bu hipotam ?
 *CHI:	gözlere bak be .
-*EXP:	çirkin degil mi ?
+*EXP:	çirkin değil mi ?
 *EXP:	bu ne ?
 *CHI:	bunlar ceylan .
 *EXP:	bu ne bu ?
@@ -543,11 +543,11 @@
 *CHI:	açarmısın ?
 %com:	refering to a pencil
 *EXP:	açarım tabii .
-*EXP:	bukelamun galiba .
+*EXP:	bukalemun galiba .
 *CHI:	kalemun .
-%com:	meaning: bukelamun ?
+%com:	meaning: bukalemun ?
 *CHI:	sineğe bak .
-*EXP:	ne yapar bukelamun sineği ?
+*EXP:	ne yapar bukalemun sineği ?
 *CHI:	yemez kalemin [: bukalemun] sineği .
 %com:	the book is finished .
 *CHI:	babacım [: babacığım] , verirmisin sen bana ?
@@ -674,14 +674,14 @@
 *MOT:	dün gece bir rüya görmüştün .
 *MOT:	hani , anlatsana onu .
 *CHI:	hangisini ?
-*MOT:	hani bir rüya görmmüşsün .
+*MOT:	hani bir rüya görmüşsün .
 *MOT:	kardeşini görmüşsün hani .
 *MOT:	anlatsana onu bir kere .
 *CHI:	ha !
 *CHI:	bir kardeşimi görmüştüm .
 *MOT:	hı.
 %com:	an affirmative sound gesture . in fact , the mother uses that sound gesture to encourage Ömer's conversation all along in this dialogue .
-*CHI:	kardeşim geçerken rüyammda xxx .
+*CHI:	kardeşim geçerken rüyamda xxx .
 *MOT:	hı.
 *CHI:	geçerken .
 *MOT:	hı.

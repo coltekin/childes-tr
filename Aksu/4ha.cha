@@ -170,7 +170,7 @@
 *CHI:	birisi yaralanmış.
 *CHI:	hepsi ölmüş.
 *EXP:	sen neredeydin bunlar olurken ?
-*CHI:	Istanbuldaydım .
+*CHI:	İstanbuldaydım .
 *EXP:	sen ormanda değilmiydin ?
 *CHI:	o xxx ben xxx ormanda köpekler olur .
 *CHI:	ben köpeklerden korkarım .
@@ -316,7 +316,7 @@
 *EXP:	hocaya söyle ?
 *CHI:	hoca değil ki bu , öğretmen .
 *CHI:	ikiniz de öğretmeniz [: öğretmensiniz] .
-*CHI:	iki tane oğretmen var .
+*CHI:	iki tane öğretmen var .
 *CHI:	bir iki iki .
 *CHI:	birisi oynar , birisi güler .
 %com:	it is not clear in the text whether the child said "oynarlar" or "oynar" in the sentence above .
@@ -367,7 +367,7 @@
 *EXP:	nerden geldi ?
 *CHI:	şeyden , İstanbuldan .
 *EXP:	nerelerdeydin ?
-*CHI:	işte , biryerlere gittik .
+*CHI:	işte , bir yerlere gittik .
 *CHI:	işte bakkala gittim .
 *CHI:	orda çalışırdım .
 *CHI:	birdenbire bir ses geldi .
@@ -391,12 +391,12 @@
 *CHI:	uzaklara gitti , gelmiyecek artık .
 *CHI:	geldi , geldi .
 *EXP:	nerden geldi ?
-*CHI:	İstanbuldan gelddi .
+*CHI:	İstanbuldan geldi .
 *EXP:	nereye gidecek ?
 *CHI:	tekrar gidecek , güle güle de .
 *EXP:	bu masanın üstünde ne var ?
 *CHI:	hadi geldi saat , geldi , geldi işte .
-*CHI:	bu odanın ıcinde neler var ?
+*CHI:	bu odanın içinde neler var ?
 *CHI:	ses gidiyor .
 *EXP:	masada neler var ?
 *EXP:	bu odada kimler var ?

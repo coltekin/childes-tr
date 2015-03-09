@@ -17,7 +17,7 @@
 *CHI:	sen , şey , bizim evde bunları getirmemiştin .
 *CHI:	bizimkiyle oynuyordun .
 *EXP:	kimi itiyor ?
-*CHI:	çocu xxx , oğlanı itiyor .
+*CHI:	çocuk xxx , oğlanı itiyor .
 *CHI:	çocuğu itiyor .
 *EXP:	bu kim ?
 *CHI:	anne .
@@ -260,7 +260,7 @@
 *EXP:	ya derlerse ?
 *CHI:	xxx bardak .
 *EXP:	a , ne oldu ?
-*CHI:	kirılmadı.
+*CHI:	kırılmadı .
 *CHI:	kim düşürürse o alacak .
 *EXP:	nereye koydun onları?
 *CHI:	bardağın içine .
@@ -328,7 +328,7 @@
 *EXP:	biraz da düz kapalı dursun .
 *CHI:	bunu çıkartalımmı?
 *CHI:	hadi [: haydi] çıkartmıyalım [: çıkartmayalım] .
-*CHI:	ayıp olur sonra çikartınca .
+*CHI:	ayıp olur sonra çıkartınca .
 *CHI:	ayıp olur .
 *CHI:	bak bunların elbisesi var .
 *CHI:	hiç ayıp olmuyor .
@@ -379,7 +379,7 @@
 *CHI:	e mi ?
 *EXP:	e mi ?
 *CHI:	e mi ?
-*CHI:	bak bunları içine koyunca oynuyordumya .
+*CHI:	bak bunları içine koyunca oynuyordum ya .
 *EXP:	onu mu oynamak istiyorsun ?
 *CHI:	evet .
 *CHI:	ama bunu dinleyelim , aç.
@@ -452,7 +452,7 @@
 *CHI:	çok mu var ?
 *CHI:	hepsi geliyormu ?
 *EXP:	bir tanesi bizim kapının önünde uyuyor hep .
-*CHI:	ben size gelince onbu kovarım .
+*CHI:	ben size gelince onu kovarım .
 *EXP:	yazık .
 *CHI:	yazık mı?
 *EXP:	ne oldu ona ?
@@ -474,7 +474,7 @@
 *EXP:	ne yapar kuşlar ?
 *CHI:	ben bunu kaybettim .
 *EXP:	ne yapar kuşlar ?
-*CHI:	saklayımda görün sen .
+*CHI:	saklayım [: saklayayım] da görün sen .
 %com:	a threat. -- original transcription included 'sen [: siz]' correction.
 *EXP:	saklama .
 *CHI:	sonra bulurum .

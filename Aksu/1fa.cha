@@ -41,7 +41,7 @@
 *EXP:	niye tırmalar ?
 *CHI:	herkesi tırmalar .
 *EXP:	hı?
-*CHI:	herhesi tırmalar .
+*CHI:	herkesi tırmalar .
 *EXP:	niye tırmalar kediler ?
 *CHI:	kediler mi ?
 *EXP:	başka hayvanları gördün sen sokakta ?
@@ -88,12 +88,12 @@
 *CHI:	havalarda uçarlar .
 *EXP:	nereye giderler , nereye uçarlar ?
 *CHI:	bizim eve uçarlar .
-*CHI:	başka biryerlere de uçarlar .
+*CHI:	başka bir yerlere de uçarlar .
 *CHI:	eski evimize de uçarlar .
 *EXP:	nerde eski eviniz sizin ?
 *CHI:	bizim mi ?
 *EXP:	hı.
-*CHI:	ta karşida .
+*CHI:	ta karşıda .
 %com:	far
 *CHI:	birazcıkta yakında .
 *EXP:	sen oraya gidiyormusun bazen ?
@@ -307,7 +307,7 @@
 *CHI:	sonra yine kurt gelmiş.
 *CHI:	yavrularım , yavrularım açın kapıyı.
 *CHI:	ben geldim demiş.
-*CHI:	açmıslar .
+*CHI:	açmışlar .
 *CHI:	bir de baktılar kurt .
 *CHI:	kardeşini yedi gitti .
 *CHI:	sonra annesi gelmiş.

@@ -48,12 +48,12 @@
 *EXP:	ne yapıyorsunuz dışarda ?
 *CHI:	sallanıyoruz .
 *EXP:	niçin sallanıyorsunuz ?
-*CHI:	hadı oynayalımmı?
+*CHI:	hadi oynayalımmı?
 *EXP:	senin arkadaşların koşarlarmı?
 %com:	affirmative gesture
 *EXP:	niçin koşarlar ?
 *CHI:	hangi ?
-*EXP:	aşagıdaki .
+*EXP:	aşağıdaki .
 *EXP:	niye koşuyorlar ?
 *CHI:	işte .
 *CHI:	hadi oynayalım .
@@ -78,7 +78,7 @@
 *EXP:	güzelmiydi Marmaris tatil köyü?
 *CHI:	sen hiç gittinmi Marmaris tatil köyüne ?
 *EXP:	gittim ya .
-*EXP:	biliyormusun , benim annem de Marmarişte .
+*EXP:	biliyormusun , benim annem de Marmariste .
 *EXP:	sen denize girdinmi hiç yüzdünmü?
 *CHI:	sen yüzdünmü?
 *EXP:	ben yüzdüm .
@@ -96,7 +96,7 @@
 *EXP:	ne balığı seviyorsun sen ?
 *EXP:	ne içmesini seviyorsun ?
 %com:	she is drinking lemonade
-*EXP:	Marmarişte baban balık tuttumu ?
+*EXP:	Marmariste baban balık tuttumu ?
 *CHI:	traktörü versene .
 *EXP:	ne yapıyor traktör ?
 *CHI:	ya bak .
@@ -164,7 +164,7 @@
 *CHI:	palyaço .
 *EXP:	sen ne taraf .
 %com:	tries to go under the desk
-*EXP:	sen oralara olmaz , bak burada bebğin bacakları kalmış.
+*EXP:	sen oralara olmaz , bak burada bebeğin bacakları kalmış.
 *EXP:	senin bebeklerin varmı kızım ?
 *CHI:	var .
 *EXP:	nerde bebeklerin , burada mı , evde mi ?
@@ -181,7 +181,7 @@
 *CHI:	bana başka birşey yap .
 *CHI:	mesela ev yap .
 *EXP:	ne yapıyorsun ?
-*CHI:	üsümüşler de örtüyorum .
+*CHI:	üşümüşler de örtüyorum .
 %com:	covering the animals
 *CHI:	üşümüşler , çıkmasınlar .
 *CHI:	niçin çıkardın ?
@@ -221,7 +221,7 @@
 %com:	she actually pronounces the syllables sparately as Volkswagen to the interviewer's benefit
 *EXP:	al bakalım .
 *CHI:	o Volkswagen değil (ya) .
-*EXP:	ne yapıyorsun Volswagen'i ?
+*EXP:	ne yapıyorsun Volkswagen'i ?
 *EXP:	ne oluyor öyle ?
 %com:	makes the car run
 *CHI:	şimdi şey ver xxx o kutuları ver .
@@ -270,7 +270,7 @@
 *EXP:	uğraşma benim çamaşırlarımla .
 *EXP:	niye çıkarttın üstlerini sen bebeklerin ?
 *CHI:	işte yıkamak için çıkarttım .
-*EXP:	sen çamaşır yıkayabiliormusun ?
+*EXP:	sen çamaşır yıkayabiliyormusun ?
 *CHI:	bu ne ?
 *EXP:	o tahta .
 *CHI:	çamaşırlar .

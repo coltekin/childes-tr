@@ -110,7 +110,7 @@
 *CHI:	dişlerimizi fırçalıyoruz , diş macunu xxx .
 *CHI:	dişlerimizi fırçalıyoruz böyle böyle .
 *CHI:	böyle böyle yapıyoruz .
-*CHI:	dışlerimi fırçalıyorum .
+*CHI:	dişlerimi fırçalıyorum .
 *CHI:	oğlanı da ver , senle oyun oynıyalım [: oynayalım] .
 *EXP:	sen masal biliyormusun ?
 *CHI:	biliyorum .
@@ -263,7 +263,7 @@
 *EXP:	niye ısırır köpekler ?
 *CHI:	ıh xxx ağlıyor çocuklar .
 *CHI:	onun için şeyderler [: şey ederler] .
-%com:	or would we prefer to separate as: şeyderler ?
+%com:	or would we prefer to separate as: şeyderler [: şey ederler] ?
 *CHI:	ağzına alarlar [: alırlar] .
 *CHI:	böyle çiğnerler .
 *CHI:	yatarlar .
@@ -297,7 +297,7 @@
 *CHI:	geliyorlar xxx tavuklarıma yemek veriyorum .
 *EXP:	nelerle doyuruyorsun tavuklarını?
 *CHI:	tabakla .
-*CHI:	kaşıgı alıyorum .
+*CHI:	kaşığı alıyorum .
 *CHI:	böyle dolduruyorum .
 *CHI:	alınız diyorum .
 *EXP:	bu nesi kuşun ?
@@ -344,7 +344,7 @@
 *CHI:	alır .
 *CHI:	alır koyar .
 *CHI:	çay koyar .
-*CHI:	dıslerimı fırçalarken .
+*CHI:	dişlerimı fırçalarken .
 *CHI:	ellerimi böyle böyle yaparken .
 *EXP:	ne yaparken ?
 *CHI:	böyle böyle yaparken .
@@ -378,7 +378,7 @@
 *EXP:	Saime burda yatmıyor ki .
 *CHI:	nerde ?
 *CHI:	nerde o zaman ?
-*EXP:	Saie burda mı , Bebek'te mi ?
+*EXP:	Saime burda mı , Bebek'te mi ?
 *CHI:	burda .
 *EXP:	nerde şimdi ?
 *CHI:	gitti eve .
@@ -395,12 +395,12 @@
 *EXP:	orda sen .
 *CHI:	burda da Saime .
 *CHI:	düştü.
-*CHI:	az kalsaydı [: kalsın] düşerdı yere .
+*CHI:	az kalsaydı [: kalsın] düşerdi yere .
 *EXP:	eşek gördünmü?
 *CHI:	hiç görmemiştim .
 *CHI:	eşek şeyden .
 *CHI:	eşek şeyder [: şey eder] .
-*CHI:	eşek şeyderler .
+*CHI:	eşek şeyderler [: şey ederler] .
 *CHI:	miyav miyav miyav , bana yemek yokmu derler .
 *EXP:	ai ai yaparlar .
 *CHI:	ai ai derler .
@@ -413,7 +413,7 @@
 *EXP:	atlar insanı incitmez ki .
 *CHI:	ne yapar o zaman atlar ?
 *EXP:	koşarlar üstüne binersin .
-*EXP:	eskiden atla gidiyorduk heryere .
+*EXP:	eskiden atla gidiyorduk her yere .
 *CHI:	eskiden babam de beni ata bindirirdi .
 *CHI:	tıkıtak tıkıdak ben de giderdim .
 *EXP:	bindinmi sen hiç ata ?

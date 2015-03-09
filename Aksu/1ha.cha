@@ -16,7 +16,7 @@
 *EXP:	evet .
 *CHI:	küçücük çöp tenekeleri değilmi ?
 *CHI:	bak vurdu işte .
-*EXP:	şimdi bak burada birsürü hayvanlar var .
+*EXP:	şimdi bak burada bir sürü hayvanlar var .
 *EXP:	sen bana bunları anlat bakalım .
 *EXP:	hadi [: haydi] canım neler var burada ?
 *CHI:	hayvanlar .
@@ -108,7 +108,7 @@
 *CHI:	bardaklarını alıyorlar .
 *CHI:	pisiler de yapıyorlar öyle birşeyi .
 *EXP:	peki niçin içiyorlar köpekler su ?
-*CHI:	susuyorlarda ondan .
+*CHI:	susuyorlar da ondan .
 *EXP:	tabii , köpekler başka yemek yerlermi ?
 *CHI:	yerler , kahvaltı ederler sabahları.
 *EXP:	kahvaltıda ne yerler köpekler ?
@@ -156,7 +156,7 @@
 *CHI:	ne vardı?
 *CHI:	dur .
 %com:	trying to get the book
-*MOT:	bak resmini görde hatırlarsın .
+*MOT:	bak resmini gör de hatırlarsın .
 *CHI:	bak burda [: burada] işte .
 *EXP:	otur bakalım , o ne kuşu ?
 %com:	brings the book

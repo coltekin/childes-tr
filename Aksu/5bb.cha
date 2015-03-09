@@ -91,7 +91,7 @@
 *CHI:	annem aldı.
 *EXP:	nereden almış acaba ?
 *CHI:	bilezikçiden .
-*CHI:	orda bilezikcı var .
+*CHI:	orda bilezikçi var .
 *EXP:	altın mı?
 *CHI:	ha .
 *CHI:	bir tane daha burama alacak .
@@ -145,7 +145,7 @@
 *EXP:	geminin buraları boş kalmış değilmi ?
 *CHI:	niye ?
 *EXP:	bilmem niye .
-*EXP:	sen boş bırakmıssın anlaşılan .
+*EXP:	sen boş bırakmışsın anlaşılan .
 *CHI:	ya .
 *EXP:	ya ne yapsak .
 *EXP:	doldur istersen .
@@ -246,8 +246,8 @@
 %com:	pulls the trigger
 *CHI:	seni de be vurdum .
 *EXP:	ay yapma , yapma , korkarım , çok korkarım .
-*FAT:	korkuttun Burçak , kuvvetin gelmiş degılmi ?
-*FAT:	Burçak xxx uçagını göstersene , dütdürüt yapıyormusun ?
+*FAT:	korkuttun Burçak , kuvvetin gelmiş değilmi ?
+*FAT:	Burçak xxx uçağını göstersene , dütdürüt yapıyormusun ?
 *CHI:	ha .
 *CHI:	ne ?
 *FAT:	askerler nasıl geçiyor söyle bakayım .
@@ -257,9 +257,9 @@
 *CHI:	bunun kapısını açacam [: açacağım] .
 *CHI:	soktum böyle .
 *CHI:	Özcan , bunu niye böyle soktun ?
-*FAT:	çikaralımmı?
-*CHI:	çikaralım .
-*CHI:	hah , cıktı.
+*FAT:	çıkaralımmı ?
+*CHI:	çıkaralım .
+*CHI:	hah , çıktı.
 *EXP:	dur bakalım , ver bunu Burçak .
 *CHI:	ne yapacan [: yapacaksın] ?
 *EXP:	dursun böyle , oynayacağız .
@@ -296,10 +296,10 @@
 *CHI:	Muratlan [: Muratla] .
 *FAT:	peki , ne oynuyorsun sen Murat'lan [: Murat'la] Burçak ?
 *CHI:	koşmuş , koşmuş Murat .
-*CHI:	kaşı patlamış.
-*FAT:	düşmüsmü?
+*CHI:	kaşı patlamış .
+*FAT:	düşmüşmü ?
 *CHI:	hı.
-*FAT:	nasıl düşmuş?
+*FAT:	nasıl düşmüş?
 *CHI:	kaşı patlamış.
 *FAT:	e , ne yaptılar sonra ?
 *CHI:	dikmişler .
@@ -307,10 +307,10 @@
 *CHI:	diktirmişler .
 *FAT:	nerde diktirmişler canım ?
 *CHI:	hastanede .
-*FAT:	kim varmiş hastanede acaba ?
-*CHI:	amca varmiş , o dikmiş.
-*FAT:	acımişmı?
-*CHI:	acımamiş.
+*FAT:	kim varmış hastanede acaba ?
+*CHI:	amca varmış , o dikmiş.
+*FAT:	acımışmı?
+*CHI:	acımamış.
 *FAT:	ilaç koymuşlarmıydı .
 *CHI:	bant koymuşlar .
 *FAT:	duruyormu bant yerinde ?
@@ -318,18 +318,18 @@
 %com:	affirmative sound gesture
 *FAT:	peki Burçak , sen Murat'lan [: Murat'la] ne oynuyorsun ?
 *CHI:	koşmuş , koşmuş.
-*CHI:	ondan sonra cumbadak diye düşmuş.
+*CHI:	ondan sonra cumbadak diye düşmüş.
 %com:	cumbadak: imitative sound for falling
 *FAT:	peki Burçak sen Murat'lan [: Murat'la] ne zaman oynuyorsun ?
-*CHI:	kapattım kapisını.
+*CHI:	kapattım kapısını.
 *CHI:	gen açtım .
 *CHI:	gene .
 *FAT:	Burçakcım [: Burçakçığım] , sen çarşıya kimlen [: kimle] gitmiştin dün ?
 *FAT:	kimlen [: kimle] gittin ?
-*FAT:	Arı Pastahanesıne kimlen [: kimle] gittin ?
+*FAT:	Arı Pastahanesine kimlen [: kimle] gittin ?
 *CHI:	aninoyla .
 *CHI:	anneyle .
-*FAT:	ne yapıyorsun Arı Pastahanesınde ?
+*FAT:	ne yapıyorsun Arı Pastahanesinde ?
 *CHI:	al bak .
 *CHI:	bak .
 *FAT:	peki Burçak biz sabahları nereye gidiyoruz ?
@@ -371,7 +371,7 @@
 *CHI:	ordan köpük çıkarıyor .
 *FAT:	niçin ?
 *CHI:	işte .
-*FAT:	ne var vurda da köpük çıkarıyor ?
+*FAT:	ne var burda da köpük çıkarıyor ?
 *CHI:	köpük .
 *CHI:	vuttttt .
 %com:	again imitating the sound of a ship's horn
@@ -380,7 +380,7 @@
 *CHI:	burda .
 *EXP:	evet , ne oluyor , pervanesi ne yapıyor ?
 *CHI:	kaptan çalıştırıyor .
-*CHI:	açıl dedığı [?] pervane dönüyor .
+*CHI:	açıl dediği [?] pervane dönüyor .
 *EXP:	sonra ne oluyor ?
 *CHI:	vuttt .
 *EXP:	diye ses çıkarıyor .
@@ -420,9 +420,9 @@
 *CHI:	artık ben senden bıktım .
 %com:	to the father
 *EXP:	eyvah , ne yapalım bakalım ?
-*FAT:	ingilizce konuşuyordun hani sen Burçak , ne diyordun ?
+*FAT:	İngilizce konuşuyordun hani sen Burçak , ne diyordun ?
 *FAT:	peki annen nerde , anne nereye gitti Burçak , biz anneyi nasıl .
-*FAT:	alıyoruz Burçak , biraz söylesene , akşam olunca biz ne yapıyoruz Burçak , tabışkana [?] atladıgımız gibi nereye gidiyoruz , söylesene Alev teyzeye .
+*FAT:	alıyoruz Burçak , biraz söylesene , akşam olunca biz ne yapıyoruz Burçak , tabışkana [?] atladığımız gibi nereye gidiyoruz , söylesene Alev teyzeye .
 *CHI:	anneyi almaya gidiyoruz .
 *FAT:	nerden alıyoruz anneyi ?
 *CHI:	ordan vapurdan .
@@ -487,7 +487,7 @@
 *EXP:	neyle süpürüyor ?
 *CHI:	süpürgeylen [: süpürgeyle] .
 *EXP:	niçin ?
-*CHI:	ıste , kirleniyor .
+*CHI:	işte , kirleniyor .
 *EXP:	kirleniyor değilmi , kim kirletiyor acaba ?
 *CHI:	ben kirletiyorum onu için temizliyor .
 *EXP:	sen nasıl kirletiyorsun yerleri , ne yapıyorsun da kirleniyor ?
@@ -572,13 +572,13 @@
 *CHI:	yapıyorum .
 *EXP:	resmi neylen [: neyle] yapıyorsun ?
 %com:	no response
-*FAT:	veriyimmi kağıt kalem , resim yaparmısin ?
+*FAT:	veriyimmi kağıt kalem , resim yaparmısın ?
 *FAT:	hadi resim yap ta Alev teyzen görsün .
-*EXP:	birşey söyle sen bana bakalım , çocuklar ne zman oynarlar ?
+*EXP:	birşey söyle sen bana bakalım , çocuklar ne zaman oynarlar ?
 *CHI:	birazdan .
 *CHI:	tamam .
 %com:	father brings paper
-*FAT:	hadi yap bakalım görelilm , ne yapcaksın sımdi ?
+*FAT:	hadi yap bakalım görelim , ne yapcaksın şimdi ?
 *CHI:	verdi .
 *CHI:	bak biraz .
 *FAT:	ne yaptın , ne bu ?
@@ -747,7 +747,7 @@
 *CHI:	işte .
 *FAT:	ne oldu ?
 *CHI:	burnum ağrıyordu , onun için kustum .
-*FAT:	peki Burçak , sen vapurda kaptan amcaya çalıstır vapuru .
+*FAT:	peki Burçak , sen vapurda kaptan amcaya çalıştır vapuru .
 *FAT:	diyormusun ?
 *CHI:	diyorum , çalıştırıyor .
 *FAT:	nasıl çalışıyor vapur ?
@@ -755,16 +755,16 @@
 *CHI:	arabaya biniyor , bizim tabışkanımıza .
 *FAT:	peki vapur nasıl çalışıyor Burçak ?
 *CHI:	vuut ben kaptan amcaya çalıştır diyorum .
-*CHI:	çalıstırmıs , çalıştırıyor .
+*CHI:	çalıştırmış , çalıştırıyor .
 *FAT:	peki Burçak vapurun feneri nasıl yanıyor ?
 *CHI:	fener ?
-*CHI:	cıt cıt diye sönüyor .
-*CHI:	cıt cıt diye sönüyor .
-*CHI:	cıt cıt cıt cıt diye sönüyor .
+*CHI:	çıt çıt diye sönüyor .
+*CHI:	çıt çıt diye sönüyor .
+*CHI:	çıt çıt çıt çıt diye sönüyor .
 %com:	gestures
 *FAT:	peki Burçak , Kerem niçin ağlıyor ?
 *CHI:	eee diye ağlıyor .
-*FAT:	nıcin ağlıyor ?
+*FAT:	niçin ağlıyor ?
 *CHI:	işte .
 *CHI:	işte süt vermiyorum ona .
 *FAT:	onun için mi ağlıyor ?
@@ -815,16 +815,16 @@
 *EXP:	onlar da mı içmez ?
 %com:	perhaps she meant to ask "ne yer ?" above
 *EXP:	peki ne içer kediler ?
-*CHI:	hiçbırşey yemez .
+*CHI:	hiç birşey yemez .
 *EXP:	hiçbirşey yemezmi kediler ?
-*EXP:	nıcin yemez ?
+*EXP:	niçin yemez ?
 *CHI:	et yerler .
 *CHI:	o balkondan atıyoruz kedilere .
 *CHI:	onlar da yiyorlar .
 *EXP:	niçin yiyorlar kediler biliyormusun ?
 *EXP:	kediler niçin yemek yer ?
 *CHI:	işte .
-*EXP:	sen nıcin yemek yiyorsun ?
+*EXP:	sen niçin yemek yiyorsun ?
 *CHI:	işte kuvvetli olacam [: olacağım] .
 *EXP:	tabii .
 *EXP:	sen balık tutuyormusun babanla bazen ?
@@ -836,15 +836,15 @@
 *EXP:	nasıl yüzerler ?
 *CHI:	ayaklarını böyle böyle yaparlar .
 %com:	describing with gestures
-*EXP:	ayakları varmı baıkların ?
+*EXP:	ayakları varmı balıkların ?
 *CHI:	yok .
 *CHI:	böyle yapıyorlar , böyle yüzüyorlar .
 *CHI:	başını sokuyor .
 *EXP:	bak burda balık var .
-*EXP:	bu nesi balığin ?
+*EXP:	bu nesi balığın ?
 *CHI:	ayakları.
 *CHI:	ayakları altında .
-*EXP:	bunlar ayakları değil , yüzgeçleri bunlar; balığin ayagı.
+*EXP:	bunlar ayakları değil , yüzgeçleri bunlar; balığın ayağı .
 *EXP:	olmaz .
 *EXP:	bu nesi ?
 %com:	tail
@@ -873,7 +873,7 @@
 %com:	bird's wings
 *EXP:	ne yapar kuş kanatlarını?
 *EXP:	ne işe yarar ?
-*EXP:	fena acımış orası değilmı; nasıl olmuş o ?
+*EXP:	fena acımış orası değilmi; nasıl olmuş o ?
 %com:	he has an insect bite on his arm
 *CHI:	yara yapmışım onu ben .
 *EXP:	niye yara oldu ?
@@ -884,16 +884,16 @@
 *CHI:	onlar ısırdı , ben de yırttım onu .
 *EXP:	yazık .
 %com:	the child laughs
-*EXP:	kuşlar nasıl ücar Burçak ?
+*EXP:	kuşlar nasıl uçar Burçak ?
 %com:	gestures
-*EXP:	sen ücabiliyormusun ?
+*EXP:	sen uçabiliyormusun ?
 *CHI:	uçamıyorum .
-*EXP:	nıcin ?
+*EXP:	niçin ?
 *CHI:	kanatlarım yok .
 *EXP:	kanatların yok değilmi .
 *EXP:	peki bu evde köpek varmı?
 *CHI:	yok .
-*EXP:	komşunun köpegı varmı?
+*EXP:	komşunun köpeği varmı?
 *CHI:	yok .
 *EXP:	peki sokakta köpek gezmiyormu hiç?
 *CHI:	geziyor .

@@ -156,14 +156,14 @@
 *MOT:	hangisi büyük ?
 *CHI:	o büyük ?
 *CHI:	xxx .
-*REL:	hangisi daha kücük ?
+*REL:	hangisi daha küçük ?
 %com:	the child is singing at this point
 *CHI:	onu ver .
 *CHI:	ba xxx ba xxx .
 *REL:	hangisi kısa ?
 *CHI:	anne xxx .
 *CHI:	ordan , ordan , ordan .
-*REL:	hangisi daha küçuk ?
+*REL:	hangisi daha küçük ?
 *CHI:	ordan in ya xxx .
 %com:	she is singing again
 *CHI:	bak .
@@ -183,7 +183,7 @@
 *EXP:	hangisi daha büyük ?
 %com:	crying
 *EXP:	hav havı görüyormusun ?
-*EXP:	sicabı köpek taşısın .
+*EXP:	sincabı köpek taşısın .
 *CHI:	lama .
 *CHI:	deli .
 %com:	she is referring to the lama
@@ -232,7 +232,7 @@
 *CHI:	anne , baba .
 *EXP:	ne pişirelim ?
 *CHI:	at .
-*EXP:	cök mu istiyorsun ?
+*EXP:	çok mu istiyorsun ?
 %com:	talking about an imaginary soup
 *CHI:	az .
 *EXP:	yetermi ?
@@ -388,7 +388,7 @@
 *EXP:	pastayı kim yiyecek ?
 *CHI:	ben yiyeceğim .
 *EXP:	ne zaman mısır getirecek ?
-*EXP:	dogüum günün ne zaman ?
+*EXP:	dogum günün ne zaman ?
 *CHI:	bak bak .
 *EXP:	ne o ?
 *CHI:	su .

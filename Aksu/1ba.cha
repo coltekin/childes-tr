@@ -10,7 +10,7 @@
 *CHI:	şey almışlardı , radyo , radyo .
 *CHI:	çalmıştı.
 *CHI:	götürmüşlerdi .
-*EXP:	nereye götürmuşlerdi ?
+*EXP:	nereye götürmüşlerdi ?
 *CHI:	şeye , eve .
 *EXP:	sen gördünmü radyoyu ?
 *CHI:	gördüm .
@@ -90,7 +90,7 @@
 *CHI:	annem aldı.
 *CHI:	beraber aldık .
 *EXP:	fevkalade .
-*EXP:	sen de beyendinmi ?
+*EXP:	sen de beğendinmi ?
 *CHI:	evet .
 *EXP:	bakayım senin patiklerine , nerden aldınız ?
 *CHI:	annem çarşıdan aldı; beraber aldık .
@@ -425,8 +425,8 @@
 *CHI:	daireden gelince .
 *CHI:	onu istemem ki .
 *EXP:	bak Füsuncuğum bu lama , nerede yaşar bu lama ?
-*EXP:	Güney Amerika'da yaşar , Perüda .
-*EXP:	bu kedi de İstanbul'da yaşar , heryerde tekir kedi var , her türlü.
+*EXP:	Güney Amerika'da yaşar , Peruda .
+*EXP:	bu kedi de İstanbul'da yaşar , her yerde tekir kedi var , her türlü.
 *EXP:	kedi var .
 *EXP:	bak bu da köpek .
 *EXP:	köpekler ne yer biliyormusun sen ?

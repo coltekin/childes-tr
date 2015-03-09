@@ -95,7 +95,7 @@
 *CHI:	yapraklar .
 *CHI:	hiç birşey yok .
 *CHI:	başka birşey yok .
-*EXP:	Selim senin topun varmi ?
+*EXP:	Selim senin topun varmı ?
 *BRO:	var .
 *EXP:	büyük mü?
 *BRO:	evet .
@@ -107,7 +107,7 @@
 *BRO:	annecim [: anneciğim] kaç tane et var bende .
 *BRO:	kaç tane patates .
 %com:	we are eating
-*MOT:	dört patates , birsürü de et .
+*MOT:	dört patates , bir sürü de et .
 *CHI:	bir , iki , üç , dört , beş.
 *CHI:	altı , yedi , sekiz , dokuz , on .
 *CHI:	xxx onbir yaşında .
@@ -122,7 +122,7 @@
 *EXP:	peki bunu niye ağzıma yakın tutuyorum ?
 *CHI:	konuşmak için .
 *EXP:	aaa .
-*EXP:	ben bunsuz konusurum .
+*EXP:	ben bunsuz konuşurum .
 *EXP:	uzağa koysan gene [: yine] konuşurum .
 *EXP:	ağzına koysam ne oluyor ?
 *CHI:	sesim çıkıyor .
@@ -140,7 +140,7 @@
 *EXP:	peki şimdi sen dur bakalım .
 *EXP:	Selimcim [: Selimciğim] sen resim yaparmısın bazen ?
 *CHI:	kalemle yazı yapmasını bilirim .
-*CHI:	ben yazı yazmasını ögrendim .
+*CHI:	ben yazı yazmasını öğrendim .
 *CHI:	N yapıyorum ?
 *EXP:	başka ?
 *CHI:	E yapıyorum , K yapıyorum , A yapıyorum .
@@ -250,7 +250,7 @@
 *EXP:	kar yiyorsanız helva yapın yiyin karı.
 *CHI:	kardan adam yaptık .
 *EXP:	kimle beraber ?
-*CHI:	xxx le .
+*CHI:	xxxle .
 *EXP:	nasıl yaptınız ?
 *CHI:	gagasını yaptı.
 *CHI:	burnunu havuçla yapmadı.
@@ -269,7 +269,7 @@
 *CHI:	babam , kayak için .
 *EXP:	niye vermedi ?
 *CHI:	vermedi işte .
-*EXP:	kizdımı?
+*EXP:	kızdımı?
 *CHI:	kızdı.
 *EXP:	niye kızdı.
 *CHI:	kızdı işte .
@@ -297,7 +297,7 @@
 *EXP:	sonra ne yapıyorlar ?
 *CHI:	yukardan aşağı iniyorlar .
 *EXP:	anlat bana kayak nasıl kayılır .
-*CHI:	böylr .
+*CHI:	böyle .
 %com:	demonstrates
 *CHI:	parkede , biz parkede kayıyoruz çorapla .
 *EXP:	peki annen nasıl kayıyor karın üstünde ?
@@ -309,7 +309,7 @@
 *CHI:	hayır .
 *EXP:	nasıl yani elinde birşey yokmu ?
 *CHI:	tutmuyor .
-*EXP:	birtek kayakla mı kayıyor ?
+*EXP:	bir tek kayakla mı kayıyor ?
 *CHI:	evet .
 %com:	brother:var işte , baton var
 *CHI:	hayır ya .
@@ -325,9 +325,9 @@
 *EXP:	başka kimse kullanmıyormu ?
 *CHI:	kullanmıyor başka kimse .
 *EXP:	peki canım .
-*EXP:	Selimcim [: selimciğim] .
+*EXP:	Selimcim [: Selimciğim] .
 *EXP:	bu evde kimler oturur ?
-*CHI:	Sinan , Yaşar , Yilmaz , Hasan , Durmuş , babam , Ali , Mete , oldu .
+*CHI:	Sinan , Yaşar , Yılmaz , Hasan , Durmuş , babam , Ali , Mete , oldu .
 *CHI:	bitti .
 *EXP:	peki bana onları anlat acik [: azıcık] .
 *EXP:	mesela Sinanı anlat .
@@ -343,7 +343,7 @@
 *EXP:	hı.
 *CHI:	onlan [: onunla] işte .
 *CHI:	xxx arasına giriyoruz .
-*EXP:	kac , yaşında Sinan ?
+*EXP:	kaç , yaşında Sinan ?
 *CHI:	bilmiyorum .
 *EXP:	küçük mü senden ?
 *CHI:	küçük .
@@ -419,7 +419,7 @@
 *CHI:	ne olursa işte .
 *CHI:	biz zaten bahçe pantolonumuzu giyiyoruz .
 *CHI:	onu yıkıyorlar ütülüyorlar .
-*CHI:	biz bahçe pantolonumuzu kırletiyoruz .
+*CHI:	biz bahçe pantolonumuzu kirletiyoruz .
 *EXP:	peki yerleri kim temizler ?
 *CHI:	Afiyle Durmuş.
 *CHI:	camları Afiy , bir de nanny , oldu bitti .
@@ -490,7 +490,7 @@
 *EXP:	neden yaprak giriyor havuza ?
 *CHI:	ağaçtan düşüyor yapraklar .
 %com:	child talking to his nanny
-*CHI:	ben kolluğumlan [: kolluğumla] atliyacağım kenara .
+*CHI:	ben kolluğumlan [: kolluğumla] atlıyacağım kenara .
 %com:	into the swimming pool with protective arm bands
 *NAN:	Kerim ortaya atlıyor .
 *CHI:	ben ortada .
@@ -504,7 +504,7 @@
 *CHI:	bak ben kollukla atlıyacağım [: atlayacağım] .
 *CHI:	kolluğu ortada çıkaracağım .
 *CHI:	kolluğumu biraz daha uzağından gidecem [: gideceğim] .
-*CHI:	buraya yaklaştıkça burayıgeçip merdivenin oraya .
+*CHI:	buraya yaklaştıkça burayı geçip merdivenin oraya .
 *CHI:	gidecem .
 *NAN:	Kerim merdivenin oradan atlamıyor .
 *CHI:	ben oradan atlamıyacam [: atlamayacağım] ki .
@@ -582,7 +582,7 @@
 *NAN:	kediyi kovaladı.
 *NAN:	kedi nereye çıktı , tahmin et bakalım .
 *CHI:	söylemem .
-*NAN:	bilmiyorsunda ondan .
+*NAN:	bilmiyorsun da ondan .
 *REL:	hadi [: haydi] git yüz bakalım .
 %com:	break , he goes for swimming
 *EXP:	Selim bak burda kedi var bir tane .
@@ -608,7 +608,7 @@
 *EXP:	bak işte kurt .
 *EXP:	kurtları anlat bana .
 *EXP:	nasıl ısırır kurtlar ?
-*CHI:	hiçbirşey yapmasakta ısırır .
+*CHI:	hiçbirşey yapmasak da ısırır .
 *EXP:	niçin ?
 *CHI:	yaramazlık yaparsak ısırır .
 *CHI:	yaramazlık ta [: da] yapmazsak ısırır .
@@ -621,7 +621,7 @@
 *CHI:	evet , Yaşar , Durmuş tutuyor .
 *CHI:	niye böyle kırmızı balık ?
 *EXP:	rengi öyle .
-*EXP:	şu nesi baliğın ?
+*EXP:	şu nesi balığın ?
 *CHI:	ben onu söyleyim , kırmızı balığı.
 *EXP:	olur , bu nesi balığın ?
 *CHI:	kuyruğu .
@@ -631,7 +631,7 @@
 *CHI:	bak ben bu balığın şarkısını bilirim .
 %com:	sings
 *CHI:	kırmızı balık gölde .
-*CHI:	kivrıla kıvrıla oynuyor .
+*CHI:	kıvrıla kıvrıla oynuyor .
 *CHI:	balıkçı Hasan geliyor .
 *CHI:	oltasını atıyor .
 @End
