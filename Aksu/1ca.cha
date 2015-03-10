@@ -201,7 +201,7 @@
 *CHI:	benim bir sürü arabalarım var .
 *EXP:	varmı?
 *CHI:	tabii .
-*CHI:	getiriyimmi ?
+*CHI:	getiriyimmi [: getireyimmi ] ?
 *EXP:	sen o arabaları ver bana; ben yerine koyarım; sen kendininkileri .
 *EXP:	getir .
 *CHI:	buraya , bu kutunun içine xxx .
@@ -238,7 +238,7 @@
 *CHI:	kapalı , giremezler .
 *EXP:	ne yapıyorsun ?
 *CHI:	köprü.
-*CHI:	kapanacak burası hertaraf .
+*CHI:	kapanacak burası her taraf .
 *CHI:	yatıyorlar yerde .
 *EXP:	hm ?
 *CHI:	yatıyorlar .
@@ -387,7 +387,7 @@
 *EXP:	abiler mi oturuyor ?
 *CHI:	hı.
 %com:	an affirmative sound gesture
-*EXP:	ben sana birşey söyliyeyim: senin annen süsleniyormu hiç?
+*EXP:	ben sana birşey söyliyeyim [: söyleyeyim] : senin annen süsleniyormu hiç?
 *CHI:	süsleniyor .
 *EXP:	nasıl süsleniyor ?
 *CHI:	anne .
@@ -526,8 +526,8 @@
 *EXP:	niçin fırçayla yapıyor ?
 *CHI:	elle yapsın .
 *EXP:	bu ne bu ?
-*CHI:	hipotam .
-*EXP:	ne yapıyor bu hipotam ?
+*CHI:	hipotam [: hipopotam] .
+*EXP:	ne yapıyor bu hipotam [: hipopotam] ?
 *CHI:	gözlere bak be .
 *EXP:	çirkin değil mi ?
 *EXP:	bu ne ?
@@ -544,7 +544,7 @@
 %com:	refering to a pencil
 *EXP:	açarım tabii .
 *EXP:	bukalemun galiba .
-*CHI:	kalemun .
+*CHI:	kalemun [: bukalemun] .
 %com:	meaning: bukalemun ?
 *CHI:	sineğe bak .
 *EXP:	ne yapar bukalemun sineği ?
@@ -639,7 +639,7 @@
 *CHI:	gene getireceğiz .
 *CHI:	teyp alıcağız bunları.
 %com:	he forgot the suffix "e"; correct form: teybe xxx .
-*CHI:	bunları teype hazırlıyacağız [: hazırlayacağız] .
+*CHI:	bunları teype [: teybe] hazırlıyacağız [: hazırlayacağız] .
 *CHI:	bütün [?] hayvanlar teypte konuşacaklar .
 *CHI:	sonra ne istersen , onlara xxx .
 *CHI:	hayvan alıcağız .
@@ -667,7 +667,7 @@
 *CHI:	şimdiii [: şimdi] xxx .
 *MOT:	şimdi .
 *CHI:	acaba ne yapacağız şimdi ?
-*CHI:	şimdik [: şimdilik] bunları teype alıcağız .
+*CHI:	şimdik [: şimdilik] bunları teype [: teybe] alıcağız [: alacağız].
 *CHI:	konuşturacağız birazcık .
 *CHI:	onlar öyle konuşup duracaklar .
 *MOT:	sen bize bir rüya anlatsana .
@@ -734,7 +734,7 @@
 *CHI:	bütün kedileri buraya ayıracağız .
 %com:	here the mother tells the interviewer that he is giving a lecture , he does not mind what she says , then she turns around to Ömer and xxx .
 *MOT:	evet cancağızım .
-*CHI:	sonra teype konuşarken [: konuşurken] .
+*CHI:	sonra teype [: teybe] konuşarken [: konuşurken] .
 *MOT:	hı.
 *CHI:	birazdan .
 *MOT:	hı.

@@ -513,7 +513,7 @@
 *EXP:	peki , onlar orda uyurken , köpek gelmiş , ham diye ısırmış.
 *EXP:	niye ısırmış?
 *EXP:	niçin ısırmış?
-*CHI:	oğlanı da seviyimmi ?
+*CHI:	oğlanı da seviyimmi [: seveyimmi] ?
 *CHI:	çantana koyuyummu [: koyayımmı] mendili ?
 *CHI:	orda ne var , çantanda ?
 *EXP:	pek birşey yok .
@@ -553,7 +553,7 @@
 *EXP:	bak elimde yüzüyor .
 *CHI:	silgi varmı?
 *EXP:	işte burda var .
-*EXP:	naıl yüzer balıklar ?
+*EXP:	nasıl yüzer balıklar ?
 *CHI:	yastık koymadan çık .
 %com:	trying to get on the chair and does not want a pillow
 *EXP:	bak şimdi balık yüzüyor değilmi ?

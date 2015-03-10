@@ -254,7 +254,7 @@
 *EXP:	başka kim getiriyor ?
 *EXP:	ne getiriyor anne bize ?
 %com:	mother brings cologne
-*CHI:	kolanya .
+*CHI:	kolanya [: kolonya] .
 *CHI:	anne ya bana da .
 *EXP:	gel sen de al benim elimdekini .
 *EXP:	çok bu bana .
@@ -322,7 +322,7 @@
 *CHI:	şunu kapatayımmı?
 *EXP:	hayır .
 *CHI:	niye .
-*EXP:	çünkü senin sesini alıyorum teype .
+*EXP:	çünkü senin sesini alıyorum teype [: teybe] .
 *EXP:	onun için .
 *CHI:	niye sesimi alıyor ?
 *EXP:	öyle .
@@ -580,7 +580,7 @@
 *CHI:	dikmedi .
 *EXP:	o pakette ne var ?
 *EXP:	onu çıkarma .
-*EXP:	sonra sesin teype gitmez .
+*EXP:	sonra sesin teype [: teybe] gitmez .
 *EXP:	babayı gördünmü dün akşam ?
 *CHI:	gördüm .
 *CHI:	gördüm babayı.

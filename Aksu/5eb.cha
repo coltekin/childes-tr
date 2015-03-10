@@ -109,7 +109,7 @@
 *CHI:	böyle .
 *EXP:	nerde uçarlar ?
 *CHI:	sokakta .
-*EXP:	kurtu bul .
+*EXP:	kurtu [: kurdu] bul .
 *CHI:	nerde ?
 *CHI:	a burda .
 *EXP:	annen sana masal anlatıyormu ?

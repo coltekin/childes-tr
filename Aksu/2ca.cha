@@ -22,7 +22,7 @@
 *CHI:	dört .
 *MOT:	aşağıdaki ablanın ismi neydi ?
 *CHI:	aşağıda Serap .
-*CHI:	aşağıdası ablası ge xxx .
+*CHI:	aşağıdası [: aşağıdaki] ablası ge xxx .
 *CHI:	ablası.
 *MOT:	neydi ablasının ismi neydi ?
 *CHI:	Serap ablası.
@@ -305,7 +305,7 @@
 *CHI:	içinden .
 *CHI:	sigara .
 *EXP:	burda ne yazıyor ?
-*EXP:	peki Tan , bak burda iki tane bebek var , veriyimmi sana bebekleri ?
+*EXP:	peki Tan , bak burda iki tane bebek var , veriyimmi [: vereyimmi] sana bebekleri ?
 *CHI:	bebek var .
 *CHI:	oynamak istermisin ?
 *CHI:	o şeker istiyor .
@@ -401,7 +401,7 @@
 *CHI:	resim .
 *CHI:	sana ne oluyor ?
 %com:	says the nanny
-*EXP:	sana birazcık kağıt veriyimmi ben ?
+*EXP:	sana birazcık kağıt veriyimmi [: vereyimmi] ben ?
 *CHI:	kağıt ver .
 *EXP:	sen neyle resim yaparsın ?
 *CHI:	böyle .
@@ -412,7 +412,7 @@
 *CHI:	ne ?
 *CHI:	ver .
 *CHI:	ver bunları.
-*EXP:	onları vermem , evvela resim yapacaz tamam mı?
+*EXP:	onları vermem , evvela resim yapacaz [: yapacağız] tamam mı?
 *CHI:	oppa oh .
 %com:	sound gesture
 *EXP:	gel kalem verecem ben sana , kağıt verecem .

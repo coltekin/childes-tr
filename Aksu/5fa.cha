@@ -41,7 +41,7 @@
 *CHI:	biz de onu öldürürüz .
 *CHI:	işte bundan yapacağız .
 *EXP:	bu tehlikeli bir oyun .
-*CHI:	yok onları xxx götürmiyeceğiz .
+*CHI:	yok onları xxx götürmiyeceğiz [: götürmeyeceğiz] .
 *CHI:	kaçıracağız .
 *EXP:	onları nereye götüreceksiniz ?
 *CHI:	şeye , bizim dağa götüreceğiz , dağa .
@@ -56,7 +56,7 @@
 *EXP:	doktor ne yapacak ?
 *CHI:	bizim şey de xxx var ya .
 *CHI:	bizim düşmanlar var ya .
-*CHI:	iste onu ben öldürmiyeceğim , o derilikızı öldürecek .
+*CHI:	iste onu ben öldürmiyeceğim [: öldürmeyeceğim] , o derilikızı öldürecek .
 *EXP:	nelerle oynanıyor bu oyun ?
 *CHI:	tüfeklerle .
 *EXP:	başka ?
@@ -69,7 +69,7 @@
 *CHI:	ölecek .
 *EXP:	ben korktum bu oyundan .
 *EXP:	ben durmam burda bu oyun oynanırken .
-*CHI:	biz içeride oyniyacağız .
+*CHI:	biz içeride oynıyacağız [: oynayacağız] .
 *EXP:	nerede oynıyacaksınız [: oynayacaksınız] ?
 *CHI:	şimdi gelecek bu .
 *EXP:	nereden geliyor Kadir ?
@@ -354,7 +354,7 @@
 *CHI:	ondan sonra biz de , onlar da kaçıyorlardı , kuyruğundan .
 %com:	şambır: here it is used as an imitation of the sound made when someone or something falls into water
 *CHI:	bir çimdik attık , şimdi orda bir takla attı , şambır diye düştü denize .
-*CHI:	ondan sonra da tilk i bir düştü trablenden .
+*CHI:	ondan sonra da tilki bir düştü trablenden .
 *CHI:	(tilkisini) öldürdü.
 *CHI:	şimdi tilki birisini arıyordu .
 *CHI:	rıp rıp diye eşekler geldi .
@@ -376,7 +376,7 @@
 *CHI:	tahtaları yapalım .
 *EXP:	ne yapalım tahtalarla ?
 *CHI:	ev yapalım .
-*CHI:	bak been diziyorum bunu .
+*CHI:	bak ben diziyorum bunu .
 *EXP:	aferin , güzel a diz .
 *CHI:	güzelcene dizelim ki düşmesin .
 *EXP:	ne olacak sonra o ?

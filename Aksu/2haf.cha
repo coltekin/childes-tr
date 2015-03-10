@@ -199,7 +199,7 @@
 *EXP:	ne oyunu oynarsın ?
 *CHI:	huh .
 *EXP:	ne oyunları oynarsın Zeyneple ?
-*CHI:	bilmiycem [: bilemiyeceğim] ki  .
+*CHI:	bilmiycem [: bilemeyeceğim] ki  .
 *EXP:	ne oyunu oynadığını bilmiyormusun sen ?
 %com:	no
 *EXP:	allah , allah , neyi bilmiyorsun ?
@@ -360,7 +360,7 @@
 *CHI:	kalemlen [: kalemle] boyuyacak [: boyayacak] .
 *CHI:	kalemlen [: kalemle] boyanmaz .
 *CHI:	bakim [: bakayım] , güzel .
-*CHI:	bakım [: bakayım] , ayağa kalkımda bakim [: bakayım] .
+*CHI:	bakım [: bakayım] , ayağa kalkım [: kalkayım] da bakim [: bakayım] .
 *EXP:	ayağa kalk da bak bakalım .
 *CHI:	xxx alacak .
 *EXP:	boyanmaz ki , kalemlen [: kalemle] boyanır .

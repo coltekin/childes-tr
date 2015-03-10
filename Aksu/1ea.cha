@@ -46,7 +46,7 @@
 *EXP:	bak deminki hayvanlar var ya , onları gene verecem sana mecburen .
 *EXP:	tamam mı?
 *CHI:	tamam .
-*EXP:	veriyimmi tekrar , ver .
+*EXP:	veriyimmi [: vereyimmi] tekrar , ver .
 *CHI:	istiyorum .
 *CHI:	buda bırakırsan arabaları.
 *CHI:	burda kalsın .
@@ -165,7 +165,7 @@
 *EXP:	nerde baban senin ?
 *CHI:	arabada , Mercedes almış.
 *EXP:	aman ne güzel , sen beğendinmi , bindinmi ?
-*CHI:	beyendim , böyle bindim .
+*CHI:	beyendim [: beğendim] , böyle bindim .
 *CHI:	arabasını elledim böyle .
 *CHI:	tutarken elledim bir baktım tekerleklerin burası.
 *CHI:	çarpmış.
@@ -297,7 +297,7 @@
 *CHI:	sular gece akmışlar sabaha kadar .
 *CHI:	Mustafa ağbi silmiş.
 *CHI:	öyle de su içinde kalmış , temizliyor süpürgeyle oraları.
-*CHI:	hertaraf su içinde kalmış.
+*CHI:	her taraf su içinde kalmış.
 *CHI:	kapağdan [?] böyle arasından su akıyor .
 *CHI:	sonra burası.
 *CHI:	sonra da yağmur akıyor .
@@ -371,7 +371,7 @@
 *CHI:	bir iki üç dört beş.
 *CHI:	dur şuraya yazayım da .
 *CHI:	şurası da .
-*EXP:	ben senin bu şeyini çok beyendim .
+*EXP:	ben senin bu şeyini çok beyendim [: beğendim] .
 *CHI:	ama bunu ben giderken giyiyorum .
 *EXP:	onu kim verdi sana ?
 *CHI:	pazardan aldık .
@@ -462,13 +462,13 @@
 *EXP:	hadi evimize gidelimmi ?
 *CHI:	şimdi değil .
 *CHI:	öğretmen burda benlen [: benle] konuştu , bunları getirdi .
-*EXP:	Barborosa uğrıyalım [: uğrayalım] giderken .
+*EXP:	Barbarosa uğrıyalım [: uğrayalım] giderken .
 *CHI:	yo [: yok] şimdi değil .
 *CHI:	şu öğretmen gitsin de öyle gidelim .
 *EXP:	olur .
 *CHI:	şimdi oynayayım da şurda .
 *CHI:	şu öğretmenin oyuncaklarıylan [: oyuncaklarıyla] .
-*CHI:	bak hertaraf dağıtık [:: dağınık] .
+*CHI:	bak her taraf dağıtık [:: dağınık] .
 *CHI:	oynuyor baksana .
 *CHI:	bu oyuncaklar bunlar benim oldu .
 *EXP:	sabahleyin ne yedin evladım ?

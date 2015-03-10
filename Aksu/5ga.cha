@@ -88,7 +88,7 @@
 *EXP:	nerde pişireceksin ?
 *CHI:	sahanda pişiririm .
 *EXP:	yağ koyarmısın içine , ne yağsı [: yağı] ?
-*CHI:	tereyağ koyarım .
+*CHI:	tereyağ [: tereyağı] koyarım .
 *EXP:	peki sucuk yermi at ?
 *CHI:	yer .
 *EXP:	sahi ?
@@ -198,7 +198,7 @@
 *EXP:	ya sarhoş olursa ne olacak ?
 *CHI:	şa .
 *CHI:	şarap içirmiyelim [: içirmeyelim] .
-*EXP:	içirmiyelim şarap .
+*EXP:	içirmiyelim [: içirmeyelim] şarap .
 *CHI:	şey , şey içirelim .
 *EXP:	kim şarap içiyor ?
 *CHI:	hiç kimse de .
@@ -501,12 +501,12 @@
 *CHI:	şeyle .
 *EXP:	neyin üstüne resim yapıyorsun ?
 *CHI:	şeyin .
-*EXP:	ne oldu teype ?
+*EXP:	ne oldu teype [: teybe] ?
 %com:	she changed sides
 *CHI:	bastın başladı.
 *EXP:	baştan bastım , tekrar çalıştırıyorum , değilmi ?
 *CHI:	niye çalıştırdın ki ?
-*EXP:	çünkü senin sesini alıyorum teype , onun için .
+*EXP:	çünkü senin sesini alıyorum teype [: teybe] , onun için .
 *EXP:	sen Boğazlıyana gittiğinde ne yapıyorsun Boğazlıyanda ?
 *CHI:	Zelihayla oynuyorum .
 *CHI:	Zeliha bana vuruyor , suratıma , durmadan vuruyor .

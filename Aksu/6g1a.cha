@@ -254,8 +254,8 @@
 *CHI:	sonra taşlar çakılır .
 *CHI:	sonra , sonra horozlar .
 *CHI:	bu horozlar xxx .
-*CHI:	çocuklar yürer .
-*CHI:	sonra horozlar yürer .
+*CHI:	çocuklar yürer [: yürür] .
+*CHI:	sonra horozlar yürer [: yürür] .
 *EXP:	kediler başka ne yapar ?
 *CHI:	et yer .
 *CHI:	köpekler et yer .
@@ -280,7 +280,7 @@
 *CHI:	bu da , atlar da şey yer .
 *CHI:	onlar da ot yiyer [: yer] .
 *CHI:	zürafa da et yemezde şey yer .
-*CHI:	çımlık yer .
+*CHI:	çamlık yer .
 *CHI:	şey yer , ceviz yer .
 *EXP:	köpekler niye su içerler ?
 *CHI:	içmezler .
@@ -581,7 +581,7 @@
 *EXP:	gemide ne yapıyormuş baban ?
 *CHI:	iş yapıyor .
 *CHI:	nerelere gidiyormuş?
-*CHI:	bir sefer biryere gitmişti .
+*CHI:	bir sefer bir yere gitmişti .
 *CHI:	ben de xxx .
 *CHI:	onun takvimi vardı.
 *CHI:	nerde anneanne ?

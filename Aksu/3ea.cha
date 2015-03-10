@@ -139,7 +139,7 @@
 *EXP:	bir de traktör var , istersen .
 *EXP:	traktörü alabilirsin .
 *MOT:	Mıstık , bırak şimdi , onu oraya koy , bak ben sana ne .
-*MOT:	söylüyeceğim şimdi , teyzeye anlatalım , sen hatırlıyormusun seninle geçen gün şeye gittik , sinemaya gittik , küçük çocuklar okula gitmişlerdi , öğretmen ne dedi ?
+*MOT:	söylüyeceğim [: söyleyeceğim] şimdi , teyzeye anlatalım , sen hatırlıyormusun seninle geçen gün şeye gittik , sinemaya gittik , küçük çocuklar okula gitmişlerdi , öğretmen ne dedi ?
 *CHI:	bak içine .
 *EXP:	neyin içi o .
 *CHI:	arabanın içi .
@@ -491,7 +491,7 @@
 *EXP:	ne zaman okuyor baban onları?
 *CHI:	ikibuçukta .
 *CHI:	ben de ikibuçukta okuyorum .
-*EXP:	şimdi senlen [: senle] oynuyalımmı başka şey artık ?
+*EXP:	şimdi senlen [: senle] oynuyalımmı [: oynayalımmı] başka şey artık ?
 *CHI:	başka şey varmış.
 *EXP:	varmış değil mi ?
 *EXP:	bu ev .

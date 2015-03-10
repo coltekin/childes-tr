@@ -23,7 +23,7 @@
 *CHI:	işte şöyle geziyoruz demiş.
 *CHI:	peki demiş , ben de geleyim demiş.
 *CHI:	gitmiş.
-*CHI:	gidince bir horoza rastlamışlar gine .
+*CHI:	gidince bir horoza rastlamışlar gine [: yine] .
 *CHI:	horoz demiş ki .
 *CHI:	nereye gidiyorsunuz demiş.
 *CHI:	iş aramaya gidiyoruz demiş.
@@ -142,7 +142,7 @@
 *CHI:	kurtlar insanı ısırır .
 *EXP:	niçin ?
 *CHI:	ama arada bir kızdırırlarsa .
-*CHI:	böyle yanakları öpülmiyecek .
+*CHI:	böyle yanakları öpülmiyecek [: öpülmeyecek] .
 *CHI:	yanakları çok simsiyahtır , yanakları.
 *CHI:	kurnaz tilkinin de yanakları simsiyahtır .
 *EXP:	kim o kurnaz tilki ?
@@ -192,7 +192,7 @@
 *EXP:	başka ne seversin yemeklerden ?
 *CHI:	fasulye severim , çorba severim .
 *EXP:	nasıl fasulye ?
-*CHI:	başka türlü fasülye sevmem , kuru fasulye .
+*CHI:	başka türlü fasülye [: fasulye] sevmem , kuru fasulye .
 *EXP:	nasıl pişiriyor ?
 *CHI:	tencerede .
 *EXP:	etli mi , zeytin yağlı mı?
@@ -267,7 +267,7 @@
 *CHI:	koşmaca da oynarım .
 *CHI:	her oyunu oynarım .
 *EXP:	sen babanı anlat bana , babayı xxx .
-*CHI:	dur , bir dakka , birşey söyliyeceğim sana .
+*CHI:	dur , bir dakka [: dakika] , birşey söyliyeceğim [: söyleyeceğim] sana .
 *CHI:	kocaman bir tren var .
 *CHI:	rayı var .
 *CHI:	yalnız onun pille işliyor .
@@ -279,7 +279,7 @@
 *CHI:	Ankaradan , babam .
 *EXP:	pil alın .
 *CHI:	ayni pili bulmak lazım .
-*CHI:	başka pilsiz işliyemez .
+*CHI:	başka pilsiz işliyemez [: işlemez] .
 %com:	he means: başka pille işleyemez .
 *CHI:	onun pili beyaz pil .
 *CHI:	burda beyaz pil yok .
@@ -529,7 +529,7 @@
 *CHI:	otobüsün arkasına .
 *CHI:	tahtanın üstüne kutu geldi .
 *CHI:	bu da bunun içine xxx girdi .
-*CHI:	gine dur , başka birşey sokayım içine .
+*CHI:	gine [: yine] dur , başka birşey sokayım içine .
 *CHI:	kapatayım üstünü.
 *CHI:	küçük birşey alayım .
 *CHI:	işte tavuk .
@@ -548,7 +548,7 @@
 *CHI:	oh , kaza oldu .
 *CHI:	xxx vincim var .
 *CHI:	işte .
-*CHI:	bir dakka düştü!
+*CHI:	bir dakka [: dakika] düştü!
 *CHI:	otobüsün üstüne arabayı çıkarıyorum .
 *CHI:	bu sefer başka birşey yapıcam [: yapacağım] .
 *EXP:	ne dedin anlamadım .
@@ -653,13 +653,13 @@
 *CHI:	Brem Mızıkacıları.
 *EXP:	sonra ?
 *CHI:	dur , resmini gösteriyim .
-*CHI:	Saimeye söyleyim de getirsin kitabı .
+*CHI:	Saimeye söyleyim [: söyleyeyim] de getirsin kitabı .
 %com:	now he is telling the story from the pictures in the book
 *CHI:	bir eşek varmış.
 *CHI:	köpeğe rastlamış.
 *CHI:	köpek de gelmiş onlan [: onunla] .
 *CHI:	kediye rastlamışlar .
-*CHI:	gine gitmişler , gitmişler .
+*CHI:	gine [: yine] gitmişler , gitmişler .
 *CHI:	bir kediye rastlamışlar .
 *CHI:	sonra gitmişler kediyle beraber .
 *CHI:	bir horoza rastlamışlar .

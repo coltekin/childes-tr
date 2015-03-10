@@ -314,7 +314,7 @@
 *CHI:	kuyruk .
 *EXP:	nasıl yüzer balık ?
 *CHI:	tutarlar .
-*CHI:	ben tutuy xxx [: tutuyorum] .
+*CHI:	ben tutuy(orum) xxx .
 *CHI:	Mustafa .
 *CHI:	benim Mustafa abim tutuyor ya balık .
 *CHI:	yiyorum ya pırıl pırıl .
@@ -344,7 +344,7 @@
 *CHI:	alır .
 *CHI:	alır koyar .
 *CHI:	çay koyar .
-*CHI:	dişlerimı fırçalarken .
+*CHI:	dişlerimi fırçalarken .
 *CHI:	ellerimi böyle böyle yaparken .
 *EXP:	ne yaparken ?
 *CHI:	böyle böyle yaparken .
@@ -405,7 +405,7 @@
 *EXP:	ai ai yaparlar .
 *CHI:	ai ai derler .
 *EXP:	atlar ne yapar ?
-*CHI:	atlar da şeyder , tık tak tık tak .
+*CHI:	atlar da şeyder [: şey eder] , tık tak tık tak .
 *EXP:	iaa derler .
 *CHI:	yaparlar .
 *CHI:	xxx ben korkmam .

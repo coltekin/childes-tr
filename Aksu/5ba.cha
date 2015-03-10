@@ -38,7 +38,7 @@
 *MOT:	şuraya koyalım bir , ha canım .
 *CHI:	bu işte düşmüş aşağıya bu .
 %com:	referring to the book on the floor
-*EXP:	hangisi düşmüş , dur yanına geliyim de hangisi göster sen bana .
+*EXP:	hangisi düşmüş , dur yanına geliyim [: geleyim] de hangisi göster sen bana .
 *CHI:	bunu düşmüş.
 *EXP:	allah allah !
 %com:	playing with animals
@@ -129,7 +129,7 @@
 *CHI:	ağaç.
 *EXP:	bu ne ?
 *EXP:	kovboyun nesi bu ?
-*CHI:	babam ondan alacakmıştı , alacakmıştı.
+*CHI:	babam ondan alacakmıştı [: alacakmış] , alacakmıştı [: alacakmış] .
 %com:	above he either means "alacaktı" or "alacakmış". "alacakmıştı" is not correct
 *EXP:	bu ne bu ?
 *CHI:	at , o ona atmış , gagalıyorlar .
@@ -186,7 +186,7 @@
 *EXP:	çok mersi .
 *EXP:	biraz da yiyelim artık istersen .
 *CHI:	hı.
-*EXP:	onu beyenmedim ben , rengi sarı.
+*EXP:	onu beyenmedim [: beğenmedim] ben , rengi sarı.
 *EXP:	bir tane daha verirmisin ?
 *EXP:	güzelmiş.
 *EXP:	çekirdeğini nereye atayım .
@@ -219,7 +219,7 @@
 *CHI:	süt .
 *EXP:	neden süt içiyor ?
 *CHI:	karnı acıkmış , süt içiyormuş.
-*EXP:	biz senlen biraz başka şey oynayalımmı?
+*EXP:	biz senlen [: senle] biraz başka şey oynayalımmı?
 *CHI:	tulumbayı fış fış fış.
 %com:	he points to a water pump
 *CHI:	bunu tutuyor , bunu tutuyor , fış fış çekiyorlar .
@@ -284,7 +284,7 @@
 *CHI:	bulamaz , saklamışlar , beni bulamaz diyorlar .
 *CHI:	bu .
 *CHI:	sandviç.
-*EXP:	kim veriyor sandövici ?
+*EXP:	kim veriyor sandövici [: sandviçi] ?
 *CHI:	nine onu görmemişti .
 *EXP:	bu köpek ne yapıyor ?
 *CHI:	buraya top koymuş , bu da teyp çalıyor , bu da teyp çalıyor .
@@ -326,7 +326,7 @@
 *EXP:	hadi bakalım , sen bana söyle .
 *CHI:	buna binmişler gidiyorlar .
 *EXP:	nereye gidiyorlar ?
-*CHI:	Istanbula .
+*CHI:	İstanbula .
 *EXP:	bunlar ne ?
 *CHI:	tekerlek .
 *EXP:	peki bunlar ne ?
@@ -366,7 +366,7 @@
 %com:	koyacakmıştı is not correct . correct form: koyacakmış father brings out toys
 *CHI:	kapıyı çarpmış.
 *CHI:	buraya .
-*CHI:	koyacakmıştı.
+*CHI:	koyacakmıştı [: koyacakmış] .
 *CHI:	adam çıkarmıştı.
 *FAT:	hangisini istiyorsun Burçak ?
 *CHI:	annem getirmişti .
@@ -381,13 +381,13 @@
 *EXP:	ne zaman aldı anne onu sana ?
 *CHI:	şimdi aldı.
 *EXP:	pek güzel .
-*EXP:	ben de kedimi gösteriyimmi sana ?
+*EXP:	ben de kedimi gösteriyimmi [: göstereyimmi] sana ?
 *CHI:	hı.
 %com:	affirmative sound gesture
 *EXP:	bak bu da benim kedim , bu da sepet .
 *EXP:	nerede kedi ?
 *EXP:	xxx .
-*EXP:	biraz benim oyuncaklarımla oynamak istermsin ?
+*EXP:	biraz benim oyuncaklarımla oynamak istermisin ?
 *EXP:	hadi gel .
 *CHI:	bu da almış.
 *EXP:	nedir o canım ?
@@ -401,5 +401,5 @@
 *GRM:	kime rastlamış yolda ?
 *CHI:	kedi ne diyor ?
 *GRM:	miyav miyav diyor .
-*CHI:	kuş , kuş , karakedi , kuş.
+*CHI:	kuş , kuş , kara kedi , kuş.
 @End

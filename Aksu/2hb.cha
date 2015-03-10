@@ -97,7 +97,7 @@
 *EXP:	çok ufacık daha değilmi ?
 *EXP:	çok güzel değilmi Beyza ?
 *CHI:	ne yapıyorsun sen öyle ?
-*EXP:	başka biryere yazsana .
+*EXP:	başka bir yere yazsana .
 *EXP:	buraya paketin arkasına yaz .
 *EXP:	buraya bir resim yap bakalım .
 *EXP:	göreyim nasıl yapacaksın .
@@ -173,7 +173,7 @@
 *CHI:	yapmıyorlar .
 *CHI:	onlar da vardı.
 *CHI:	onlar da vardı lunaparkta .
-*EXP:	hiç hayvanat bahçesine gitinmi sen ?
+*EXP:	hiç hayvanat bahçesine gittinmi sen ?
 *CHI:	sen ?
 *EXP:	nasıl bir yer hayvanat bahçesi ?
 *CHI:	şey .
@@ -617,7 +617,7 @@
 *CHI:	getiririm ben , okuyor .
 *EXP:	peki al bakalım .
 *CHI:	çalsana , sesi gelmiyor .
-*EXP:	gelmiyecek , sonra çalacam .
+*EXP:	gelmiyecek [: gelmeyecek] , sonra çalacam .
 *EXP:	bitirelimde işimizi .
 *CHI:	şimdi mi ?
 *CHI:	ver o kutuyu da .
@@ -650,7 +650,7 @@
 *EXP:	ben giderken alırsınız .
 *EXP:	şimdi gitmiyorum ben .
 *CHI:	şimdi sigara içiyorsun .
-*CHI:	ışığı yakayımmi .
+*CHI:	ışığı yakayımmı .
 *EXP:	buraya çıkamıyorum ki .
 *EXP:	orda [: orada] Zeynep yapar belki .
 *EXP:	Zeynep sizin kediniz varmı?

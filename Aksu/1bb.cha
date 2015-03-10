@@ -83,7 +83,7 @@
 %com:	trying to put a large doll in the box
 *EXP:	bak bunlar büyük geliyor .
 *CHI:	götürecem .
-*CHI:	yürütücem anne .
+*CHI:	yürütücem [: yürüteceğim] anne .
 *MOT:	yürüt canım .
 *MOT:	biraz ütü ütülesene sen , ben sana bir elbise vereyim .
 *MOT:	bu da ütü; ütülermisin bana ?
@@ -158,7 +158,7 @@
 *CHI:	başka ?
 *CHI:	babaya da pantolon .
 *CHI:	bunun bezi olsunmu ?
-*CHI:	onu ütülüyeceğim ben .
+*CHI:	onu ütülüyeceğim [: ütüleyeceğim] ben .
 *MOT:	burda ütüle de göreyim , sonra ne yapacaksın ?
 *CHI:	şimdi onları da ütüleyim [: ütüleyeyim] .
 *CHI:	bak , ne yaptım !
@@ -390,7 +390,7 @@
 *EXP:	kanatları değil mi ?
 *EXP:	nasıl uçar ?
 *CHI:	yavru diye diye uçar kuş.
-*EXP:	ver ben sana giydiriyim o şapkayı.
+*EXP:	ver ben sana giydiriyim [: giydireyim] o şapkayı.
 %com:	doll with hat
 *EXP:	sen bana söyle nasıl uçar bu kuş?
 *CHI:	öyle olmaz o .
@@ -449,7 +449,7 @@
 *CHI:	aa düştü.
 %com:	<1w> an exclamatory sound gesture
 *CHI:	şapkasını ver .
-*CHI:	ters mi olduk şimdik ?
+*CHI:	ters mi olduk şimdik [: şimdi] ?
 *CHI:	aman , bu bebekten bıktım !
 %com:	<1w> an exclamatory word
 *CHI:	ay , aman aman .

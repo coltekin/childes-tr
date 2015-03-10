@@ -65,9 +65,9 @@
 *EXP:	bu anneleri , bu da babaları , gördünmü?
 *CHI:	içeri girsinlermi ?
 *EXP:	girsinler istiyorsan .
-*EXP:	sen girdirmek istiyormusun içeri ?
+*EXP:	sen girdirmek [: sokmak] istiyormusun içeri ?
 *CHI:	evet .
-*EXP:	girdir o zaman .
+*EXP:	girdir [: sok] o zaman .
 *EXP:	girsinler bakayım [: bakalım] nasıl giriyorlar .
 *EXP:	ben de göreyim .
 *CHI:	girdi atım .
@@ -470,12 +470,12 @@
 *CHI:	gelmiycem [: gelmeyeceğim] bir daha .
 *EXP:	ne yapıyorlar sana ?
 *CHI:	hiç birşey yapmıyorlar , gelmiycem [: gelmeyeceğim] .
-*EXP:	bir daha gelmiyeceksin .
+*EXP:	bir daha gelmiyeceksin [: gelmeyeceksin] .
 *EXP:	benim de küçük bir kızım var .
 *EXP:	ben onu getireyim diyorum buraya .
 *EXP:	getireyimmi acaba ?
 *CHI:	getirme .
-*EXP:	getirmeyimmi ?
+*EXP:	getirmeyimmi [: getirmeyeyimmi] ?
 *EXP:	sevmezmi dersin ?
 *CHI:	getirme kızını.
 *EXP:	o da mı sevmez ?
@@ -602,7 +602,7 @@
 *CHI:	bilmiyorum ki .
 *EXP:	ta ra ra ra .
 *EXP:	şarkı söyleyelimmi senlen [: seninle] .
-*CHI:	söylemiyelim .
+*CHI:	söylemiyelim [: söylemeyelim] .
 *EXP:	niçin ?
 *CHI:	işte .
 *EXP:	ama ben şarkı söylemek istiyorum .
@@ -624,7 +624,7 @@
 *EXP:	biliyormusun bunu sen ?
 *CHI:	biliyorum .
 *EXP:	bir tane daha vardı , dur bakıyım [: bakalım] .
-*EXP:	sana söyleyim .
+*EXP:	sana söyleyim [: söyleyeyim] .
 *CHI:	hep sarıdır söylüyorlardı bir de .
 *EXP:	hangisi o , ben hiç duymadım .
 %com:	kid sings adults sings
@@ -886,11 +886,11 @@
 *EXP:	ne yemeği ?
 *CHI:	evde söyliycem [: söyleyeceğim] .
 *EXP:	evde şarkı mı söyleyeceksin ?
-*CHI:	şarkı söyliycem .
+*CHI:	şarkı söyliycem [: söyleyeceğim] .
 *EXP:	hangi evde söyleyeceksin ?
 *CHI:	anneanne tarafı evde .
 *EXP:	bak ben kendime sigara buldum .
-*EXP:	üflüyecekmisin ?
+*EXP:	üflüyecekmisin [: üfleyecekmisin] ?
 *CHI:	üfliycem [: üfleyeceğim] .
 *EXP:	senin doğum günün oldumu ?
 *CHI:	olmadı.
@@ -958,7 +958,7 @@
 *EXP:	okula mı?
 *CHI:	evet .
 *CHI:	ben aşşaya [: aşağıya] inicem [: ineceğim] .
-*EXP:	aşşağı mı [: aşağıya mı] inicen [: ineceksin] artık ?
+*EXP:	aşşağı [: aşağıya] mı inicen [: ineceksin] artık ?
 *CHI:	evet .
 *EXP:	peki , karnın mı acıktı?
 *CHI:	aşşağıya [: aşağıya] inmek istiyorum .

@@ -67,7 +67,7 @@
 *EXP:	attaya mı gitti ?
 *CHI:	kağıt .
 *EXP:	nerde kağıt ?
-*EXP:	kağıt istermisin , sana bir parça veriyimmi ?
+*EXP:	kağıt istermisin , sana bir parça veriyimmi [: vereyimmi] ?
 *EXP:	al , ne yapıyorsun ?
 %com:	picks up the pencil and paper
 *CHI:	o ne ?
@@ -221,7 +221,7 @@
 *EXP:	ne oldu buna bozuldumu ?
 %com:	some trouble with the recorder
 *CHI:	bozuldu .
-*EXP:	hay allah , ne yapacaz şimdi ?
+*EXP:	hay allah , ne yapacaz [: yapacağız] şimdi ?
 *CHI:	şimdi ne yapalım ?
 *EXP:	tamirci getirelimmi ?
 *CHI:	bilmem .
@@ -556,7 +556,7 @@
 *CHI:	koşarşı [: koşarım] .
 *EXP:	koşarsın .
 *EXP:	niye koşarsın ?
-*CHI:	koşarşı.
+*CHI:	koşarşı .
 *EXP:	niçin ?
 *CHI:	oy koş ondan .
 *EXP:	koşarsın ondan , öyle mi ?

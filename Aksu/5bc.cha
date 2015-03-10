@@ -58,7 +58,7 @@
 *EXP:	nerde acaba ?
 *CHI:	bak nasıl kızmış.
 *EXP:	niye kızmış?
-*CHI:	yat aşağa diye kızmış.
+*CHI:	“ yat aşağa [: aşağıya] ”  diye kızmış.
 *CHI:	bak .
 %com:	in the text there is a word after "bak" above , but it is not legible maybe "legun"?
 *EXP:	Burçak Aninöya gidecekmiyiz biz ?
@@ -144,7 +144,7 @@
 *EXP:	nasıl biniceksin ?
 *EXP:	hı , nasıl biniceksin vapura ?
 *CHI:	anino xxx binicek .
-*EXP:	anino binicek , sen binmiyecekmisin ?
+*EXP:	anino binicek , sen binmiyecekmisin [: binmeyecekmisin] ?
 *CHI:	ben binmiyecem [: binmeyeceğim] .
 *EXP:	niye gitmiyorsun aninona ?
 *CHI:	gidicem [: gideceğim] .
@@ -153,7 +153,7 @@
 *EXP:	ne yapmış?
 *CHI:	ne yapmış (naapmış) ?
 %com:	it is hard to tell from the text which of the above or whether both versions above is the way the child pronounced the phrase .
-*EXP:	nasıl gidiceksin aninona Burçak , neye biniceksin ?
+*EXP:	nasıl gidiceksin [: gideceksin] aninona Burçak , neye biniceksin ?
 *CHI:	vapura .
 *EXP:	nasıl biniceksin vapura ?
 *EXP:	para vericekmisin binmek için ?
@@ -208,11 +208,11 @@
 *CHI:	hah , durdu .
 *CHI:	uçağı tamirediricez [: tamir edeceğiz] , babam bir komacan [: kocaman].
 *CHI:	uçak almış.
-*CHI:	onu tamirediricez [: tamir edeceğiz] , sonra yapıştırıcaz [: yapıştıracağız] , kuruyıcak dolapta .
+*CHI:	onu tamirediricez [: tamir edeceğiz] , sonra yapıştırıcaz [: yapıştıracağız] , kuruyıcak [: kuruyacak] dolapta .
 *DAN:	hm .
 *CHI:	alıcaaz [: alacağız] .
 *CHI:	vuut diye geçiricez [: geçireceğiz] .
-*CHI:	vuut diye uçucak .
+*CHI:	vuut diye uçucak [: uçacak] .
 *DAN:	haa , o uçak nerede ?
 *CHI:	dur .
 *EXP:	nerde uçak ?
@@ -293,7 +293,7 @@
 *EXP:	senin davulun nerede ?
 *CHI:	yok , nenem kaldırmış.
 *CHI:	hı.
-*CHI:	neneme söyliyim , getirsin benim davulumu .
+*CHI:	neneme söyliyim [: söyleyeyim] , getirsin benim davulumu .
 *EXP:	olur .
 *CHI:	ben getiricem [: getireceğim] .
 *EXP:	nereye gidiyorsun ?
@@ -313,7 +313,7 @@
 *EXP:	ben bulabilirmiyim ?
 *CHI:	bulamazsın .
 *EXP:	peki .
-*CHI:	xxx söyliyelim .
+*CHI:	xxx söyliyelim [: söyleyeyim] .
 *CHI:	anne niye buluyorsun ?
 *EXP:	bak baba sana başka Ayşegül almış , sen bunu görmedin .
 *CHI:	hay , bak .
@@ -374,16 +374,16 @@
 *CHI:	bunu çıkarıcam [: çıkaracağım] .
 *CHI:	hoppala diye , denize , hoppala diye atlıycam [: atlayacağım] .
 *EXP:	ne yapıcaksın denizde ?
-*CHI:	yüzücem .
+*CHI:	yüzücem [: yüzeceğim] .
 *DAN:	sen yüzebilirmisin ?
 *CHI:	ha ?
 *DAN:	sen yüzebilirmisin ?
 *CHI:	ha ?
 *DAN:	denizde .
-*DAN:	yüzebilicekmisin denizde ?
+*DAN:	yüzebilicekmisin [: yüzebilecekmisin] denizde ?
 *CHI:	ha .
 *EXP:	başka oyuncak da götürecekmisin denize ?
-*EXP:	fil hamdiyi götürecekmisin ?
+*EXP:	fil Hamdiyi götürecekmisin ?
 *CHI:	ha ?
 *EXP:	karganı götürecekmisin ?
 *CHI:	ha ?
@@ -405,7 +405,7 @@
 *EXP:	nasıl alıyor karganın peynirini ?
 *CHI:	hı.
 *EXP:	nasıl alıyor karganın peynirini ?
-*CHI:	baak , yeni kitap .
+*CHI:	baak [: bak] , yeni kitap .
 *CHI:	yeni kitap .
 *EXP:	nerden buldun o yeni kitabı?
 *CHI:	bunu annem bulmuş.
@@ -456,7 +456,7 @@
 *EXP:	sen onlan [: onla] ne yapıcaksın deniz kenarında ?
 *EXP:	Burçak , napıcaksın [: ne yapıcaksın] sen onlan [: onla] deniz .
 *EXP:	kenarında ?
-*EXP:	biz aninoya gidersek napıcaz orda , biz denize gidersek napıcaz ?
+*EXP:	biz aninoya gidersek napıcaz [: ne yapacağız] orda , biz denize gidersek napıcaz [: ne yapacağız] ?
 %com:	napıcaz= ne yapacağız
 *CHI:	yüzücez [: yüzeceğiz] .
 *EXP:	peki biz uykumuzu uyursak bugün , uykumuzu güzel uyursak napıcaz [: ne yapacağız] ?
@@ -617,7 +617,7 @@
 *EXP:	takabildinmi ?
 *CHI:	takamadım .
 *EXP:	ver ben takıyım [: takayım] sana .
-*CHI:	ordan giricek .
+*CHI:	ordan giricek [: girecek] .
 *EXP:	Burçak , nerden bilmiş itfaiyeciler maymunum orda olduğunu ?
 *EXP:	kim söylemiş?
 *CHI:	nenem .
@@ -811,10 +811,10 @@
 *CHI:	söyle .
 *CHI:	bana .
 *CHI:	bunu buraya .
-*CHI:	bu nasıl giricek ?
+*CHI:	bu nasıl giricek [: girecek] ?
 *EXP:	hı.
 *CHI:	bu nere xxx , orda mı?
-*EXP:	oraya girmiyecek herhalde .
+*EXP:	oraya girmiyecek [: girmeyecek] herhalde .
 *CHI:	hı , herhalde .
 *EXP:	Burçak , bak ne yapıyor bak .
 *EXP:	Burçak ne yapıyor kırmızı araba yeşil arabaya ?
@@ -932,7 +932,7 @@
 *CHI:	heh heh .
 *EXP:	ne diyecektin ?
 *CHI:	bana anlat .
-*EXP:	tabanca diyecektin , tapanca@q demiyecektin .
+*EXP:	tabanca diyecektin , tapanca@q demiyecektin [: demeyecektin] .
 *CHI:	diye .
 *CHI:	tapanca diy(cem) (ben) .
 *CHI:	heh , buraya tırmandım ben .
@@ -947,12 +947,12 @@
 %com:	after he climbs
 *EXP:	çok güzel tırmandın .
 *CHI:	gene tırmanıyımmı [: tırmanayımmı]?
-*EXP:	tırman ama o kırılıcağa benzer .
+*EXP:	tırman ama o kırılıcağa [: kırılacağa] benzer .
 *CHI:	ayı varmış?
 *EXP:	Burçak , senin topal ayının bacakları nerde ?
 *CHI:	şunu .
 %com:	trying to reach for something
-*CHI:	bak bunları giyicek topal ayı.
+*CHI:	bak bunları giyicek [: giyecek] topal ayı.
 *DAN:	o kim ?
 *CHI:	şunu anlatsana .
 *EXP:	hı?
@@ -968,7 +968,7 @@
 *CHI:	topal ayı , topal ayı.
 *CHI:	durdurtsana , durdurtsana , orıya [: oraya] düştü.
 *DAN:	duruyormu ?
-*CHI:	hah , been de durduttum [: durdurttum] .
+*CHI:	hah , been [: ben] de durduttum [: durdurttum] .
 *DAN:	hmm .
 *EXP:	Burçak bak .
 *DAN:	çarpan arabayı bana ver .
@@ -1013,8 +1013,8 @@
 *CHI:	bak ne yapıyor .
 *CHI:	bak ne yapıyom [: yapıyorum] .
 %com:	he cuts off sth .
-*DAN:	söyliyecekmisin ?
-*EXP:	söyliyecekmisin Burçak ?
+*DAN:	söyliyecekmisin [: söyleyecekmisin] ?
+*EXP:	söyliyecekmisin [: söyleyecekmisin] Burçak ?
 *CHI:	xxx döver [: döner] .
 *EXP:	teybin içinde ne var ?
 *CHI:	ceryanı bitmiş.
@@ -1129,9 +1129,9 @@
 %com:	the mother repeats the same question several times no response from Burçak although the mother says: "hasta olursun"
 *CHI:	bunu nasıl yapıcaz [: yapacağız] ?
 *EXP:	onu bilmiyorum , sen bana cevap versene .
-*CHI:	anne , bunu na xxx nasıl yapıcaz ?
-*CHI:	nasıl yapıcaz ?
-*CHI:	nasıl yapıcaz ?
+*CHI:	anne , bunu na xxx nasıl yapıcaz [: yapcağız] ?
+*CHI:	nasıl yapıcaz  [: yapcağız]?
+*CHI:	nasıl yapıcaz ? [: yapcağız]
 *EXP:	Burçak , birşey soracağım sana xxx .
 *EXP:	yatağın olmasaydı nerde uyurdun sen ?
 *CHI:	ha xxx .
@@ -1152,7 +1152,7 @@
 *EXP:	ne olurdu ?
 *CHI:	bak ne yaptım ben .
 *EXP:	ne yaptın ama , sen bana cevap vermiyorsun .
-*CHI:	çevir annee .
+*CHI:	çevir anne .
 *CHI:	çevir .
 *EXP:	sen bana cevap vermiyorsun , ağlıycam [: ağlayacağım] .
 *EXP:	ağlıyımmı [: ağlayayımmı]?
@@ -1255,7 +1255,7 @@
 *CHI:	niye kapattın bunu ?
 *EXP:	kapamazsa ne olur Burçak , kapamazsa ne olur ?
 *CHI:	ah , ah .
-*CHI:	teypin (yapası) .
+*CHI:	teypin [: teybin] (yapası) .
 *CHI:	ah , buldum .
 *CHI:	buldum , buldum .
 *CHI:	kaybettim .
@@ -1275,8 +1275,8 @@
 *CHI:	olur ben .
 *CHI:	anne , ağbi [?] .
 *CHI:	anne hadi be yapıyo [: yapıyor] .
-*CHI:	hadi bee yapıyor .
-*CHI:	bana hadi bee yap .
+*CHI:	hadi be yapıyor .
+*CHI:	bana hadi be yap .
 %com:	conversation between Dan and the mother
 *CHI:	anne .
 *CHI:	çevir bunu ?

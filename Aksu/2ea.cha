@@ -32,7 +32,7 @@
 *CHI:	evet .
 *EXP:	nereye koydun benim sigaramı?
 *CHI:	burda .
-*CHI:	döküyümmü bunları?
+*CHI:	döküyümmü [: dökeyimmi] bunları?
 *EXP:	hayır , bu elindekilerlen [: elindekilerle] oyna .
 *CHI:	tamam .
 *CHI:	olur .
@@ -336,7 +336,7 @@
 %com:	not clear from the text
 *CHI:	koydum burama güzel .
 %com:	points his neck
-*EXP:	pek beyendim .
+*EXP:	pek beyendim [: beğendim] .
 *EXP:	buraları ne böyle ?
 *CHI:	bu da kol , bu da kol .
 *EXP:	burası neresi ?
@@ -357,7 +357,7 @@
 %com:	Alev's note: "ben de onu götürüyorum"
 *EXP:	nereye götürüyorsun ?
 *CHI:	eve .
-*EXP:	bir dakka , sen bana söyle , sen Piraye'yi seviyormusun ?
+*EXP:	bir dakka [: dakika] , sen bana söyle , sen Piraye'yi seviyormusun ?
 *CHI:	hı.
 *CHI:	dövüşüyorlar .
 *CHI:	bum , bum .
@@ -436,7 +436,7 @@
 *CHI:	bak bunlar yedi birer birer .
 %com:	pointing to birds outside
 *CHI:	bak ağzında da .
-*EXP:	bak Muratcım , kuşun bu nesi ?
+*EXP:	bak Muratcım [: Muratçığım] , kuşun bu nesi ?
 *CHI:	bunun bir aynı var .
 %com:	points outside
 *CHI:	bak bir tane geçti , ona benziyor .
@@ -512,7 +512,7 @@
 *CHI:	su altında ben kalacam .
 *CHI:	içine su yapıcam .
 *CHI:	kullanacam , atıcam [: atacağım] içine .
-*CHI:	alıcam balığı buf .
+*CHI:	alıcam [: alacağım] balığı buf .
 %com:	buf: imitative sound gesture for throwing the fish into water
 *EXP:	balıklar nasıl yüzer suyun içinde ?
 *CHI:	böyle gözleri var .
@@ -521,5 +521,5 @@
 *CHI:	böyle .
 *CHI:	böyle yiyorlar ellerinle .
 %com:	"ellerinle" is wrong; correct form: "elleriyle"
-*EXP:	senlen [: senle] gine oyun oynayalımmı?
+*EXP:	senlen [: senle] gine [: yine] oyun oynayalımmı?
 @End

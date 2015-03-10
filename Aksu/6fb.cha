@@ -73,11 +73,11 @@
 *CHI:	uyumuyor ki .
 *CHI:	bazen uyuyor ama .
 *CHI:	aşağkinde [: aşağıdakinde] uyuyor .
-*CHI:	aşağkinde yaramazlık yapmıyor hiç.
+*CHI:	aşağkinde [: aşağıdakinde]  yaramazlık yapmıyor hiç.
 *FAT:	yukarkinde [: yukarıdakinde] mi uyuyor ?
-*CHI:	yukarkinde uyumuyor ki .
-*CHI:	aşagkinde uyuyor .
-*CHI:	yukarkinde yaramazlık yapıyor .
+*CHI:	yukarkinde [: yukarıdakinde] uyumuyor ki .
+*CHI:	aşagkinde [: aşağıdakinde] uyuyor .
+*CHI:	yukarkinde [: yukarıdakinde] yaramazlık yapıyor .
 *CHI:	anne diyor , anne anne diye ağlıyor .
 *FAT:	Çınarcıkta da ağlıyor dimi [: değilmi] şimdi .
 *CHI:	tabii .

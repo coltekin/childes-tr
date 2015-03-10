@@ -347,7 +347,7 @@
 *EXP:	yaklaştı bak .
 *CHI:	nasıl yaklaştı?
 *CHI:	ondan sonra ?
-*EXP:	dinliyeceğiz .
+*EXP:	dinliyeceğiz [: dinleyeceğiz] .
 *CHI:	dinle hadi , dinle .
 *CHI:	geldi saat , aç!
 *EXP:	it is not time yet .
@@ -372,7 +372,7 @@
 *CHI:	orda çalışırdım .
 *CHI:	birdenbire bir ses geldi .
 *CHI:	zil çaldı.
-*CHI:	gine gitti .
+*CHI:	gine [: yine] gitti .
 *EXP:	güle güle ses .
 *EXP:	yine gel .
 *CHI:	e , cünkü , bozuk etraf .
@@ -388,7 +388,7 @@
 *CHI:	bir gidiyor , bir geliyor .
 *CHI:	yine gitti ses be .
 *EXP:	nereye gitti , bu sefer ?
-*CHI:	uzaklara gitti , gelmiyecek artık .
+*CHI:	uzaklara gitti , gelmiyecek [: gelmeyecek] artık .
 *CHI:	geldi , geldi .
 *EXP:	nerden geldi ?
 *CHI:	İstanbuldan geldi .

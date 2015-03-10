@@ -479,7 +479,7 @@
 *CHI:	evet , bu kadar .
 *EXP:	peki dün denize girdinmi sen .
 *CHI:	gittik .
-*EXP:	denbize girdinmi sen .
+*EXP:	denize girdinmi sen .
 *CHI:	havuza girdik , denize değil .
 *EXP:	nerde havuz var .
 *EXP:	Kilyosta havuz varmı?
@@ -490,7 +490,7 @@
 *EXP:	neden yaprak giriyor havuza ?
 *CHI:	ağaçtan düşüyor yapraklar .
 %com:	child talking to his nanny
-*CHI:	ben kolluğumlan [: kolluğumla] atlıyacağım kenara .
+*CHI:	ben kolluğumlan [: kolluğumla] atlıyacağım [: atlayacağım] kenara .
 %com:	into the swimming pool with protective arm bands
 *NAN:	Kerim ortaya atlıyor .
 *CHI:	ben ortada .
@@ -622,7 +622,7 @@
 *CHI:	niye böyle kırmızı balık ?
 *EXP:	rengi öyle .
 *EXP:	şu nesi balığın ?
-*CHI:	ben onu söyleyim , kırmızı balığı.
+*CHI:	ben onu söyleyim [: söyleyeyim] , kırmızı balığı.
 *EXP:	olur , bu nesi balığın ?
 *CHI:	kuyruğu .
 *EXP:	nasıl yüzer balıklar ?

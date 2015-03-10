@@ -13,7 +13,7 @@
 *EXP:	orası öyle basık duracak .
 *CHI:	aç.
 *EXP:	nesini açıyım , görmek mi istiyorsun ?
-*EXP:	dur şimdi bakalım , bunu bırakacaz , oynamak için değil .
+*EXP:	dur şimdi bakalım , bunu bırakacaz [: bırakacağız] , oynamak için değil .
 *CHI:	makine .
 *CHI:	acıyor .
 *CHI:	şurası parmağı.
@@ -40,7 +40,7 @@
 *EXP:	birer tane .
 *CHI:	birer tane .
 *CHI:	hepsini .
-*EXP:	sen bir dakka dur , senlen [: senle] konuşacağız , bak bunları ben sana .
+*EXP:	sen bir dakka [: dakika] dur , senlen [: senle] konuşacağız , bak bunları ben sana .
 *EXP:	getirdim beraber oynayalım diye , bunlar benim oyuncaklarım .
 *CHI:	beraber oynayalım .
 *EXP:	beraber oynayacağız .
@@ -130,11 +130,11 @@
 *CHI:	acıkmadı.
 *CHI:	ikimiz .
 *UNC:	ikimiz ne yapalım ?
-*CHI:	beş oynuyalım .
+*CHI:	beş oynuyalım [: oynayalım] .
 *UNC:	beş değil bu tavla .
-*CHI:	tavla değil , bu oynuyalım .
+*CHI:	tavla değil , bu oynuyalım [: oynayalım] .
 *UNC:	bu ne bu ?
-*CHI:	biz tavla oynuyalım .
+*CHI:	biz tavla oynuyalım [: oynayalım] .
 *CHI:	aç aç.
 *EXP:	açılmıyor .
 *CHI:	açılıyor .
@@ -164,9 +164,9 @@
 *CHI:	ben değilim .
 *EXP:	hadi gel bakalım .
 *CHI:	bundan .
-*EXP:	hayır onu açmayacağım , gel oyuncaklarınla oynuyacağız [: oynuyacağız] .
-*CHI:	oyuncaklarlan [: oyuncaklarla] oynuyacağız .
-*EXP:	bak şimdi biz senlen [: senle] nerede oyun oynuyacağız .
+*EXP:	hayır onu açmayacağım , gel oyuncaklarınla oynuyacağız [: oynayacağız] .
+*CHI:	oyuncaklarlan [: oyuncaklarla] oynuyacağız [: oynayacağız] .
+*EXP:	bak şimdi biz senlen [: senle] nerede oyun oynuyacağız [: oynayacağız] .
 *EXP:	oo nee yapıyorsun .
 *EXP:	şekerim ?
 *EXP:	dur bakalım çık oradan .
@@ -434,7 +434,7 @@
 *CHI:	jipim var .
 *EXP:	alsana jipini .
 *CHI:	almam .
-*EXP:	al da oynuyalım azıcık .
+*EXP:	al da oynuyalım [: oynayalım] azıcık .
 *CHI:	almam .
 *EXP:	niçin ?
 *CHI:	kafamız şişiyor .

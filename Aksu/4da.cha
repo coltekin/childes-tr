@@ -268,7 +268,7 @@
 *EXP:	kıza söyle çocuk koşsun .
 *EXP:	oğlana söyle kız yemek yesin .
 *CHI:	xxx bak .
-*CHI:	kaçtılar gine eve .
+*CHI:	kaçtılar gine [: yine] eve .
 *CHI:	koştular .
 *CHI:	yağmur yağdı.
 *EXP:	başka ne oldu ?
@@ -297,7 +297,7 @@
 *CHI:	ders çalışacaklar .
 *CHI:	oynıyacak [: oynayacak] .
 *CHI:	buraya gelecekler .
-*CHI:	geriye gelmiyecekler .
+*CHI:	geriye gelmiyecekler [: gelmeyecekler] .
 *CHI:	oynıyacaklar [: oynayacaklar] bunlarla .
 *EXP:	ne oyunlar oynarsın ?
 *CHI:	hiçbirşey oynamam .
@@ -342,7 +342,7 @@
 *CHI:	kitap okur .
 %com:	there is a sentence here written in brackets: (kardeş olurdu diye) but it is difficult to tell who said it
 *CHI:	bi de gider çalışmaya .
-*CHI:	sonra gine gelir .
+*CHI:	sonra gine [: yine] gelir .
 *CHI:	sonra oynar bizle .
 *EXP:	anne ne yapar ?
 *CHI:	çalışır .
@@ -376,7 +376,7 @@
 *EXP:	anlat onu .
 *CHI:	Suna teyze Aşiyana gitmiş xxx .
 *CHI:	oynar .
-*CHI:	Aşıyana gidelim .
+*CHI:	Aşiyana gidelim .
 *CHI:	Suna teyze var böyle .
 *CHI:	temizler yerleri .
 *EXP:	neyle ?

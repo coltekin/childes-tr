@@ -11,7 +11,7 @@
 *CHI:	bisküvi .
 *EXP:	bisküvi , yuvarlak değilmi bisküviler ?
 *CHI:	yuvarlak bisküvi .
-*EXP:	tabaklar güzelmiş , ben bu tabakları beyendim .
+*EXP:	tabaklar güzelmiş , ben bu tabakları beyendim [: beğendim] .
 *CHI:	benim de evde var böyle yuvarlak bisküvi .
 *EXP:	varmı?
 *EXP:	kim alıyor senin bisküvitlerini ?
@@ -57,7 +57,7 @@
 *EXP:	niye koşuyorlar ?
 *CHI:	işte .
 *CHI:	hadi oynayalım .
-*EXP:	sen ne oynu oynamak istiyorsun ?
+*EXP:	sen ne oyunu oynamak istiyorsun ?
 *EXP:	ne oynarsın sen ?
 *CHI:	salıncak ve .
 *CHI:	başka oyun oynarım .
@@ -152,7 +152,7 @@
 *CHI:	benim boyumu ölçermisin ?
 *EXP:	ölçerim .
 %com:	there is a measuring tape at the office
-*EXP:	nasıl ölçücez boyunu şimdi ?
+*EXP:	nasıl ölçücez [: ölçeceğiz] boyunu şimdi ?
 *CHI:	söyle gelecem .
 %com:	stands against the wall
 *CHI:	senin yanına niçin xxx .
@@ -234,7 +234,7 @@
 *EXP:	işte geyik .
 *CHI:	ben hayvan istiyorum .
 *EXP:	hayvan geyik işte .
-*EXP:	birazcık daha oynuyacağız [: oynuyacağız] , ben sonra gidecem .
+*EXP:	birazcık daha oynuyacağız [: oynayacağız] , ben sonra gidecem .
 *CHI:	niçin ?
 *EXP:	çünkü benim bir başka çocuğa gitmem lazım .
 *EXP:	tamam mı kızım ?

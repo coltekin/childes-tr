@@ -32,7 +32,7 @@
 *CHI:	Kumburgaz var .
 *EXP:	söyle ne oynadınız ?
 *CHI:	anne , Kumburgaz , kaça gidiyorduk , hani orda yatmıştık ?
-*EXP:	Kumbur Kazağı?
+*EXP:	Kumbur(gaz) Kazağı?
 *CHI:	heeh , orda yattık .
 *EXP:	benim kumbur Kazağı'nda tanıdığım var , senin de varmı?
 *CHI:	thip , daydaylarım oturuyor .
@@ -204,7 +204,7 @@
 *EXP:	ne oyunu oynarsın ?
 *CHI:	huh .
 *EXP:	ne oyunları oynarsın Zeynep'le ?
-*CHI:	bilmiycem ki [: bilmiyeceğim ki] .
+*CHI:	bilmiycem [: bilemeyeceğim] ki .
 %com:	I think she actually means "bilemiyeceğim ki"
 *EXP:	ne oyunu oynadığını bilmiyormusun sen ?
 *CHI:	thip .
@@ -253,7 +253,7 @@
 *EXP:	söyle bakayım onu .
 *CHI:	söyleycem [: söyleyeceğim] .
 *EXP:	ne zaman ama ?
-*EXP:	Zeynep'len [: Zeynep'le] ne zaman oynuyacaksın ?
+*EXP:	Zeynep'len [: Zeynep'le] ne zaman oynuyacaksın [: oynayacaksın] ?
 *CHI:	bir zaman oynarız .
 *EXP:	ne zaman canım ?
 *CHI:	bir kere gelmiştik , oynamıştık evde .
@@ -316,7 +316,7 @@
 *EXP:	onu bana anlatsana .
 *CHI:	xxx .
 *EXP:	nasıl süslenir annen ?
-*CHI:	şimdik de böyle işte .
+*CHI:	şimdik [: şimdi] de böyle işte .
 *EXP:	gel bakalım sen böyle , gel yanıma benim .
 *EXP:	gel yanıma .
 *EXP:	gel , gel .

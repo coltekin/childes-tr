@@ -43,7 +43,7 @@
 *EXP:	çorba nasıl pişirirsin ?
 *CHI:	cezveye koyuyorum da yapıyorum .
 *CHI:	döküyorum .
-*EXP:	hani senle makarna pişirmiştik , naıl pişirmiştik , anlat .
+*EXP:	hani senle makarna pişirmiştik , nasıl pişirmiştik , anlat .
 *EXP:	bakayım .
 *CHI:	şekerini içine atarım , nokta nokta .
 *CHI:	ondan sonra kaynar biraz .
@@ -134,7 +134,7 @@
 *CHI:	çalılarda hoppidi hoppidi zıplarken poposuna çalı.
 *CHI:	batmış.
 *CHI:	vay popom , vay popom .
-*CHI:	şimdi dur kurt kardeşe söyliyeyim de seni xxx versin .
+*CHI:	şimdi dur kurt kardeşe söyliyeyim [: söyleyeyim] de seni xxx versin .
 *EXP:	dün ne yaptınız ?
 *CHI:	Fatma teyzem geldi .
 *CHI:	Bop amca , ondan sonra Serpil .
@@ -180,9 +180,9 @@
 *CHI:	durdu bak .
 *CHI:	elleme düşer .
 *CHI:	durdurdum .
-*EXP:	ben görmiyeli sen ne yaptın ?
+*EXP:	ben görmiyeli [: görmeyeli] sen ne yaptın ?
 *CHI:	ben sinema seyrettim .
-*EXP:	ne filimleri gördün ?
+*EXP:	ne filimleri [: filmleri] gördün ?
 *CHI:	cadı karıyı , yedi cüceyi , prensesi .
 *EXP:	başka ne gördün ?
 *CHI:	başka kimseyi görmedim dedim .
@@ -305,5 +305,5 @@
 *EXP:	akşamları ne yapıyor ?
 *CHI:	akşamları da uyuyor .
 *EXP:	ne zaman uyuyor annen ?
-*CHI:	söyliyince uyuyor .
+*CHI:	söyliyince [: söyleyince] uyuyor .
 @End

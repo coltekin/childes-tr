@@ -145,7 +145,7 @@
 *EXP:	biliyorsun .
 *CHI:	balık .
 *EXP:	balıklar ne yaparlar ?
-*CHI:	denbizlerde yüzerler .
+*CHI:	denizlerde yüzerler .
 *EXP:	bu nesi balığın ?
 *CHI:	balığın mı?
 *EXP:	hı.
@@ -339,9 +339,9 @@
 *CHI:	şeye getirdi .
 *CHI:	zürafa getirdi .
 *EXP:	ama kime getirdi ?
-*CHI:	züraf xxx .
+*CHI:	züraf [: zürafa] xxx .
 *CHI:	yemeği yerken kuyunun içine de düşmüş.
-*CHI:	o kemiciklerim dermisin .
+*CHI:	o kemiciklerim [: kemikçiklerim] dermisin .
 *CHI:	tintin kızı yermisin .
 *CHI:	burda da hikaye burda bitmiş.
 @End

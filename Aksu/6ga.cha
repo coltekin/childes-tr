@@ -119,7 +119,7 @@
 *CHI:	tahtaya basıyor .
 *CHI:	sonra bakıyor pencereden .
 *EXP:	bana bakıyor ?
-*CHI:	hayır dışarlara .
+*CHI:	hayır dışarlara [: dişariya] .
 *CHI:	bak burda [: burada] çocuk inmiş sonra .
 *EXP:	neler görüyor o çocuk , bakınca pencereden ?
 *CHI:	ağaçlar .
@@ -346,7 +346,7 @@
 *CHI:	bilmiyorum .
 *EXP:	hadi söyle bir tane .
 *CHI:	bilmiyorum .
-*CHI:	aptal kargayı söyliyeyim .
+*CHI:	aptal kargayı söyliyeyim [: söyleyeyim] .
 *CHI:	bir gün aptal karga bir parça peynir çalmış.
 *CHI:	uçmuş , bir dala konmuş.
 *CHI:	her tarafı seyre dalmış.
@@ -361,9 +361,9 @@
 *EXP:	Atatürk'ü anlat .
 *CHI:	Atatürk , en güzel yer , senin yerin Atatürk .
 *CHI:	en güzel yer senin yer , Atatürk .
-*CHI:	sen söyliyeceksin sen .
+*CHI:	sen söyliyeceksin [: söyleyeceksin] sen .
 %com:	to the brother
-*CHI:	abim [: ağabeyim] söyliyecek .
+*CHI:	abim [: ağabeyim] söyliyecek [: söyleyecek] .
 %com:	although "ağabey" is the correct form , "abi" is more common .
 *CHI:	kalbimde en güzel yer .
 *CHI:	senin yerin Atatürk .
