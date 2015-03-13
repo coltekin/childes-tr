@@ -11,8 +11,8 @@ def parse_chat(fp):
 
     until_rbracket = re.compile("([^]]+)]")
     until_rangleb = re.compile("([^>]+)>")
-    until_eow = re.compile("[^][,.;?!<> ]+")
-    punct_re = re.compile("([,.;?!])")
+    until_eow = re.compile("[^][,.;?!:”<> ]+")
+    punct_re = re.compile("([,.;?!:”])")
 
     utmp = ""
     i = 0
@@ -60,6 +60,10 @@ def parse_chat(fp):
                 m = re.match(until_rbracket, utmp[j:])
                 j += len(m.group(0))
             elif re.match(punct_re, utmp[j:]):
+                words.extend(prev_tokens)
+                prev_tokens = [utmp[j]]
+                j += 1
+            elif utmp[j:].startswith("“"): 
                 words.extend(prev_tokens)
                 prev_tokens = [utmp[j]]
                 j += 1

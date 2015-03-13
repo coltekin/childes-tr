@@ -202,13 +202,13 @@
 *CHI:	düş xxx .
 *DAN:	düştü.
 *EXP:	ne yapsın ?
-*CHI:	durdut onu .
+*CHI:	durdut [: durdur] onu .
 *DAN:	durdumu ?
 *CHI:	hah , hah .
 *CHI:	hah , durdu .
-*CHI:	uçağı tamirediricez [: tamir edeceğiz] , babam bir komacan [: kocaman].
+*CHI:	uçağı tamir ediricez [: edeceğiz] , babam bir komacan [: kocaman].
 *CHI:	uçak almış.
-*CHI:	onu tamirediricez [: tamir edeceğiz] , sonra yapıştırıcaz [: yapıştıracağız] , kuruyıcak [: kuruyacak] dolapta .
+*CHI:	onu tamir ediricez [: edeceğiz] , sonra yapıştırıcaz [: yapıştıracağız] , kuruyıcak [: kuruyacak] dolapta .
 *DAN:	hm .
 *CHI:	alıcaaz [: alacağız] .
 *CHI:	vuut diye geçiricez [: geçireceğiz] .
@@ -218,8 +218,8 @@
 *EXP:	nerde uçak ?
 *CHI:	işte o .
 *EXP:	hani ?
-*CHI:	onu tamirediricez [: tamir edeceğiz] .
-*EXP:	bunu mu edicez tamir ?
+*CHI:	onu tamir ediricez [: edeceğiz] .
+*EXP:	bunu mu edicez [: edeceğiz] tamir ?
 *CHI:	şu , şu .
 *CHI:	(sok) .
 *CHI:	(uçağı) (da) (ya) .
@@ -460,10 +460,10 @@
 %com:	napıcaz= ne yapacağız
 *CHI:	yüzücez [: yüzeceğiz] .
 *EXP:	peki biz uykumuzu uyursak bugün , uykumuzu güzel uyursak napıcaz [: ne yapacağız] ?
-*EXP:	sen uykunu uyursan napıcan [*] ?
+*EXP:	sen uykunu uyursan napıcan [: ne yapacaksın] [*] ?
 *EXP:	ha ?
 *CHI:	ha ?
-*EXP:	napıcan [*] ?
+*EXP:	napıcan [: ne yapacaksın] [*] ?
 *CHI:	deniz kenarına götürücem [: götüreceğim] .
 %com:	the verb above was understood through the mother's interpretation
 *EXP:	napıcan [: ne yapacaksın] ?
@@ -855,7 +855,7 @@
 *CHI:	al anne .
 *CHI:	anne .
 *CHI:	anne sen çekil anne .
-*CHI:	0çekil anne topumla oynıycam [: oynayacağım] .
+*CHI:	çekil anne topumla oynıycam [: oynayacağım] .
 *CHI:	anne , topumla oynıycam [: oynayacağım] .
 *CHI:	ne oldu ?
 *CHI:	fişi takmadık .
@@ -932,7 +932,7 @@
 *CHI:	heh heh .
 *EXP:	ne diyecektin ?
 *CHI:	bana anlat .
-*EXP:	tabanca diyecektin , tapanca@q demiyecektin [: demeyecektin] .
+*EXP:	tabanca@q diyecektin , tapanca@q [: tabanca] demiyecektin [: demeyecektin] .
 *CHI:	diye .
 *CHI:	tapanca diy(cem) (ben) .
 *CHI:	heh , buraya tırmandım ben .
@@ -1129,9 +1129,9 @@
 %com:	the mother repeats the same question several times no response from Burçak although the mother says: "hasta olursun"
 *CHI:	bunu nasıl yapıcaz [: yapacağız] ?
 *EXP:	onu bilmiyorum , sen bana cevap versene .
-*CHI:	anne , bunu na xxx nasıl yapıcaz [: yapcağız] ?
-*CHI:	nasıl yapıcaz  [: yapcağız]?
-*CHI:	nasıl yapıcaz ? [: yapcağız]
+*CHI:	anne , bunu na xxx nasıl yapıcaz [: yapacağız] ?
+*CHI:	nasıl yapıcaz  [: yapacağız]?
+*CHI:	nasıl yapıcaz ? [: yapacağız]
 *EXP:	Burçak , birşey soracağım sana xxx .
 *EXP:	yatağın olmasaydı nerde uyurdun sen ?
 *CHI:	ha xxx .
