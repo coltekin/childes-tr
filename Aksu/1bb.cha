@@ -402,7 +402,7 @@
 %com:	demonstrates
 *EXP:	peki gelsin bana bakalım .
 *EXP:	bak dışardan kurt gelmiş.
-*EXP:	uluyor , uuu diye , ısırmaya gelmiş.
+*EXP:	uluyor , uuu@o diye , ısırmaya gelmiş.
 *EXP:	ısırsınmı?
 *CHI:	ısırsın .
 *EXP:	niye ısırır ?
@@ -468,7 +468,7 @@
 %com:	<1w> an exclamatory sound gesture
 *EXP:	yüzebilirmi o balık ?
 *CHI:	yüzer .
-*CHI:	bıcı bıcı xxx .
+*CHI:	bıcı@o bıcı@o xxx .
 %com:	demonstrates sound gesture imitating the sound made in swimming
 *EXP:	anlat acık [: azıcık] bana balıkları.
 *EXP:	siz balık alıyormusunuz ?

@@ -31,8 +31,8 @@
 *CHI:	o da düşman olacak .
 *CHI:	öbürüki [: öbürü] de derilikız [: kızılderili] olacak .
 %com:	there is no such word as "derilikız" in Turkish , the child got it wrong . also added an extra suffix to "öbürü"
-*EXP:	oh , Kadir derilikız olacak .
-*CHI:	a a yok , Nihal derilikız olacak .
+*EXP:	oh , Kadir derilikız [: kızılderili] olacak .
+*CHI:	a a yok , Nihal derilikız [: kızılderili] olacak .
 *EXP:	Kadir ne olacak ?
 *CHI:	o da benim düşmanım olacak .
 *EXP:	sonra ?
@@ -56,7 +56,7 @@
 *EXP:	doktor ne yapacak ?
 *CHI:	bizim şey de xxx var ya .
 *CHI:	bizim düşmanlar var ya .
-*CHI:	iste onu ben öldürmiyeceğim [: öldürmeyeceğim] , o derilikızı öldürecek .
+*CHI:	iste onu ben öldürmiyeceğim [: öldürmeyeceğim] , o derilikızı [: kızılderiliyi] öldürecek .
 *EXP:	nelerle oynanıyor bu oyun ?
 *CHI:	tüfeklerle .
 *EXP:	başka ?
@@ -83,7 +83,7 @@
 *EXP:	ha , güreş ediyorsunuz .
 *EXP:	nasıl oluyor bu güreş oyunu ?
 *CHI:	şimdi biz gidiyoruz atlan [: atla] xxx .
-*CHI:	şimdi biz derilikız gördük , onu kaçırdık .
+*CHI:	şimdi biz derilikız [: kızılderili] gördük , onu kaçırdık .
 *EXP:	sonra ?
 *CHI:	sonra da o hemen okula kaçtı.
 *CHI:	ondan sonra biz de onu dışardan kovalıyorduk .
@@ -92,7 +92,7 @@
 *CHI:	Kadirlen [: Kadir'le] .
 *EXP:	nereye kaçıyordu kızılderili kız ?
 *CHI:	o bahçeye kadar , dağa kadar .
-*CHI:	füt xxx onlardan bizden kaçıyor o .
+*CHI:	füt@x xxx onlardan bizden kaçıyor o .
 *CHI:	bizim dağlara , hani bahçede var ya , işte oradakine .
 *CHI:	biz de düşüyorduk .
 *EXP:	sen dışarıya kiminle çıkıyorsun ?
@@ -123,7 +123,7 @@
 *CHI:	Kadirle .
 *EXP:	ne oynuyordu ?
 *CHI:	bir sinemaya gittik; Memoya .
-*EXP:	Memöya mı , Cemoya mı?
+*EXP:	Memoya mı , Cemoya mı?
 *CHI:	Padişaha .
 *EXP:	ne yapıyorlardı o filimde ?
 *CHI:	sakallı vardı.
@@ -261,7 +261,7 @@
 %com:	şap: sound imitation of jumping into the water
 *CHI:	şap diye .
 *CHI:	atladım .
-*CHI:	trablenden bile atladım .
+*CHI:	trablenden [: trambolinden] bile atladım .
 *CHI:	ta ben oradaydım , göremiyorlardı bile beni .
 *EXP:	kimle gidiyorsun denize ?
 *CHI:	babamla .
@@ -353,11 +353,11 @@
 *CHI:	sonra da biz de onları yakalıyorduk .
 *CHI:	ondan sonra biz de , onlar da kaçıyorlardı , kuyruğundan .
 %com:	şambır: here it is used as an imitation of the sound made when someone or something falls into water
-*CHI:	bir çimdik attık , şimdi orda bir takla attı , şambır diye düştü denize .
-*CHI:	ondan sonra da tilki bir düştü trablenden .
+*CHI:	bir çimdik attık , şimdi orda bir takla attı , şambır@o diye düştü denize .
+*CHI:	ondan sonra da tilki bir düştü trablenden [: trambolinden] .
 *CHI:	tilkisini öldürdü.
 *CHI:	şimdi tilki birisini arıyordu .
-*CHI:	rıp rıp diye eşekler geldi .
+*CHI:	rıp@o rıp@o diye eşekler geldi .
 %com:	rıp rıp: here used as a sound gesture/the child's own invention
 *CHI:	katırlar böyle böyle şişman .
 *CHI:	sonra onları bulmaya geldiler .

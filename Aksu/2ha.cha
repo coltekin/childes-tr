@@ -7,7 +7,7 @@
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
 *EXP:	takmak istiyormusun boynuna ?
-*CHI:	thip .
+*CHI:	thip@o .
 %com:	sound gesture
 *MOT:	anlatsana bana , dün daha ne yaptın ?
 *CHI:	Aykutlara .
@@ -18,7 +18,8 @@
 *EXP:	kim Aykutlar ?
 *CHI:	bir Ayfer , bir de Aykut ağbey [: ağabey] .
 *EXP:	büyük mü senden ?
-*CHI:	ço küçük .
+*CHI:	ço(k) küçük .
+%com:	original trascript does not include (k)
 *EXP:	küçük mü?
 *EXP:	kız mı , oğlan mı?
 *CHI:	oğlan .
@@ -33,19 +34,19 @@
 *EXP:	söyle ne oynadınız ?
 *CHI:	anne , Kumburgaz , kaça gidiyorduk , hani orda yatmıştık ?
 *EXP:	Kumbur(gaz) Kazağı?
-*CHI:	heeh , orda yattık .
-*EXP:	benim kumbur Kazağı'nda tanıdığım var , senin de varmı?
-*CHI:	thip , daydaylarım oturuyor .
+*CHI:	heeh@i , orda yattık .
+*EXP:	benim kumbur@c Kazağı'nda tanıdığım var , senin de varmı?
+*CHI:	thip@o , daydaylarım@c oturuyor .
 *EXP:	kimler ?
-*CHI:	daydaylarım .
-*EXP:	daydaylar kim ?
+*CHI:	daydaylarım@c .
+*EXP:	daydaylar@c kim ?
 *CHI:	ben biliyorum işte .
-*EXP:	ben tanımıyorum ki daydayları.
+*EXP:	ben tanımıyorum ki daydayları@c .
 *EXP:	anlat bakayım , kim onlar ?
-*CHI:	benim , xxx daydayım .
-*EXP:	benim daydayım !
-*EXP:	daydayların evi mi var orda ?
-*CHI:	huhh .
+*CHI:	benim , xxx daydayım@c .
+*EXP:	benim daydayım@c !
+*EXP:	daydayların@c evi mi var orda ?
+*CHI:	huhh@o .
 %com:	sound gesture
 *EXP:	denize giriyormusunuz ?
 *CHI:	tabii; ben girmiyorum , korkuyorum denizden .
@@ -54,10 +55,10 @@
 *EXP:	neden ?
 *CHI:	korkuyorum .
 *EXP:	sudan mı korkuyorsun ?
-*CHI:	huhh .
+*CHI:	huhh@o .
 *EXP:	yüzme bilmiyormusun sen ?
-*CHI:	thip .
-*EXP:	aa ?
+*CHI:	thip@o .
+*EXP:	aa@i ?
 *CHI:	bilmiyorum , mayomlan [: mayomla] gidiyorum .
 *EXP:	mayonlan [: mayonla] gidiyorsun , simidin varmı?
 *CHI:	ha ?
@@ -75,11 +76,11 @@
 *CHI:	ha ?
 *EXP:	Kumburgaz'da balığa çıkıyormusunuz ?
 *EXP:	balık tutuyormusunuz ?
-*CHI:	thip .
+*CHI:	thip@o .
 *EXP:	tutmuyormusunuz ?
 *CHI:	orda balık yok .
 *EXP:	yokmu balık ?
-*CHI:	thip .
+*CHI:	thip@o .
 *CHI:	içinde yok .
 *CHI:	kaldırıldı.
 *EXP:	kim kaldırdı?
@@ -96,11 +97,11 @@
 %com:	she is laughing again .
 *EXP:	kediler mi yedi ?
 *CHI:	yedi .
-*EXP:	hapur hupur yedilermi kediler ?
+*EXP:	hapur@o hupur@o yedilermi kediler ?
 *CHI:	evet .
 *EXP:	hadii ?
 *EXP:	beyendilermi [: beğendilermi] bari ?
-*CHI:	heh , thip , yedim .
+*CHI:	heh@i , thip@o , yedim .
 *EXP:	ben bir defasında balık tuttum , kestim ve kendim yedim .
 *CHI:	ıhı.
 *EXP:	tabii .
@@ -118,7 +119,7 @@
 *CHI:	benim balığımı göstereyimmi ?
 *EXP:	yok , yok .
 *EXP:	getir bakayım .
-*EXP:	ohoo , nefis birşey .
+*EXP:	ohoo@i , nefis birşey .
 *EXP:	pek güzel .
 *EXP:	kimin ?
 *EXP:	nerden aldın bunu ?
@@ -133,7 +134,7 @@
 *CHI:	kullanıyorum işte .
 *EXP:	ama nasıl ?
 *EXP:	şişiriliyormu bu ?
-*CHI:	huhh .
+*CHI:	huhh@i .
 %com:	sound gesture
 *EXP:	neresinden ?
 *CHI:	senin !
@@ -156,7 +157,7 @@
 *CHI:	buraya şişircem [: şişireceğim] .
 *EXP:	güzelmiş o zamanında , değil mi ?
 *EXP:	mayon varmı senin ?
-*CHI:	thip .
+*CHI:	thip@o .
 %com:	sound gesture
 *EXP:	şişirme , bak; sönüyormuş.
 *EXP:	baksana .
@@ -169,17 +170,17 @@
 *EXP:	denize attınmı?
 *CHI:	bir tane .
 *EXP:	sahi mi ?
-*CHI:	hehh .
+*CHI:	hehh@i .
 *CHI:	onu aldım şimdi de , evde yiyorum .
 *EXP:	nereye koydun okadar büyük balığı evde ?
 *CHI:	divanın altına .
 *EXP:	divanın altına ?
 *EXP:	peki korkmadımı?
-*CHI:	thip .
+*CHI:	thip@o .
 %com:	sound gesture
 *EXP:	korkmadı.
 *EXP:	peki , sen bana birşey söyle , sen koşarmısın ?
-*CHI:	huh ?
+*CHI:	huh@i ?
 *EXP:	koşarmısın ?
 *CHI:	koşarım , tabii .
 *EXP:	hızlı koşabilirmisin ?
@@ -202,20 +203,20 @@
 *CHI:	Zeyneple .
 *EXP:	Zeynep'le ?
 *EXP:	ne oyunu oynarsın ?
-*CHI:	huh .
+*CHI:	huh@i .
 *EXP:	ne oyunları oynarsın Zeynep'le ?
 *CHI:	bilmiycem [: bilemeyeceğim] ki .
 %com:	I think she actually means "bilemiyeceğim ki"
 *EXP:	ne oyunu oynadığını bilmiyormusun sen ?
-*CHI:	thip .
+*CHI:	thip@o .
 *EXP:	allah , allah , neyi bilmiyorsun ?
 *CHI:	bilmem işte .
-*CHI:	thip .
+*CHI:	thip@o .
 *CHI:	başka oyunu biliyorum .
 *EXP:	şimdi dur bakalım otur .
 *CHI:	bakıym [: bakayım] ona .
 *EXP:	yerine otur evvela .
-*CHI:	aa !
+*CHI:	aa@i !
 *CHI:	araba .
 *CHI:	arabanın içine .
 *EXP:	otur yerine .
@@ -231,7 +232,7 @@
 *EXP:	köprü.
 *CHI:	hıh .
 *CHI:	düşürdüm .
-*EXP:	yaaa .
+*EXP:	yaaa@i .
 *EXP:	sen bana söyle bakayım .
 *EXP:	sen ne zaman oynarsın ?
 *EXP:	hıh ?
@@ -327,7 +328,7 @@
 *EXP:	niye huysuzluk ediyorsun ?
 *CHI:	oynıycaz [: oynayacağız] .
 *EXP:	oynuyacağız [: oynayacağız] tabii , beraber .
-*EXP:	ama böyle bıyk bıyk yaparsan olmaz .
+*EXP:	ama böyle bıyk@o bıyk@o yaparsan olmaz .
 *EXP:	tabii , öyle değilmi ?
 *EXP:	hım ?
 *CHI:	olur .
@@ -358,7 +359,7 @@
 *CHI:	bilmem ki .
 *CHI:	onu boyuyor .
 *EXP:	kalemle mi boyuyor ?
-*CHI:	huhhh .
+*CHI:	huhhh@i .
 *CHI:	kelamlan [: kalemlen] boyuyor .
 *EXP:	kalemle boyamıyor .
 *CHI:	niye ?
@@ -377,9 +378,9 @@
 *EXP:	iyi , ver bakalım tırnaklarını kelemlen [: kelemle] boyuyalım [: boyayalım] .
 *EXP:	bak ne kadar .
 *EXP:	çirkin olacak şimdi .
-*EXP:	uuuh , çok kötü olacak .
+*EXP:	uuuh@i , çok kötü olacak .
 *EXP:	oldu mu şimdi bu böyle ?
-*CHI:	thip .
+*CHI:	thip@o .
 *EXP:	neyle boyamak lazım ?
 *CHI:	kelemlen [: kelemle] boyuyacak [: boyayacak] .
 *CHI:	kelemlen [: kelemle] boyanmaz .
@@ -425,13 +426,13 @@
 *EXP:	babanın kitapları varmı?
 *CHI:	yok .
 *EXP:	kitapları da mı yok ?
-*CHI:	thip .
+*CHI:	thip@o .
 %com:	sound gesture
 *EXP:	yazık babana .
 *CHI:	işe gidiyor .
 *CHI:	okula gitmiyor .
 *EXP:	okumak için kitap alınmazmı?
-*CHI:	thip .
+*CHI:	thip@o .
 *EXP:	gazete okuyormu ?
 *CHI:	gelince okur .
 *EXP:	gazete okur .
@@ -481,7 +482,7 @@
 *CHI:	hıh .
 %com:	sound gesture
 *EXP:	sen taşıyormusun bazen ?
-*CHI:	thip .
+*CHI:	thip@o .
 %com:	sound gesture
 *EXP:	taşımıyorsun değilmi ?
 *EXP:	peki canım .

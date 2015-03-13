@@ -17,13 +17,13 @@
 *MOT:	ne yapıyor teyp ?
 *CHI:	dönüyor .
 *MOT:	dönüyor .
-*CHI:	bibip .
+*CHI:	bibip@c .
 %com:	car
-*MOT:	bibip nerde ?
+*MOT:	bibip@c nerde ?
 *CHI:	burda .
 *MOT:	bu ne ?
-*CHI:	bibip .
-*MOT:	bibip mi var ?
+*CHI:	bibip@c .
+*MOT:	bibip@c mi var ?
 *MOT:	teyze ne yapıyor ?
 *CHI:	yazıyor .
 *MOT:	neyle yazıyor ?
@@ -33,7 +33,7 @@
 *CHI:	benim kalem .
 *MOT:	yok sende kalem yok .
 *MOT:	teyzenin kalemi var teyze yazıyor .
-*CHI:	bibip .
+*CHI:	bibip@c .
 *MOT:	ah kalem verdi .
 *MOT:	buraya yazma .
 *CHI:	kağıt , kağıt onda .
@@ -63,8 +63,8 @@
 *CHI:	hı?
 *EXP:	bul şimdi .
 *EXP:	peki şimdi nerde balon ?
-*CHI:	attaya .
-*EXP:	attaya mı gitti ?
+*CHI:	attaya@c .
+*EXP:	attaya@c mı gitti ?
 *CHI:	kağıt .
 *EXP:	nerde kağıt ?
 *EXP:	kağıt istermisin , sana bir parça veriyimmi [: vereyimmi] ?
@@ -88,8 +88,8 @@
 *EXP:	ne yapacağız acaba ?
 %com:	the child is singing
 *EXP:	bu ne ?
-*CHI:	tanbul .
-*EXP:	tanbul garajda , bu ne bu ?
+*CHI:	tanbul@c .
+*EXP:	tanbul@c garajda , bu ne bu ?
 *MOT:	bu ne ?
 *CHI:	o ne ?
 *EXP:	hangisi ?
@@ -167,13 +167,13 @@
 *EXP:	ördek nerde ?
 *CHI:	ördek .
 *EXP:	nerede ?
-*CHI:	attaya .
+*CHI:	attaya@c .
 %com:	when he can't see an object , he says "attaya" , meaning , it went away
-*CHI:	attaya .
+*CHI:	attaya@c .
 *CHI:	dandini yapmıyor .
-*CHI:	dandini dandini das .
+*CHI:	dandini dandini das@c .
 %com:	from a nursery rhyme
-*EXP:	dandini dandini dastana , danalar girmiş bostana .
+*EXP:	dandini dandini dastana@c , danalar girmiş bostana .
 *EXP:	lütfen bana bir sigara verirmisin , açarmısın onu .
 *EXP:	çok teşekkür ederim .
 *EXP:	şimdi kapatabilirim .
@@ -267,7 +267,7 @@
 *CHI:	bozuldu .
 *EXP:	çukulata istermisin ?
 *MOT:	ah , ne kadar güzel , teyze ne getirmiş Erel'e ?
-*CHI:	çuka .
+*CHI:	çuka@c .
 *MOT:	sen mersi dedinmi teyzeye ?
 *MOT:	mersi de önce .
 *CHI:	mersi .
@@ -310,12 +310,12 @@
 *EXP:	pislikleri mi siliyorsunuz ?
 %com:	no response
 *EXP:	efendim ?
-*MOT:	nerede gidiyor o bibip ?
+*MOT:	nerede gidiyor o bibip@c ?
 *CHI:	gidiyor .
 *MOT:	nerde gidiyor ?
 *CHI:	gidiyor .
 %com:	playing with the car
-*MOT:	çizmesin bibip .
+*MOT:	çizmesin bibip@c .
 *CHI:	dandini yok .
 *MOT:	dandini yok , oynuyor şimdi Erel .
 *CHI:	oynuyor .
@@ -333,10 +333,10 @@
 *EXP:	çok iyi , başka şarkı biliyormu Erel ?
 *MOT:	çok şarkı biliyor .
 *EXP:	başlasana bir tane .
-*MOT:	Erel , sen söylesene , mama look a boo boo .
+*MOT:	Erel , sen söylesene , mama@s:eng look@s:eng a@s:eng boo@o boo@o .
 *EXP:	nedir o , söylesenize ?
-*CHI:	boo .
-*CHI:	oooo no@s:eng .
+*CHI:	boo@o .
+*CHI:	[- eng] oooo no .
 *EXP:	kim bu yapıyor ?
 *CHI:	hani o saçları.
 *MOT:	ceylanların pınarı .
@@ -353,7 +353,7 @@
 *CHI:	saçların .
 *CHI:	baharı.
 *EXP:	çok güzel , aferin sana .
-*CHI:	mama look a boo .
+*CHI:	[- eng] mama look a boo .
 %com:	laughs
 *MOT:	[- eng] that is your daddy .
 *CHI:	[- eng] o no .
@@ -407,7 +407,7 @@
 *EXP:	ne renk ?
 *CHI:	hı.
 *EXP:	sarı mı , kırmızı mı , mavi mi ?
-*CHI:	yağmurkü .
+*CHI:	yağmurkü@x .
 *EXP:	bu araba ne renk ?
 *EXP:	bu kaç?
 *CHI:	hı.
@@ -418,7 +418,7 @@
 *CHI:	bir iki tane .
 *EXP:	kaç tane araba var ?
 *CHI:	hı.
-*MOT:	kaç tane bibip var ?
+*MOT:	kaç tane bibip@c var ?
 *CHI:	garaj .
 *EXP:	garaja gitsinmi araba ?
 *CHI:	ı ıh .
@@ -438,9 +438,9 @@
 *CHI:	okuldan .
 *MOT:	okuldan gelmiş.
 *MOT:	oynayalımmı acık ?
-*CHI:	tanbul .
+*CHI:	tanbul@c .
 *CHI:	isti .
-*CHI:	tanbul .
+*CHI:	tanbul@c .
 *CHI:	kağıt kağıt .
 *MOT:	ne istiyorsun ?
 *CHI:	kağıt .
@@ -464,9 +464,9 @@
 *CHI:	baba gidiyor .
 *EXP:	baba gitti .
 *EXP:	kutu nerede ?
-*CHI:	kutu dandanı yapıyor .
-*EXP:	dandanı yapıyor , ama nerede yapıyor dandanı?
-*EXP:	kutu nerede dandanı yapıyor ?
+*CHI:	kutu dandanı@c yapıyor .
+*EXP:	dandanı@c yapıyor , ama nerede yapıyor dandanı@c ?
+*EXP:	kutu nerede dandanı@c yapıyor ?
 *CHI:	o kutu nerede ?
 *EXP:	sincap nerede ?
 *CHI:	orda .
@@ -480,11 +480,11 @@
 *CHI:	Ayşe abla gitti .
 *EXP:	kuş nerede ?
 *CHI:	kuş bakıyor .
-*CHI:	o dandanı yapıyor .
-*EXP:	peki nerede dandanı yapıyor ?
+*CHI:	o dandanı@c yapıyor .
+*EXP:	peki nerede dandanı@c yapıyor ?
 *EXP:	yatağında mı?
 *CHI:	yatağı yok .
-*EXP:	nerede dandanı yapıyor ?
+*EXP:	nerede dandanı@c yapıyor ?
 *CHI:	kalkacak .
 *CHI:	düştü tavuk .
 %com:	the hen falls
@@ -520,7 +520,7 @@
 *CHI:	hiç yok .
 *CHI:	evimde yok .
 *EXP:	evinde yok , nerede şimdi ?
-*CHI:	attaya gitti .
+*CHI:	attaya@c gitti .
 *CHI:	kolu .
 *EXP:	koluna ne oldu ?
 *EXP:	kolu mu acıdı?
@@ -552,7 +552,7 @@
 *CHI:	koşarşı [: koşarım] .
 *EXP:	koşarsın .
 *EXP:	niye koşarsın ?
-*CHI:	koşarşı .
+*CHI:	koşarşı [: koşarım] .
 *EXP:	niçin ?
 *CHI:	oy koş ondan .
 *EXP:	koşarsın ondan , öyle mi ?

@@ -100,7 +100,7 @@
 *EXP:	sizin eski evinize ?
 *CHI:	gitmiyorum .
 *EXP:	buraya nereden geldiniz ?
-*CHI:	biim arabayla .
+*CHI:	bizim arabayla .
 *EXP:	nereden geldiniz ?
 *CHI:	bizim arabayla gelmedik .
 *EXP:	ama nereden geldiniz buraya ?
@@ -292,7 +292,7 @@
 *EXP:	anlatsana bana bir hikaye .
 *CHI:	bir varmış bir yokmuş.
 *CHI:	evvel zaman içinde , kalbur saman içinde .
-*CHI:	bir tane tintin kuzuyla xxx varmış.
+*CHI:	bir tane tintin@c kuzuyla xxx varmış.
 *CHI:	annesi demiş ki .
 *CHI:	kızım kimseye kapıyı açmayın demiş.
 *CHI:	annesi gitmiş.
@@ -328,7 +328,7 @@
 *EXP:	neymiş o ?
 *CHI:	kedi .
 *EXP:	öyleyse kime getirdi ?
-*CHI:	a xxx tı.
+*CHI:	a xxxtı.
 *EXP:	neye çarptı?
 *CHI:	eve .
 *EXP:	ona kim çarptı?
@@ -342,6 +342,6 @@
 *CHI:	züraf [: zürafa] xxx .
 *CHI:	yemeği yerken kuyunun içine de düşmüş.
 *CHI:	o kemiciklerim [: kemikçiklerim] dermisin .
-*CHI:	tintin kızı yermisin .
+*CHI:	tintin@c kızı yermisin .
 *CHI:	burda da hikaye burda bitmiş.
 @End

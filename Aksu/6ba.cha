@@ -36,8 +36,8 @@
 %com:	the lights went off , she was scared and stuttering badly .
 *CHI:	öcü vardı.
 *CHI:	elektrikler söndü.
-*CHI:	koko içtim yattım .
-*EXP:	kokolar güzel miydi ?
+*CHI:	koko@c içtim yattım .
+*EXP:	kokolar@c güzel miydi ?
 *CHI:	güzeldi .
 *EXP:	sönünce elektrikler ne yaptın ?
 *CHI:	korktum .
@@ -105,17 +105,17 @@
 %com:	not true , she has a wild imagination
 *EXP:	Cemile ne yapıyor ?
 *EXP:	bu evde başka kim oturuyor ?
-*CHI:	koko .
+*CHI:	koko@c .
 *EXP:	o kadın kimdi , onunla gidiyordun ?
 *CHI:	anne .
 *EXP:	[- eng] where were you gping ?
 %com:	only the english version is transcribed here .
-*CHI:	attaya .
+*CHI:	attaya@c .
 *EXP:	nerelere götürdü seni ?
 *CHI:	kokuyor .
 *EXP:	nereye gidiyorsunuz bugün ?
 *CHI:	kokuyor .
 %com:	she is sitting on a special chair for children's toilet
 *EXP:	nereye gideceksiniz bugün ?
-*CHI:	attaya .
+*CHI:	attaya@c .
 @End

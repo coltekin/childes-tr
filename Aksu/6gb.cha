@@ -182,7 +182,7 @@
 *EXP:	geçende hayvanlarla oynamıştık , hatırlıyormusun ?
 *CHI:	hatırlıyorum .
 *EXP:	sen hayvanları seviyormusun ?
-*CHI:	se ve .
+*CHI:	se@x ve@x .
 *CHI:	aa .
 *CHI:	ne güzel .
 *CHI:	bir tane daha buldum .
@@ -190,7 +190,7 @@
 *CHI:	aa xxx kuyruk .
 *CHI:	civciv , civciv .
 *EXP:	ne yapar horozlar ?
-*CHI:	üürü üüü derler .
+*CHI:	üürü@o üüü@o derler .
 *EXP:	o ne ?
 *CHI:	bu da kız .
 *CHI:	bu da yatıp uyusun .
@@ -218,7 +218,7 @@
 *EXP:	ısırır değilmi ?
 *CHI:	ısırır .
 *CHI:	ağzını böyle açar yer .
-*CHI:	hamm derler , yer .
+*CHI:	hamm@o derler , yer .
 *EXP:	niçin ısırır ?
 *CHI:	yutar , ağzına kadar gelir .
 *EXP:	niçin ısırır ?

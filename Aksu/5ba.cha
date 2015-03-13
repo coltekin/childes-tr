@@ -9,9 +9,9 @@
 @ID:	tur|Aksu|FAT|||||Father|||
 @ID:	tur|Aksu|GRM|||||Grandmother|||
 *EXP:	ne haber ?
-*CHI:	anino götür bak .
+*CHI:	anino@c götür bak .
 %com:	anino= anneanne
-*CHI:	anino xxx .
+*CHI:	anino@c xxx .
 *EXP:	anlamıyorum ki ne dediğini , hiç anlamıyorum .
 *EXP:	gördünmü teybi ?
 *EXP:	baban senin sesini bazen teybe alıyormuş değilmi ?
@@ -23,7 +23,7 @@
 %com:	the sentence above was transcribed in parentheses in the text .
 *EXP:	gelsene şuraya birşeyler veriyim .
 *EXP:	gel bak .
-*CHI:	anino .
+*CHI:	anino@c .
 *EXP:	ama gelirsen tabii .
 *CHI:	gel .
 *EXP:	gelme peki .
@@ -86,11 +86,11 @@
 %com:	pointing at a tray and some food
 *CHI:	bundan getirmiş.
 *EXP:	nedir o ?
-*CHI:	tren , anino ondan almış.
+*CHI:	tren , anino@c ondan almış.
 *EXP:	kim almış?
-*CHI:	ondan gidiyormuş , bundan çıkıyormuş , anino ona biniyor .
+*CHI:	ondan gidiyormuş , bundan çıkıyormuş , anino@c ona biniyor .
 *CHI:	gidiyormuş.
-*CHI:	iggggg .
+*CHI:	iggggg@o .
 %com:	he is imitating the sound of a train's whistle; talking about the picture of a train .
 *EXP:	nereye gidiyor Burçak , nereye gidiyor canım ?
 *CHI:	evine .
@@ -233,8 +233,8 @@
 *EXP:	o ne ?
 *CHI:	tulumba .
 *EXP:	şu ne ?
-*CHI:	çompi .
-*EXP:	çompi ne demek ?
+*CHI:	çompi@c .
+*EXP:	çompi@c ne demek ?
 *EXP:	attın ?
 *CHI:	hı?
 *CHI:	bu ne ?
@@ -262,16 +262,16 @@
 *CHI:	bu yazıyor , bu ona sarıldı.
 *CHI:	o da yazıyor .
 *EXP:	o mektubu ne yapacaklar sonra ?
-*CHI:	çompi yapacaklar .
+*CHI:	çompi@c yapacaklar .
 %com:	"çompi" is a word he seems to use when at a loss
 *CHI:	yazı yazdılar .
 *EXP:	bu arkadaki ne ?
 *CHI:	pencere .
 *EXP:	pencereden ne görünüyor ?
-*CHI:	çompi .
+*CHI:	çompi@c .
 *CHI:	bak burada bunlar var .
 *EXP:	ne onlar , isimlerini biliyormusun ?
-*CHI:	kerpeten , bu çompsi , bu testere , kesiyorlar .
+*CHI:	kerpeten , bu çompsi@c , bu testere , kesiyorlar .
 *EXP:	bu ne ?
 *CHI:	benim çekicim var .
 *EXP:	ne yapıyorsun çekiçle ?
@@ -296,10 +296,10 @@
 *EXP:	bunlar ne ?
 *CHI:	kağıttan aydede .
 %com:	singing
-*CHI:	aydede durağın nerede söylüyorlar , ca ca .
-*CHI:	ca ba ca xxx .
+*CHI:	aydede durağın nerede söylüyorlar , ca@si ca@si .
+*CHI:	ca@si ba@si ca@si xxx .
 *EXP:	şarkı mı söylüyorlar ?
-*CHI:	hı.
+*CHI:	hı@i .
 %com:	affirmative sound gesture
 *EXP:	bu köpek ortalarda kalmış değilmi ?
 *CHI:	o da oynamıyor .

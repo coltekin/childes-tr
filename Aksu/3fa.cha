@@ -160,7 +160,7 @@
 *EXP:	sen burda uyuyormusun ?
 *CHI:	akşam uyurlar .
 *EXP:	akşam uyurlar tabii .
-*CHI:	araba da vızzz gidiyor .
+*CHI:	araba da vızzz@o gidiyor .
 *EXP:	sen hangi arabaları seviyorsun ?
 *EXP:	sizin arabanız varmı?
 *CHI:	var ya .
@@ -170,7 +170,7 @@
 *CHI:	ama arkası xxx hani .
 *CHI:	hani ben dün araba gördüm sabahleyin .
 *EXP:	evet .
-*CHI:	o zaman nı nı nı yapıyordu .
+*CHI:	o zaman nı@o nı@o nı@o yapıyordu .
 *EXP:	araba mı?
 *CHI:	arabanın üstünde ama .
 *CHI:	o zaman ben ondan korktum .
@@ -185,7 +185,7 @@
 *EXP:	açılmazsa binemez ki insanlar içine değil mi ?
 *CHI:	o zaman ben açarım .
 *EXP:	aç açabilirsin tabii , aç bakalım .
-*CHI:	vızz , şimdi alalım içinden .
+*CHI:	vızz@o , şimdi alalım içinden .
 *EXP:	al bakalım yorganını.
 *CHI:	sonra da arabaya bindirelim .
 *EXP:	tabii ya .
@@ -224,7 +224,7 @@
 *EXP:	atıyormusun , zıplatıyormusun ?
 *CHI:	ee , açılıyor , yine açılıyor insanlar binince .
 *EXP:	bak burda daha da var .
-*CHI:	off , kocaman bir otobüs .
+*CHI:	off@i , kocaman bir otobüs .
 *EXP:	söyle bakayım [: bakalım] .
 *EXP:	topunu nasıl atarsın ?
 *CHI:	böyle , böyle , böyle atarım .
@@ -293,7 +293,7 @@
 *EXP:	süslenirken ne yapıyor ?
 *CHI:	süslenirken saçını tarıyor .
 *EXP:	sen de süsleniyormusun ?
-*CHI:	süsleni xxx , süslenmiyorum .
+*CHI:	süslenixxx , süslenmiyorum .
 *EXP:	hiç süslenmiyormusun ?
 *CHI:	evet .
 *EXP:	saçını tarıyormusun ?
@@ -371,8 +371,8 @@
 *EXP:	Elif senin anneannen nasıl ?
 *CHI:	iyi .
 *CHI:	anneannemin kolu koptu , ama ölmedi .
-*EXP:	hiii , nerde koptu ?
-*CHI:	hame [?] Seyfettin dayıcığıma giderken koptu .
+*EXP:	hiii@i , nerde koptu ?
+*CHI:	hame@x  Seyfettin dayıcığıma giderken koptu .
 *EXP:	aa , ben hiç bilmiyordum .
 *CHI:	ben , o , geçecek geçen sene olunca .
 *EXP:	ee , ne yaptılar kolunu ?
@@ -510,8 +510,8 @@
 *CHI:	ikisini de seviyorum .
 *EXP:	onlar sarılıp öpüyorlarmı seni ?
 *CHI:	öpüyorlar .
-*EXP:	öpp xxx yapıyorlar değilmi ?
-*CHI:	hıı.
+*EXP:	öppxxx yapıyorlar değilmi ?
+*CHI:	hıı@i .
 *EXP:	başka ne yapıyorlar sana ?
 *CHI:	başka başka sarılıyorlar .
 *EXP:	sarılıyorlar .
@@ -600,7 +600,7 @@
 *CHI:	ben bu şarkıyı çok seviyorum .
 *EXP:	ne diyor o şarkı?
 *CHI:	bilmiyorum ki .
-*EXP:	ta ra ra ra .
+*EXP:	ta@si ra@si ra@si ra@si .
 *EXP:	şarkı söyleyelimmi senlen [: seninle] .
 *CHI:	söylemiyelim [: söylemeyelim] .
 *EXP:	niçin ?
@@ -669,7 +669,7 @@
 *EXP:	kurtlar niye ısırır ?
 *CHI:	ısırmaz .
 *EXP:	kurtlar yemek yemezmi ?
-*CHI:	yeer .
+*CHI:	yeer [: yer] .
 *EXP:	niçin kurtlar yemek yer ?
 *CHI:	ee , karnıları [: karınları] acıkır .
 *EXP:	tabii , peki .
@@ -847,7 +847,7 @@
 *CHI:	gibi Elif .
 *EXP:	Elif makarnası.
 *EXP:	sen makarnamısın ?
-*CHI:	makar .
+*CHI:	makar [: makarna] .
 *CHI:	bir makarna diyorlar , bir de Elif .
 *EXP:	aslında seni yemek lazım galiba .
 *EXP:	sen makarnaysan , öyle mi ?
@@ -867,7 +867,7 @@
 *CHI:	napalım [: ne yapalım] .
 *EXP:	ee , nesin peki , çocukmusun ?
 *CHI:	çocuk .
-*EXP:	hımm , peki kapa bakayım gözlerini .
+*EXP:	hımm@i , peki kapa bakayım gözlerini .
 *EXP:	bir dakka [: dakika] şimdi .
 *CHI:	kim kapasın ?
 *EXP:	sen kapa .

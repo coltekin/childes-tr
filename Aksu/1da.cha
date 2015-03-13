@@ -152,7 +152,7 @@
 *CHI:	boş içindekiler , boş.
 *EXP:	kim yedi ?
 *CHI:	at .
-*CHI:	lombülü lombülü gider .
+*CHI:	lombülü@o lombülü@o gider .
 %com:	lombülü lombülü= sound gesture imitating a camel
 *CHI:	xxx .
 *EXP:	kim kokladı?
@@ -234,7 +234,7 @@
 *CHI:	geçen gün mama bulamadı.
 %com:	the last word in the above sentence is not very legible in the text
 *CHI:	ben de balkona mamalarını hazırlardım tabii xxx .
-*CHI:	ba ba ba yerler .
+*CHI:	ba@o ba@o ba@o yerler .
 *CHI:	meme y xxx .
 %com:	the text is not very legible here
 *EXP:	kuşlar nasıl uçar ?

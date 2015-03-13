@@ -95,7 +95,7 @@
 *EXP:	ağbin nerde senin ?
 *CHI:	bu otobüsün üstünde duruyor , bu da kalem , bunun .
 *CHI:	arkasında duruyor .
-*CHI:	köprünün üstünden biniyor , bum buraya geliyor .
+*CHI:	köprünün üstünden biniyor , bum@o buraya geliyor .
 *EXP:	Murat ağbin nerde senin ?
 *CHI:	bana versene .
 *EXP:	sana sual soruyorum , ağbin nerde ?
@@ -107,7 +107,7 @@
 *CHI:	ama birbirlerine tak diyorlar .
 %com:	laughs
 *CHI:	bu da üstünde binsin .
-*CHI:	bum aşağıya yıkılıyor bu .
+*CHI:	bum@o aşağıya yıkılıyor bu .
 *EXP:	senin topun varmı?
 *CHI:	var .
 *EXP:	ne yaparsın toplan [: topla] ?
@@ -146,7 +146,7 @@
 *EXP:	kim verdi sana o balığı?
 *CHI:	annem .
 *CHI:	bak denizde yıkanıyor .
-*CHI:	vrmmm .
+*CHI:	vrmmm@o .
 %com:	sound gesture
 *EXP:	Murat , sen bana söyle bakayım , senin annen ne zaman uyur ?
 *CHI:	şimdi .
@@ -156,8 +156,8 @@
 *CHI:	ha .
 *CHI:	kurt arabaya .
 *CHI:	balığı üstüne koyuyorum .
-*CHI:	bu da kurt adamın üstüne bum .
-*CHI:	bram bram .
+*CHI:	bu da kurt adamın üstüne bum@o .
+*CHI:	bram@o bram@o .
 *EXP:	senin annen süslenirmi ?
 *CHI:	süslenir .
 *EXP:	nasıl süslenir ?
@@ -231,10 +231,10 @@
 *CHI:	ama içinden girilir .
 *EXP:	içinden ne olacak ?
 *CHI:	ama bu üstünden gidecek .
-*CHI:	bum bum bum .
+*CHI:	bum@o bum@o bum@o .
 *EXP:	ne yaptın ?
-*CHI:	oop burdan girmiş bu .
-*CHI:	op kapandı.
+*CHI:	oop@i burdan girmiş bu .
+*CHI:	op@i kapandı.
 *CHI:	arabayı çekmesin .
 %com:	referring to a bridge
 *CHI:	bunu kapatıyımmı [: kapatayımmı] ?
@@ -360,7 +360,7 @@
 *EXP:	bir dakka [: dakika] , sen bana söyle , sen Piraye'yi seviyormusun ?
 *CHI:	hı.
 *CHI:	dövüşüyorlar .
-*CHI:	bum , bum .
+*CHI:	bum@o , bum@o .
 *CHI:	ağbimle Tayyar .
 *EXP:	ne yapıyorlar ?
 *CHI:	dans ediyorlar .
@@ -391,7 +391,7 @@
 *CHI:	bunu da koyacam , bütün yanacak .
 *EXP:	e su koyunca yanarmı?
 *CHI:	buna da koyacam .
-*CHI:	bir çekecem , bum yanacak .
+*CHI:	bir çekecem , bum@o yanacak .
 *EXP:	su koyunca yanarmı?
 *CHI:	buna koyacam , buna koyacam , buna da koyacam .
 *EXP:	peki bu ne ?
@@ -408,7 +408,7 @@
 *EXP:	sapı neresi kılıcın ?
 *CHI:	burası.
 *EXP:	Musa oynuyormu bunlarlan [: bunlarla] ?
-*CHI:	no .
+*CHI:	no@x .
 %com:	?
 *EXP:	senin mi bunlar , Musa'nın mı?
 *CHI:	benim .
@@ -448,7 +448,7 @@
 *EXP:	ne yapıyor adamlar orda ?
 *CHI:	bak atıyorlar , tam da cama .
 *EXP:	ne atıyorlar ?
-*CHI:	inatlan [: inatla] bir daha alıyorlar , bir atıyorlar cama , bum; .
+*CHI:	inatlan [: inatla] bir daha alıyorlar , bir atıyorlar cama , bum@o .
 *CHI:	kırılacak cam .
 *CHI:	basıyorlar arabalar .
 *EXP:	bana şu kurtları acık gel , sen hiç gördünmü?
@@ -459,7 +459,7 @@
 *EXP:	kurtlar ısırırmı?
 *CHI:	yok .
 *CHI:	boynu var , çok kuvvetli .
-*CHI:	ve basıyorsun yanına , dans ediyorlar nay nay nay .
+*CHI:	ve basıyorsun yanına , dans ediyorlar nay@si nay@si nay@si .
 %com:	nay nay: imitative sound gesture for music and dance
 *EXP:	peki kurtlar ne yapar ?
 *CHI:	oynar .
@@ -512,7 +512,7 @@
 *CHI:	su altında ben kalacam .
 *CHI:	içine su yapıcam .
 *CHI:	kullanacam , atıcam [: atacağım] içine .
-*CHI:	alıcam [: alacağım] balığı buf .
+*CHI:	alıcam [: alacağım] balığı buf@o .
 %com:	buf: imitative sound gesture for throwing the fish into water
 *EXP:	balıklar nasıl yüzer suyun içinde ?
 *CHI:	böyle gözleri var .

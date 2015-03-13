@@ -25,16 +25,16 @@
 *CHI:	ordan gelsin , odamdan .
 *CHI:	bu odamdan .
 *CHI:	bakın , bakın .
-*CHI:	o gugu , ayı değil .
+*CHI:	o gugu@c , ayı değil .
 %com:	"gugu" may be the name the child has given to his toy
-*EXP:	anlat guguyu , ne yapar ?
+*EXP:	anlat guguyu@c , ne yapar ?
 *CHI:	oynar .
 *CHI:	arabayla oynar .
 *CHI:	gider , hadi gel der .
 *CHI:	oynıyalım [: oynayalım] , at der .
 *CHI:	bu .
 *CHI:	hadi gel .
-*CHI:	giderim guguyla .
+*CHI:	giderim guguyla@c .
 *CHI:	ekmek alırım , peynir alırım .
 *CHI:	gelirim .
 *CHI:	al al al xxx .
@@ -47,8 +47,8 @@
 *EXP:	ordan gelsin , odamdan .
 *CHI:	bu odamdan .
 *CHI:	bakın , bakın .
-*CHI:	o gugu , ayı değil .
-*EXP:	anlat guguyu , ne yapar ?
+*CHI:	o gugu@c , ayı değil .
+*EXP:	anlat guguyu@c , ne yapar ?
 *CHI:	oynar .
 *CHI:	arabayla oynar .
 *CHI:	gider .
@@ -56,14 +56,14 @@
 *CHI:	oynıyalım [: oynayalım] , at der .
 *CHI:	bu .
 *CHI:	hadi gel .
-*CHI:	giderim guguyla .
+*CHI:	giderim guguyla@c .
 *CHI:	ekmek alırım , peynir alırım , gelirim .
 *CHI:	al al al .
 *CHI:	oynarız .
 *CHI:	oyuncakla oynuyoruz .
 *EXP:	çok oyuncakların var mı?
-*CHI:	gugunun var .
-*CHI:	benim çok , gugunun da çok , hem de çok var .
+*CHI:	gugunun@c var .
+*CHI:	benim çok , gugunun@c da çok , hem de çok var .
 *EXP:	ne oldu ?
 *CHI:	düştü.
 *EXP:	ne oyunlar oynarsınız ?
@@ -79,7 +79,7 @@
 *CHI:	sen beni seviyormusun diye tırmalar .
 *EXP:	köpekler ne yapar ?
 *CHI:	oynar .
-*CHI:	böö böö böö der .
+*CHI:	böö@o böö@o böö@o der .
 *EXP:	ne içer köpekler ?
 *CHI:	köfte yer .
 *EXP:	niçin içerler ?
@@ -89,7 +89,7 @@
 *EXP:	ne yaparlar havada ?
 *CHI:	uçarlar .
 *EXP:	neleriyle uçarlar ?
-*CHI:	guguyla uçarlar , gugu .
+*CHI:	guguyla@c uçarlar , gugu@c .
 *EXP:	neleri var kuşun ?
 *EXP:	nereleri bunlar ?
 *EXP:	pır pır pır xxx .
@@ -237,7 +237,7 @@
 *CHI:	çarptı.
 %com:	he is playing with a toy car
 *CHI:	bunun başına çarptı.
-*CHI:	geldi , ooop düştü içine .
+*CHI:	geldi , ooop@o düştü içine .
 *EXP:	çocuklar ne yaparlar ?
 *CHI:	oynarlar .
 *EXP:	nerde oynarlar .

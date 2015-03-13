@@ -596,7 +596,7 @@
 *CHI:	sonra gene buları koyacağız .
 *CHI:	oynayacağız şimdi .
 *CHI:	benim büyük hayvanlarım var .
-*CHI:	bbbb xxx şu araba getiriyim .
+*CHI:	bbbbxxx şu araba getiriyim .
 %com:	here again the interviewer has a note that the accusative marker on "araba" is left out; correct form would have been: arabayı.
 *CHI:	bir dakka [: dakika] dur sen .
 *CHI:	çöpçü araba .
@@ -617,7 +617,7 @@
 *CHI:	vırrr xxx iniyor .
 *CHI:	şimdi .
 *EXP:	o uçak mı?
-*CHI:	bu abalar böyle vjjj xxx .
+*CHI:	bu abalar böyle vjjj@o xxx .
 *EXP:	ama nasıl uçuyor o araba ?
 *EXP:	uçan araba varmı?
 *CHI:	uçan ?
@@ -625,7 +625,7 @@
 *CHI:	hı?
 %com:	sound gestures with interrogative intonation
 *EXP:	varmı uçan araba ?
-*CHI:	vjjjjj xxx fyyyy xxx .
+*CHI:	vjjjjj@o xxx fyyyy@o xxx .
 %com:	sound gestures suggesting movement , speed
 *EXP:	uçan hayvan varmı?
 *CHI:	ha ?
@@ -749,6 +749,6 @@
 *MOT:	hı.
 *CHI:	sonra .
 *MOT:	sen kedileri bırak da biraz kendinden bahset şimdi .
-*MOT:	luna parka .
+*MOT:	lunaparka .
 *MOT:	gittinizmi siz babanla ?
 @End

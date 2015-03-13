@@ -47,7 +47,7 @@
 *CHI:	elim .
 *CHI:	kağıt .
 *CHI:	elim .
-*CHI:	yam nam .
+*CHI:	yam@i nam@i .
 %com:	nonsensical words . she starts singing
 *CHI:	bu ayı.
 %com:	playing with a toy bear
@@ -57,7 +57,7 @@
 *CHI:	emmi oğlu , emmi oğlu xxx .
 %com:	she is singing another song she continues to sing , switching from one song to another
 *CHI:	Ali babanın bir çiftliği var .
-*CHI:	hö hö diye bağırır .
+*CHI:	hö@o hö@o diye bağırır .
 *CHI:	Ali babanın bir çiftliği var .
 *CHI:	Ali babanın bir çiftliği var .
 *CHI:	Ali babanın xxx .
@@ -159,7 +159,7 @@
 *REL:	hangisi daha küçük ?
 %com:	the child is singing at this point
 *CHI:	onu ver .
-*CHI:	ba xxx ba xxx .
+*CHI:	baxxx baxxx .
 *REL:	hangisi kısa ?
 *CHI:	anne xxx .
 *CHI:	ordan , ordan , ordan .
@@ -215,7 +215,7 @@
 *CHI:	anne de gidiyor .
 *CHI:	anne şeye gidiyor .
 *CHI:	çamaşır yıkıyor .
-*CHI:	ciyan cıyan xxx .
+*CHI:	ciyan@x cıyan@x xxx .
 %com:	the text is not very legible here , but it is a sound gesture
 *CHI:	büyük anne orda .
 *CHI:	xxx .
@@ -261,7 +261,7 @@
 *CHI:	o gitti .
 *EXP:	yerleri kim süpürür ?
 *CHI:	yem xxx yem xxx .
-*CHI:	xxx yam xxx .
+*CHI:	xxx yam@x xxx .
 %com:	nonsensical words
 *EXP:	ütü kim yapar ?
 *EXP:	kim çamaşır yıkar ?

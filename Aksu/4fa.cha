@@ -217,19 +217,19 @@
 *CHI:	onu söylemem .
 *EXP:	niçin ?
 *CHI:	işte .
-*EXP:	luna parka ne zaman gittiniz ?
+*EXP:	lunaparka ne zaman gittiniz ?
 *CHI:	gitmedik , gittim çok da xxx .
 *CHI:	sonra babam Ankaraya gitti , askerlik işini halletmek için .
 *EXP:	sonra ne oldu ?
 *CHI:	sonra çok kaldı , geldi .
-*EXP:	luna park nerde ?
+*EXP:	lunapark nerde ?
 *CHI:	bir tane Aksarayda var dedim , bir tane Taksimde .
 *EXP:	siz hangisine gidiyorsunuz ?
 *CHI:	hangisini istersem babam beni götürüyor .
 *EXP:	geçen sefer hangisine gittiniz ?
 *CHI:	unuttum .
 *CHI:	galiba uzağına gittik .
-*EXP:	luna parkta neler yapıyorsun ?
+*EXP:	lunaparkta neler yapıyorsun ?
 *CHI:	herşey var .
 *CHI:	dönme dolap da var .
 %com:	dönme dolap ? dönme dolap ?
@@ -627,7 +627,7 @@
 *CHI:	bir tane daha batıyor .
 *CHI:	bir tane daha batıyor .
 *CHI:	başka gemi yok diyor , bitiyor .
-*EXP:	Brem Mızıkacıları'nı anlat .
+*EXP:	Brem(en) Mızıkacıları'nı anlat .
 *CHI:	bir varmış , bir yokmuş.
 *CHI:	bir eşek varmış.
 *EXP:	biraz hızlı anlat .
@@ -642,15 +642,15 @@
 *CHI:	sahibi atmış.
 *CHI:	gitmiş , gitmiş , gitmiş , bir köpeğe rastlamış.
 *CHI:	köpek de gelmiş onla .
-*CHI:	Brem Mızıkacıları.
-*CHI:	onlar Brem Mızıkacıları.
+*CHI:	Brem(en) Mızıkacıları.
+*CHI:	onlar Brem(en) Mızıkacıları.
 *CHI:	gitmişler , gitmişler .
 *CHI:	bir tane kediye rastlamışlar .
 *CHI:	kedi de xxx .
 *CHI:	orda benim kitabım vardı.
 *CHI:	kitabımı getiriyorum .
 *EXP:	hangi kitabı?
-*CHI:	Brem Mızıkacıları.
+*CHI:	Brem(en) Mızıkacıları.
 *EXP:	sonra ?
 *CHI:	dur , resmini gösteriyim .
 *CHI:	Saimeye söyleyim [: söyleyeyim] de getirsin kitabı .

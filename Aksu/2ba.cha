@@ -79,7 +79,7 @@
 *EXP:	nasılsınız Alper bey ?
 *CHI:	iyiyim .
 *EXP:	annen evde mi ?
-*CHI:	bir tane daha nana nini .
+*CHI:	bir tane daha nana@c nini@c .
 *CHI:	bakayım şimdi .
 *CHI:	bu senin plağın olsun .
 *CHI:	benim de bu .
@@ -144,9 +144,9 @@
 *EXP:	aç o zaman .
 *UNC:	bir türkü çağır bakayım şuraya .
 *CHI:	türkü.
-*EXP:	öyle değil , lay lay diye .
-*CHI:	lay lay lay lo .
-*CHI:	lay lo .
+*EXP:	öyle değil , lay@si lay@si diye .
+*CHI:	lay@si lay@si lay@si lo@si .
+*CHI:	lay@si lo@si .
 *UNC:	ağzına alma mikrafonu [: mikrofonu] .
 *CHI:	yok ya oynıyacağım [: oynayacağım] .
 %com:	trying to get the microphone away
@@ -333,7 +333,7 @@
 *CHI:	var .
 *EXP:	sen ineklerden süt sağdınmı , süt çıkıyormu ineklerden ?
 *CHI:	ineklerden .
-*CHI:	mahahhhhhhh .
+*CHI:	mahahhhhhhh@o .
 *CHI:	sütünden ben içiriyor , yiyor .
 *EXP:	ağaç varmı orda ağaçlar ?
 *CHI:	var .

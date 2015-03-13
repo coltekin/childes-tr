@@ -14,7 +14,7 @@
 *EXP:	çocukları görüyormusun , orada oynuyorlar sizin caddede ?
 *EXP:	Hergün ?
 *EXP:	görüyormusun onları sen ?
-*CHI:	görmü xxx .
+*CHI:	görmüxxx .
 *EXP:	ne oyunlar oynuyorlar ?
 *CHI:	ne oynuyor(lar) ya ?
 *EXP:	yok şimdi değil , hergün .
@@ -159,13 +159,13 @@
 *MOT:	kim bağırdı?
 *CHI:	vapur da bağırdı.
 *MOT:	efendim ?
-*CHI:	vapur da bağırdı , vuup bağırdı.
+*CHI:	vapur da bağırdı , vuup@o bağırdı.
 *CHI:	vapur da bağırdı.
 *EXP:	vapur da bağırdı.
 *EXP:	ne dedi vapur ?
-*CHI:	vuup .
-*EXP:	vuup dedi , ha ?
-*CHI:	vuup .
+*CHI:	vuup@o .
+*EXP:	vuup@o dedi , ha ?
+*CHI:	vuup@o .
 *CHI:	arkamda birşey var .
 *EXP:	yok , hiçbirşey yok .
 *CHI:	varmış.
@@ -261,7 +261,7 @@
 *EXP:	kediler ne yapar , anlatsana .
 *CHI:	miyav miyav yapar .
 *EXP:	başka ne yaparlar , anlat hadi .
-*CHI:	mam mam mam yapar .
+*CHI:	mam@o mam@o mam@o yapar .
 *EXP:	başka ?
 *CHI:	benim oyuncağımı da getirecem .
 *CHI:	belki ben , belki .

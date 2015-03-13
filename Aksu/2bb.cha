@@ -141,7 +141,7 @@
 *EXP:	çıkmaz ki bak .
 *CHI:	giymişmi ?
 *EXP:	çocuklar beraber dans edecekler bak .
-*EXP:	day la lay lay lay ne yapıyorlar ?
+*EXP:	day@si la@si lay@si lay@si lay@si ne yapıyorlar ?
 *CHI:	dans ediyorlar .
 *EXP:	bak böyle ne yapıyorlar ?
 %com:	children running
@@ -278,7 +278,7 @@
 *EXP:	yersem yiyimmi [: yiyeyimmi] ?
 *EXP:	peki ver bakalım .
 %com:	I go thru motions of eating
-*EXP:	peh .
+*EXP:	peh@i .
 *EXP:	beğenmedim [: beğenmedim] tadını.
 *EXP:	biraz tuz lazım .
 *EXP:	gene tuzsuz .
@@ -351,7 +351,7 @@
 *EXP:	ne resmi yapıyorsun ?
 %com:	repeat
 *CHI:	işte .
-*CHI:	hiy .
+*CHI:	hiy@i .
 %com:	laughs
 *EXP:	ne resmiymiş o ?
 *CHI:	anne bana bak .
@@ -508,7 +508,7 @@
 %com:	dropped them under the table
 *EXP:	aşağıda nerde [: nerede] .
 *CHI:	işte uzaklarda geziyor ya .
-*CHI:	uh uhh .
+*CHI:	uh@i uhh@i .
 *EXP:	rezalet .
 *CHI:	rezalet .
 *CHI:	başka boncuk varmı?
@@ -553,7 +553,7 @@
 *CHI:	kız da şurdan geliyor .
 *CHI:	görüyorlar bizi .
 *CHI:	arabalar gidiyor .
-*CHI:	grimmmm damm .
+*CHI:	grimmmm@o damm@o .
 *CHI:	arabaları da sofraya getiriyom [: getiriyorum] .
 *EXP:	ne yapacaklar arabalar sofrada ?
 *CHI:	yemek yiyecekler .

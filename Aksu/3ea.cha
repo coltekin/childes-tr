@@ -26,11 +26,11 @@
 *CHI:	şimdi gidiyor .
 *CHI:	çarptı , oh kim çarptı?
 *CHI:	kim çarptı?
-*CHI:	off .
+*CHI:	off@i .
 *CHI:	şu arabayı da verirmisin ?
 *CHI:	çarptı bunu , gidiyor kamyonet .
 *CHI:	gidiyor otomobillerim .
-*CHI:	gidiyorlar beraber burr burr off .
+*CHI:	gidiyorlar beraber burr@o burr@o off@i .
 *EXP:	ne oldu ?
 *CHI:	çarptı.
 *CHI:	kaza oldu .
@@ -51,7 +51,7 @@
 *CHI:	bütün şeyleri ver .
 *CHI:	bunları ver , bunları ver .
 *EXP:	otur yerine şimdi .
-*CHI:	burrr xxx .
+*CHI:	burrr@o xxx .
 *EXP:	ne yapıyorsun ?
 *CHI:	parka gelmiş.
 *CHI:	gidiyor .
@@ -63,7 +63,7 @@
 *CHI:	uyutuyor .
 *CHI:	gidiyorlar bunlar .
 *EXP:	nereye gidiyorlar ?
-*CHI:	burr .
+*CHI:	burr@o .
 %com:	to a park
 *CHI:	içine girmişler .
 *EXP:	evet .
@@ -72,7 +72,7 @@
 *CHI:	kapısı kapatılıyor .
 *EXP:	gel buraya yanıma otur , oradan düşeceksin .
 *CHI:	buraya gelmişler .
-*CHI:	baksana , burr .
+*CHI:	baksana , burr@o .
 %com:	making car noises
 *EXP:	o araba ne biçim araba ?
 *CHI:	hıh .
@@ -323,8 +323,8 @@
 *MOT:	okulda ne yaptılar , hatırlıyormusun ?
 *MOT:	ne çalmıştı birisi , elinde ne vardı?
 %com:	no response
-*MOT:	lay lay çaldı.
-*CHI:	laylay çaldı.
+*MOT:	lay@c lay@c çaldı.
+*CHI:	laylay@c çaldı.
 %com:	laylay= colloquial expression referring to music
 *EXP:	ne yaptılar çocuklar , salıncaklara bindilermi ?
 *CHI:	binmediler .
@@ -468,7 +468,7 @@
 *EXP:	Kezban hanım ne yapıyor ?
 *CHI:	çamaşır yıkıyor .
 *EXP:	neyle yıkıyor çamaşırı?
-*CHI:	bıcı bıcı bıcı yapıyor .
+*CHI:	bıcı@o bıcı@o bıcı@o yapıyor .
 %com:	demonstrating
 *EXP:	ne kullanıyor ?
 *EXP:	ne kullanıyor peki ?

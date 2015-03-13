@@ -257,8 +257,8 @@
 *CHI:	yoktu hiç.
 *EXP:	kediler ne yapar ?
 *CHI:	miyav derler .
-*CHI:	köp [= köpek] de hav der .
-*CHI:	ısırır kö xxx ıh xxx .
+*CHI:	köp [: köpek] de hav der .
+*CHI:	ısırır köxxx ıhxxx .
 *CHI:	yaramazlık yapar çocuklar .
 *EXP:	niye ısırır köpekler ?
 *CHI:	ıh xxx ağlıyor çocuklar .
@@ -289,8 +289,8 @@
 *CHI:	kuşlar da , kuşlar da xxx .
 *CHI:	kuşlar cık cık cık cık .
 *CHI:	pır pır uçar .
-*CHI:	cı cı cı derler .
-*CHI:	tavuklar da gıt gıt gıdak .
+*CHI:	cı@o cı@o cı@o derler .
+*CHI:	tavuklar da gıt@o gıt@o gıdak@o .
 *CHI:	yumurtam sıcak .
 *CHI:	xxx gel de bak .
 %com:	"inanmazsan gel de bak"/ from a riddle
@@ -402,11 +402,11 @@
 *CHI:	eşek şeyder [: şey eder] .
 *CHI:	eşek şeyderler [: şey ederler] .
 *CHI:	miyav miyav miyav , bana yemek yokmu derler .
-*EXP:	ai ai yaparlar .
-*CHI:	ai ai derler .
+*EXP:	ai@o ai@o yaparlar .
+*CHI:	ai@o ai@o derler .
 *EXP:	atlar ne yapar ?
-*CHI:	atlar da şeyder [: şey eder] , tık tak tık tak .
-*EXP:	iaa derler .
+*CHI:	atlar da şeyder [: şey eder] , tık@o tak@o tık@o tak@o .
+*EXP:	iaa@o derler .
 *CHI:	yaparlar .
 *CHI:	xxx ben korkmam .
 *EXP:	birşey yok ki korkacak .
@@ -415,7 +415,7 @@
 *EXP:	koşarlar üstüne binersin .
 *EXP:	eskiden atla gidiyorduk her yere .
 *CHI:	eskiden babam de beni ata bindirirdi .
-*CHI:	tıkıtak tıkıdak ben de giderdim .
+*CHI:	tıkıtak@o tıkıdak@o ben de giderdim .
 *EXP:	bindinmi sen hiç ata ?
 *CHI:	binmedim .
 *EXP:	bu sabah ne yaptınız ?

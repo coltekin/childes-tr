@@ -27,7 +27,7 @@
 *EXP:	kızıyormusun kaka yaptığı zaman ?
 *EXP:	kızmıyormusun ?
 *EXP:	küçük dimi [: değilmi] .
-*CHI:	a ma lazımlığına yapıyor .
+*CHI:	ama lazımlığına yapıyor .
 %com:	acting out questions
 *EXP:	bak burda da bir kız var , gördünmü kızım ?
 *CHI:	benim gözüm kayıyor .
@@ -71,7 +71,7 @@
 *EXP:	çimen yerlermi ?
 *EXP:	başka ?
 *CHI:	et yerler .
-*EXP:	aaaa .
+*EXP:	aaaa@i .
 *EXP:	atlar et yermi ?
 *CHI:	yer .
 *EXP:	sahimi ?
@@ -94,7 +94,7 @@
 *EXP:	sahi ?
 *EXP:	severmi sucuk ?
 *CHI:	sever .
-*EXP:	hmmm .
+*EXP:	hmmm@i .
 *EXP:	sucuğu nasıl pişireceksin ?
 *CHI:	su .
 *CHI:	sucuğu pişiririm , Milangazı yakarım .
@@ -110,7 +110,7 @@
 *EXP:	tabii canım , biz oynayalım , annen gitsin .
 *CHI:	yukarı gitti , yukarıdaki .
 *EXP:	otursunlar orda onlar .
-*CHI:	ba .
+*CHI:	ba@x .
 *CHI:	babası da gelmedi zaten .
 *EXP:	babası da mı gelmedi ?
 *EXP:	kız o zaman seviyormusun anneni sen ?
@@ -122,7 +122,7 @@
 *EXP:	nasıl Faruk amcan senin ?
 *EXP:	tatlı mı?
 *EXP:	seviyormu seni , geliyormu görmeye sık sık seni ?
-*CHI:	hıhı.
+*CHI:	hıhı@i .
 *EXP:	sahimi ?
 *CHI:	hiç dövmüyor .
 *EXP:	hiç dövmüyormu ?
@@ -167,7 +167,7 @@
 *CHI:	ama şöyle .
 *CHI:	bak böyle , şöyle .
 *EXP:	öyle mi canım ?
-*CHI:	hımm , Akdenize gidecem [: gideceğim] ben .
+*CHI:	hımm@i , Akdenize gidecem [: gideceğim] ben .
 *CHI:	seni de götürüyümmü [: götüreyimmi] ?
 *EXP:	götür , çok memnun olurum .
 *CHI:	orıya [: oraya] , kazaklarımızı giy .
@@ -196,7 +196,7 @@
 *EXP:	at şarap çorbası içermi dersin ?
 *CHI:	içer .
 *EXP:	ya sarhoş olursa ne olacak ?
-*CHI:	şa .
+*CHI:	şa@x .
 *CHI:	şarap içirmiyelim [: içirmeyelim] .
 *EXP:	içirmiyelim [: içirmeyelim] şarap .
 *CHI:	şey , şey içirelim .
@@ -288,7 +288,7 @@
 *EXP:	efendim ?
 *CHI:	bunun kirli pantalonu , değilmi ?
 *EXP:	kirli ne olmuş?
-*CHI:	yı.
+*CHI:	yı@x .
 *CHI:	yıkamış annesi .
 *EXP:	annesi yıkamış.
 *CHI:	hep yere sürüyor değilmi ?
@@ -321,12 +321,12 @@
 *EXP:	niye gönderiyor bakıyım [: bakalım] eve abisi ?
 *CHI:	birisi yer diye .
 *EXP:	yer diye , kim yer ?
-*CHI:	havhavlar yer .
-*EXP:	sahimi , havhavlar insan yermi ?
+*CHI:	havhavlar@c yer .
+*EXP:	sahimi , havhavlar@c insan yermi ?
 *CHI:	kuyruğundan tutarsan , hemen de yakalar .
 *CHI:	elini şöyle ısırır .
 *EXP:	köpekler mi ısırır öyle ?
-*EXP:	havhavlar ısırırmı?
+*EXP:	havhavlar@c ısırırmı?
 *CHI:	tabii , şöyle saçına değersen , kuyruğuna değersen .
 *CHI:	seni ısırır .
 *CHI:	annem dedi öyle .
@@ -431,8 +431,8 @@
 *EXP:	babaannen mi ?
 *CHI:	hı.
 *EXP:	ah yazık , ne zaman ölmüş?
-*CHI:	hiç konuşamıyor , üük diyor .
-*CHI:	durmadan hırlıyor , khır , khır hırlıyor .
+*CHI:	hiç konuşamıyor , üük@o diyor .
+*CHI:	durmadan hırlıyor , khır@o , khır@o hırlıyor .
 *EXP:	öyle mi yapıyor ?
 *EXP:	senin babaannenin saçları beyaz oldumu ?
 *CHI:	oldu , sarı sarı oldu .
@@ -564,7 +564,7 @@
 *EXP:	senin oyuncakların nasıl oyuncaklar ?
 *CHI:	bebeklerim var , arabam var .
 *EXP:	başka neyin var ?
-*CHI:	arabam var , neyim var hımmmm .
+*CHI:	arabam var , neyim var hımmmm@i .
 *CHI:	tavuğum var , kocaman tavuğum var .
 *EXP:	tavuğun var , başka neyin var ?
 *CHI:	hiçbirşeyim yok .

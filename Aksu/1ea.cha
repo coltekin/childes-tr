@@ -329,7 +329,7 @@
 *CHI:	geçen sene böyle araba .
 *EXP:	neyle resim yaparsın ?
 *CHI:	hiç defterlen [: defterle] resim yaparım .
-*CHI:	gızzzz .
+*CHI:	gızzzz@o .
 %com:	sound gesture
 *MOT:	kalemsiz olurmu ?
 *CHI:	olur .
@@ -350,7 +350,7 @@
 *GRM:	böyle yapacaksın .
 *CHI:	kocaman .
 *GRM:	aferin .
-*CHI:	ayyy .
+*CHI:	ayyy@i .
 %com:	laughs
 *GRM:	silme , silme güzel oldu , bir tane daha yap .
 *CHI:	peki .
@@ -479,7 +479,7 @@
 *CHI:	şaka yapıyorum .
 *EXP:	ben ne yedim biliyormusun ?
 *EXP:	balık .
-*CHI:	aaaa !
+*CHI:	aaaa@i !
 %com:	surprised
 *CHI:	balık yenirmi ?
 *CHI:	şaka mı söylüyorsun ?
@@ -493,8 +493,8 @@
 *CHI:	onun üzerine çay dökülürmü?
 *CHI:	dökülmez onun .
 *CHI:	üzerine .
-*CHI:	vrrr .
-*CHI:	jırrr .
-*CHI:	tırrr .
+*CHI:	vrrr@o .
+*CHI:	jırrr@o .
+*CHI:	tırrr@o .
 %com:	sound gestures imitating the sound cars make while playing with them
 @End

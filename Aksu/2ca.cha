@@ -22,7 +22,7 @@
 *CHI:	dört .
 *MOT:	aşağıdaki ablanın ismi neydi ?
 *CHI:	aşağıda Serap .
-*CHI:	aşağıdası [: aşağıdaki] ablası ge xxx .
+*CHI:	aşağıdası [: aşağıdaki] ablası gexxx .
 *CHI:	ablası.
 *MOT:	neydi ablasının ismi neydi ?
 *CHI:	Serap ablası.
@@ -72,7 +72,7 @@
 *CHI:	bu kadar .
 *CHI:	oturur bu kadar .
 *CHI:	dur bu kadar .
-*CHI:	o xxx tı.
+*CHI:	o xxxtı.
 *MOT:	hadi şarkı söyle bir tane .
 *CHI:	bir iki üç.
 *CHI:	bakayım , bakayım .
@@ -229,7 +229,7 @@
 %com:	he is throwing things
 *CHI:	eve gitti .
 *CHI:	eve gitti .
-*CHI:	o oynaca xxx ğım [?] .
+*CHI:	o oynacaxxxğım [?] .
 *CHI:	ver anne .
 %com:	someone calling his name
 *CHI:	efendim ?
@@ -239,18 +239,18 @@
 %com:	referring to the interviewer
 *CHI:	burda .
 *MOT:	Tan beni bulamaz .
-*CHI:	up la .
+*CHI:	up@o la@o .
 %com:	sound gesture
 *MOT:	yavaş.
 *CHI:	iki .
-*CHI:	up da .
+*CHI:	up@o da@o .
 %com:	sound gesture again/ throwing toys around now playing with a car
 *CHI:	çıkıyor , çıkıyor bunlar .
 *CHI:	çıktı.
 *CHI:	kamyon çıktı.
 *CHI:	bu da çıktı.
-*CHI:	bak bibip .
-*CHI:	bu bibip .
+*CHI:	bak bibip@c .
+*CHI:	bu bibip@c .
 *CHI:	buraya gelsin .
 *CHI:	buraya girsin .
 *CHI:	bak sonra .
@@ -269,7 +269,7 @@
 *CHI:	kapanmış.
 *CHI:	hadi .
 *CHI:	açmak istemiyorum .
-*CHI:	up ba , up ba .
+*CHI:	up@o ba@o , up@o ba@o .
 *CHI:	ona bakıyım [: bakayım] , bakıyım [: bakayım] , kapattın .
 *MOT:	nedir bu ?
 *CHI:	para .
@@ -364,7 +364,7 @@
 %com:	incomprehensible response
 *CHI:	otobüs .
 *EXP:	gel buraya .
-*CHI:	bib .
+*CHI:	bib@o .
 *CHI:	ben kamyonu alıyım .
 *CHI:	bak otobüs .
 *CHI:	alıyım .
@@ -397,7 +397,7 @@
 *CHI:	attım öyle .
 %com:	demonstrates
 *EXP:	Tan gel acık [: azıcık] bana resim yap .
-*CHI:	oooohh .
+*CHI:	oooohh@i .
 *CHI:	resim .
 *CHI:	sana ne oluyor ?
 %com:	says the nanny
@@ -423,7 +423,7 @@
 *CHI:	kızı babanın .
 %com:	or is it "kızı babanın" instead ? I did as above assuming she meant father in the general sense , not "*senin babanın".
 *EXP:	o ne ?
-*CHI:	baba baba ba .
+*CHI:	baba baba ba@wp .
 *CHI:	küçüğü de baba .
 *CHI:	ayak .
 *CHI:	ayakları var .
@@ -459,8 +459,8 @@
 *CHI:	ütü.
 *CHI:	böyle .
 *EXP:	böyle ütüyü kim ütülüyor ?
-*CHI:	adida .
-*EXP:	adida yapıyor değilmi ?
+*CHI:	adida@c .
+*EXP:	adida@c yapıyor değilmi ?
 *EXP:	ne zaman ütü yaptı?
 *CHI:	ütü bezi .
 *EXP:	yerleri süpürdümü?
@@ -478,7 +478,7 @@
 %com:	the lady is cleaning
 *EXP:	neyle temizliyor ?
 *CHI:	bezlen [: bezle] .
-*CHI:	ay bak buraya ra xxx .
+*CHI:	ay bak buraya raxxx .
 *EXP:	baba eve gelecekmi akşam ?
 *CHI:	gelecek .
 *EXP:	okuyacakmı?
@@ -518,7 +518,7 @@
 *EXP:	yemek yedilermi ?
 *CHI:	yesin .
 *EXP:	hadi yesin de göreyim .
-*CHI:	hoh hoh .
+*CHI:	hoh@o hoh@o .
 %com:	sound gesture/imitative of laughter
 *EXP:	anneanneni seviyormusun ?
 *CHI:	ha .

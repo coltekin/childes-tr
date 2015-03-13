@@ -14,8 +14,8 @@
 *CHI:	otobüsle oynadım .
 *EXP:	hangi otobüsle ?
 *CHI:	başka otobüsle .
-*CHI:	bibiple .
-*EXP:	bibiplemi oynadın ?
+*CHI:	bibiple@c .
+*EXP:	bibiplemi@c oynadın ?
 *CHI:	oynadım .
 *CHI:	kule ?
 *EXP:	kuleyle de mi oynadın ?
@@ -42,7 +42,7 @@
 *CHI:	hı.
 *EXP:	ne yaptı , senlen [: senle] oynadımı?
 *CHI:	oynadı.
-*CHI:	bibiplen [: bibiple] oynadım .
+*CHI:	bibiplen [: bibiple@c] oynadım .
 *EXP:	koştunmu ?
 *CHI:	koştu .
 *EXP:	niye koştun ?
@@ -64,8 +64,8 @@
 *CHI:	ha ?
 *EXP:	İsmail'le mi oynadın ?
 *CHI:	oynadım .
-*CHI:	bibip .
-*EXP:	bibiplemi oynadın ?
+*CHI:	bibip@c .
+*EXP:	bibiplemi@c oynadın ?
 *CHI:	oynadım .
 *EXP:	ne zaman oynadın ?
 *EXP:	efendim ?
@@ -410,7 +410,7 @@
 *MOT:	şimdi yağmur yağıyor , gidemezsin .
 *MOT:	ne yapıyor köpek ?
 *CHI:	burası nerde ?
-*CHI:	bibip nereye gidiyor ?
+*CHI:	bibip@c nereye gidiyor ?
 *CHI:	anne şunlar ne ?
 *MOT:	onları diz bakalım sen .
 *MOT:	onlar işaret , yol işaretleri .
