@@ -4,6 +4,18 @@
 
 import sys, re
 
+def parse_words(words):
+    out = []
+    for w in words:
+        if w.startswith('&'):   # phonological forms
+            continue
+        x = w.replace('(', '').replace(')', '').replace('@q', '') # @q ismeta-lingustic use
+        # skip all other special forms (@c @s etc.)
+        if '@' in w or 'xxx' in w:  # skip unintelligible words too
+            continue
+        out.append(x)
+    return out
+
 def parse_chat(fp):
     """Parse and return a complete CHAT file"""
     utterances = []
@@ -26,6 +38,8 @@ def parse_chat(fp):
             utmp += " " + lines[i].strip()
             i += 1
 
+        if utmp[6:].startswith('[- '):  # skip other languages
+            continue
         u = {}
         u["speaker"] = utmp[1:4]
         j = 6
@@ -73,7 +87,7 @@ def parse_chat(fp):
                 prev_tokens = [m.group(0).strip()]
                 j += len(m.group(0))
         words.extend(prev_tokens)
-        u["words"] = words
+        u["words"] = parse_words(words)
         utterances.append(u)
     return utterances
 
