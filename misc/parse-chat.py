@@ -23,7 +23,7 @@ def parse_chat(fp):
 
     until_rbracket = re.compile("([^]]+)]")
     until_rangleb = re.compile("([^>]+)>")
-    until_eow = re.compile("[^][,.;?!:”<> ]+")
+    until_eow = re.compile("[^][,.;?!”<> ]+")
     punct_re = re.compile("([,.;?!:”])")
 
     utmp = ""
@@ -95,5 +95,10 @@ for f in sys.argv[1:]:
     with open(f) as fp:
         utrncs = parse_chat(fp)
         for u in utrncs:
+            if len(u["words"]) == 0:
+                continue
+            print("{}: ".format(u["speaker"]), end="")
             for w in u["words"]:
-                print(w)
+                print("{} ".format(w), end="")
+            print("")
+
