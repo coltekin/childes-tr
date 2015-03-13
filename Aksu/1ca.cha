@@ -126,7 +126,7 @@
 *CHI:	hergün getirsin abla bunları.
 *MOT:	karnın acıktımı?
 *CHI:	acıkmadı.
-*CHI:	annecim [: anneciğim] , kurarmısın (sofrayı) ?
+*CHI:	annecim [: anneciğim] , kurarmısın sofrayı ?
 *CHI:	aferim ona .
 *EXP:	ne bunlar canım ?
 *CHI:	araba .
@@ -170,7 +170,7 @@
 *CHI:	oraya kutunun içine koydum .
 *CHI:	ben de toplarım .
 %com:	he is putting the toys away , tidying up
-*CHI:	bana da öyle kutulu araba (alsın) (baba) .
+*CHI:	bana da öyle kutulu araba alsın baba .
 *CHI:	benim yok ki böyle .
 *MOT:	nereye koyacaksın sonra arabaları?
 *CHI:	kutunun içine .
@@ -595,7 +595,7 @@
 *CHI:	gene .
 *CHI:	sonra gene buları koyacağız .
 *CHI:	oynayacağız şimdi .
-*CHI:	benim (büyük) (hayvanlarım) var .
+*CHI:	benim büyük hayvanlarım var .
 *CHI:	bbbb xxx şu araba getiriyim .
 %com:	here again the interviewer has a note that the accusative marker on "araba" is left out; correct form would have been: arabayı.
 *CHI:	bir dakka [: dakika] dur sen .
@@ -613,7 +613,7 @@
 *CHI:	gelmiş böyle arabayla .
 *CHI:	çöpçü araba buraya çağırıyormuş.
 *CHI:	gel , gel .
-*CHI:	buraya (uyuyup) gel xxx gelmiş araba .
+*CHI:	buraya uyuyup gel xxx gelmiş araba .
 *CHI:	vırrr xxx iniyor .
 *CHI:	şimdi .
 *EXP:	o uçak mı?

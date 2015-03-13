@@ -58,7 +58,7 @@
 *CHI:	kuş.
 *CHI:	kuş yaptım bak .
 *EXP:	neyle resim yapıyorsun sen Vahide ?
-*CHI:	(kalemle) .
+*CHI:	kalemle .
 *EXP:	kalemle .
 *EXP:	bunu kim aldı sana ?
 *CHI:	biz almıştık .
@@ -182,11 +182,11 @@
 *EXP:	kim geldi buraya ?
 *CHI:	ben düşecem dedi bana .
 *EXP:	hı?
-*CHI:	xxx (çiçek) xxx (şimdi) .
+*CHI:	xxx çiçek xxx şimdi .
 *EXP:	düşecekmi ?
 *CHI:	çek .
 *EXP:	çiçek ?
-*CHI:	çek bu xxx (işte) (bak) xxx .
+*CHI:	çek bu xxx işte bak xxx .
 *EXP:	gidecekmi ?
 *EXP:	kim gidecek ?
 *CHI:	babam gidecek .
@@ -265,8 +265,8 @@
 *EXP:	başka ?
 *CHI:	benim oyuncağımı da getirecem .
 *CHI:	belki ben , belki .
-*CHI:	ben (giymiş) , bak .
-*EXP:	ne (giymiş) ?
+*CHI:	ben giymiş , bak .
+*EXP:	ne giymiş ?
 *CHI:	bak aynısından .
 *EXP:	efendim ?
 *CHI:	aynısından .
@@ -279,7 +279,7 @@
 *EXP:	köpekler ne yapar , Vahide , hadi anlat .
 *CHI:	hav yapar köpekler .
 *EXP:	ne içer köpekler ?
-*CHI:	ne içiyor , anne (de) ?
+*CHI:	ne içiyor , anne de ?
 *EXP:	ne içiyor Bon ?
 %com:	Bon is the name of the dog
 *CHI:	çay .

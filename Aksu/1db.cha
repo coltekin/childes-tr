@@ -9,7 +9,7 @@
 *CHI:	seviyorum .
 *EXP:	hayvanları nasıl anlatırsın ?
 *EXP:	mesela kediler hakkında ne kadar biliyorsun ?
-*CHI:	üçe (beşe) kadar biliyorum .
+*CHI:	üçe beşe kadar biliyorum .
 *CHI:	kediler et yer .
 *CHI:	havuç yer .
 *CHI:	ipi yer .
@@ -29,7 +29,7 @@
 *CHI:	insanı ısırır ama sahiplerini hiç ısırmaz .
 *CHI:	benim de bodrumda var köpeğim , o beni hiç tanıyor ama hiç ısırmıyor .
 *EXP:	sen onun yanına gidince ne yapıyor seni görünce ?
-*CHI:	mama ver diyor (ancak) .
+*CHI:	mama ver diyor ancak .
 *CHI:	ben de doğruyorum mamasını.
 *CHI:	onun mamasını ben pişiriyorum .
 *EXP:	nasıl pişiriyorsun söyle bakayım ?
@@ -284,7 +284,7 @@
 *EXP:	neyle ?
 *CHI:	benim koltuk süpürgem var .
 *CHI:	onunla temizliyorum .
-*CHI:	bayağı (toz) alıyorum artık .
+*CHI:	bayağı toz alıyorum artık .
 *CHI:	bayağı.
 *CHI:	şu taşları bütün .
 *CHI:	siliyorum .

@@ -191,7 +191,7 @@
 *CHI:	babam beni yıkıyor .
 *EXP:	nasıl yıkıyor baban seni ?
 *CHI:	ben böyle böyle ayaklarımla xxx .
-%com:	xxx (oynatıyorum)
+%com:	xxx oynatıyorum
 *CHI:	o beni yıkıyor .
 *EXP:	sen ne yapıyorsun ?
 *CHI:	ben böyle böyle yapıyorum .
@@ -210,7 +210,7 @@
 *CHI:	bir tane yastığım var .
 *EXP:	nerde yastığın ?
 *CHI:	işte orda somyada .
-*CHI:	ondan sonra bir de (kutum) var orda .
+*CHI:	ondan sonra bir de kutum var orda .
 *CHI:	bir de ördeğim var orda .
 *EXP:	ördeğin nerde ?
 *CHI:	orda .
@@ -349,14 +349,14 @@
 *EXP:	ne yaparken ?
 *CHI:	böyle böyle yaparken .
 *CHI:	kuşlar hemen gelir .
-*CHI:	Pelincim yemekleri xxx (verin) bana derler .
+*CHI:	Pelincim yemekleri xxx verin bana derler .
 *EXP:	sen de verirsin değilmi , iyi kızsın sen .
 *CHI:	iyi xxx .
 *CHI:	Engin iyi kız değil .
 *EXP:	Engin nasıl ?
 *CHI:	Engin de oynar .
 *CHI:	oyuncaklarıyla oynar .
-*CHI:	kırmak (için) xxx .
+*CHI:	kırmak için xxx .
 *EXP:	Engin'i ısırsınmı kurtlar ?
 *CHI:	ısırmaz ki .
 *CHI:	o cici kız .
