@@ -262,11 +262,7 @@
 *EXP:	acaba ne yedin ?
 *MOT:	ne yemek yedin sen ?
 *CHI:	üfle .
-%com:	referring to the interviewer's cigarette
-*CHI:	bu Ereli çok sever .
-*MOT:	çok mu sever ?
-*CHI:	çok sever .
-*CHI:	donuna yapar .
+%com:	referring to 
 *EXP:	kim pişirdi yemekleri sana bugün ?
 *CHI:	bozuldu .
 *EXP:	çukulata istermisin ?
@@ -340,7 +336,7 @@
 *MOT:	Erel , sen söylesene , mama look a boo boo .
 *EXP:	nedir o , söylesenize ?
 *CHI:	boo .
-*CHI:	oooo no .
+*CHI:	oooo no@s:eng .
 *EXP:	kim bu yapıyor ?
 *CHI:	hani o saçları.
 *MOT:	ceylanların pınarı .
@@ -359,8 +355,8 @@
 *EXP:	çok güzel , aferin sana .
 *CHI:	mama look a boo .
 %com:	laughs
-*MOT:	that is your daddy .
-*CHI:	o no .
+*MOT:	[- eng] that is your daddy .
+*CHI:	[- eng] o no .
 *MOT:	sonra ?
 *CHI:	fincanı fincan .
 *MOT:	nerde fincan , fincan nerde ?

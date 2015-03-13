@@ -351,12 +351,14 @@
 *CHI:	okumayı öğrendim .
 *CHI:	senin yazın Atatürk .
 *CHI:	sevindinmi Atatürk ?
-*EXP:	twenty+three Nisan ?
+*EXP:	yirmi üç nisan ?
 %com:	The number twenty+three was actually said in Turkish
+%com:   repaced twenty+three with yirmi üç based on the comment above
 *CHI:	bilmiyorum .
 *CHI:	B hani biliyorsun .
-*CHI:	twenty+three Nisanı bilmiyorum .
+*CHI:	yirmi üç Nisanı bilmiyorum .
 %com:	The number twenty+three was actually said in Turkish
+%com:   repaced twenty+three with yirmi üç based on the comment above
 *EXP:	bugün ne oldu , ne yaptık ?
 *CHI:	hayvanlarla oynadım .
 *EXP:	sen seviyormusun hayvanlarla oynamayı?
@@ -470,7 +472,7 @@
 *EXP:	ne yapacaklar sinemada ?
 *CHI:	seyredecekler filmleri .
 *EXP:	ne zaman gelecekler ?
-*CHI:	one saat sonra gelecekler .
+*CHI:	bir saat sonra gelecekler .
 %com:	the number "one" was actually said in Turkish
 *EXP:	neyle gittiler sinemaya ?
 *CHI:	yürüyerek gittiler .

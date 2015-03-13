@@ -412,7 +412,7 @@
 *CHI:	sürüyor .
 *EXP:	yanaklarına filan .
 *EXP:	peki kim ütü ütüler evde ?
-*CHI:	nanny , Afiye , Durmuş , başka kimse ütülemez .
+*CHI:	nanny@s:eng , Afiye , Durmuş , başka kimse ütülemez .
 *EXP:	peki ne zaman ütü ütülerler ?
 *CHI:	ne pislenirse , yıkanırsa onu ütülüyorlar .
 *EXP:	peki ne zaman ?
@@ -422,7 +422,7 @@
 *CHI:	biz bahçe pantolonumuzu kirletiyoruz .
 *EXP:	peki yerleri kim temizler ?
 *CHI:	Afiyle Durmuş.
-*CHI:	camları Afiy , bir de nanny , oldu bitti .
+*CHI:	camları Afiy , bir de nanny@s:eng , oldu bitti .
 *CHI:	ondan başka temizlemez .
 *EXP:	peki yerleri neyle temizlerler ?
 *CHI:	süpürgeyle .

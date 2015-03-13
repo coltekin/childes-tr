@@ -372,10 +372,11 @@
 *CHI:	okumayı öğrendim .
 *CHI:	senin yazın Atatürk .
 *CHI:	sevindinmi Atatürk ?
-*BRO:	twenty+three Nisan xxx hani biliyorsun xxx .
+*BRO:	yirmi üç Nisan xxx hani biliyorsun xxx .
 *CHI:	bilmiyorum .
-*CHI:	twenty+three Nisanı bilmiyorum .
+*CHI:	yirmi üç Nisanı bilmiyorum .
 %com:	the number twenty+three was actually said in Turkish
+%com:	repaced twenty+three with yirmi üç based on the comment above
 *EXP:	bugün ne oldu , ne yaptık ?
 *CHI:	hayvanlarla oynadım .
 *EXP:	sen seviyormusun hayvanlarla oynamayı?

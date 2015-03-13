@@ -113,10 +113,10 @@
 *CHI:	ne yapıyorsun öyle ?
 *EXP:	bir hikaye anlat .
 *CHI:	hayır , tekrar oynıyalım [: oynayalım] biz .
-*EXP:	once upon a time xxx .
+*EXP:	[- eng] once upon a time xxx .
 %com:	only the english version is transcribed in the text .
 *CHI:	evet , sen anlat , seni dinliyeyim .
-*EXP:	now you tell .
+*EXP:	[- eng] now you tell .
 %com:	again , only the english version is transcribed . ?
 *CHI:	hayır , sen anlat , ne olur sen anlat .
 *EXP:	ben senin konuşmanı alıyorum .
@@ -250,8 +250,8 @@
 %com:	yo yo: a widely used expression meaning "no , no"
 *EXP:	kediler ne yapar ?
 *CHI:	havlarlar .
-*EXP:	they bark ?
-*EXP:	they don't .
+*EXP:	[- eng] they bark ?
+*EXP:	[- eng] they don't .
 %com:	only the english version is transcribed for the above sentences
 *CHI:	miyavlarlar kedi kedi .
 *EXP:	sizin kediniz varmı?

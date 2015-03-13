@@ -132,7 +132,7 @@
 *EXP:	sen süt içermisin ?
 *CHI:	içerim .
 *EXP:	neyle içersin ?
-*CHI:	babam bana her zaman milkshake yapıyor , milkshake de .
+*CHI:	babam bana her zaman milkshake@s:eng yapıyor , milkshake@s:eng de .
 *CHI:	içerim , süt de içerim .
 *EXP:	neyle içiyorsun sütü?
 *CHI:	bardağımla .

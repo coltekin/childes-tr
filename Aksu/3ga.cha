@@ -151,14 +151,14 @@
 *EXP:	yemeğe götürüyormusunuz küçük arabaları?
 *CHI:	evet , biz mutfakta yiyoruz yemeğimizi .
 *EXP:	kim yediriyor ?
-*CHI:	nanny yediriyor .
-*EXP:	nanniyi seviyormusun ?
+*CHI:	nanny@s:eng yediriyor .
+*EXP:	nanniyi@s:eng seviyormusun ?
 *CHI:	tabii .
 *EXP:	sen dışarı çıkıyormusun bazen , sokağa ?
-*CHI:	evet çıkarıyor anneciğimle nanny .
-*CHI:	nanny bizi çıkarıyor .
+*CHI:	evet çıkarıyor anneciğimle nanny@s:eng .
+*CHI:	nanny@s:eng bizi çıkarıyor .
 *CHI:	Afiy Sinanı çıkarıyor .
-*CHI:	nanny de bizi çıkarıyor .
+*CHI:	nanny@s:eng de bizi çıkarıyor .
 *CHI:	anne bizi çıkarıyor sokağa .
 *EXP:	nereye çıkarıyor , oynamayamı?
 *CHI:	hayır .
@@ -316,7 +316,7 @@
 *CHI:	ders bitti , bunları kaldıralım .
 *EXP:	istersen ben sana bir tane vereyim .
 *EXP:	kim ütü ütülüyor sizde ?
-*CHI:	Afiyle nanny .
+*CHI:	Afiyle nanny@s:eng .
 *EXP:	ne zaman ütülüyorlar ?
 *CHI:	bak çıktı.
 *EXP:	ne zaman ütü ütülüyorlar ?
