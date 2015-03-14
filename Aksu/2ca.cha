@@ -207,7 +207,7 @@
 *CHI:	bu girdi .
 *CHI:	otomobil .
 %com:	putting toys in the house
-*EXP:	senin yemek yemeğe niyetin yokmu ?
+*EXP:	senin yemek yemeğe [: yemeye] niyetin yokmu ?
 *CHI:	geldi .
 *CHI:	oyuncaklar .
 *CHI:	bu adam .
