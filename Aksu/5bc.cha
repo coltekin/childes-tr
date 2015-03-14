@@ -117,7 +117,7 @@
 %com:	more questions; Burçak does not respond for a while
 *CHI:	bu ne ?
 *EXP:	hangisi ?
-*EXP:	C bu ne oynuyor ?
+*EXP:	bu ne oynuyor ?
 *EXP:	hangisi ne oynuyor ?
 *CHI:	bu .
 *CHI:	tavşan .
@@ -706,7 +706,7 @@
 *CHI:	bu kaç?
 *DAN:	saat kaçta kalkıyorsun ?
 *CHI:	anne bu kaç?
-*EXP:	o iki , bak birşey soruyor sana S xxx ?
+*EXP:	o iki , bak birşey soruyor sana xxx ?
 *DAN:	saat kaçta kalkıyorsun ?
 *CHI:	onu versene bana .
 *EXP:	heh heh .
