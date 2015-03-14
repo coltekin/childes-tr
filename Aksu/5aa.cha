@@ -194,8 +194,8 @@
 *CHI:	para kazanmağa .
 *EXP:	para kazanmaya gidecek baban ha .
 *EXP:	baban nereye gidiyor para kazanmaya ?
-*CHI:	mama alıcak .
-*EXP:	annen ne yapıcak ?
+*CHI:	mama alıcak [: alacak] .
+*EXP:	annen ne yapıcak [: yapacak] ?
 *CHI:	annem de mama yapacak .
 *EXP:	başka kimler var bu evde ?
 *CHI:	burda biz oturuyoruz .

@@ -100,9 +100,9 @@
 *CHI:	babamınkine bakalım .
 *EXP:	babanınki hangisi , bu mu ?
 *CHI:	bu .
-*CHI:	bak , silindir resmi , babam yapıcaktı , sonra kırdım .
-*EXP:	baba ne yapıcaktı sana ?
-*CHI:	silindir yapıcaktı , ben de kırdım .
+*CHI:	bak , silindir resmi , babam yapıcaktı [: yapacaktı] , sonra kırdım .
+*EXP:	baba ne yapıcaktı [: yapacaktı] sana ?
+*CHI:	silindir yapıcaktı [: yapacaktı] , ben de kırdım .
 *EXP:	neylen [: neyle] yapıyordu silindiri ?
 *CHI:	ha ?
 *EXP:	neylen [: neyle] silindir yapıyordu ?
@@ -139,12 +139,12 @@
 *CHI:	tavşan o bak .
 *CHI:	tavşan o bak .
 *EXP:	çok güzel dimi [: değilmi] ?
-*EXP:	Burçak , Burçak , sen vapura binicekmisin ?
+*EXP:	Burçak , Burçak , sen vapura binicekmisin [: binecekmisin] ?
 *CHI:	he .
-*EXP:	nasıl biniceksin ?
-*EXP:	hı , nasıl biniceksin vapura ?
-*CHI:	anino@c xxx binicek .
-*EXP:	anino@c binicek , sen binmiyecekmisin [: binmeyecekmisin] ?
+*EXP:	nasıl biniceksin [: bineceksin] ?
+*EXP:	hı , nasıl biniceksin [: bineceksin] vapura ?
+*CHI:	anino@c xxx binicek [: binecek] .
+*EXP:	anino@c binicek [: binecek] , sen binmiyecekmisin [: binmeyecekmisin] ?
 *CHI:	ben binmiyecem [: binmeyeceğim] .
 *EXP:	niye gitmiyorsun aninona@c ?
 *CHI:	gidicem [: gideceğim] .
@@ -153,9 +153,9 @@
 *EXP:	ne yapmış?
 *CHI:	ne yapmış naapmış [: ne yapmış] ?
 %com:	it is hard to tell from the text which of the above or whether both versions above is the way the child pronounced the phrase .
-*EXP:	nasıl gidiceksin [: gideceksin] aninona@c Burçak , neye biniceksin ?
+*EXP:	nasıl gidiceksin [: gideceksin] aninona@c Burçak , neye biniceksin [: bineceksin] ?
 *CHI:	vapura .
-*EXP:	nasıl biniceksin vapura ?
+*EXP:	nasıl biniceksin [: bineceksin] vapura ?
 *EXP:	para vericekmisin binmek için ?
 *CHI:	haa .
 %com:	affirmative sound gesture
@@ -284,9 +284,9 @@
 *EXP:	sapı neresi ?
 *CHI:	şurası.
 *EXP:	orası mı , peki .
-*EXP:	ne yapıcaksın tamir edince ?
+*EXP:	ne yapıcaksın [: yapacaksın] tamir edince ?
 *CHI:	ha ?
-*EXP:	ne yapıcaksın tamir edince baban ?
+*EXP:	ne yapıcaksın [: yapacaksın] tamir edince baban ?
 *CHI:	xxx hozaran [: borazan] çalıcam .
 *EXP:	peki aninoya@c da götürecekmiyiz onu , hozaranını [: borazanını] ?
 *CHI:	hım .
@@ -373,7 +373,7 @@
 *EXP:	neyi çıkarıcaksın [: çıkaracaksın] ?
 *CHI:	bunu çıkarıcam [: çıkaracağım] .
 *CHI:	hoppala diye , denize , hoppala diye atlıycam [: atlayacağım] .
-*EXP:	ne yapıcaksın denizde ?
+*EXP:	ne yapıcaksın [: yapacaksın] denizde ?
 *CHI:	yüzücem [: yüzeceğim] .
 *DAN:	sen yüzebilirmisin ?
 *CHI:	ha ?
@@ -429,7 +429,7 @@
 *CHI:	şunu böyle yap .
 *DAN:	haa .
 %com:	cars in opposite direction
-*CHI:	şöyle yapıcaksın bunu .
+*CHI:	şöyle yapıcaksın [: yapacaksın] bunu .
 *CHI:	öyle değil .
 *DAN:	öyle ?
 *DAN:	nasıl , bu ters mi ?
@@ -453,7 +453,7 @@
 *EXP:	tamir etmedimi baban ?
 *CHI:	tamir etti .
 *EXP:	ee , yine mi kırıldı?
-*EXP:	sen onlan [: onla] ne yapıcaksın deniz kenarında ?
+*EXP:	sen onlan [: onla] ne yapıcaksın [: yapacaksın] deniz kenarında ?
 *EXP:	Burçak , napıcaksın [: ne yapıcaksın] sen onlan [: onla] deniz .
 *EXP:	kenarında ?
 *EXP:	biz aninoya@c gidersek napıcaz [: ne yapacağız] orda , biz denize gidersek napıcaz [: ne yapacağız] ?
@@ -782,9 +782,9 @@
 *EXP:	nesini öğretiyim ?
 *CHI:	bantı.
 *EXP:	nesini öğretiyim bantın ?
-*EXP:	Burçak sen aninoya@c gidince ne yapıcaksın ?
-*DAN:	ne yapıcaksın ?
-*EXP:	ne yapıcaksın ?
+*EXP:	Burçak sen aninoya@c gidince ne yapıcaksın [: yapacaksın] ?
+*DAN:	ne yapıcaksın [: yapacaksın] ?
+*EXP:	ne yapıcaksın [: yapacaksın] ?
 *CHI:	anlat .
 *EXP:	ben mi anlatayım , sen bana anlat .
 *CHI:	sen bana anlat .

@@ -485,7 +485,7 @@
 *CHI:	babam xxx .
 *EXP:	anne nerde ?
 *CHI:	sinemaya gittiler .
-*EXP:	ne yapıcaklar sinemada ?
+*EXP:	ne yapıcaklar [: yapacaklar] sinemada ?
 *CHI:	seyredecekler filmler .
 *EXP:	ne zaman gelecekler ?
 *CHI:	bir saat sonra gelecekler .

@@ -47,7 +47,7 @@
 *CHI:	şeye , bizim dağa götüreceğiz , dağa .
 *EXP:	nerede o dağ?
 *CHI:	hani bizim şey var ya , işte oradan gideceğiz .
-*EXP:	ne yapıcaksınız dağda onu ?
+*EXP:	ne yapıcaksınız [: yapacaksınız] dağda onu ?
 *CHI:	şey yapıcağız , doktora götüreceğiz .
 *EXP:	niye ?
 *CHI:	işte .
@@ -107,7 +107,7 @@
 *CHI:	çünkü onun tüfeği var .
 *EXP:	nerde tüfeği babanın ?
 *CHI:	salonda .
-*EXP:	asılımı?
+*EXP:	asılımı ?
 *EXP:	[- eng] I don't see a gun in the living room .
 %com:	only th english version was transcribed here; probably she said: ben salonda tüfek görmüyorum .
 *CHI:	yatak odasında .
@@ -148,7 +148,7 @@
 *EXP:	niçin aldınız tahtayı?
 *CHI:	zorla aldı.
 %com:	it is not clear in the transcription whether the child said "zorla"
-*EXP:	ne yapıcakmış tahtayı?
+*EXP:	ne yapıcakmış [: yapacakmış] tahtayı?
 *CHI:	taktı o .
 *EXP:	nereye taktı?
 *CHI:	kapıya .
