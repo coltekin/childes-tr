@@ -50,7 +50,7 @@
 *CHI:	yahu kalemi ver .
 *CHI:	kırmızı yaparım .
 *CHI:	kalemle .
-*CHI:	halam aldı.
+*CHI:	halam aldı .
 *CHI:	evinde .
 *CHI:	evi nerde onun ?
 *CHI:	kapının yanında ?
@@ -76,7 +76,7 @@
 %com:	bununla as above , or bununla ?
 *CHI:	anne bizim süpürgemiz var .
 *CHI:	ben ütülüyorum .
-*CHI:	akşam üstü.
+*CHI:	akşam üstü .
 *CHI:	hiçbirşey yok .
 *CHI:	ne ?
 *CHI:	kalemi ver be .
@@ -94,7 +94,7 @@
 *CHI:	hayvan nerde ?
 *EXP:	kediler ne yapar ?
 *CHI:	vır xxx gider o .
-*EXP:	tırmalar mı?
+*EXP:	tırmalar mı ?
 *CHI:	tırmalar .
 *EXP:	niye ?
 *CHI:	bak orda duruyor o .
@@ -108,7 +108,7 @@
 *EXP:	kediler başka ne yapar ?
 *EXP:	süt içerler mi ?
 *CHI:	ben sütümü içiyorum .
-*EXP:	köpeklerle oynarlar mı?
+*EXP:	köpeklerle oynarlar mı ?
 *CHI:	oynarlar .
 *EXP:	ne oynarlar ?
 *CHI:	böyle boks yapar .
@@ -176,7 +176,7 @@
 *EXP:	ne o ?
 *CHI:	Sibelin .
 *EXP:	Sibel kim ?
-*CHI:	teyzemin kızı.
-*EXP:	niye sevmiyorsun Ayşegül'ü?
+*CHI:	teyzemin kızı .
+*EXP:	niye sevmiyorsun Ayşegül'ü ?
 *CHI:	oyuncağını vermiyor .
 @End

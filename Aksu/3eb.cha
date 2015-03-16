@@ -20,7 +20,7 @@
 *EXP:	ne yapıyor Kezban teyze ?
 *CHI:	arabayı ver .
 *CHI:	nerede ?
-*EXP:	yüksek sesle konuş.
+*EXP:	yüksek sesle konuş .
 *CHI:	hadi [: haydi] bu kuşu koysana .
 *EXP:	sen koy al .
 *CHI:	koyamam ki .
@@ -36,12 +36,12 @@
 *CHI:	bu .
 *EXP:	kamyonu mu istiyorsun ?
 *CHI:	kamyonu istiyorum .
-*CHI:	bu halıyı istiyorum , bu halıyı.
+*CHI:	bu halıyı istiyorum , bu halıyı .
 %com:	our park
-*EXP:	ne yapacaksın halıyı?
+*EXP:	ne yapacaksın halıyı ?
 %com:	whispers
 *CHI:	park .
-*EXP:	ne yapacaksın halıyı?
+*EXP:	ne yapacaksın halıyı ?
 *CHI:	bak , bak , şuna bak .
 %com:	all whispers playing with truck
 *CHI:	araba var mı senin ?
@@ -63,7 +63,7 @@
 *EXP:	efendim ?
 *CHI:	yürüyor mu bebek ?
 *EXP:	oyuncak bebek o , yürümez .
-*EXP:	yürür mü?
+*EXP:	yürür mü ?
 *CHI:	yürür .
 *CHI:	bakayımmı burdan [: buradan] .
 *CHI:	buraya koyacam [: koyacağım] .
@@ -74,7 +74,7 @@
 *CHI:	ver bakayım .
 *EXP:	bunlar oynarlar beraber .
 *EXP:	ne yaparlar beraber ?
-*CHI:	pantolonu iyi olmuş.
+*CHI:	pantolonu iyi olmuş .
 %com:	takes the toys , repeats my gestures
 *EXP:	kıza söyle oğlan koşsun .
 %com:	they run together
@@ -85,7 +85,7 @@
 *EXP:	nereye gittin ?
 *CHI:	pantolona bak .
 *EXP:	pantolonu güzel değil mi ?
-*EXP:	senin pantolonun var mı?
+*EXP:	senin pantolonun var mı ?
 *CHI:	şu ?
 *EXP:	evet .
 %com:	repeat playing with toys repeat
@@ -104,7 +104,7 @@
 *EXP:	neyin çekmecesinde ?
 *EXP:	neyin çekmecesinde ?
 *EXP:	dolabın çekmecesinde mi ?
-*CHI:	odadaydı.
+*CHI:	odadaydı .
 *CHI:	ay bunu tak .
 *EXP:	sen bana söyle şimdi .
 *EXP:	bak bu araba var ya .
@@ -120,7 +120,7 @@
 *CHI:	yukarda [: yukarıda] arkadaş geliyor .
 *CHI:	Kadriye .
 *EXP:	kaç tane ?
-*EXP:	Çok arkadaş.
+*EXP:	Çok arkadaş .
 *CHI:	çok .
 *EXP:	sen onlarla oynar mısın ?
 *CHI:	oynarım .
@@ -146,7 +146,7 @@
 *CHI:	saatle .
 *EXP:	saatle ?
 *EXP:	hiç öyle şey duymadım .
-*CHI:	ben şeye sokayım mı?
+*CHI:	ben şeye sokayım mı ?
 %com:	doll into bus
 *EXP:	sen koşar mısın bazen ?
 *CHI:	ne ?
@@ -166,7 +166,7 @@
 *CHI:	koşar .
 *CHI:	gidiyor araba .
 *EXP:	nereye gidiyor araba ?
-*CHI:	dolmuş.
+*CHI:	dolmuş .
 *CHI:	kapı açılıyor mu ?
 *EXP:	hayır , o yan kapı açılmıyor .
 *EXP:	ne zaman dışarı gideceksin sen ?
@@ -177,7 +177,7 @@
 *CHI:	iki buçukta .
 *EXP:	sen bana bir masal anlatsana ?
 *CHI:	anlatmam ki .
-*EXP:	ben de o zaman kaldırırım oyuncakları.
+*EXP:	ben de o zaman kaldırırım oyuncakları .
 *CHI:	duydun mu ?
 *CHI:	pencereye bak .
 %com:	whispers
@@ -198,20 +198,20 @@
 *EXP:	o zaman gel buraya otur .
 *CHI:	ordan [: oradan] dolaşıyım [: dolaşayım] geleyim .
 *CHI:	burdan [: buradan] geçeyimmi , altından .
-*EXP:	geç.
+*EXP:	geç .
 *CHI:	onu al ordan [: oradan] .
 *EXP:	neydi o .
-*CHI:	bunun kağıdı.
+*CHI:	bunun kağıdı .
 *EXP:	neyin canım ?
-*CHI:	balon kağıdı.
+*CHI:	balon kağıdı .
 *CHI:	burdan [: buradan] geçiyor , bak .
 *CHI:	burdan [: buradan] geçiyor arabalar .
 *CHI:	oraya koyma .
 %com:	Ifixed the bridge for him
 *CHI:	işte .
 *EXP:	ne oldu .
-*CHI:	işte bu da çarptı.
-*EXP:	takayım mı?
+*CHI:	işte bu da çarptı .
+*EXP:	takayım mı ?
 %com:	tries to fix the bridge , he can't
 *CHI:	burdan takılıyor mu ?
 *EXP:	öyle takılıyor , sen takabilir misin ?
@@ -219,7 +219,7 @@
 *EXP:	tak bakalım görelim .
 *CHI:	ben takamıyorum .
 *EXP:	ver ben takayım .
-*CHI:	öbürü.
+*CHI:	öbürü .
 %com:	asking for the other leg
 *EXP:	al , nerden geçiyor kamyon ?
 *CHI:	bunun şeysini de .
@@ -239,11 +239,11 @@
 *CHI:	isterim .
 *EXP:	al bak traktör .
 *EXP:	burda da evler var .
-*CHI:	yol var mı?
+*CHI:	yol var mı ?
 *EXP:	şimdi yol yok .
 *EXP:	yolu sonra yapacağız .
 %com:	he remembers that we make a road with the small houses
-*CHI:	başka ev var mı?
+*CHI:	başka ev var mı ?
 *EXP:	ıh , ıh .
 %com:	negative
 *EXP:	iki tane ev var .
@@ -255,22 +255,22 @@
 %com:	puts the house on his head
 *EXP:	düşer .
 *EXP:	senin kollarına ne oldu ?
-*CHI:	hiçbirşey olmadı.
+*CHI:	hiçbirşey olmadı .
 *EXP:	yara olmuş bak .
 *EXP:	ne zaman yara oldu bu böyle ?
 *CHI:	bakayım .
 *EXP:	bak , ne zaman yara oldu ?
 *CHI:	iki buçukta yara oldu .
-*EXP:	düştün mü?
+*EXP:	düştün mü ?
 %com:	negative gesture
 *EXP:	nasıl yara oldu peki ?
 *CHI:	bak buraya .
 *EXP:	nasıl yara oldu oğlum ?
-*EXP:	ısırma onları.
+*EXP:	ısırma onları .
 %com:	tries biting the animals
 *CHI:	bu üstüne çıkar .
 *CHI:	bebeği çıkar .
-*EXP:	senin topun var mı?
+*EXP:	senin topun var mı ?
 *CHI:	var .
 *EXP:	nasıl atarsın topu ?
 %com:	gestures
@@ -306,7 +306,7 @@
 *EXP:	bana bir tane kitap getirsene okuyalım .
 *CHI:	getirelim kitap .
 *CHI:	bunları alalım .
-*CHI:	şunları.
+*CHI:	şunları .
 *CHI:	buraya koy .
 *EXP:	ne kadar güzel , kim verdi bunu sana ?
 *CHI:	annem .
@@ -318,9 +318,9 @@
 *EXP:	hayır ben almayacağım , sen ver .
 %com:	brings them
 *EXP:	getir bakayım [: bakalım] ne oldu ona , bozuldu mu ?
-*CHI:	hayır bozulmadı.
-*EXP:	kırılmadı mı?
-*CHI:	kırılmadı.
+*CHI:	hayır bozulmadı .
+*EXP:	kırılmadı mı ?
+*CHI:	kırılmadı .
 *EXP:	gel buraya .
 %com:	taped comment: he is in a very difficult mood for some reason yesterday he was not quite like this so I do not know . I will let the maid talk to him for a while from here on it's the maid with him
 *CHI:	ne yapacan [: yapacaksın] ?
@@ -332,23 +332,23 @@
 *CHI:	zebra .
 *NAN:	ne bu ?
 %com:	she asks the names of animals and toys he answers them all with one word so it is not all that satisfactory either taped comment: I am tapeing free speech . this child is rather uncooperative . we will see what we do
-*CHI:	ben bunları yapayım mı?
+*CHI:	ben bunları yapayım mı ?
 %com:	wants the beads
 *EXP:	efendim ?
-*CHI:	bunları.
+*CHI:	bunları .
 *EXP:	ne yapacaksın ?
-*CHI:	bunları yapayım mı?
+*CHI:	bunları yapayım mı ?
 *EXP:	yap bakalım .
-*GCH:	nereye koydun onları?
+*GCH:	nereye koydun onları ?
 *CHI:	a bir davul buldum ben .
 *EXP:	evet .
 *CHI:	başka , var mı başka ?
 *EXP:	ne istiyorsun başka ?
 *CHI:	başka var mı bunlardan ?
-*EXP:	boncuklardan mı?
+*EXP:	boncuklardan mı ?
 *CHI:	evet .
 *EXP:	başka yok .
-*EXP:	ne yapmak istiyorsun boncukları?
+*EXP:	ne yapmak istiyorsun boncukları ?
 *CHI:	sopayı ver bakalım .
 *EXP:	al bakalım .
 *CHI:	bunu nereye koyalım ?
@@ -371,15 +371,15 @@
 *GCH:	hadi , dondurmacıyı alıp eve mi götürüyorsun ?
 *CHI:	ha .
 %com:	affirmative
-*EXP:	ne yapıyor evde dondurmacı?
+*EXP:	ne yapıyor evde dondurmacı ?
 *GCH:	sen dondurmayı seviyor musun ?
 *CHI:	oldu .
 %com:	puts beads on stick
 *EXP:	oldumu , aferin sana .
-*EXP:	pek güzel olmuş.
+*EXP:	pek güzel olmuş .
 *EXP:	ne oldu bu böyle ?
 *CHI:	başka da .
-*CHI:	burası mı?
+*CHI:	burası mı ?
 *EXP:	sen dondurmayı seviyor musun ?
 *CHI:	seviyorum .
 *GCH:	peki senin arkadaşların kim ?
@@ -409,7 +409,7 @@
 *EXP:	benim dediğimi yapacaksın .
 *EXP:	kim geliyor ?
 %com:	boy on bus
-*CHI:	kardeş.
+*CHI:	kardeş .
 *EXP:	kardeş geldi , burnunu yedi , hap .
 *CHI:	benim çişim geldi .
 *EXP:	efendim ?
@@ -425,7 +425,7 @@
 %com:	I gesture
 *CHI:	tırmalamaz , tırmalar .
 *CHI:	ay böyle yapacam [: yapacağım] ben .
-*EXP:	senin kedin var mı?
+*EXP:	senin kedin var mı ?
 *CHI:	durun be .
 %com:	repeat question
 *CHI:	var .

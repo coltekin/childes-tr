@@ -15,30 +15,30 @@
 *CHI:	oynuyor , fare .
 *EXP:	farelerin nesi var ?
 *CHI:	burnu var , dişleri var .
-*CHI:	kuyruğunu gördün mü?
+*CHI:	kuyruğunu gördün mü ?
 *EXP:	dişleri ne yapar ?
 *CHI:	böyle yapar .
 *CHI:	kurşun asker .
 *EXP:	ne yapıyor kız ?
 *CHI:	böyle .
 *EXP:	niye öyle durmuş kız ?
-*CHI:	düşmüş.
-*EXP:	bu kimmiş?
-*CHI:	asker düşmüş.
+*CHI:	düşmüş .
+*EXP:	bu kimmiş ?
+*CHI:	asker düşmüş .
 *CHI:	bak .
 *EXP:	bu ne ?
 *CHI:	balık , bak !
-*CHI:	böyle yapmış.
+*CHI:	böyle yapmış .
 *EXP:	balığı niye kesiyor ?
 *CHI:	bak , deniz var burda [: burada] .
 *CHI:	bak bunlar .
 *CHI:	bak bu .
-*CHI:	bu düşmüş.
-*CHI:	yırtılmış.
-*EXP:	bu neymiş?
+*CHI:	bu düşmüş .
+*CHI:	yırtılmış .
+*EXP:	bu neymiş ?
 *CHI:	köpek .
 *EXP:	niye köpekler ısırır ?
-*EXP:	köpekler ısırır mı?
+*EXP:	köpekler ısırır mı ?
 *CHI:	ısırmaz .
 *CHI:	bu ne ?
 *CHI:	kalemimi ver , kalemimi .
@@ -47,7 +47,7 @@
 *CHI:	kurşun kalem .
 *EXP:	aydede yap .
 *CHI:	yapmam .
-*CHI:	kuş.
+*CHI:	kuş .
 *EXP:	kuşlar ne yapar ?
 *CHI:	Aylini yaptım .
 *EXP:	kuşlar ne yapar ?
@@ -87,7 +87,7 @@
 *CHI:	oynıyacağım [: oynayacağım] .
 %com:	not clear in the text who says the sentence right above
 *CHI:	anne , bırakmam .
-*CHI:	başka kuş , başka kuş.
+*CHI:	başka kuş , başka kuş .
 *CHI:	xxx .
 *EXP:	kuş mu yaptın ?
 *EXP:	ne resmi yaptın ?
@@ -116,7 +116,7 @@
 *CHI:	anne yapıyor .
 *CHI:	gidiyor anne .
 *EXP:	anne ne yapıyor ?
-*CHI:	uf olmuş.
+*CHI:	uf olmuş .
 *CHI:	kuş yap bana .
 *EXP:	bu evde başka kim var ?
 *EXP:	yerleri kim süpürür ?
@@ -147,8 +147,8 @@
 *CHI:	su .
 *CHI:	xxx yok , su istiyorum .
 *CHI:	su istiyorum .
-*CHI:	aç , aç.
-*EXP:	neyi aç?
+*CHI:	aç , aç .
+*EXP:	neyi aç ?
 *CHI:	şunu .
 *CHI:	başka yok ama .
 *CHI:	başka yok ama .
@@ -183,7 +183,7 @@
 *CHI:	açsana .
 *CHI:	gitme .
 *CHI:	tavşan bu .
-*CHI:	aç şunu aç.
+*CHI:	aç şunu aç .
 *CHI:	anne !
 *CHI:	açsana şunu .
 *CHI:	açsana .

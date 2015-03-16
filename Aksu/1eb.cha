@@ -53,17 +53,17 @@
 *CHI:	sabunu aldık .
 *CHI:	sabunu getirdik hamama .
 *CHI:	yıkandık .
-*CHI:	xxx hala başını yıkadı.
+*CHI:	xxx hala başını yıkadı .
 *CHI:	ben de sularla oynadım .
 *EXP:	hoşuna gitti mi ?
 *CHI:	ha .
 %com:	an affirmative sound gesture
-*EXP:	sıcak mıydı?
-*CHI:	sıcaktı.
+*EXP:	sıcak mıydı ?
+*CHI:	sıcaktı .
 *MOT:	soğuk su karıştırdık değil mi ?
 *CHI:	ha .
 %com:	an affirmative sound gesture
-*MOT:	tabii , ondan sonra gene yaptın mı?
+*MOT:	tabii , ondan sonra gene yaptın mı ?
 *CHI:	ha .
 *MOT:	nasıl geldik , sonra nereye gittik ?
 *CHI:	sonra da minibüse bindik .
@@ -78,18 +78,18 @@
 *CHI:	poaça [: poğaça] aldık .
 *CHI:	arabalı vapura bindik .
 *EXP:	parkta oynuyor musun sen ?
-*EXP:	evin önünde para var mı?
+*EXP:	evin önünde para var mı ?
 *CHI:	oynamıyorum hiç parkta .
 *CHI:	bilmiyorum .
 *EXP:	arkadaşların varmı hiç parkta .
-*CHI:	vardı ama bahçe çocukları.
+*CHI:	vardı ama bahçe çocukları .
 *MOT:	ne yapıyorlar çocuklar orada ?
 *CHI:	bekçi baba salıncakları koparıyor .
 *CHI:	evine alıyor .
 *CHI:	koyuyor .
 *CHI:	evine giriyor .
 *CHI:	evinde yatıyor .
-*MOT:	sonra ne zaman getiriyor salıncakları?
+*MOT:	sonra ne zaman getiriyor salıncakları ?
 *CHI:	sabahleyin takıyor .
 *CHI:	şurdan otobüsü versene .
 *CHI:	buraya koyayım .
@@ -104,7 +104,7 @@
 %com:	plays with bus and bridge
 *CHI:	o senin araban değil .
 %com:	to the brother who wants to pick u
-*CHI:	bu öğretmen , öğretmenin arabası.
+*CHI:	bu öğretmen , öğretmenin arabası .
 *CHI:	arkasındaki uçağı unuttum be .
 %com:	remembers the questions for acting out
 *MOT:	peki ama anlat bakayım , Yalova'dan geldik , ne yaptık sonra ?
@@ -124,7 +124,7 @@
 *MOT:	yumurta yemedin mi ?
 *CHI:	ben halamın sandalyesine oturdum .
 *CHI:	yıkandım öyle .
-*CHI:	bana versene o traktörü.
+*CHI:	bana versene o traktörü .
 *EXP:	bir defa daha söyle .
 *CHI:	verirmisiniz .
 *MOT:	geceleri enişten sana ne getiriyor Levent ?
@@ -135,26 +135,26 @@
 *CHI:	babam yolluyor .
 *EXP:	nerede baban senin ?
 *CHI:	arabada .
-*CHI:	Mercedes almış.
+*CHI:	Mercedes almış .
 *EXP:	aman ne güzel !
 *EXP:	güzel mi Mercedes ?
-*CHI:	hı.
+*CHI:	hı .
 %com:	an affirmative sound gesture
 *EXP:	beğendin mi , sen de bindin mi ?
 *CHI:	bindim .
 *CHI:	arabasını elledim böyle .
 *CHI:	tutarken elledim .
-*CHI:	bir baktım , tekerleklerin burasını çarpmış.
-*CHI:	sonra amcamın arabasının burasını.
+*CHI:	bir baktım , tekerleklerin burasını çarpmış .
+*CHI:	sonra amcamın arabasının burasını .
 *CHI:	taksi gelirken duruyordu .
-*CHI:	taksi de amcamın arabasının burasına çarpmış.
+*CHI:	taksi de amcamın arabasının burasına çarpmış .
 *EXP:	hay allah , kaza oldu mu ?
 *CHI:	kaza oldu .
 *CHI:	sonra da çıktı arabadan .
 *CHI:	sonra bindi gitti .
 *CHI:	sonra da arabanın kenarısına [: kenarına] geldi .
 *CHI:	sonra bağırdı ona .
-*CHI:	sonra , değil mi , bağırdı.
+*CHI:	sonra , değil mi , bağırdı .
 *CHI:	sonra da arabaya bindi , garaja gitti .
 *EXP:	hay allah , çok pahalı oldu mu ?
 *CHI:	araba da gitti .
@@ -183,39 +183,39 @@
 %com:	lines cars up .
 *EXP:	ne yapıyorlar arabalar şimdi orada ?
 *CHI:	oynuyorlar .
-*EXP:	arabalar oynuyorlar mı?
+*EXP:	arabalar oynuyorlar mı ?
 *CHI:	ha .
 %com:	an affirmative sound gesture
-*CHI:	çöpçü kırıldı.
+*CHI:	çöpçü kırıldı .
 %com:	?
-*CHI:	köprü kırıldı.
+*CHI:	köprü kırıldı .
 *EXP:	ne yapacaksın Levent öyle ?
 %com:	plays with bridge
 *CHI:	öyle ben köprü var ya xxx .
-*CHI:	köprünün burası.
+*CHI:	köprünün burası .
 *CHI:	araba geçiyor altından .
 *EXP:	altından mı geçiyor ?
-*CHI:	hı.
+*CHI:	hı .
 *CHI:	bak kafasıza .
 *CHI:	direksiyon burda [: burada] .
-*CHI:	a itiyor arabayı.
+*CHI:	a itiyor arabayı .
 *EXP:	Levent , ablan nerede senin ?
 *CHI:	okulda .
 *EXP:	büyük mü ablan senin ?
 *CHI:	kocaman .
 *EXP:	sen bana birazcık söyle bakalım .
 *EXP:	anlat bana birazcık .
-*EXP:	senin burada arkadaşların var mı?
+*EXP:	senin burada arkadaşların var mı ?
 *CHI:	var , okula gidiyorlar .
-*EXP:	anaokuluna mı?
-*CHI:	hı.
+*EXP:	anaokuluna mı ?
+*CHI:	hı .
 %com:	an affirmative sound gesture
 *EXP:	onlarlan [: onlarla] oynuyor musun bazen ?
 %com:	onlarla; no need for n , a common mistake to add an extra letter
 *CHI:	oynuyorum ama onlar da beni dövüyorlar .
 *EXP:	niçin ?
 *CHI:	işte .
-*CHI:	yemek yedirmiyorlar onlar da bir türlü.
+*CHI:	yemek yedirmiyorlar onlar da bir türlü .
 *EXP:	ne terbiyesiz çocuklar onlar öyle .
 *CHI:	terbiyesiz , ne terbiyesiz .
 *CHI:	okulda da burnum akıyordu .
@@ -261,7 +261,7 @@
 *CHI:	ben de Tanjuyla oynuyorum o zaman .
 *EXP:	ne oyunları oynuyorsunuz .
 *EXP:	oynuyoruz , oynuyoruz , çok oynuyoruz .
-*CHI:	sonra , çantam da orda [: orada] kalmış.
+*CHI:	sonra , çantam da orda [: orada] kalmış .
 *CHI:	çantamı , kitap da yok .
 *CHI:	karıştırmaz çocuklar .
 *CHI:	arabalarımı karıştırıyorlar .
@@ -308,17 +308,17 @@
 *EXP:	şekerim dışarda neler var ?
 *CHI:	dışarda hiçbirşey yok .
 *CHI:	sular gece akmışlar .
-*CHI:	sabaha kadar Mustafa ağbi silmiş.
-*CHI:	ev de su içinde kalmış.
-*CHI:	temizliyor , süpürgeyle temizliyor oraları.
+*CHI:	sabaha kadar Mustafa ağbi silmiş .
+*CHI:	ev de su içinde kalmış .
+*CHI:	temizliyor , süpürgeyle temizliyor oraları .
 *CHI:	her taraf su içinde .
 *CHI:	kapıdan böyle arasından su akıyor .
-*CHI:	sonra da burası.
+*CHI:	sonra da burası .
 *CHI:	sonra da yağmur yağıyor .
 *CHI:	sonra da saçlarımıza yağmur yağıyor .
 *CHI:	paltomuza da yağmur yağıyor .
-*CHI:	sonra arabalarımız yerde kaldı.
-*EXP:	senin topun var mı?
+*CHI:	sonra arabalarımız yerde kaldı .
+*EXP:	senin topun var mı ?
 *CHI:	bisikletim de var .
 *EXP:	topunla oynuyor musun ?
 *CHI:	oynuyorum topumlan [: topumla] .
@@ -364,8 +364,8 @@
 %com:	picks up pencil and paper
 *CHI:	güzel bir Akbank yapayım sana .
 %com:	Akbank= name of a bank in Turkey
-*EXP:	Akbank mı?
-*CHI:	hı.
+*EXP:	Akbank mı ?
+*CHI:	hı .
 %com:	an affirmative sound gesture
 *EXP:	hadi yap bir Akbank .
 *EXP:	o eski Türkçeye benzedi değil mi ?
@@ -432,7 +432,7 @@
 *CHI:	bazen süsleniyor .
 *CHI:	arabanın içine giriyor .
 *CHI:	uçağı versene .
-*CHI:	şunu , şurasını.
+*CHI:	şunu , şurasını .
 *EXP:	yalnız sen bana söyle , halan nasıl süsleniyor senin ?
 *CHI:	halam öyle süsleniyor .
 *CHI:	sonra büyük oluyor yemek yeyince [: yiyince] ben .

@@ -23,16 +23,16 @@
 *EXP:	hangi hayvanlar ?
 *CHI:	hangisi hayvan sen göster bana .
 *EXP:	sen göster bana .
-*EXP:	o ne hayvanı?
-*CHI:	deve hayvanı.
+*EXP:	o ne hayvanı ?
+*CHI:	deve hayvanı .
 *CHI:	bu ne ?
 *EXP:	inek .
-*EXP:	inekten süt sağılır mı?
+*EXP:	inekten süt sağılır mı ?
 *EXP:	sen süt içiyor musun ?
 *CHI:	içiyorum .
 *EXP:	peki Piraye , bana ordan [: oradan] bir kedi bul bakalım .
 *CHI:	işte .
-*EXP:	o kedinin tırnakları var mı?
+*EXP:	o kedinin tırnakları var mı ?
 *CHI:	var .
 *CHI:	bak , içinde , batırıyor .
 *EXP:	niye batırıyor ?
@@ -58,15 +58,15 @@
 *CHI:	kediler yıkanmazlar .
 *EXP:	peki nasıl temizlenir kediler ?
 *CHI:	giderler küçük banyoya , temizlenirler .
-*EXP:	kedilerin banyosu var mı?
+*EXP:	kedilerin banyosu var mı ?
 *CHI:	var .
 *EXP:	sahi mi ?
 *EXP:	nasıl bir o banyo ?
 *CHI:	pise benziyor .
-*EXP:	sabun kullanırlar mı?
+*EXP:	sabun kullanırlar mı ?
 *CHI:	kullanırlar .
 *EXP:	sahi ?
-*EXP:	nasıl kedi sabunu gördün mü sen hiç?
+*EXP:	nasıl kedi sabunu gördün mü sen hiç ?
 *CHI:	gördüm .
 *EXP:	nasıl birşey ?
 *CHI:	küçücük birşey .
@@ -80,7 +80,7 @@
 *EXP:	bir de traş ediyor kediler .
 *EXP:	allah , allah , neyle traş ediyorlar ?
 *CHI:	böyle küçük macunları var onların .
-*CHI:	alıyorlar bir traş makinası.
+*CHI:	alıyorlar bir traş makinası .
 *CHI:	traşlanıyorlar [: traş oluyorlar] .
 *CHI:	çok oturuyor tuvalette ama .
 *CHI:	ama büyük ama biraz .
@@ -95,7 +95,7 @@
 *EXP:	kim daha kuvvetli ?
 *CHI:	aslanlar , kaplanlar .
 *EXP:	o daha mı kuvvetli onlar ?
-*EXP:	onlar köpekleri dövüyorlar mı?
+*EXP:	onlar köpekleri dövüyorlar mı ?
 *CHI:	dövüyorlar .
 *EXP:	başka ne yapıyorlar ?
 *CHI:	bir de öldürüyorlar .
@@ -110,11 +110,11 @@
 *EXP:	peki niçin içiyorlar köpekler su ?
 *CHI:	susuyorlar da ondan .
 *EXP:	tabii , köpekler başka yemek yerler mi ?
-*CHI:	yerler , kahvaltı ederler sabahları.
+*CHI:	yerler , kahvaltı ederler sabahları .
 *EXP:	kahvaltıda ne yerler köpekler ?
 *CHI:	çaylar yerler .
 *EXP:	çay içer mi köpekler ?
-*CHI:	hı?
+*CHI:	hı ?
 *EXP:	kim yapıyor , çayı kim yapar köpeklere ?
 *CHI:	köpekler çay yapıyorlar pisilere .
 *EXP:	peki , köpeklere kim çay yapıyor ?
@@ -127,7 +127,7 @@
 *CHI:	ondan aldım .
 *EXP:	ismi ne onun ?
 *EXP:	hadi [: haydi] bakalım bunu yapalım şimdi .
-*EXP:	işte sana bir kuş.
+*EXP:	işte sana bir kuş .
 *EXP:	sen anlat bana .
 *EXP:	hangi kuşları tanıyorsun ?
 *CHI:	ben , ben küçük bebekleri seviyorum .
@@ -135,17 +135,17 @@
 *CHI:	evet .
 *EXP:	başka ?
 *CHI:	bir de küçük yavrular seviyorum .
-*EXP:	martı kuşu var mı?
-*EXP:	martı diye bir kuş var mı?
+*EXP:	martı kuşu var mı ?
+*EXP:	martı diye bir kuş var mı ?
 *CHI:	var .
 *EXP:	başka ne cins kuşlar var ?
 *CHI:	pis kuşlar var .
 *CHI:	kaka yapan kuşlar var .
-*EXP:	temiz kuşlar da var mı?
+*EXP:	temiz kuşlar da var mı ?
 *CHI:	var .
 *EXP:	onlar hangileri ?
 *CHI:	ördek , boklular da martılar .
-*EXP:	başka daha kuşlar var mı?
+*EXP:	başka daha kuşlar var mı ?
 *EXP:	küçücük bir kuş daha var .
 *EXP:	onun ismi ne biliyor musun ?
 *EXP:	serçe , serçe var değil mi ?
@@ -153,7 +153,7 @@
 *EXP:	sahi ?
 *EXP:	başka ne var senin kitabında ?
 *CHI:	bir de şey .
-*CHI:	ne vardı?
+*CHI:	ne vardı ?
 *CHI:	dur .
 %com:	trying to get the book
 *MOT:	bak resmini gör de hatırlarsın .
@@ -177,7 +177,7 @@
 *CHI:	koşuyor .
 %com:	correct
 *EXP:	bu ne ?
-*CHI:	kuş.
+*CHI:	kuş .
 %com:	correct
 *EXP:	peki şu ne ?
 %com:	flower
@@ -185,7 +185,7 @@
 *EXP:	bu kim ?
 *CHI:	baba .
 *EXP:	ne yapıyor baba ?
-*CHI:	okula gelmiş.
+*CHI:	okula gelmiş .
 *CHI:	Gülü kardeşiyle okşuyor .
 *EXP:	peki çocuklar kimler ?
 %com:	picnic scene
@@ -193,21 +193,21 @@
 *EXP:	peki bu kim ?
 *CHI:	o çocuk .
 *EXP:	bu ne bu ?
-*CHI:	ağaç.
+*CHI:	ağaç .
 *EXP:	peki bu ne ?
 *CHI:	ağacın tırmanma yeri .
 %com:	broken branch
 *EXP:	şu ne çocuğum ?
-*CHI:	o adam kuş.
+*CHI:	o adam kuş .
 *EXP:	kuşlar nasıl uçar Piraye ?
 %com:	demonstrates
 *EXP:	neleriyle uçar ?
 *CHI:	kanatlarıyla .
 *EXP:	kaç tane kanatları var kuşların ?
 *CHI:	iki tane .
-*EXP:	sen hiç kurt gördün mü?
+*EXP:	sen hiç kurt gördün mü ?
 *CHI:	kurt köpeği gördüm .
-*EXP:	peki kurtlar ısırır mı?
+*EXP:	peki kurtlar ısırır mı ?
 *CHI:	ısırır .
 *EXP:	niye ısırırlar ?
 *CHI:	işte .
@@ -219,7 +219,7 @@
 *CHI:	ne ?
 *CHI:	Funda ?
 *EXP:	Funda tuttu ya .
-*CHI:	babası?
+*CHI:	babası ?
 *EXP:	hayır , Fundayla ben tuttum beraber .
 *EXP:	sen balıkları tanıyor musun ?
 *EXP:	en çok hangi balığı seviyorsun ?
@@ -232,7 +232,7 @@
 *EXP:	nasıl yüzer balıklar ?
 *CHI:	kuyruğunu batırır yüzer .
 *EXP:	peki canım .
-*CHI:	a , çantası buraya dağılmış.
-*CHI:	işte bebeğin şapkası.
+*CHI:	a , çantası buraya dağılmış .
+*CHI:	işte bebeğin şapkası .
 *CHI:	bunu koyalım .
 @End

@@ -10,7 +10,7 @@
 *CHI:	Alev abla kedin var mı senin küçük kedin ?
 *EXP:	Muratcım [: Muratçığım] ben küçük kedimi kaybettim .
 *EXP:	bir çocuk kırdı ben de kedisiz kaldım .
-*CHI:	o küçük bebek mi kaybet kırdı.
+*CHI:	o küçük bebek mi kaybet kırdı .
 *EXP:	hangi küçük bebek ?
 *CHI:	işte bir yaramaz küçük bebek .
 *EXP:	hı , işte kedinin ayağını kırdılar .
@@ -23,7 +23,7 @@
 *EXP:	gel Musa sen de al istersen .
 %com:	brother refuses
 *EXP:	ne yapıyorsun Muratcım [: Muratçığım] ?
-*CHI:	otobüsü.
+*CHI:	otobüsü .
 *CHI:	bu otomobili girdirdim [: soktum] .
 *EXP:	nereye girdirdin [: soktun] oğlum ?
 *CHI:	bu evin içine girdirdim [: soktum] .
@@ -79,7 +79,7 @@
 *EXP:	neresi açık ?
 *CHI:	bak .
 *EXP:	kim açmış arkasını acaba ?
-*CHI:	kim açtı o şeyin arkasını.
+*CHI:	kim açtı o şeyin arkasını .
 *CHI:	bunun arkasını .
 *EXP:	Murat sen kiminle oynarsın ?
 *CHI:	Piraye ile oynarım .
@@ -108,8 +108,8 @@
 *EXP:	gündüz mü gece mi ?
 *CHI:	gündüz .
 *EXP:	peki sen dışarıya kimle gidersin ?
-*CHI:	dışarı mı?
-*EXP:	hı.
+*CHI:	dışarı mı ?
+*EXP:	hı .
 *CHI:	annemle babamla .
 *EXP:	ne var dışarda ?
 *CHI:	he Pirayelere gidiyoruz biz .
@@ -123,25 +123,25 @@
 *EXP:	caddelerde ne var ?
 *CHI:	bir çocuk geziyor ya .
 *CHI:	bir tane çocuk .
-*CHI:	bir çocuk bir tane kayığı çözmüş.
-*CHI:	bir tanesi gitmiş.
-*EXP:	niye çözmüşler kayığı?
+*CHI:	bir çocuk bir tane kayığı çözmüş .
+*CHI:	bir tanesi gitmiş .
+*EXP:	niye çözmüşler kayığı ?
 *CHI:	işte onun için çözmüşler .
 *CHI:	yanmış o kayık .
 *CHI:	bir tane kayık .
 *EXP:	nasıl yanmış o kayık ?
-*CHI:	bir tane tabancayla vurmuş.
+*CHI:	bir tane tabancayla vurmuş .
 *CHI:	yanlış gitmiş sonra .
 *EXP:	tabancayla mı vurmuş ?
 *CHI:	ha .
 *EXP:	nereye gitmiş ?
-*CHI:	ta uzağa gitmiş.
+*CHI:	ta uzağa gitmiş .
 *CHI:	o çocuk ta [: da] ağlıyor .
 *CHI:	o adam da .
 *CHI:	dolu adamlar ağlıyor .
 *EXP:	nerde gördün sen bunu ?
 *CHI:	babamla gitmiştik bakmıştık .
-*CHI:	bir tane televizyonda bir tane kovboylar vardı.
+*CHI:	bir tane televizyonda bir tane kovboylar vardı .
 *CHI:	bir tane kayığı yakmışlardı bir tanesini .
 *CHI:	bir tanesini yakmışlar .
 *EXP:	ne ayıp değilmi ?
@@ -156,7 +156,7 @@
 *EXP:	atar mısın topunu biraz ?
 *CHI:	atarım .
 *EXP:	nasıl atarsın canım ?
-*CHI:	bu topun bombası.
+*CHI:	bu topun bombası .
 *CHI:	bir tane attımmı bomba patlar .
 *EXP:	nasıl atarsın ?
 *CHI:	koyarım bir tane tekmek [: tekme] atarım .
@@ -167,7 +167,7 @@
 *EXP:	neyin ?
 *CHI:	balıkların .
 *CHI:	canlı balıkların .
-*CHI:	kafasını beynini ayağını.
+*CHI:	kafasını beynini ayağını .
 *CHI:	sonra kafası burda da sıkışır .
 *EXP:	peki sen bazen resim yapar mısın ?
 *CHI:	yaparım .
@@ -191,26 +191,26 @@
 *CHI:	büyük hayvan .
 *CHI:	büyük hayvan nereye tırmandı biliyor musun ?
 *EXP:	nereye tırmandı canım ?
-*CHI:	küçük ayı vardı , küçük ayı.
+*CHI:	küçük ayı vardı , küçük ayı .
 *CHI:	büyük te [: de] büyük hayvan .
 *CHI:	tepesine üstüne tırmandı .
 *EXP:	sevdin mi sen onları çok ?
 *CHI:	ama ben giremem içine .
-*CHI:	kapalı.
+*CHI:	kapalı .
 *EXP:	kim götürdü seni ?
-*CHI:	babam götürdü.
+*CHI:	babam götürdü .
 *CHI:	maymunun kafası ne oldu biliyor musun ?
 *EXP:	ne oldu ?
-*CHI:	kafası gözü kıpkırmızı.
+*CHI:	kafası gözü kıpkırmızı .
 *CHI:	bir tane gözlüklü adam var .
 *CHI:	bostanda .
 *EXP:	ne oluyor o ?
 *CHI:	o çocukları topluyor o gözlüklü adam .
-*CHI:	o bir tane gözü.
-*CHI:	şöyle yapmış.
+*CHI:	o bir tane gözü .
+*CHI:	şöyle yapmış .
 %com:	closes one of his eyes , imitating blind man
-*CHI:	hepsini topluyormuş.
-*EXP:	ne yapıyormuş sonra çocukları?
+*CHI:	hepsini topluyormuş .
+*EXP:	ne yapıyormuş sonra çocukları ?
 *CHI:	sonra torbaya atıyor .
 *CHI:	sonra döküyor .
 *EXP:	bu evde kim oturuyor Murat ?
@@ -222,13 +222,13 @@
 *EXP:	babaannen nerde ?
 *CHI:	babaannem Tayyarlarda .
 *EXP:	Tayyarlara mı gitti ?
-*CHI:	hı.
+*CHI:	hı .
 *EXP:	senin annen ne zaman uyur ?
 *CHI:	şimdi uyur .
 *CHI:	iki , üç sabah oluyor .
 *CHI:	hemdencik [: hemencik] yatıyoruz biz .
 *EXP:	sabah olunca mı yatıyorsunuz ?
-*CHI:	hı.
+*CHI:	hı .
 *EXP:	e geceleri ne yapıyorsunuz ?
 *CHI:	sonra kalkıyoruz .
 *CHI:	televizyon seyrediyoruz .
@@ -283,7 +283,7 @@
 *EXP:	evet .
 *CHI:	Aygaz da var .
 *EXP:	ne yapıyorlar orda [: orada] .
-*CHI:	orda mı?
+*CHI:	orda mı ?
 *CHI:	işleri .
 *CHI:	hem sıcak yapıyorlar .
 *CHI:	bir tanesi o gazın icine kaçmış bir tanesi .
@@ -317,7 +317,7 @@
 *CHI:	tınaz uçak .
 *CHI:	mazallah bir uçsa .
 *CHI:	binersin üstüne vız .
-*CHI:	roket gibi hızlı.
+*CHI:	roket gibi hızlı .
 *CHI:	ben de o uçağı kullanırım .
 *CHI:	büyük uçağım olsa vız yukarı kalkarım .
 %com:	speech with father
@@ -331,7 +331,7 @@
 *FAT:	beyendin [: beğendin] mi denizi ?
 *CHI:	hı beyendim [: beğendim] .
 *FAT:	yüzdün orda [: orada] değil mi ?
-*CHI:	hı.
+*CHI:	hı .
 *CHI:	hepsine girmedim ben .
 *FAT:	dün akşam biz sinemaya gittik .
 *FAT:	sinemanın orda [: orada] sandalyelerin altında ne gördün sen ?
@@ -342,8 +342,8 @@
 *CHI:	biliyorum .
 *CHI:	o kedinin aynısı da hayvanat bahçesinde .
 *CHI:	gene aynı renk benziyor .
-*CHI:	bir tane kedinin boyası çıkmış.
-*CHI:	bir tanesi aynı.
+*CHI:	bir tane kedinin boyası çıkmış .
+*CHI:	bir tanesi aynı .
 *FAT:	kedi niye tırmalar ?
 *CHI:	işte tırmalar .
 *CHI:	gidiyorsun burdan bir tarafında var .
@@ -367,19 +367,19 @@
 *FAT:	insanlar niçin su içer ?
 %com:	silence
 *FAT:	yaşamak için .
-*CHI:	hı.
+*CHI:	hı .
 *CHI:	evet .
 *CHI:	köpek su için yaşamak .
 *FAT:	ya kuşlar ne yaparlar Murat ?
 *CHI:	süt içerler .
 *CHI:	köpekler de süt içerler .
 *FAT:	kuşlar ne yapar ?
-*FAT:	uçarlar mı?
-*CHI:	yoruldum ben ayağım sıkıldı.
+*FAT:	uçarlar mı ?
+*CHI:	yoruldum ben ayağım sıkıldı .
 *FAT:	nasıl uçar kuşlar .
 *CHI:	su içerler .
 *CHI:	kanatlarını açar uçarlar .
-*FAT:	onların motoru var mı?
+*FAT:	onların motoru var mı ?
 *CHI:	onların motoru var .
 *FAT:	nasıl motoru ?
 *CHI:	tahta motoru var .
@@ -388,7 +388,7 @@
 *CHI:	kurt yuvarlak kurda benzer .
 *CHI:	baba bak biliyor musun ?
 *CHI:	ormana gittik .
-*CHI:	bir tane yılan varmıştı.
+*CHI:	bir tane yılan varmıştı .
 *CHI:	ben de yılana bakmıştım .
 *FAT:	kurt niye ısırır Murat ?
 *CHI:	o kuş kurdu ısırır .
@@ -397,9 +397,9 @@
 *CHI:	o yatağının altından adam çıkmıştı bir kere .
 *CHI:	sokakta değilmişti .
 *CHI:	o yatağın altında .
-*CHI:	sonra da bir yaramaz maymun büyük hortumu ne yapmıştı.
+*CHI:	sonra da bir yaramaz maymun büyük hortumu ne yapmıştı .
 *CHI:	biliyor musun ?
-*CHI:	büyük hortumu yapmıştı.
+*CHI:	büyük hortumu yapmıştı .
 *FAT:	balıkları biliyor musun sen Murat ?
 *CHI:	biliyorum .
 *FAT:	balıklar nasıl yüzer ?
@@ -409,7 +409,7 @@
 *FAT:	sudan çıktıktan sonra yüzer mi ?
 *CHI:	suyun içinden çıkınca yüzmez .
 *CHI:	a kaç tane var ?
-*FAT:	balıklar denizlerde , nehirlerde var mı?
+*FAT:	balıklar denizlerde , nehirlerde var mı ?
 *CHI:	var .
 *CHI:	balıklar ısırır sonra da denize atlarlar .
 *FAT:	balıklar uyur mu ?

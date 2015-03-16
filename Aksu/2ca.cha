@@ -23,18 +23,18 @@
 *MOT:	aşağıdaki ablanın ismi neydi ?
 *CHI:	aşağıda Serap .
 *CHI:	aşağıdası [: aşağıdaki] ablası gexxx .
-*CHI:	ablası.
+*CHI:	ablası .
 *MOT:	neydi ablasının ismi neydi ?
-*CHI:	Serap ablası.
+*CHI:	Serap ablası .
 *MOT:	oynuyor mu senlen [: senle] ?
-*CHI:	hı.
+*CHI:	hı .
 *MOT:	nasıl oynuyor ?
 *CHI:	jiit gidiyor .
 %com:	referring to a car
 *MOT:	ne oynuyorsunuz ?
 *CHI:	oyuncak .
 *CHI:	kırmızı oyuncaklar .
-*MOT:	ne yaptın oyuncakları?
+*MOT:	ne yaptın oyuncakları ?
 *CHI:	oyuncak , kırmızı oyuncaklar .
 *CHI:	o oyuncak .
 *CHI:	bak pişiyor .
@@ -53,28 +53,28 @@
 *CHI:	getiriyim .
 *CHI:	bak .
 *EXP:	getir bakayım .
-*CHI:	bir iki üç.
+*CHI:	bir iki üç .
 *CHI:	bak .
-*CHI:	beş altı.
+*CHI:	beş altı .
 *CHI:	bak .
 *EXP:	ah ne güzel , ne bunlar ?
 *CHI:	oyuncak .
-*EXP:	ne oyuncağı.
-*CHI:	oyuncağı.
+*EXP:	ne oyuncağı .
+*CHI:	oyuncağı .
 *CHI:	bir de bir xxx tu .
 *CHI:	kutu giriyor .
-*CHI:	bu çıktı.
+*CHI:	bu çıktı .
 *CHI:	oyuncaklar geldi .
 *CHI:	kalmaya geldi bak .
 *CHI:	orda bak .
-*CHI:	oturmuş.
+*CHI:	oturmuş .
 *CHI:	çabuk .
 *CHI:	bu kadar .
 *CHI:	oturur bu kadar .
 *CHI:	dur bu kadar .
-*CHI:	o xxxtı.
+*CHI:	o xxxtı .
 *MOT:	hadi şarkı söyle bir tane .
-*CHI:	bir iki üç.
+*CHI:	bir iki üç .
 *CHI:	bakayım , bakayım .
 *CHI:	jitt gitti .
 *CHI:	buraya .
@@ -94,7 +94,7 @@
 *CHI:	a xxx .
 *CHI:	sarılsın da .
 *CHI:	daha bir daha sarılsın .
-*CHI:	aç , aç bir daha aç.
+*CHI:	aç , aç bir daha aç .
 %com:	referring to a recorder
 *CHI:	bakayım , bakayım , bakayım .
 *CHI:	bakayım , bakayım , bakayım .
@@ -132,9 +132,9 @@
 *CHI:	tabii .
 *CHI:	severim .
 *MOT:	kim yaptı canım ?
-*CHI:	anne yaptı.
-*MOT:	peki bunu kim yaptı?
-*CHI:	anne yaptı.
+*CHI:	anne yaptı .
+*MOT:	peki bunu kim yaptı ?
+*CHI:	anne yaptı .
 *MOT:	annen güzel pasta yapıyor mu ?
 *CHI:	yapıyor .
 *MOT:	yemek te [: de] yapıyor mu ?
@@ -147,25 +147,25 @@
 *CHI:	anneanne getiriyor .
 *CHI:	anneanne getiriyor .
 *MOT:	seviyor musun anneannenin getirdiklerini ?
-*CHI:	hı.
+*CHI:	hı .
 *MOT:	başka ne getiriyor anneanne ?
 *CHI:	pasta .
 *MOT:	başka ?
 *CHI:	şeker .
 *MOT:	başka ?
 *CHI:	çık çık çık .
-*CHI:	çıkmış.
+*CHI:	çıkmış .
 %com:	animals out of a house
-*MOT:	açsana onun kapağını.
+*MOT:	açsana onun kapağını .
 *CHI:	kapıyım .
 *CHI:	açıyım .
 *CHI:	bak açtım .
 *CHI:	bak açtım .
-*MOT:	yavaş yavaş.
+*MOT:	yavaş yavaş .
 *CHI:	tabii .
 *CHI:	şimdi kapayalım .
 *CHI:	kalsınlar .
-*CHI:	bu kutu koymuş.
+*CHI:	bu kutu koymuş .
 *CHI:	bak buraya .
 *CHI:	bu kapakta böyle .
 %com:	hard to tell whether he means bu "kapak ta" or "bu kapakta"
@@ -184,7 +184,7 @@
 *CHI:	bahçe yapıyorum onlan [: onla] .
 *EXP:	bir bahçe yap bakalım bana .
 *CHI:	bak .
-*CHI:	bak ışık gelmiş.
+*CHI:	bak ışık gelmiş .
 *CHI:	çıkar çıkar .
 *CHI:	çıkar çıkar .
 *CHI:	çıkar çıkar .
@@ -195,7 +195,7 @@
 *CHI:	kutu ver .
 *CHI:	kutu ver .
 *CHI:	küçük kutu .
-*CHI:	sıkılmış.
+*CHI:	sıkılmış .
 *CHI:	tamam .
 *CHI:	ha bak girsin .
 *CHI:	bu da .
@@ -221,7 +221,7 @@
 *CHI:	işe gitti .
 *CHI:	işine gitti .
 *MOT:	kapıyı ver , kapa kapa .
-*CHI:	kapa kapısı.
+*CHI:	kapa kapısı .
 *EXP:	kapısı yok canım , kapısı yok onun .
 %com:	referring to the house
 *CHI:	bunlar .
@@ -241,14 +241,14 @@
 *MOT:	Tan beni bulamaz .
 *CHI:	up@o la@o .
 %com:	sound gesture
-*MOT:	yavaş.
+*MOT:	yavaş .
 *CHI:	iki .
 *CHI:	up@o da@o .
 %com:	sound gesture again/ throwing toys around now playing with a car
 *CHI:	çıkıyor , çıkıyor bunlar .
-*CHI:	çıktı.
-*CHI:	kamyon çıktı.
-*CHI:	bu da çıktı.
+*CHI:	çıktı .
+*CHI:	kamyon çıktı .
+*CHI:	bu da çıktı .
 *CHI:	bak bibip@c .
 *CHI:	bu bibip@c .
 *CHI:	buraya gelsin .
@@ -256,17 +256,17 @@
 *CHI:	bak sonra .
 *CHI:	sok onu buraya .
 *CHI:	kapat .
-*MOT:	kapağını mı?
-*CHI:	hı , aç.
-*CHI:	hadi aç.
+*MOT:	kapağını mı ?
+*CHI:	hı , aç .
+*CHI:	hadi aç .
 *CHI:	kapat .
-*CHI:	açtı.
+*CHI:	açtı .
 *MOT:	yeter artık .
 *CHI:	kapanır .
 *CHI:	açılır .
 %com:	referring to the recorder
-*CHI:	getirmemiş.
-*CHI:	kapanmış.
+*CHI:	getirmemiş .
+*CHI:	kapanmış .
 *CHI:	hadi .
 *CHI:	açmak istemiyorum .
 *CHI:	up@o ba@o , up@o ba@o .
@@ -293,10 +293,10 @@
 *EXP:	ne aldınız ?
 *CHI:	mutta [: yumurta] .
 *EXP:	mutta [: yumurta] da ne ?
-*EXP:	yumurta mı?
+*EXP:	yumurta mı ?
 *CHI:	he .
 %com:	affirmative sound gesture
-*CHI:	xxx mı?
+*CHI:	xxx mı ?
 *CHI:	aynısı var .
 *EXP:	aynısı mı var ?
 *EXP:	ne bu ?
@@ -411,8 +411,8 @@
 *EXP:	sen neyle resim yaparsın ?
 *CHI:	ne ?
 *CHI:	ver .
-*CHI:	ver bunları.
-*EXP:	onları vermem , evvela resim yapacaz [: yapacağız] tamam mı?
+*CHI:	ver bunları .
+*EXP:	onları vermem , evvela resim yapacaz [: yapacağız] tamam mı ?
 *CHI:	oppa oh .
 %com:	sound gesture
 *EXP:	gel kalem verecem ben sana , kağıt verecem .
@@ -442,7 +442,7 @@
 *CHI:	iki gün .
 *EXP:	nereye oturdun sen ?
 *CHI:	versene bunu buraya .
-*CHI:	yaptı baba burayı.
+*CHI:	yaptı baba burayı .
 *EXP:	kim bozdu ?
 *CHI:	dingi dingi .
 *EXP:	senin annen uyudu mu bugün ?
@@ -452,18 +452,18 @@
 *CHI:	süslendi .
 *EXP:	nasıl süslendi ?
 %com:	demonstrates
-*CHI:	saçını taradı.
-*CHI:	hı.
+*CHI:	saçını taradı .
+*CHI:	hı .
 *EXP:	peki kim ütü ütülüyor evde ?
-*EXP:	ütü.
-*CHI:	ütü.
+*EXP:	ütü .
+*CHI:	ütü .
 *CHI:	böyle .
 *EXP:	böyle ütüyü kim ütülüyor ?
 *CHI:	adida@c .
 *EXP:	adida@c yapıyor değil mi ?
-*EXP:	ne zaman ütü yaptı?
+*EXP:	ne zaman ütü yaptı ?
 *CHI:	ütü bezi .
-*EXP:	yerleri süpürdü mü?
+*EXP:	yerleri süpürdü mü ?
 %com:	affirmative gesture
 *CHI:	gidiyor buraya .
 *CHI:	buraya bak .
@@ -473,7 +473,7 @@
 *CHI:	boncuk açtık .
 %com:	the program of Incik and Boncuk
 *EXP:	sen seyrediyor musun televizyon ?
-*CHI:	hı.
+*CHI:	hı .
 *EXP:	bak yerleri temizliyor .
 %com:	the lady is cleaning
 *EXP:	neyle temizliyor ?
@@ -481,11 +481,11 @@
 *CHI:	ay bak buraya raxxx .
 *EXP:	baba eve gelecek mi akşam ?
 *CHI:	gelecek .
-*EXP:	okuyacak mı?
+*EXP:	okuyacak mı ?
 *CHI:	okuyacak .
 *EXP:	ne zaman okuyacak ?
 *CHI:	iki günde .
-*EXP:	senin kardeşin var mı?
+*EXP:	senin kardeşin var mı ?
 *CHI:	var .
 *EXP:	kim senin kardeşin ?
 *CHI:	hadi uyusunlar .
@@ -494,9 +494,9 @@
 *CHI:	bir çıksın .
 *CHI:	buraya çıksın .
 *CHI:	çıksın .
-*CHI:	çıktı.
+*CHI:	çıktı .
 *CHI:	buraya çıktı bu .
-*CHI:	şu çıktı.
+*CHI:	şu çıktı .
 *CHI:	gelsin .
 *CHI:	çıksın .
 *CHI:	o çıksın .
@@ -540,10 +540,10 @@
 *EXP:	niye seni bırakıp gitti ?
 *CHI:	evine gitti .
 *EXP:	bugün hava çok soğuk biliyor musun ?
-*CHI:	hı.
+*CHI:	hı .
 *EXP:	kaloriferler yanıyor mu ?
 *CHI:	yanmıyor .
-*EXP:	niye yakmıyor kapıcı?
+*EXP:	niye yakmıyor kapıcı ?
 *CHI:	e yakmıyor .
 *CHI:	yakmıyacak [: yakmayacak] .
 *CHI:	hiç yakmıyacak [: yakmayacak] .

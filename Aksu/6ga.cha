@@ -26,8 +26,8 @@
 *CHI:	düşmüş oğlan .
 *CHI:	sonra .
 *CHI:	sonra xxx .
-*CHI:	yara olmuş.
-*EXP:	çocuklar koşar mı?
+*CHI:	yara olmuş .
+*EXP:	çocuklar koşar mı ?
 *CHI:	hayır .
 *EXP:	niye koşmazlar ?
 *CHI:	işte .
@@ -79,7 +79,7 @@
 *EXP:	şimdi şuradan baksan neler görürsün ?
 %com:	she means the view out of the window
 *CHI:	ağaçlar .
-*CHI:	ağaç.
+*CHI:	ağaç .
 *CHI:	ev görüyorum .
 *CHI:	tahtalı ev .
 *CHI:	sonra xxx .
@@ -104,7 +104,7 @@
 *CHI:	ev yapıyorum .
 *EXP:	neresi orası evin ?
 *CHI:	penceresi .
-*EXP:	kimin eviymiş?
+*EXP:	kimin eviymiş ?
 *CHI:	senin evin .
 *EXP:	başka nesi var evin ?
 *EXP:	orası neresi ?
@@ -124,7 +124,7 @@
 *EXP:	neler görüyor o çocuk , bakınca pencereden ?
 *CHI:	ağaçlar .
 *EXP:	başka ne görüyor ?
-*CHI:	dalları.
+*CHI:	dalları .
 *CHI:	dal .
 *CHI:	dal , dal .
 *EXP:	dalların arasında ne var ?
@@ -134,7 +134,7 @@
 *EXP:	çok güzel .
 *EXP:	senin pantolonunu xxx kim aldı onu sana ?
 *CHI:	annem .
-*EXP:	ne zaman aldı?
+*EXP:	ne zaman aldı ?
 *CHI:	dün .
 *EXP:	bu evde kimler oturuyor ?
 *CHI:	biz .
@@ -156,13 +156,13 @@
 *CHI:	anneanne dört .
 *CHI:	babam oniki .
 *CHI:	ben dört .
-*CHI:	abim onbeş.
+*CHI:	abim onbeş .
 *EXP:	babanı anlat bana .
 *CHI:	Cengiz Erensoy .
 *EXP:	ne yapar baban ?
 *CHI:	gemiye gider .
 *EXP:	ne zaman gider gemiye ?
-*CHI:	dün , akşamları.
+*CHI:	dün , akşamları .
 *EXP:	ne yapıyor gemide baban ?
 *CHI:	iş yapıyor .
 *EXP:	sen de gider misin gemiye birgün ?
@@ -174,7 +174,7 @@
 *EXP:	ne zaman uyur anne ?
 *CHI:	akşam .
 *EXP:	nasıl süsleniyor annen ?
-*CHI:	bayağı bayağı.
+*CHI:	bayağı bayağı .
 *EXP:	göster bakayım .
 *CHI:	bayağı süsleniyor .
 *EXP:	kim ütü ütülüyor bu evde ?
@@ -201,17 +201,17 @@
 *CHI:	bu kadar , kutuyla .
 *EXP:	bugün ne oldu ?
 *EXP:	ben geldim birşey oldu .
-*CHI:	elim sıkıştı.
-*EXP:	nerde sıkıştı?
+*CHI:	elim sıkıştı .
+*EXP:	nerde sıkıştı ?
 *CHI:	babamın kapısının orda .
-*EXP:	acıdı mı?
-*CHI:	acıdı.
+*EXP:	acıdı mı ?
+*CHI:	acıdı .
 *EXP:	geçti ama değil mi ?
 *CHI:	geçti .
 *EXP:	nasıl oldu , anlat .
 *CHI:	parmağımı soktum .
 *EXP:	ee xxx .
-*CHI:	sonra sıkıştı.
+*CHI:	sonra sıkıştı .
 *EXP:	başka birşey söyliyecenmi [: söyleyecek misin] ?
 *EXP:	sen bir hikaye biliyor musun ?
 *CHI:	bilmiyorum .
@@ -219,14 +219,14 @@
 *CHI:	ben onu sevmiyorum .
 *MOT:	peki , Arslan Mehmetçik'i söyle .
 *MOT:	kargayı anlat .
-*CHI:	birgün bir birgün parça aptal karga , peynir çalmış.
-*CHI:	uçmuş , bir dala konmuş.
-*CHI:	her tarafı seyre dalmış.
+*CHI:	birgün bir birgün parça aptal karga , peynir çalmış .
+*CHI:	uçmuş , bir dala konmuş .
+*CHI:	her tarafı seyre dalmış .
 *CHI:	ordan bir geçen tilki .
-*CHI:	şen sesiyle öt demiş.
-*CHI:	aptal karga gak demiş.
+*CHI:	şen sesiyle öt demiş .
+*CHI:	aptal karga gak demiş .
 *MOT:	sonra ?
-*CHI:	peyniri tilki almış.
+*CHI:	peyniri tilki almış .
 *EXP:	hayvanları anlat bana .
 *CHI:	hayvanlar .
 *EXP:	sonra ?
@@ -263,7 +263,7 @@
 *CHI:	duranlar sonra benziyor xxx .
 *EXP:	zürafa neye benziyor ?
 *CHI:	şeye benziyor .
-*EXP:	kediler tırmalar mı?
+*EXP:	kediler tırmalar mı ?
 *CHI:	tırmalar .
 *EXP:	niye tırmalar ?
 *CHI:	işte .
@@ -307,7 +307,7 @@
 *CHI:	şey içerler .
 *CHI:	kemik yiyerler [: yerler] .
 *EXP:	hiçbirşey içmezler mi ?
-*CHI:	hiç.
+*CHI:	hiç .
 *EXP:	kuşlar ne yapar ?
 *CHI:	onlar su içerler .
 *CHI:	su içerler .
@@ -320,12 +320,12 @@
 *EXP:	nereye giderler acaba ?
 *CHI:	ben bilmiyorum .
 *EXP:	bunlar nesi kuşların ?
-*CHI:	kanatları.
+*CHI:	kanatları .
 *EXP:	kurtları anlat .
 *CHI:	kurtlar ne yapar , dağlarda gezer .
 *CHI:	sonra kurtlar uzaklara gider .
 *CHI:	yollara giderler sonra .
-*EXP:	kurtlar ısırır mı?
+*EXP:	kurtlar ısırır mı ?
 *CHI:	ısırır .
 *EXP:	niye ısırır ?
 *CHI:	işte .
@@ -336,7 +336,7 @@
 *CHI:	gezer denizin içinde .
 *CHI:	biz gitmiştik , hiç balık yok .
 *CHI:	hiç balık yok , dibindeymiş onlar hepsi de .
-*CHI:	hepsi de dibindeymiş.
+*CHI:	hepsi de dibindeymiş .
 *EXP:	bu nesi ?
 *CHI:	kuyruğu .
 *CHI:	sonra xxx .
@@ -347,17 +347,17 @@
 *EXP:	hadi söyle bir tane .
 *CHI:	bilmiyorum .
 *CHI:	aptal kargayı söyliyeyim [: söyleyeyim] .
-*CHI:	bir gün aptal karga bir parça peynir çalmış.
-*CHI:	uçmuş , bir dala konmuş.
-*CHI:	her tarafı seyre dalmış.
-*CHI:	seyre dalmış.
+*CHI:	bir gün aptal karga bir parça peynir çalmış .
+*CHI:	uçmuş , bir dala konmuş .
+*CHI:	her tarafı seyre dalmış .
+*CHI:	seyre dalmış .
 *CHI:	ordan geçen bir tilki .
-*CHI:	sen sesinle öt demiş.
-*CHI:	aptal karga gak demiş.
-*CHI:	gak demiş.
-*CHI:	öt demiş.
-*CHI:	aptal karga gak demiş; .
-*CHI:	peyniri de tilki yemiş.
+*CHI:	sen sesinle öt demiş .
+*CHI:	aptal karga gak demiş .
+*CHI:	gak demiş .
+*CHI:	öt demiş .
+*CHI:	aptal karga gak demiş ; .
+*CHI:	peyniri de tilki yemiş .
 *EXP:	Atatürk'ü anlat .
 *CHI:	Atatürk , en güzel yer , senin yerin Atatürk .
 *CHI:	en güzel yer senin yer , Atatürk .
@@ -379,7 +379,7 @@
 %com:	repaced twenty+three with yirmi üç based on the comment above
 *EXP:	bugün ne oldu , ne yaptık ?
 *CHI:	hayvanlarla oynadım .
-*EXP:	sen seviyor musun hayvanlarla oynamayı?
+*EXP:	sen seviyor musun hayvanlarla oynamayı ?
 *CHI:	evet .
 *EXP:	annenler nereye gitti ?
 *CHI:	sinemaya gitti .
@@ -388,8 +388,8 @@
 *CHI:	sonra burda [: burada] sinema .
 *CHI:	çocuklar çıkıyor , babalar çıkıyor , tabii .
 *CHI:	sonra burda [: burada] oyun oynuyorlar .
-*EXP:	sen bir film gördün mü?
-*CHI:	görmedim hiç.
+*EXP:	sen bir film gördün mü ?
+*CHI:	görmedim hiç .
 *CHI:	sinemaya gitmedim .
 *EXP:	nereye gidiyorsun ?
 *CHI:	Yiğit teyzeme gidiyorum .
@@ -405,9 +405,9 @@
 *CHI:	lingo@c şeyim de var bunlarda .
 %com:	he is referring to a toy , probably to a lego set .
 *CHI:	lengo@c şeyim de var .
-*CHI:	bu renklerden vardı.
-*CHI:	sonra , şu renk vardı.
-*CHI:	şu renk vardı.
+*CHI:	bu renklerden vardı .
+*CHI:	sonra , şu renk vardı .
+*CHI:	şu renk vardı .
 *EXP:	tarif et , neyin içinde ne var .
 *CHI:	tren , boncuk , tahta , sepet , ev , tahtalar , boncuklar , kutu xxx .
 *EXP:	herşey nerde ?
@@ -420,8 +420,8 @@
 *CHI:	bu burda [: burada] , üstünde .
 *EXP:	kamyonun neresinde ?
 *CHI:	burasında .
-*EXP:	neresi orası?
-*CHI:	burası , yakını.
+*EXP:	neresi orası ?
+*CHI:	burası , yakını .
 *CHI:	taş , bunun içinde dursun .
 *CHI:	kamyon burda .
 *CHI:	taş kahvenin içinde .

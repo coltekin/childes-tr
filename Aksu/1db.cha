@@ -30,7 +30,7 @@
 *CHI:	benim de bodrumda var köpeğim , o beni hiç tanıyor ama hiç ısırmıyor .
 *EXP:	sen onun yanına gidince ne yapıyor seni görünce ?
 *CHI:	mama ver diyor ancak .
-*CHI:	ben de doğruyorum mamasını.
+*CHI:	ben de doğruyorum mamasını .
 *CHI:	onun mamasını ben pişiriyorum .
 *EXP:	nasıl pişiriyorsun söyle bakayım ?
 *CHI:	cezveyi döküyorum bahçeye .
@@ -72,26 +72,26 @@
 *EXP:	nasıl uçar kuşlar ?
 *CHI:	cikk cik ede ede uçarlar .
 *EXP:	bunlar ne ?
-*CHI:	kuş.
+*CHI:	kuş .
 *EXP:	bunlar nesi ?
-*CHI:	kanatları.
+*CHI:	kanatları .
 *EXP:	ne yapıyor uçarken ?
 *CHI:	şöyle şöyle yapıyor , uçuyor .
-*EXP:	sen hiç kuş gördün mü?
+*EXP:	sen hiç kuş gördün mü ?
 *CHI:	gördüm , sokaklarda uçar .
 *EXP:	sen kuşlara ne yediriyorsun ?
 *CHI:	ekmek .
 *CHI:	ıslatıp yediriyorum .
 *CHI:	ondan sonra ıslatıp veriyorum .
-*CHI:	pencereden atıyorum aşağıya bazıları.
+*CHI:	pencereden atıyorum aşağıya bazıları .
 *CHI:	ondan sonra yerlerde geziniyorlar .
-*CHI:	hem onlar yiyorlar , hem yavruları.
+*CHI:	hem onlar yiyorlar , hem yavruları .
 *EXP:	kurtları anlat .
 *CHI:	kurt ne yer ?
 *EXP:	sen kurt hikayesi biliyor musun ?
 *CHI:	bilmiyorum .
 *EXP:	bak bu nesi ?
-*CHI:	ayağı.
+*CHI:	ayağı .
 *EXP:	bu ?
 *CHI:	kuyruğu o .
 *EXP:	kurt niye ısırır acaba ?
@@ -112,27 +112,27 @@
 *EXP:	ibre kuşunu anlat .
 *EXP:	bir varmış bir yokmuş xxx .
 *EXP:	cadı karıyı anlat .
-*CHI:	hiç ben sevmem cadı karıyı.
-*CHI:	Okolonya bir gün top düşürmüş.
+*CHI:	hiç ben sevmem cadı karıyı .
+*CHI:	Okolonya bir gün top düşürmüş .
 %com:	Okolanya is the name of the character in the story
 *CHI:	Okolonya hemen xxx .
 *CHI:	ondan sonra Okolanya xxx .
 *CHI:	arap çıkmış bir tane .
 *CHI:	bir tane sofra vereyim de .
-*CHI:	ama açınca çeşit çeşit yeme demiş.
-*EXP:	sen çeşitli yemek yeme mi demiş?
+*CHI:	ama açınca çeşit çeşit yeme demiş .
+*EXP:	sen çeşitli yemek yeme mi demiş ?
 *CHI:	hı , çünkü açıl sofram açıl .
-*EXP:	kız mı varmış?
+*EXP:	kız mı varmış ?
 *CHI:	kız varmış benim gibi .
-*CHI:	küçük kız benim adımdaymış , Nağmeymiş.
-*CHI:	bu prenses birgün kurt kardeşin toprağını almış.
-*CHI:	evlerine götürmüş.
+*CHI:	küçük kız benim adımdaymış , Nağmeymiş .
+*CHI:	bu prenses birgün kurt kardeşin toprağını almış .
+*CHI:	evlerine götürmüş .
 *CHI:	ibre kuşu daha güzel .
 *CHI:	bir varmış , bir yokmuş , kalbur saman içinde .
-*CHI:	bir tane ibre kuşu varmış.
+*CHI:	bir tane ibre kuşu varmış .
 *CHI:	ondan sonra bu ibici@c kuşu .
-*CHI:	çalılarda hoppidi hoppidi zıplarken poposuna çalı.
-*CHI:	batmış.
+*CHI:	çalılarda hoppidi hoppidi zıplarken poposuna çalı .
+*CHI:	batmış .
 *CHI:	vay popom , vay popom .
 *CHI:	şimdi dur kurt kardeşe söyliyeyim [: söyleyeyim] de seni xxx versin .
 *EXP:	dün ne yaptınız ?
@@ -142,9 +142,9 @@
 *CHI:	ondan sonra onun kocası da geldi .
 *CHI:	onun karısı da geldi .
 *CHI:	ondan sonra kaç kişi , on kişi olduk .
-*CHI:	dayım geldi , matematik yaptı.
+*CHI:	dayım geldi , matematik yaptı .
 *CHI:	ben bizim resmimizi çektim .
-*EXP:	Bop@c amca ne yaptı?
+*EXP:	Bop@c amca ne yaptı ?
 *CHI:	Bop@c amca da yedi , ne yapsın .
 *CHI:	Bop@c amcam da yedi .
 *CHI:	ona ben Bop@c amca demiyorum .
@@ -154,9 +154,9 @@
 *EXP:	ne yapıyorlar o hayvanlar ?
 *CHI:	bu niye durmuyor ?
 *CHI:	bunun bir ayağı kırıldı mı ?
-*CHI:	hangi ayağı kırıldı?
-*EXP:	bak koyuna ne olmuş?
-*CHI:	koyunun ayağı kırılmış , zavallı.
+*CHI:	hangi ayağı kırıldı ?
+*EXP:	bak koyuna ne olmuş ?
+*CHI:	koyunun ayağı kırılmış , zavallı .
 *CHI:	biz onu yapıştıralım mı ?
 *CHI:	bizde var oyuncak ayak .
 *CHI:	bunu da takalım .
@@ -164,12 +164,12 @@
 *CHI:	bunu da takalım .
 *EXP:	inek nerde ?
 *CHI:	onu da durdur .
-*CHI:	bunun ayağı kırılmış mı?
+*CHI:	bunun ayağı kırılmış mı ?
 *CHI:	onlar niye durmuyor ?
 *EXP:	nerde duruyor o cici ?
 *CHI:	orda duruyorlar .
 *CHI:	bunun yanında , burada .
-*CHI:	şeyin altına koyalım bunları.
+*CHI:	şeyin altına koyalım bunları .
 *EXP:	neyin ?
 *CHI:	şeyimin altına .
 *EXP:	niye ?
@@ -188,33 +188,33 @@
 *CHI:	başka kimseyi görmedim dedim .
 *CHI:	yedi cüceyi anlatayım mı cadı karıylan [: karıyla] ?
 *EXP:	anlat .
-*CHI:	bak şimdi , bir varmış bir yokmuş.
+*CHI:	bak şimdi , bir varmış bir yokmuş .
 *CHI:	bir tane yedi cüce varmış , hayat yolunda .
-*CHI:	o cüce bulamıyormuş.
+*CHI:	o cüce bulamıyormuş .
 *EXP:	nasıl hayat yolunda ?
 *CHI:	hayat yolu yol demek .
-*EXP:	o cüce ne yapıyormuş?
+*EXP:	o cüce ne yapıyormuş ?
 *CHI:	o mama bulmuş bir tane .
 *CHI:	ne yapsın .
-*CHI:	mandalina bulmuş , yemiş.
-*CHI:	pişirmiş , karnı doymuş.
-*CHI:	annesi eve gelmiş.
+*CHI:	mandalina bulmuş , yemiş .
+*CHI:	pişirmiş , karnı doymuş .
+*CHI:	annesi eve gelmiş .
 *CHI:	ne yedin sen ?
-*CHI:	ben mandalina yedim , yemem demiş.
+*CHI:	ben mandalina yedim , yemem demiş .
 *CHI:	annesi üveymiş meğer .
 *CHI:	kalmamış yemek .
 *CHI:	ondan sonra o gece babası gelmiş eve .
-*CHI:	akşam olmuş.
+*CHI:	akşam olmuş .
 *CHI:	yine gidiyormuş çarşıya .
 *CHI:	yine mandalina .
-*CHI:	annesiyle beraber babasıyla yemiş.
-*CHI:	ondan sonra çiçek de almış.
-*CHI:	onu da yemiş.
+*CHI:	annesiyle beraber babasıyla yemiş .
+*CHI:	ondan sonra çiçek de almış .
+*CHI:	onu da yemiş .
 *CHI:	babasıyla , annesiyle beraber .
-*CHI:	ondan sonra karnı doymuş.
-*CHI:	ondan sonra doktor amcası gelmiş.
-*CHI:	iğne vurmuş.
-*EXP:	sen başka çocuklarla oynadın mı?
+*CHI:	ondan sonra karnı doymuş .
+*CHI:	ondan sonra doktor amcası gelmiş .
+*CHI:	iğne vurmuş .
+*EXP:	sen başka çocuklarla oynadın mı ?
 *CHI:	oynadım .
 *EXP:	kimlerle oynadın ?
 *CHI:	Selma ablamlan [: ablamla] .
@@ -285,7 +285,7 @@
 *CHI:	benim koltuk süpürgem var .
 *CHI:	onunla temizliyorum .
 *CHI:	bayağı toz alıyorum artık .
-*CHI:	bayağı.
+*CHI:	bayağı .
 *CHI:	şu taşları bütün .
 *CHI:	siliyorum .
 *CHI:	süpürüyorum .

@@ -13,7 +13,7 @@
 *CHI:	yuvarlak bisküvi .
 *EXP:	tabaklar güzelmiş , ben bu tabakları beyendim [: beğendim] .
 *CHI:	benim de evde var böyle yuvarlak bisküvi .
-*EXP:	var mı?
+*EXP:	var mı ?
 *EXP:	kim alıyor senin bisküvitlerini ?
 *CHI:	babam .
 *EXP:	annen kurabiye yapıyor mu ?
@@ -31,7 +31,7 @@
 *EXP:	eve mi gidiyorsun ?
 *EXP:	sen okulu seviyor musun Özlem ?
 %com:	affirmative gesture
-*EXP:	seviyorsun değil mi , arkadaşların var mı?
+*EXP:	seviyorsun değil mi , arkadaşların var mı ?
 %com:	affirmative
 *EXP:	kim arkadaşın senin ?
 *CHI:	Yalçın .
@@ -48,8 +48,8 @@
 *EXP:	ne yapıyorsunuz dışarda ?
 *CHI:	sallanıyoruz .
 *EXP:	niçin sallanıyorsunuz ?
-*CHI:	hadi oynayalım mı?
-*EXP:	senin arkadaşların koşarlar mı?
+*CHI:	hadi oynayalım mı ?
+*EXP:	senin arkadaşların koşarlar mı ?
 %com:	affirmative gesture
 *EXP:	niçin koşarlar ?
 *CHI:	hangi ?
@@ -65,26 +65,26 @@
 *CHI:	traktör oyunu .
 *EXP:	kiminle oynarsın ?
 *CHI:	ben seninle oynarım .
-*EXP:	peki , sen resim yapar mısın hiç?
+*EXP:	peki , sen resim yapar mısın hiç ?
 %com:	affirmative gesture
 *EXP:	neylen [: neyle] yapıyorsun resim ?
 *CHI:	kalemle .
 *EXP:	güzel resimler yapar mısın ?
 %com:	affirmative
 *EXP:	bunu kim verdi sana ?
-*CHI:	annem aldı.
-*EXP:	nerden aldı?
+*CHI:	annem aldı .
+*EXP:	nerden aldı ?
 *CHI:	Marmaris tatil köyünden .
-*EXP:	güzel miydi Marmaris tatil köyü?
+*EXP:	güzel miydi Marmaris tatil köyü ?
 *CHI:	sen hiç gittin mi Marmaris tatil köyüne ?
 *EXP:	gittim ya .
 *EXP:	biliyormusun , benim annem de Marmariste .
-*EXP:	sen denize girdin mi hiç yüzdün mü?
-*CHI:	sen yüzdün mü?
+*EXP:	sen denize girdin mi hiç yüzdün mü ?
+*CHI:	sen yüzdün mü ?
 *EXP:	ben yüzdüm .
 *EXP:	sevdin mi denizi ?
 %com:	affirmative
-*EXP:	senin simidin var mı?
+*EXP:	senin simidin var mı ?
 %com:	affirmmative gesture
 *CHI:	sen Marmariste ne yaptın ?
 *EXP:	yüzdüm , denize girdim .
@@ -92,7 +92,7 @@
 %com:	affirmative gesture
 *EXP:	nasıl yüzüyorsun , söyle bana .
 *CHI:	şöyle şöyle .
-*EXP:	balıkları gördün mü?
+*EXP:	balıkları gördün mü ?
 *EXP:	ne balığı seviyorsun sen ?
 *EXP:	ne içmesini seviyorsun ?
 %com:	she is drinking lemonade
@@ -115,7 +115,7 @@
 %com:	affirmative gesture
 *EXP:	ne zaman ütülüyor ?
 *CHI:	ütü bozulmuştu .
-*CHI:	sonra babam tamir etti ütüyü.
+*CHI:	sonra babam tamir etti ütüyü .
 *EXP:	e peki , annen ne zaman ütü ütülüyor ?
 *CHI:	orda ütülüyor .
 *EXP:	nerede ütülüyor , gece mi ütülüyor , gündüz mü ütülüyor ?
@@ -164,7 +164,7 @@
 *CHI:	palyaço .
 *EXP:	sen ne taraf .
 %com:	tries to go under the desk
-*EXP:	sen oralara olmaz , bak burada bebeğin bacakları kalmış.
+*EXP:	sen oralara olmaz , bak burada bebeğin bacakları kalmış .
 *EXP:	senin bebeklerin var mı kızım ?
 *CHI:	var .
 *EXP:	nerde bebeklerin , burada mı , evde mi ?
@@ -173,7 +173,7 @@
 *EXP:	oynarız .
 *CHI:	sen bunları topluyor musun ?
 *EXP:	evet .
-*EXP:	bak burada evin çatısı var , gördün mü?
+*EXP:	bak burada evin çatısı var , gördün mü ?
 *EXP:	sen bu tüfeğini kenara koy .
 *CHI:	senin kalemin nerede ?
 *CHI:	hani ?
@@ -201,9 +201,9 @@
 *EXP:	nereye gitti , daireye mi gitti ?
 *CHI:	daireye gitti .
 *EXP:	yapma deyince yapmıyor musun ?
-*EXP:	evde kim var sizin evde , hizmetçi var mı?
+*EXP:	evde kim var sizin evde , hizmetçi var mı ?
 *CHI:	yok .
-*EXP:	anneanne , dede var mı?
+*EXP:	anneanne , dede var mı ?
 *EXP:	anneannen var mı senin ?
 *CHI:	var .
 *EXP:	nerde anneannen ?
@@ -227,9 +227,9 @@
 *CHI:	şimdi şey ver xxx o kutuları ver .
 *EXP:	şimdi sana hepsini vereceğim bir başka oyun oynayacağız .
 *CHI:	bir de tahta ver .
-*EXP:	şimdi sana bir hayvan verecem , kazı mı istersin , tavşanı mı?
-*CHI:	kadını.
-*EXP:	hangi hayvanı?
+*EXP:	şimdi sana bir hayvan verecem , kazı mı istersin , tavşanı mı ?
+*CHI:	kadını .
+*EXP:	hangi hayvanı ?
 *CHI:	hayvan işte .
 *EXP:	işte geyik .
 *CHI:	ben hayvan istiyorum .
@@ -257,9 +257,9 @@
 *CHI:	uyumuyacağım [: uyumayacağım] .
 *EXP:	peki ben onları toplayım o zaman senin baban gelirse .
 *CHI:	olmadı bak .
-*EXP:	ne olmadı çocuğum , köprü mü olmadı?
+*EXP:	ne olmadı çocuğum , köprü mü olmadı ?
 *EXP:	kaldıralım bunu zaten , şimdi küçük hayvanlarla oynayacağız .
-*CHI:	olmadı.
+*CHI:	olmadı .
 *EXP:	dursun burda ne yapalım .
 %com:	playing with a doll
 *CHI:	bunun pantolonunu giydir .
@@ -280,10 +280,10 @@
 *EXP:	burnun akıyor senin .
 *CHI:	çamaşırlar nerede ?
 *CHI:	çamaşırlar nerede acaba ?
-*EXP:	senin kedin var mı hiç?
+*EXP:	senin kedin var mı hiç ?
 *CHI:	yok .
 *EXP:	sen kedi gördün mü hiç sokakta ?
-*EXP:	kedi gördün mü kızım sokakta hiç?
+*EXP:	kedi gördün mü kızım sokakta hiç ?
 %com:	negative gesture
 *EXP:	burnun akıyor ne yapacağız ?
 *CHI:	benim mendilim yok .
@@ -296,8 +296,8 @@
 *EXP:	Özlemcim , kedilerden bahsediyorduk , kedi yavrularını severmisin .
 *EXP:	sen ?
 *CHI:	severim .
-*EXP:	hiç seni kedi tırmaladı mı?
-*CHI:	hiç tırmalamadı.
+*EXP:	hiç seni kedi tırmaladı mı ?
+*CHI:	hiç tırmalamadı .
 *CHI:	şimdi ben balıkçı kebapçıya gittim xxx .
 *EXP:	evet , sonra ne oldu ?
 %com:	somebody brings in cookies
@@ -306,9 +306,9 @@
 *CHI:	kahvaltı geldi .
 *EXP:	şurda dursun onlar .
 *EXP:	sen balıkçı kebapçıya mı gittin ?
-*CHI:	hı.
+*CHI:	hı .
 *CHI:	sonra orda bir kedi gördüm .
-*CHI:	o beni tırmalamadı.
+*CHI:	o beni tırmalamadı .
 *CHI:	o beni sevdi pantolonumdan .
 *EXP:	peki Özlem , kediler niye tırmalar ?
 *CHI:	tırmalamadı beni .
@@ -340,7 +340,7 @@
 *EXP:	al sen de domuza içir .
 *EXP:	niçin içiyor ?
 *CHI:	işte karnı acıkmış diye .
-*EXP:	susamış mı?
+*EXP:	susamış mı ?
 %com:	affirmative gesture
 *EXP:	ondan sonra ben bir de kuşları severim .
 *EXP:	sen kuşlara yem veriyor musun , mama ?
@@ -364,8 +364,8 @@
 *EXP:	niye yatmıyacaksın [: yatmayacaksın] okulda ?
 *EXP:	sen balıkların nasıl yüzdüğünü biliyor musun ?
 *CHI:	oynamayalım artık .
-*CHI:	görmüştüm balığı.
-*EXP:	nerede görmüştün balığı?
+*CHI:	görmüştüm balığı .
+*EXP:	nerede görmüştün balığı ?
 *EXP:	denizde mi ?
 *CHI:	ben misafir köyünde görmüştüm .
 *EXP:	nasıl yüzerler balıklar ?
@@ -383,10 +383,10 @@
 *EXP:	peki kuşlar nasıl uçar sen biliyor musun ?
 *EXP:	şunlar ne ?
 %com:	points wings
-*CHI:	kuş.
+*CHI:	kuş .
 *EXP:	bunlar nesi kuşun ?
-*CHI:	kanadı.
-*EXP:	nasıl uçuyor kuş?
+*CHI:	kanadı .
+*EXP:	nasıl uçuyor kuş ?
 *EXP:	nasıl uçar kuşlar ?
 %com:	gestures
 *EXP:	kurtlar var bir de .

@@ -39,24 +39,24 @@
 *EXP:	e benlen [: benle] oynuyorsun , benlen [: benle] ne oynuyorsun ?
 *CHI:	bunlarlan [: bunlarla] .
 *EXP:	başka ne oynuyoruz biz senlen [: senle] ?
-*CHI:	otobüsü şey yapalım mı?
+*CHI:	otobüsü şey yapalım mı ?
 *CHI:	yürütelim mi ?
-*EXP:	tabii , al otobüsü.
+*EXP:	tabii , al otobüsü .
 *CHI:	işte bak !
 *EXP:	ne renk otobüs ?
-*CHI:	kırmızı.
+*CHI:	kırmızı .
 *EXP:	otobüs ne zaman gider biliyor musun ?
 *CHI:	ne zaman ?
 *EXP:	bilmem , sen biliyor musun ?
 *CHI:	bak açıldı otobüs .
 *EXP:	açıldı ya .
 *CHI:	ah .
-*CHI:	açıldı.
+*CHI:	açıldı .
 *CHI:	giriyorlar bak .
 *CHI:	girdiler .
 %com:	trying to put something in the bus
 *EXP:	Füsuncuğum , baban ne zaman eve gelir ?
-*CHI:	aa xxx kapanmış.
+*CHI:	aa xxx kapanmış .
 *EXP:	sen söyle bana , baban ne zaman eve gelir ?
 *CHI:	on buçukta gelir .
 *EXP:	peki canım .
@@ -64,7 +64,7 @@
 *CHI:	böyle koyuyorum .
 *CHI:	bu girmez , bu girdi yalnız .
 *EXP:	o niye girmez ?
-*CHI:	a xxx acıkmış.
+*CHI:	a xxx acıkmış .
 *EXP:	o niye girmedi içine ?
 *CHI:	girmiyor .
 *EXP:	neden ?
@@ -86,7 +86,7 @@
 *CHI:	yürütücem [: yürüteceğim] anne .
 *MOT:	yürüt canım .
 *MOT:	biraz ütü ütülesene sen , ben sana bir elbise vereyim .
-*MOT:	bu da ütü; ütüler misin bana ?
+*MOT:	bu da ütü ; ütüler misin bana ?
 *CHI:	ütülerim .
 *MOT:	hadi .
 *EXP:	evde kim ütülüyor ?
@@ -111,17 +111,17 @@
 *EXP:	neyle ütülüyorsun ?
 *CHI:	bunla ütülüyorum .
 *EXP:	nedir o ?
-*CHI:	ütü.
-*EXP:	nasıl çalışıyor ütü?
+*CHI:	ütü .
+*EXP:	nasıl çalışıyor ütü ?
 *CHI:	böyle yapınca .
 *CHI:	bu ısınıyor , öyle ütülüyor .
-*EXP:	senin topun var mı?
+*EXP:	senin topun var mı ?
 *CHI:	var var .
 *EXP:	atıyor musun topu bazen ?
 *CHI:	atmıyorum .
 *EXP:	niçin atmıyorsun ?
 *CHI:	atmıyorum .
-*EXP:	niçin ama , top atılmaz mı?
+*EXP:	niçin ama , top atılmaz mı ?
 *CHI:	çık .
 %com:	çık: sound gesture , meaning no
 *CHI:	atılmaz .
@@ -150,7 +150,7 @@
 %com:	she is giving the ironed clothes away .
 *CHI:	bulduk işte .
 %com:	the pants
-*CHI:	bak ne olmuş şurası!
+*CHI:	bak ne olmuş şurası !
 *MOT:	ne olmuş canım ?
 *CHI:	bak ne olmuş , yırtık .
 *MOT:	ne yapalım , ziyanı yok .
@@ -179,7 +179,7 @@
 *EXP:	bak buraya bunları koyayım .
 *CHI:	otobüse alalım .
 *EXP:	alalım , şunları kaldıralım .
-*CHI:	çalıştırma yapalım bunları.
+*CHI:	çalıştırma yapalım bunları .
 *EXP:	nasıl yapacaz [: yapacağız] çalıştırma ?
 *CHI:	böyle böyle .
 %com:	runs cars
@@ -211,12 +211,12 @@
 *CHI:	xxx .
 *CHI:	amin diyor .
 *EXP:	amin diyor , hadi otur bakalım .
-*EXP:	san hiç at gördün mü?
+*EXP:	san hiç at gördün mü ?
 *CHI:	görmedim .
 *EXP:	sen biliyor musun ki bu ata insanlar binebilirler ?
 *CHI:	ben çocuklara şeye xxx .
 *EXP:	gördün mü , bu adam ata bindi !
-*CHI:	boncuklara şey yapalım mı?
+*CHI:	boncuklara şey yapalım mı ?
 *EXP:	gördün mü , bu hanım ata bindi !
 %com:	rides a lady doll
 *CHI:	ata .
@@ -224,29 +224,29 @@
 %com:	sound gesture imitating a galloping horse .
 *CHI:	babayı da şimdi yap .
 *EXP:	baba da binebilir ata .
-*EXP:	anne bu ata binsin , gördün mü?
+*EXP:	anne bu ata binsin , gördün mü ?
 *CHI:	bak babam da ata binsin .
 *EXP:	baba da deveye binsin .
 *CHI:	işte ikisi gitsin .
-*EXP:	gördün mü?
+*EXP:	gördün mü ?
 *EXP:	şimdi bak ne yapalım !
 *EXP:	bunlar insin , at deveyi koştursun [:: koştursun mu] ?
 *CHI:	ben bindirecem [: bindireceğim] .
 *CHI:	bak bindi .
 *CHI:	bindi mi ?
 *EXP:	gitsinler mi ?
-*EXP:	atlar su içecekmiş.
-*CHI:	boncukları.
+*EXP:	atlar su içecekmiş .
+*CHI:	boncukları .
 *EXP:	bak burası deniz .
 *EXP:	burda [: burada] bir köpek , bir de kedi var .
 *CHI:	yüzdüler hepsi .
-*EXP:	yıkandılar mı?
+*EXP:	yıkandılar mı ?
 *CHI:	yıkandılar .
 *EXP:	kurusunlar burda [: burada] .
 *CHI:	bu deniz .
-*CHI:	yatırdım ben oğlanları.
-*CHI:	onlar da yıkansın mı?
-*CHI:	anneleri de düşürdü.
+*CHI:	yatırdım ben oğlanları .
+*CHI:	onlar da yıkansın mı ?
+*CHI:	anneleri de düşürdü .
 *CHI:	biz babaları , çocukları oynayalım .
 *CHI:	çocuk da burda [: burada] oynuyor .
 *EXP:	getir peki , oynayalım .
@@ -255,7 +255,7 @@
 *EXP:	getir bakalım .
 *CHI:	anneleri getirdim .
 *EXP:	nasıl oynayacağız ?
-*CHI:	annelerin karnı acıkmış.
+*CHI:	annelerin karnı acıkmış .
 *CHI:	masa ver çabuk onlara .
 *CHI:	masaya oturtalım .
 *CHI:	nasıl oturtalım ?
@@ -275,21 +275,21 @@
 *CHI:	bu çocuğu da yanına xxx .
 *EXP:	bu kim olsun ?
 *CHI:	dede .
-*CHI:	öbürü.
+*CHI:	öbürü .
 *EXP:	sana bir küçük masa vereyim daha iyi .
 *CHI:	onlar .
 *EXP:	bu ne yapsın ?
 *CHI:	devirsin babaanneyi .
 %com:	I introduce the cat , the rest of the dolls are still around the table .
 *CHI:	bu ne yapsın ?
-*EXP:	bu evin kedisiymiş.
+*EXP:	bu evin kedisiymiş .
 *EXP:	bu da miyav yapsın .
-*CHI:	a karnı acıkmış.
+*CHI:	a karnı acıkmış .
 %com:	<1w> an exclamatory sound gesture
 *EXP:	kedinin de mi ?
 *CHI:	evet .
-*EXP:	bak bu kedi , bak tırmaladı.
-*CHI:	babaanneyi tırmaladı.
+*EXP:	bak bu kedi , bak tırmaladı .
+*CHI:	babaanneyi tırmaladı .
 *EXP:	niye tırmalar kediler ?
 *CHI:	niye tırmalar biliyor musun ?
 *EXP:	sen biliyor musun ?
@@ -320,7 +320,7 @@
 *EXP:	nesi var onun ?
 *CHI:	onu istiyorum .
 *CHI:	bundan yemiyorlar .
-*CHI:	çocukları.
+*CHI:	çocukları .
 *CHI:	uyusunlar anneler , bebekler .
 *CHI:	anneler uyusunlar .
 *CHI:	annelere bir yorgan ver .
@@ -339,19 +339,19 @@
 *EXP:	bebeklere .
 *CHI:	bunlara da külot giydirelim .
 *CHI:	bu külot olsun böyle .
-*CHI:	elbeziymiş.
+*CHI:	elbeziymiş .
 *EXP:	şapkası o bebeğin .
-*CHI:	şapkası mı?
+*CHI:	şapkası mı ?
 *EXP:	evet .
-*CHI:	şapkasıymış.
-*CHI:	takılır mı?
+*CHI:	şapkasıymış .
+*CHI:	takılır mı ?
 *CHI:	nasıl ?
 *EXP:	çevir de öyle .
-*EXP:	gördün mü?
+*EXP:	gördün mü ?
 *EXP:	evin bir de köpeği olsun .
 *EXP:	hav hav hav hav xxx .
 *EXP:	geldi öptü bak .
-*EXP:	bunu da öptü , bunu da öptü.
+*EXP:	bunu da öptü , bunu da öptü .
 *EXP:	susamış köpek , biraz su ver istersen .
 %com:	I point the plate .
 *CHI:	o şu değil ki !
@@ -383,27 +383,27 @@
 *CHI:	kenar yapıyor ?
 *EXP:	kenar mı yapıyor ?
 *EXP:	bunlar nesi kuşun ?
-*CHI:	yavruları.
+*CHI:	yavruları .
 *EXP:	yavruları olur mu ?
 *EXP:	bunlar nesi ?
 *CHI:	nesi ?
 *EXP:	kanatları değil mi ?
 *EXP:	nasıl uçar ?
-*CHI:	yavru diye diye uçar kuş.
-*EXP:	ver ben sana giydiriyim [: giydireyim] o şapkayı.
+*CHI:	yavru diye diye uçar kuş .
+*EXP:	ver ben sana giydiriyim [: giydireyim] o şapkayı .
 %com:	doll with hat
-*EXP:	sen bana söyle nasıl uçar bu kuş?
+*EXP:	sen bana söyle nasıl uçar bu kuş ?
 *CHI:	öyle olmaz o .
 *EXP:	böyle olur bu .
 *CHI:	öyle mi oluyor ?
 *EXP:	kuş nasıl uçar söyle bana .
-*CHI:	kuş.
+*CHI:	kuş .
 *EXP:	nasıl uçar ?
 %com:	demonstrates
 *EXP:	peki gelsin bana bakalım .
-*EXP:	bak dışardan kurt gelmiş.
-*EXP:	uluyor , uuu@o diye , ısırmaya gelmiş.
-*EXP:	ısırsın mı?
+*EXP:	bak dışardan kurt gelmiş .
+*EXP:	uluyor , uuu@o diye , ısırmaya gelmiş .
+*EXP:	ısırsın mı ?
 *CHI:	ısırsın .
 *EXP:	niye ısırır ?
 *CHI:	ısırır .
@@ -425,8 +425,8 @@
 *EXP:	doktor baksın çocuğa .
 *CHI:	nefes alsın biraz .
 *EXP:	alsın bakalım .
-*EXP:	aldı mı?
-*CHI:	aldı.
+*EXP:	aldı mı ?
+*CHI:	aldı .
 *CHI:	hangisi baba olsun şimdi ?
 *EXP:	şimdi baba bu olsun .
 *CHI:	bu doktor .
@@ -446,7 +446,7 @@
 *EXP:	hıh hıh xxx .
 %com:	sound gesture
 *CHI:	nasıl t xxx .
-*CHI:	aa düştü.
+*CHI:	aa düştü .
 %com:	<1w> an exclamatory sound gesture
 *CHI:	şapkasını ver .
 *CHI:	ters mi olduk şimdik [: şimdi] ?
@@ -470,7 +470,7 @@
 *CHI:	yüzer .
 *CHI:	bıcı@o bıcı@o xxx .
 %com:	demonstrates sound gesture imitating the sound made in swimming
-*EXP:	anlat acık [: azıcık] bana balıkları.
+*EXP:	anlat acık [: azıcık] bana balıkları .
 *EXP:	siz balık alıyor musunuz ?
 *CHI:	almıyoruz .
 *CHI:	ah , yedi ağzımı be !

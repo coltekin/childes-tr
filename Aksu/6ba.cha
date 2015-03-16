@@ -15,7 +15,7 @@
 *EXP:	kediler nasıl tırmalar ?
 *CHI:	işte böyle bak .
 *EXP:	niye tırmalar ?
-*CHI:	aç aç.
+*CHI:	aç aç .
 *CHI:	boncuk nerede ?
 *EXP:	sen ne yaptın bu sabah ?
 *CHI:	pisi pisi ne oldu ?
@@ -32,31 +32,31 @@
 *EXP:	Mustafa'yla oynuyor musun ?
 *CHI:	oynamıyorum .
 *CHI:	hav hav geldi .
-*CHI:	öcüler geldi , söndü.
+*CHI:	öcüler geldi , söndü .
 %com:	the lights went off , she was scared and stuttering badly .
-*CHI:	öcü vardı.
-*CHI:	elektrikler söndü.
+*CHI:	öcü vardı .
+*CHI:	elektrikler söndü .
 *CHI:	koko@c içtim yattım .
 *EXP:	kokolar@c güzel miydi ?
 *CHI:	güzeldi .
 *EXP:	sönünce elektrikler ne yaptın ?
 *CHI:	korktum .
-*EXP:	Cemile ne yaptı?
-*CHI:	dövdü.
-*EXP:	Nane ne yaptı?
-*CHI:	dövdü.
-*EXP:	kimi dövdü?
+*EXP:	Cemile ne yaptı ?
+*CHI:	dövdü .
+*EXP:	Nane ne yaptı ?
+*CHI:	dövdü .
+*EXP:	kimi dövdü ?
 *CHI:	Naneyi dövdü Cemile .
-*CHI:	dövdü.
+*CHI:	dövdü .
 %com:	stuttering
-*EXP:	dışarı gidiyor musun hiç?
+*EXP:	dışarı gidiyor musun hiç ?
 *EXP:	kimle çıkıyorsun ?
 *CHI:	öbür gün anneyle .
 *EXP:	dışarda neler görüyorsun ?
 *CHI:	hav hav gördüm .
-*CHI:	bacağımı ısırdı.
+*CHI:	bacağımı ısırdı .
 *CHI:	bacağım kan kan oldu .
-*EXP:	köpek ne yaptı?
+*EXP:	köpek ne yaptı ?
 *CHI:	ağzımı yedi .
 *EXP:	başka ?
 *CHI:	bir daha hav hav gördüm .
@@ -95,7 +95,7 @@
 *EXP:	kim aldı onu sana ?
 *EXP:	yapıcak [: yapacak] mısın ?
 *CHI:	yapıcam [: yapacağım] .
-*EXP:	baba ne yapıyor akşamları?
+*EXP:	baba ne yapıyor akşamları ?
 *CHI:	baba dövüyor .
 *EXP:	kimi ?
 *CHI:	anneyi .

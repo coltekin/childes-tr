@@ -9,7 +9,7 @@
 *EXP:	Selim senin başka kardeşin var mı Kerimden başka ?
 *CHI:	evet , Sinan var .
 *EXP:	Sinan var .
-*EXP:	Sinan senden küçük mü?
+*EXP:	Sinan senden küçük mü ?
 *CHI:	küçük .
 *EXP:	kaç yaşında Sinan ?
 *CHI:	bilmiyorum .
@@ -47,7 +47,7 @@
 *CHI:	bu da girsin buraya .
 %com:	house set up three vehicles
 *CHI:	bak ama bunlar daha büyük .
-*CHI:	bunlar ikisi aynı.
+*CHI:	bunlar ikisi aynı .
 *CHI:	sürüyümmü [: süreyim mi] ?
 *CHI:	bunlan [: bununla] oynayacam [: oynayacağım] .
 *CHI:	ben şimdik [: şimdi] bunla oynayacağım .
@@ -92,16 +92,16 @@
 *CHI:	ama düşüyorlar .
 *EXP:	dikkatli sok .
 *EXP:	ne yapıyorlar evin içinde çocuklar ?
-*CHI:	otobüsün arkasına kaçtı.
+*CHI:	otobüsün arkasına kaçtı .
 *EXP:	oynuyor mu ?
 *CHI:	bu girmiyor .
 *CHI:	girmiyor .
 *EXP:	girdi işte .
 *EXP:	ne yaptı o ?
 *CHI:	bu da koştu buraya .
-*CHI:	ikisi sığar mı?
+*CHI:	ikisi sığar mı ?
 %com:	two dolls in bus
-*CHI:	sığarmış.
+*CHI:	sığarmış .
 *CHI:	c evet .
 *EXP:	ikisi oynuyacaklar [: oynayacaklar] mı ?
 *CHI:	hayır .
@@ -111,22 +111,22 @@
 *CHI:	Kerimle .
 *EXP:	ne oynarsınız ?
 *CHI:	oyuncaklarımız var .
-*EXP:	var mı?
+*EXP:	var mı ?
 *EXP:	ne biçim oyuncaklarınız var ?
-*EXP:	güzel var mı?
+*EXP:	güzel var mı ?
 *CHI:	evet .
 *CHI:	ama hep Sinan karıştırıyor .
 *EXP:	kim karıştırıyor ?
 *CHI:	Sinan .
 *CHI:	evet , evin kapısı nerde ?
 *EXP:	neyin ?
-*CHI:	eve girmek için sokak kapısı.
+*CHI:	eve girmek için sokak kapısı .
 *EXP:	şurda bak .
 *EXP:	masuscuktan [: mahsusçuktan] girsinler .
 %com:	small house
 *CHI:	şimdi bir sürü araba olacak .
 *CHI:	eve geldi .
-*EXP:	sizin arabanız var mı?
+*EXP:	sizin arabanız var mı ?
 *CHI:	var annenin ile babanın var .
 %com:	they each have a car
 *CHI:	bizim oyuncak arabamız var .
@@ -139,16 +139,16 @@
 *EXP:	otobüs o , onun için herkes arkadan biniyor .
 *CHI:	bu evi çıkart .
 *CHI:	istersen gene şeker verir misin ?
-*CHI:	istiyorum şeker çünkü.
+*CHI:	istiyorum şeker çünkü .
 *EXP:	veririm gene şeker .
-*CHI:	hani şurda şeker vardı.
+*CHI:	hani şurda şeker vardı .
 *CHI:	istersen bunu yiyim [: yiyeyim] mi , Keriminkini ?
 *EXP:	istersen ye .
 *EXP:	Kerime bir tane daha veririz .
 *EXP:	sen bana söyle bakalım , çocuklar ne zaman oynarlar ?
 *CHI:	biz yemek vakti gelince yemekte oynuyoruz .
-*CHI:	evet yemeğe oyuncak alıyoruz , küçük arabaları.
-*EXP:	yemeğe götürüyor musunuz küçük arabaları?
+*CHI:	evet yemeğe oyuncak alıyoruz , küçük arabaları .
+*EXP:	yemeğe götürüyor musunuz küçük arabaları ?
 *CHI:	evet , biz mutfakta yiyoruz yemeğimizi .
 *EXP:	kim yediriyor ?
 *CHI:	nanny@s:eng yediriyor .
@@ -160,7 +160,7 @@
 *CHI:	Afiy Sinanı çıkarıyor .
 *CHI:	nanny@s:eng de bizi çıkarıyor .
 *CHI:	anne bizi çıkarıyor sokağa .
-*EXP:	nereye çıkarıyor , oynamaya mı?
+*EXP:	nereye çıkarıyor , oynamaya mı ?
 *CHI:	hayır .
 *EXP:	sokakta neler var ?
 *CHI:	helvacı , mısırcı xxx .
@@ -192,11 +192,11 @@
 *EXP:	küçük mü Sinan ?
 *CHI:	evet .
 *EXP:	kaç yaşında ?
-*CHI:	nerdeydi , yeri burası mıydı?
+*CHI:	nerdeydi , yeri burası mıydı ?
 %com:	trying to put dolls back in the box
 *EXP:	efendim ?
-*CHI:	burası mıydı?
-*EXP:	evet burasıydı.
+*CHI:	burası mıydı ?
+*EXP:	evet burasıydı .
 *CHI:	bunu taşıyabilir mi bu ?
 *EXP:	al bakalım belki üstüne oturabilir .
 *CHI:	hangisi ?
@@ -240,10 +240,10 @@
 *CHI:	ama bunlar burda dursun .
 *EXP:	nerde dursun ?
 *CHI:	onun üstünde .
-*CHI:	bu park mı?
+*CHI:	bu park mı ?
 *EXP:	evet burası park .
 *CHI:	burda durmasınlar , yolda dursunlar .
-*EXP:	peki şu evin yanına park etsene onları.
+*EXP:	peki şu evin yanına park etsene onları .
 *CHI:	burası garaj olsun .
 *CHI:	dur çıkartma .
 *CHI:	bunları buraya koysam zor mu çıkar .
@@ -266,8 +266,8 @@
 %com:	eating candy still
 *EXP:	bu ne kadar güzel bir kemer .
 *EXP:	kim verdi sana onu ?
-*CHI:	annemler aldı.
-*EXP:	nerden aldı?
+*CHI:	annemler aldı .
+*EXP:	nerden aldı ?
 *CHI:	bak yapabildim mi ?
 *EXP:	ı hı , pencerelerini de yap onun .
 %com:	drawing a house
@@ -280,11 +280,11 @@
 *EXP:	tabii .
 *CHI:	bu kadar mı penceresi olur ?
 *EXP:	evet .
-*CHI:	sizin evdeki pencereler bu kadar mı?
+*CHI:	sizin evdeki pencereler bu kadar mı ?
 *EXP:	Selim senin annen ne zaman uyur ?
 *CHI:	hemen uyur .
 *CHI:	yemek yemeden yatıyorlar onlar .
-*EXP:	gece yemek yemiyorlar mı?
+*EXP:	gece yemek yemiyorlar mı ?
 *CHI:	başka pencere yapmaktan sıkılırım .
 *CHI:	bu kadar pencere .
 *CHI:	buralara kadar olmaz pencereler .
@@ -305,11 +305,11 @@
 *CHI:	gözlerini hiç birşey yapmıyor .
 *EXP:	saçını ne yapıyor ?
 *CHI:	saçını da hiç birşey yapmıyor öyle .
-*EXP:	kıvırmıyor mu saçını?
+*EXP:	kıvırmıyor mu saçını ?
 *CHI:	kıvırmıyor .
 *EXP:	berbere gitmiyor mu ?
 *CHI:	gidiyor .
-*EXP:	yaa , ne renk annenin saçları?
+*EXP:	yaa , ne renk annenin saçları ?
 *CHI:	siyah .
 *CHI:	evi niye kaldırdın ?
 *CHI:	bak kalsın böyle .
@@ -318,13 +318,13 @@
 *EXP:	kim ütü ütülüyor sizde ?
 *CHI:	Afiyle nanny@s:eng .
 *EXP:	ne zaman ütülüyorlar ?
-*CHI:	bak çıktı.
+*CHI:	bak çıktı .
 *EXP:	ne zaman ütü ütülüyorlar ?
 *CHI:	ütü ütülemiyorlar ya , o zaman ütülüyorlar .
 *EXP:	peki yerleri kim temizliyor ?
 *CHI:	kimse .
 *CHI:	yerler temizlenmiyor .
-*EXP:	süpürmüyorlar mı hiç?
+*EXP:	süpürmüyorlar mı hiç ?
 *CHI:	süpürüyorlar .
 *EXP:	niye süpürüyorlar ?
 *CHI:	kirlettiğimiz zaman süpürüyorlar .
@@ -355,13 +355,13 @@
 *CHI:	okuyor .
 *EXP:	ne zaman okuyor ?
 *CHI:	uyandığı zaman .
-*EXP:	sabahları.
+*EXP:	sabahları .
 *CHI:	evet .
 *EXP:	çayını içerken ?
 *CHI:	çayını içmiyor ki .
 *EXP:	ne içiyor ?
 *CHI:	sütlü kahve içiyor .
-*EXP:	hıı.
+*EXP:	hıı .
 *EXP:	sen ne içiyorsun ?
 *CHI:	ben de süt içiyorum , sütlü kakao .
 *EXP:	Kerim ne içiyor ?
@@ -390,7 +390,7 @@
 *EXP:	sen konuştur .
 *CHI:	e nasıl konuşur bunlar ?
 *EXP:	bayağı konuşurlar , nasılsın der .
-*CHI:	böyle yapsınlar mı?
+*CHI:	böyle yapsınlar mı ?
 *EXP:	nasılsınız desin , o da ona nasılsınız desin .
 *CHI:	demiyor ki .
 *EXP:	sen söylet .
@@ -427,14 +427,14 @@
 *CHI:	bunlar da yatsın .
 *CHI:	bunlar hiç konuşmadı birbirleriyle .
 *EXP:	sen konuştur .
-*CHI:	bu da babasının yanına yattı.
+*CHI:	bu da babasının yanına yattı .
 *CHI:	bu da yatacak .
 *CHI:	bunlar yere inmiyor mu ?
 *CHI:	böyle iniyor .
 *CHI:	c işte böylece çıksınlar .
 *CHI:	çıkarlar mı bunlar böyle ?
 *CHI:	öyle , öyle söyle , benim yaptığım gibi .
-*CHI:	öyle yapmazlar , böyle yaparlar mı?
+*CHI:	öyle yapmazlar , böyle yaparlar mı ?
 %com:	putting dolls to sleep , getting them up etc .
 *CHI:	bak bunlar bakayım .
 *CHI:	nasıl yapıyorlar .
@@ -443,7 +443,7 @@
 *CHI:	öyle düşer .
 *EXP:	düşmeden durabilirler .
 *CHI:	bu da buraya böyle .
-*EXP:	bunu da yapayım mı?
+*EXP:	bunu da yapayım mı ?
 *CHI:	hepsi düşüyor mu ?
 *CHI:	aa , bu yapmıyor niye ?
 *EXP:	yapabilir , bunların hepsi öyle oturabilir rahatlıkla .
@@ -453,13 +453,13 @@
 *CHI:	ee , biz de otururuz diz üstüne .
 *EXP:	sen Kerimi seviyor musun ?
 *CHI:	evet , Kerim de beni seviyor .
-*CHI:	kuş tada burda duracak mı?
+*CHI:	kuş tada burda duracak mı ?
 *CHI:	kuşu da kaldıralım .
 *CHI:	kuşun yeri nerede ?
 %com:	in the toy box
 *EXP:	istersen televizyon seyretsinler .
 *CHI:	sevmiyorlar televizyon seyretmesini .
-*EXP:	sevmiyorlar mı?
+*EXP:	sevmiyorlar mı ?
 *CHI:	sevmiyorlar .
 *CHI:	o zaman yatsınlar .
 *CHI:	yatsın şimdi bu .
@@ -482,7 +482,7 @@
 *CHI:	uçağı çıkarttım bir de .
 *CHI:	c bu ne ?
 *EXP:	traktör .
-*EXP:	bak traktörün üstüne bir adam çıkmış.
+*EXP:	bak traktörün üstüne bir adam çıkmış .
 *CHI:	bunlar ne ?
 *EXP:	şimdi oynayacağız onlarlan [: onlarla] .
 *CHI:	olur .

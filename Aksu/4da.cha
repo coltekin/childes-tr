@@ -18,7 +18,7 @@
 *EXP:	kediler nasıl bağırıyor ?
 *CHI:	evde bağırıyor .
 *EXP:	bana bir hikaye anlatır mısın ?
-*CHI:	pantolonum düştü.
+*CHI:	pantolonum düştü .
 *EXP:	kediler ne yapar ?
 *CHI:	oynar .
 *CHI:	kediler gelsin , kedi gelsin .
@@ -61,11 +61,11 @@
 *CHI:	al al al .
 *CHI:	oynarız .
 *CHI:	oyuncakla oynuyoruz .
-*EXP:	çok oyuncakların var mı?
+*EXP:	çok oyuncakların var mı ?
 *CHI:	gugunun@c var .
 *CHI:	benim çok , gugunun@c da çok , hem de çok var .
 *EXP:	ne oldu ?
-*CHI:	düştü.
+*CHI:	düştü .
 *EXP:	ne oyunlar oynarsınız ?
 *EXP:	nasıl köprü yapıyorsunuz ?
 *EXP:	nerde onlar ?
@@ -73,7 +73,7 @@
 *CHI:	oyuncaklar okulda .
 *EXP:	kediler ne yapar ?
 *CHI:	alır .
-*EXP:	tırmalar mı?
+*EXP:	tırmalar mı ?
 *CHI:	tırmalar .
 *EXP:	niye ?
 *CHI:	sen beni seviyormusun diye tırmalar .
@@ -104,7 +104,7 @@
 *CHI:	kahve içilir .
 *EXP:	neyle süt içersin ?
 *CHI:	bunla içerim , bunla .
-*CHI:	döküldü.
+*CHI:	döküldü .
 *EXP:	neyle süt içersin ?
 *CHI:	benim arabam var .
 *CHI:	ah , buna bak .
@@ -160,7 +160,7 @@
 *CHI:	baba .
 *EXP:	nerden geldi ?
 *CHI:	Ankaradan geldi .
-*CHI:	çukulata aldı.
+*CHI:	çukulata aldı .
 *CHI:	babam xxx nerde çukulata ?
 *CHI:	baba çukulata nerde ?
 *EXP:	evin içinde neler var ?
@@ -194,25 +194,25 @@
 *CHI:	kuyruğu .
 *CHI:	devenin .
 *EXP:	bunlar ne ?
-*EXP:	hörgüç.
+*EXP:	hörgüç .
 *CHI:	bunu da koy .
 *CHI:	onu da koy .
 *CHI:	bak bak .
 *EXP:	bu ne ?
 *CHI:	sincap .
 *EXP:	bak ne olmuş eşeğe ?
-*CHI:	onu vurmuş.
+*CHI:	onu vurmuş .
 *CHI:	kafasını , kulağını , bacağını da .
 %com:	talking about the donkey .
 *CHI:	başını da , başını da .
-*CHI:	vurmuş.
-*CHI:	bacağını da vurmuş.
+*CHI:	vurmuş .
+*CHI:	bacağını da vurmuş .
 *EXP:	hikaye biliyor musun ?
 *CHI:	biliyorum .
-*CHI:	ah , düştü.
+*CHI:	ah , düştü .
 *CHI:	bak öldü , öldü ya .
 *CHI:	hepsi öldü ya .
-*CHI:	araba yiyecek onları.
+*CHI:	araba yiyecek onları .
 *EXP:	okulda ne oldu ?
 *EXP:	okulu seviyor musun ?
 *CHI:	seviyorum .
@@ -221,7 +221,7 @@
 *CHI:	Derya benim arkadaşım o .
 *EXP:	ne yapıyorsun ?
 *CHI:	oynuyoruz .
-*CHI:	Deryanın annesi gelmiş.
+*CHI:	Deryanın annesi gelmiş .
 *CHI:	otobüs gelmiş okula .
 *EXP:	öğleden sonra ne yaptın ?
 *CHI:	oynadık .
@@ -233,10 +233,10 @@
 *CHI:	senin ismin ne ?
 *EXP:	Ayla .
 *CHI:	peki .
-*CHI:	buraya çıktı.
-*CHI:	çarptı.
+*CHI:	buraya çıktı .
+*CHI:	çarptı .
 %com:	he is playing with a toy car
-*CHI:	bunun başına çarptı.
+*CHI:	bunun başına çarptı .
 *CHI:	geldi , ooop@o düştü içine .
 *EXP:	çocuklar ne yaparlar ?
 *CHI:	oynarlar .
@@ -270,7 +270,7 @@
 *CHI:	xxx bak .
 *CHI:	kaçtılar gine [: yine] eve .
 *CHI:	koştular .
-*CHI:	yağmur yağdı.
+*CHI:	yağmur yağdı .
 *EXP:	başka ne oldu ?
 *CHI:	ev yaptık .
 *CHI:	ev yaptık neneyle .
@@ -306,11 +306,11 @@
 *EXP:	niçin ?
 *CHI:	gitmem .
 *EXP:	kim aldı bunu ?
-*CHI:	annem aldı.
+*CHI:	annem aldı .
 *EXP:	ne zaman ?
-*CHI:	ninem aldı.
+*CHI:	ninem aldı .
 *EXP:	ne zaman ?
-*CHI:	aldı.
+*CHI:	aldı .
 *EXP:	kimler oturuyor sizin evde ?
 *CHI:	ninem oturuyor .
 *EXP:	baba ?
@@ -400,7 +400,7 @@
 *CHI:	anneye .
 *EXP:	anne ne dedi ?
 *CHI:	anne de kahve içti , bi de xxx oldu .
-*CHI:	gidiyorlardı.
+*CHI:	gidiyorlardı .
 *CHI:	otobüs geliyordu .
 *CHI:	ona biniyorduk .
 *CHI:	o otobüs xxx .
