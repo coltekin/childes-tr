@@ -159,7 +159,7 @@
 *EXP:	para vericek [: verecek] misin binmek için ?
 *CHI:	haa .
 %com:	affirmative sound gesture
-*EXP:	nasıl vericeksin ?
+*EXP:	nasıl vericeksin [: vereceksin] ?
 *EXP:	&fötou falan alıyor musun ?
 *CHI:	haa xxx .
 *CHI:	ha xxx .
@@ -454,7 +454,7 @@
 *CHI:	tamir etti .
 *EXP:	ee , yine mi kırıldı ?
 *EXP:	sen onlan [: onla] ne yapıcaksın [: yapacaksın] deniz kenarında ?
-*EXP:	Burçak , napıcaksın [: ne yapıcaksın] sen onlan [: onla] deniz .
+*EXP:	Burçak , napıcaksın [: ne yapacaksın] sen onlan [: onla] deniz .
 *EXP:	kenarında ?
 *EXP:	biz aninoya@c gidersek napıcaz [: ne yapacağız] orda , biz denize gidersek napıcaz [: ne yapacağız] ?
 %com:	napıcaz= ne yapacağız
@@ -667,7 +667,7 @@
 *EXP:	ha .
 *EXP:	senin de kovan var mı ?
 *CHI:	hı .
-*EXP:	napıcaksın [: ne yapıcaksın] sen deniz kenarına gidince ?
+*EXP:	napıcaksın [: ne yapacaksın] sen deniz kenarına gidince ?
 *CHI:	saatimi ver .
 *EXP:	hangi saati mi ?
 *EXP:	git al gel .
@@ -1085,8 +1085,8 @@
 *EXP:	sen merdiven inerken ne diyorsun Burçak ?
 *CHI:	ha ?
 *EXP:	merdiven inerken ne diyorsun ?
-*CHI:	Bismillah diyorum .
-*EXP:	Bismillah , heh .
+*CHI:	bismillah diyorum .
+*EXP:	bismillah , heh .
 *DAN:	bak , yine çarpayım mı ?
 *DAN:	şimdi çarptığı arabayı bana ver .
 *EXP:	Burçak trafik arabasının çarptığı arabayı ver .
