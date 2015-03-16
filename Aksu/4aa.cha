@@ -117,7 +117,7 @@
 *CHI:	bak .
 *GRM:	o ne ?
 *CHI:	çukulata .
-*GRM:	adam burda düşüyormu ?
+*GRM:	adam burda düşüyor mu ?
 *CHI:	düşüyor .
 *CHI:	niye geldiniz ?
 %com:	upon the interviewer and some other people entering the room
@@ -182,7 +182,7 @@
 %com:	crying
 *EXP:	hangisi daha büyük ?
 %com:	crying
-*EXP:	hav havı görüyormusun ?
+*EXP:	hav havı görüyor musun ?
 *EXP:	sincabı köpek taşısın .
 *CHI:	lama .
 *CHI:	deli .
@@ -223,7 +223,7 @@
 *EXP:	anne niye çamaşır yıkıyor ?
 *CHI:	temizlik yapıyor .
 *CHI:	benim elbisemi yıkıyor .
-*MOT:	kiminle [: kiminle] oynarsın ?
+*MOT:	kiminle oynarsın ?
 *CHI:	[- eng] oh mummy , oh mummy xxx .
 %com:	she is singing
 *MOT:	anne nasıl süslenir ?
@@ -235,25 +235,25 @@
 *EXP:	çok mu istiyorsun ?
 %com:	talking about an imaginary soup
 *CHI:	az .
-*EXP:	yetermi ?
+*EXP:	yeter mi ?
 *CHI:	yeter .
-*EXP:	güzel olmuşmu ?
+*EXP:	güzel olmuş mu ?
 *CHI:	olmuş.
-*EXP:	biraz daha istiyormusun ?
+*EXP:	biraz daha istiyor musun ?
 *CHI:	istiyorum .
 *EXP:	sıcak mı?
 *CHI:	sıcak .
-*EXP:	tuz koyayımmı?
+*EXP:	tuz koyayım mı?
 *CHI:	koy .
 *EXP:	başka ne istiyorsun ?
 *CHI:	onu da koy .
-*EXP:	gözüne sürüyormu ?
+*EXP:	gözüne sürüyor mu ?
 *CHI:	sürüyor .
 *EXP:	nasıl sürüyor ?
 *CHI:	anne sürüyor .
 *EXP:	neresine sürüyor ?
 *CHI:	xxx .
-*EXP:	vereyimmi bunu sana ?
+*EXP:	vereyim mi bunu sana ?
 *CHI:	ver .
 *MOT:	bu ne ?
 *CHI:	kalem .
@@ -285,10 +285,10 @@
 *CHI:	gözü var .
 *EXP:	başka nesi var , şapkası var mı?
 *CHI:	şapkası var .
-*EXP:	bebek mektebe gidiyormu ?
+*EXP:	bebek mektebe gidiyor mu ?
 *CHI:	gitmiyor .
 *CHI:	Tandoğan xxx .
-*EXP:	Tandoğan bebeği severmi ?
+*EXP:	Tandoğan bebeği sever mi ?
 *CHI:	sever .
 *EXP:	ne yapar ?
 *CHI:	ders çalış bitti .
@@ -304,10 +304,10 @@
 %com:	although "orada" is the correct form , "orda" is more common .
 *REL:	bebek ne zaman uyur ?
 *CHI:	ondan .
-*EXP:	ninni yaparmı?
+*EXP:	ninni yapar mı?
 *CHI:	ne ?
 *CHI:	ne ?
-*EXP:	saçını tararmı?
+*EXP:	saçını tarar mı?
 *CHI:	taramaz .
 *CHI:	anne taradı.
 *CHI:	anne ta xxx anne ta xxx .
@@ -323,7 +323,7 @@
 *CHI:	xxx .
 *REL:	niçin içer ?
 *CHI:	içmiyor .
-*EXP:	süt içermi ?
+*EXP:	süt içer mi ?
 %com:	demonstrates
 *CHI:	[- eng] don't don't .
 %com:	imitates Ayla . the text is in English here
@@ -353,7 +353,7 @@
 *CHI:	bak kulakları da varmış.
 *EXP:	başka ?
 *CHI:	burnu .
-*EXP:	ayakları varmı?
+*EXP:	ayakları var mı?
 *CHI:	bak ipliği var .
 *EXP:	yarın ne yapacaksın ?
 *CHI:	annem mısır pişirecek .

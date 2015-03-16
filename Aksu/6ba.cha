@@ -19,17 +19,17 @@
 *CHI:	boncuk nerede ?
 *EXP:	sen ne yaptın bu sabah ?
 *CHI:	pisi pisi ne oldu ?
-*EXP:	bir yere gidiyormusun ?
+*EXP:	bir yere gidiyor musun ?
 *CHI:	içine girdi .
 *EXP:	ne yaptın Aylin ?
 *CHI:	içeriye girecem [: gireceğim] .
-*EXP:	gezmeye gidermisin ?
+*EXP:	gezmeye gider misin ?
 *CHI:	gidiyorum .
 *EXP:	ne yapıyorsun halada ?
 *EXP:	neler oynuyorsun sokakta ?
 *EXP:	kiminle oynuyorsun ?
 *CHI:	anneyle .
-*EXP:	Mustafa'yla oynuyormusun ?
+*EXP:	Mustafa'yla oynuyor musun ?
 *CHI:	oynamıyorum .
 *CHI:	hav hav geldi .
 *CHI:	öcüler geldi , söndü.
@@ -49,7 +49,7 @@
 *CHI:	Naneyi dövdü Cemile .
 *CHI:	dövdü.
 %com:	stuttering
-*EXP:	dışarı gidiyormusun hiç?
+*EXP:	dışarı gidiyor musun hiç?
 *EXP:	kimle çıkıyorsun ?
 *CHI:	öbür gün anneyle .
 *EXP:	dışarda neler görüyorsun ?
@@ -70,13 +70,13 @@
 *CHI:	hav hav yedi elimi .
 *EXP:	başka dışarda neler var ?
 *CHI:	yağmur yağıyor .
-*EXP:	dışarı çıkınca çocukları görüyormusun ?
+*EXP:	dışarı çıkınca çocukları görüyor musun ?
 *CHI:	bıçak .
 *EXP:	niye koşar çocuklar ?
 *CHI:	bak buna bak .
 *CHI:	işte bak .
 *EXP:	dışarda ne yapıyorsun ?
-*CHI:	ışıklar varmı burda ?
+*CHI:	ışıklar var mı burda ?
 *EXP:	anne nasıl süslenir ?
 *CHI:	böyle .
 *EXP:	neler yapıyor ?
@@ -87,13 +87,13 @@
 *CHI:	ütüyü almış eline ütülüyor .
 *EXP:	yerleri kim temizliyor ?
 *CHI:	Cemile .
-*EXP:	bezlemi ?
+*EXP:	bezle mi ?
 *CHI:	bezle .
 *CHI:	buraya koyacağım .
 *CHI:	tak bunu .
 *EXP:	baba ne yapıyor ?
 *EXP:	kim aldı onu sana ?
-*EXP:	yapıcakmısın [: yapacaksın] ?
+*EXP:	yapıcak [: yapacak] mısın ?
 *CHI:	yapıcam [: yapacağım] .
 *EXP:	baba ne yapıyor akşamları?
 *CHI:	baba dövüyor .

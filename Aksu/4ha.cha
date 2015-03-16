@@ -171,7 +171,7 @@
 *CHI:	hepsi ölmüş.
 *EXP:	sen neredeydin bunlar olurken ?
 *CHI:	İstanbuldaydım .
-*EXP:	sen ormanda değilmiydin ?
+*EXP:	sen ormanda değil miydin ?
 *CHI:	o xxx ben xxx ormanda köpekler olur .
 *CHI:	ben köpeklerden korkarım .
 *CHI:	gözümü cırmıklarlar .
@@ -188,7 +188,7 @@
 *CHI:	ayı ayı.
 *CHI:	sen anlatsana .
 *EXP:	senin sesini alıyoruz .
-*EXP:	annen sana anlatmazmı?
+*EXP:	annen sana anlatmaz mı?
 *CHI:	anneyi dinlemek istiyorum biraz da .
 *CHI:	babayla .
 *CHI:	hadi anneyi istiyorum .
@@ -215,7 +215,7 @@
 *CHI:	hadi bas ne olur bas .
 *CHI:	bas bas hadi .
 *CHI:	bir daha aç , bir daha aç.
-*EXP:	sen hayvanları seviyormusun ?
+*EXP:	sen hayvanları seviyor musun ?
 *CHI:	o xxx sevmez olurmuyum !
 *CHI:	bu da koyun değil mi , bu da koyun .
 *CHI:	üç tane koyun buldum .
@@ -233,7 +233,7 @@
 *CHI:	kurt ona kızmış.
 *CHI:	çak diye pençe atmış ona .
 *CHI:	ah demiş , ölmüş böyle .
-*EXP:	sen hiç bir filim gördünmü?
+*EXP:	sen hiç bir filim gördün mü?
 *CHI:	filim mi ?
 *CHI:	uzat onu .
 *EXP:	televizyonda birşey gördün .
@@ -245,7 +245,7 @@
 *CHI:	oyun oynıyacağım [: oynayacağım] daha .
 *EXP:	biraz konuşalım , oyun oynıyacağız [: oynayacağız] .
 *CHI:	oyun oynuyoruz .
-*EXP:	yatmak istiyormusun ?
+*EXP:	yatmak istiyor musun ?
 *CHI:	yo yo , yatmak istemiyorum .
 %com:	yo yo: a widely used expression meaning "no , no"
 *EXP:	kediler ne yapar ?
@@ -254,7 +254,7 @@
 *EXP:	[- eng] they don't .
 %com:	only the english version is transcribed for the above sentences
 *CHI:	miyavlarlar kedi kedi .
-*EXP:	sizin kediniz varmı?
+*EXP:	sizin kediniz var mı?
 *CHI:	kedimiz mi ?
 *CHI:	var .
 *EXP:	nerde ?
@@ -272,7 +272,7 @@
 *EXP:	köpekler ne yapar ?
 *CHI:	köpekler , köpekler xxx .
 *EXP:	bak bakalım şuraya .
-*CHI:	a xxx oldumu bu şimdi ?
+*CHI:	a xxx oldu mu bu şimdi ?
 *EXP:	hadi öğretmene anlat .
 *CHI:	bak öğretmenim , bak şimdi .
 *CHI:	bir kurt varmış xxx .
@@ -286,7 +286,7 @@
 *CHI:	ondan sonra köpek gelir ona xxx .
 *CHI:	çok güzel bak .
 *CHI:	değil mi ?
-*EXP:	köpek içermi birşey ?
+*EXP:	köpek içer mi birşey ?
 *EXP:	ne içer ?
 *CHI:	köpek su içer .
 *EXP:	niye içer ?
@@ -294,12 +294,12 @@
 *EXP:	kuşlar ne yapar ?
 *CHI:	kuşlar kanatlarını böyle böyle , her zaman yukarı böyle .
 *CHI:	çırparlar .
-*EXP:	uçarlarmı ?
+*EXP:	uçarlar mı ?
 *CHI:	uçarlar ya .
 *CHI:	kanatları var büyük .
 *EXP:	kurdu anlat .
 *CHI:	kurtlar büyük .
-*CHI:	xxx bir masal anlatayımmı?
+*CHI:	xxx bir masal anlatayım mı?
 *EXP:	onu anlatma .
 *EXP:	başka biliyorsan anlat .
 *CHI:	anlatayım bak .
@@ -309,7 +309,7 @@
 *CHI:	bir kurt varmış , bir de xxx kocaman böyle bir ayı xxx karınca .
 *CHI:	varmış , ona tak diye xxx .
 *EXP:	başka bir tane anlat .
-*EXP:	tilkiyi biliyormusun ?
+*EXP:	tilkiyi biliyor musun ?
 *CHI:	o xxx ben tilkiyle xxx o iyi değil o xxx kerçe@c masal .
 *CHI:	ben kerçe@c masalları sevmem ki !
 *EXP:	balıklar ne yapar ?
@@ -333,14 +333,14 @@
 *CHI:	yüzerler işte .
 *CHI:	denizde basbayağı yüzerler .
 *EXP:	inekler ne yapar ?
-*EXP:	biliyormusun ?
+*EXP:	biliyor musun ?
 *CHI:	evet , yer .
 *EXP:	ne yaparlar ?
 *CHI:	inekler otlarlar , ot yaparlar , otlar [: otları] yerler .
 %com:	it is not clear in the text whether the child actually pronounced "ot yaparlar" above , since that was written in parantheses .
 *CHI:	ondan sonra işte bu popo xxx bu da kuyruğu var .
 *CHI:	burda ayakları , burda ayakları.
-*CHI:	hadi bittimi ?
+*CHI:	hadi bitti mi ?
 *CHI:	az kaldı?
 *CHI:	nasıl az kaldı?
 *CHI:	nerde az kaldı?
@@ -376,7 +376,7 @@
 *EXP:	güle güle ses .
 *EXP:	yine gel .
 *CHI:	e , cünkü , bozuk etraf .
-*EXP:	trafik açıldımı?
+*EXP:	trafik açıldı mı?
 *CHI:	burnum da tıkalı.
 *CHI:	her taraf tıkalı.
 *CHI:	sular kesik .
@@ -401,7 +401,7 @@
 *EXP:	masada neler var ?
 *EXP:	bu odada kimler var ?
 *CHI:	aç.
-*CHI:	saati geldimi ?
+*CHI:	saati geldi mi ?
 *CHI:	hadi hadi geldi .
 *EXP:	neyin saati geldi ?
 *CHI:	bunun saati geldi .

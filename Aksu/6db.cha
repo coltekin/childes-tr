@@ -17,14 +17,14 @@
 *CHI:	sen tak .
 *EXP:	güzel , burda dursun mikrofon .
 *CHI:	sen bunlan [: bunla] ne yapacaksın ?
-*CHI:	buna bakayımmı?
+*CHI:	buna bakayım mı?
 *EXP:	bak bakalım .
 *CHI:	bu ne teyze ?
 *EXP:	o teyp , orada bir çocuğun sesi var .
 *EXP:	çok mühim bir teyp bu .
 *CHI:	niçin ?
 *EXP:	çünkü bir çocuğun sesi var .
-*EXP:	o kaç saatin işi biliyormusun ?
+*EXP:	o kaç saatin işi biliyor musun ?
 *CHI:	yer , yer , yer .
 %com:	picks up some toy
 *EXP:	yemez , yemez , yemez , yemesin beni .
@@ -73,7 +73,7 @@
 *EXP:	cici çocuk olursan sana veririm o kalemi .
 *EXP:	tamam mı?
 *EXP:	şimdi bunu okuyalım beraber .
-*CHI:	anne gelebilirmisin ?
+*CHI:	anne gelebilir misin ?
 %com:	calling her mother next door
 *CHI:	bak nasıl okuyorum ?
 %com:	she repeats after me
@@ -88,7 +88,7 @@
 *CHI:	hangi Selim ?
 *MOT:	senin okuldaki arkadaşın var ya .
 *CHI:	beni döven mi anne ?
-*EXP:	senin arkadaşın seni döven olurmu ?
+*EXP:	senin arkadaşın seni döven olur mu ?
 *CHI:	hırkalıyı mı diyorsun ?
 *MOT:	hırkalıyı diyorum .
 *MOT:	hani çok seviyorsun ya sen , o hastalanmış.
@@ -99,44 +99,44 @@
 *CHI:	yok , Selim nereye gitmiş?
 *EXP:	Selim evine gitmiş.
 *MOT:	bak , çocuklar oraya gelince ne yapacağız çocuğum ?
-*MOT:	bağıracağız değilmi ?
+*MOT:	bağıracağız değil mi ?
 *MOT:	suyu ellemesinler diye .
 *CHI:	hangi suyu ?
-*MOT:	hani bize pompayla su verecekler ya , hatırlıyormusun ?
+*MOT:	hani bize pompayla su verecekler ya , hatırlıyor musun ?
 *MOT:	çocuklar gelince sen pencereye çıkıp onları döveceksin .
-*MOT:	değilmi ?
+*MOT:	değil mi ?
 *CHI:	ben dövemem ki .
-*MOT:	hani bağıracaz [: bağıracağız] demek istiyorum , diyilmi [: değilmi] ?
+*MOT:	hani bağıracaz [: bağıracağız] demek istiyorum , diyil [: değil] mi ?
 *MOT:	bu akşam televizyonda ne var Alev teyze'ye söyle bakalım .
-*EXP:	sizin televizyonunuz varmı?
+*EXP:	sizin televizyonunuz var mı?
 *MOT:	var , hastalandı , götürdü babası.
 *EXP:	tamire mi ?
 *MOT:	tamire gitti .
 *MOT:	Herbie gibi tamire gitti .
-*MOT:	Herbie nedir söylermisin ?
+*MOT:	Herbie nedir söyler misin ?
 *MOT:	Alev teyze bilmiyormuş.
 *MOT:	bizim arabamızın markası nedir ?
 *MOT:	söylermisin Özlem .
 *CHI:	al sana .
-*EXP:	penceresi varmı evin ?
+*EXP:	penceresi var mı evin ?
 *MOT:	hadi , nokta virgül yap ta görsün Alev teyze .
-*EXP:	penceresi varmı bu evin ?
+*EXP:	penceresi var mı bu evin ?
 *CHI:	var .
 *EXP:	nerede ?
 *CHI:	bilemem ki .
 *EXP:	ne yapmak istiyorsun kızım ?
 *CHI:	söylemem ki .
-*MOT:	peki , öğretmenim canım benimi söylermisin ?
+*MOT:	peki , öğretmenim canım benimi söyler misin ?
 *CHI:	ördek yaptım ben sana .
 *EXP:	ördek mi yaptın ?
-*EXP:	kanatları varmı?
+*EXP:	kanatları var mı?
 *CHI:	evet .
 *EXP:	gagasını da yap bakalım .
 *CHI:	yaparım işte .
 *MOT:	peki bir tane güneş yap bakalım bana .
-*EXP:	Özlemcim , ördek uçarmı?
+*EXP:	Özlemcim , ördek uçar mı?
 *CHI:	uçmaz .
-*EXP:	kuş uçarmı?
+*EXP:	kuş uçar mı?
 *CHI:	ben sana birşey yapayım .
 *MOT:	hadi , nokta nokta , bir çizgi yapalım .
 *CHI:	nokta , virgül , çizgi .
@@ -195,7 +195,7 @@
 *EXP:	biliyorum , niye verdi misketleri sana ?
 *CHI:	annecim , bak çocuklar geldi .
 *EXP:	misketleri niye verdi sana Hakan ?
-*EXP:	seviyormuymuş bunları?
+*EXP:	seviyor muymuş bunları?
 *EXP:	niçin verdi ?
 *CHI:	verdi işte .
 *CHI:	başka misket nerde ?
@@ -203,7 +203,7 @@
 *CHI:	hani ?
 *MOT:	Alev teyzesi , babası Özlem'e piyano alıyor , müziği çok sevdiği için .
 *EXP:	yok canım .
-*EXP:	sahi mi , alacakmısın ?
+*EXP:	sahi mi , alacak mısın ?
 *EXP:	kim öğretecek ?
 *CHI:	sen şarkı söyleyeceksin .
 *CHI:	babam da şarkı söylecek [: söyleyecek] .
@@ -212,7 +212,7 @@
 *CHI:	annem şey çalacak .
 *CHI:	babamla annem , sen de çalacaksın .
 *CHI:	annemle babam da çalacak , sen de çalacaksın .
-*EXP:	piyano nasıl çalınır , sen biliyormusun ?
+*EXP:	piyano nasıl çalınır , sen biliyor musun ?
 *CHI:	evet .
 *CHI:	şöyle çalınır .
 %com:	she shows
@@ -221,14 +221,14 @@
 *EXP:	ısırmasın o böcek .
 *CHI:	ha hah yetişti .
 %com:	brings a toy next to me
-*EXP:	yazık değilmi bana ?
+*EXP:	yazık değil mi bana ?
 *CHI:	hadi boncuklarımızı alalım .
 *EXP:	hayır almayalım , koyalım buraya .
 *CHI:	anne .
 %com:	whimpers
 *CHI:	bak nasıl uçuyor .
 %com:	picks up an airplane
-*MOT:	senin amcan jet pilotumuydu Özlem ?
+*MOT:	senin amcan jet pilotu muydu Özlem ?
 *CHI:	evet .
 *EXP:	ne oldu amcanıza yavrum ?
 *CHI:	hangi amcama ?
@@ -268,7 +268,7 @@
 *CHI:	on yaşımdayım .
 *EXP:	okula ne zaman gidiceksin [: gideceksin] ?
 *CHI:	şimdi gidecem seninle .
-*EXP:	ben götürecekmiyim seni ?
+*EXP:	ben götürecek miyim seni ?
 *CHI:	tabii , annem de hasta , evde kalacak .
 *CHI:	ben dolmuşa binecem .
 *CHI:	okula gidecem .
@@ -277,11 +277,11 @@
 %com:	looking for something mother brings out a toy car
 *MOT:	Herbie'yi göstersene öğretmene .
 *CHI:	öğretmen değil o .
-*MOT:	Alev teyze öğretmen tabii , değilmi ?
+*MOT:	Alev teyze öğretmen tabii , değil mi ?
 %com:	continues to play with the beads
 *CHI:	işte çok güzel oldu .
 *CHI:	heh heh heh hey .
-*CHI:	anne , bakabilirmisin ?
+*CHI:	anne , bakabilir misin ?
 *MOT:	nedir onlar kızım .
 *MOT:	Özlemcım [: Özlemciğim] , benlen [: benle] niçin konuşmuyorsun ?
 *MOT:	konuşsana .
@@ -299,7 +299,7 @@
 *CHI:	anneme yardım ediyorum her zaman .
 *EXP:	allah allah , neyle yıkıyorsun bulaşığı?
 *CHI:	ayol , senin kafayı yıkıyorum .
-*EXP:	sabun kullanıyormusun yıkarken ?
+*EXP:	sabun kullanıyor musun yıkarken ?
 *EXP:	hım , saçlarımı ne yapıyorsun öyle , acıyor .
 %com:	playing with my hair
 *EXP:	ne yapıyorsun kız saçımı?
@@ -309,7 +309,7 @@
 *EXP:	in ordan , in ordan rezil .
 *EXP:	in yoksa saçını topuz yaparım .
 %com:	coughs
-*EXP:	üşüttünmü?
+*EXP:	üşüttün mü?
 *CHI:	hadi dönsene önüne ayol .
 *EXP:	dönmek istemiyorum ayol .
 *CHI:	hadi dön .

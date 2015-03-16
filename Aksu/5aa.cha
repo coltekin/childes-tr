@@ -7,13 +7,13 @@
 @ID:	tur|Aksu|EXP|||||Investigator|||
 @ID:	tur|Aksu|MOT|||||Mother|||
 @ID:	tur|Aksu|GRM|||||Grandmother|||
-*EXP:	Vahide , sen hiç oynuyormusun oyun ?
+*EXP:	Vahide , sen hiç oynuyor musun oyun ?
 *CHI:	oynuyorum .
 *EXP:	ne oyunlar oynuyorsun sen ?
 *CHI:	oyuncaklar dolu .
-*EXP:	çocukları görüyormusun , orada oynuyorlar sizin caddede ?
+*EXP:	çocukları görüyor musun , orada oynuyorlar sizin caddede ?
 *EXP:	Hergün ?
-*EXP:	görüyormusun onları sen ?
+*EXP:	görüyor musun onları sen ?
 *CHI:	görmüxxx .
 *EXP:	ne oyunlar oynuyorlar ?
 *CHI:	ne oynuyor(lar) ya ?
@@ -21,7 +21,7 @@
 *CHI:	görmüyorum .
 *EXP:	hayır , hergün , dışarıya çıktığında .
 *CHI:	görmüyorum .
-*EXP:	dışarıya çıktığında görüyormusun ?
+*EXP:	dışarıya çıktığında görüyor musun ?
 *CHI:	görmüyorum ya .
 *EXP:	çocuklar ne oyunlar oynuyorlar ?
 *CHI:	göremiyorum .
@@ -31,11 +31,11 @@
 *CHI:	koşar .
 *CHI:	benim gibi koşar .
 *EXP:	sen kimlerle oynuyorsun ?
-*EXP:	senin arkadaşların varmı?
+*EXP:	senin arkadaşların var mı?
 *CHI:	yerde bıraktım .
 *EXP:	neyi ?
 *CHI:	köpeği .
-*EXP:	arkadaşın varmı?
+*EXP:	arkadaşın var mı?
 *CHI:	var işte bak .
 *EXP:	bebek arkadaşın senin , hı?
 *EXP:	sen ne zaman oyun oynuyorsun ?
@@ -82,7 +82,7 @@
 *CHI:	annem temizliyor .
 *MOT:	niçin temizliyor ?
 *CHI:	pis olunca temizliyor .
-*EXP:	Vahide , sen hiç masal biliyormusun ?
+*EXP:	Vahide , sen hiç masal biliyor musun ?
 *EXP:	bir tane anlat bize .
 *CHI:	anlatmıyorum ben masal .
 *CHI:	bilmiyorum .
@@ -117,9 +117,9 @@
 *MOT:	mersi mi dedi Canan ?
 *EXP:	Suzan da baktı mı size ?
 *CHI:	baktı.
-*EXP:	Suzan'a da al toka , olurmu ?
+*EXP:	Suzan'a da al toka , olur mu ?
 *CHI:	Suzanın var da tokası.
-*MOT:	senin babaannen geldimi ?
+*MOT:	senin babaannen geldi mi ?
 *CHI:	gelmedi .
 *MOT:	niye yalan söylüyorsun ?
 *CHI:	geldi .
@@ -134,14 +134,14 @@
 *CHI:	elini itiyorum , yapma diyorum , yapıyor .
 *MOT:	yine mi yapıyor ?
 *MOT:	kızsaydın , yapma diyorum sana deseydin .
-*MOT:	demedinmi ?
+*MOT:	demedin mi ?
 *CHI:	utanmasana dedim .
 *MOT:	utanmasana mı dedin ha ?
-*MOT:	Aylin geliyormu , senin arkadaşın varmı?
+*MOT:	Aylin geliyor mu , senin arkadaşın var mı?
 *CHI:	yok .
-*MOT:	bize de gelsinmi ?
+*MOT:	bize de gelsin mi ?
 *CHI:	gelmesin .
-*EXP:	bir masal söylermi acaba ?
+*EXP:	bir masal söyler mi acaba ?
 *CHI:	bir varmış anne , bir varmış anne xxx .
 *MOT:	söyle , bir varmış , yokmuş.
 *CHI:	bir varmış yokmuş anne .
@@ -183,11 +183,11 @@
 *CHI:	ben düşecem dedi bana .
 *EXP:	hı?
 *CHI:	xxx çiçek xxx şimdi .
-*EXP:	düşecekmi ?
+*EXP:	düşecek mi ?
 *CHI:	çek .
 *EXP:	çiçek ?
 *CHI:	çek bu xxx işte bak xxx .
-*EXP:	gidecekmi ?
+*EXP:	gidecek mi ?
 *EXP:	kim gidecek ?
 *CHI:	babam gidecek .
 *EXP:	nereye gidecek ?
@@ -285,7 +285,7 @@
 *CHI:	çay .
 *EXP:	su içer evladım .
 *CHI:	Bon su içer .
-*EXP:	niçin içiyor , biliyormusun sen Vahide ?
+*EXP:	niçin içiyor , biliyor musun sen Vahide ?
 *EXP:	Vahide ?
 *CHI:	ben su veririm ona içer .
 *EXP:	niye içer ?
@@ -302,7 +302,7 @@
 *EXP:	sonra ne yaparlar böyle böyle ?
 *CHI:	böyle yaparlar .
 *EXP:	ne yaparlar ?
-*EXP:	koşarlarmı kuşlar ?
+*EXP:	koşarlar mı kuşlar ?
 *CHI:	koşarlar .
 *EXP:	başka ne yaparlar ?
 *CHI:	dışarsına [: dışına] , dışarıya giderler böyle .
@@ -397,7 +397,7 @@
 *EXP:	otursun .
 *CHI:	gelmiyor bak , nerde ?
 *CHI:	nerde ?
-*GRM:	oturayımmı?
+*GRM:	oturayım mı?
 *CHI:	oturma .
 *CHI:	annemi çağır benim yanıma .
 *EXP:	hani nerde baban ?
@@ -419,7 +419,7 @@
 *EXP:	peki , bu ne yapıyor ?
 *CHI:	donu çıktı bunun .
 *CHI:	donu çıktı bebeğin .
-*EXP:	kim çıkardı biliyormusun donunu ?
+*EXP:	kim çıkardı biliyor musun donunu ?
 *CHI:	kim çıkardı?
 *EXP:	bilmem .
 *CHI:	bunun donu çıkmış.
@@ -430,12 +430,12 @@
 *CHI:	gözükmüyor poposu .
 *CHI:	kazağına bak bunun , kazağına bak bunun , kazağına bak .
 *CHI:	kazağına bak bunun , kazağına bak .
-*EXP:	baktım , ne güzel değilmi ?
+*EXP:	baktım , ne güzel değil mi ?
 *CHI:	bak başına .
 *CHI:	bu arabası nerde bunun ?
 *EXP:	işte orda arabası.
 *CHI:	bak bunun arabasına binemiyor .
-*EXP:	binemiyormu ?
+*EXP:	binemiyor mu ?
 *CHI:	binemiyor ya , binemiyor bu .
 *EXP:	küçük bebek te [: de] , onun için binemiyor .
 *CHI:	donunu çıkartıver bana donunu .

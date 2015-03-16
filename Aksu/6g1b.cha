@@ -5,13 +5,13 @@
 @Participants:	CHI Otmarkan Target_Child , EXP Ayla Investigator
 @ID:	tur|Aksu|CHI|4;4.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
-*EXP:	o sen beni bekledinmi dün ?
+*EXP:	o sen beni bekledin mi dün ?
 *CHI:	bekledim .
 *EXP:	ne yaptın sen dün ?
 *CHI:	oynadım .
 *CHI:	abimle bekledik .
 *CHI:	gelmediniz .
-*EXP:	o , sen hayvanları seviyormusun ?
+*EXP:	o , sen hayvanları seviyor musun ?
 *CHI:	seviyorum .
 *EXP:	hangi hayvanları seviyorsun ?
 *CHI:	bunlar .
@@ -25,7 +25,7 @@
 *CHI:	piliç çalar .
 *CHI:	süt içer .
 *CHI:	sonra , kediler süt içer .
-*EXP:	tırmalarmı kediler ?
+*EXP:	tırmalar mı kediler ?
 *CHI:	evet .
 *EXP:	niye tırmalar ?
 *CHI:	çünkü duvara çıkmak için .
@@ -37,7 +37,7 @@
 *CHI:	süt yaparlar .
 *EXP:	köpekler ne yaparlar ?
 *CHI:	köpekler birşey yapmaz .
-*EXP:	köpekleri görüyormusun sen dışarıda ?
+*EXP:	köpekleri görüyor musun sen dışarıda ?
 *EXP:	ben görüyorum .
 *EXP:	neler yapıyorlar ?
 *CHI:	neler yapıyorlar ?
@@ -55,7 +55,7 @@
 *CHI:	berberciye [: berbere] saldırıyor .
 *EXP:	kime ?
 *CHI:	berberciye saldırıyor .
-*EXP:	köpekler ne içer biliyormusun ?
+*EXP:	köpekler ne içer biliyor musun ?
 *CHI:	ne içer .
 *CHI:	şey .
 *EXP:	su içer ha ?
@@ -73,7 +73,7 @@
 *CHI:	uçar .
 *EXP:	nasıl uçar ?
 *CHI:	bayağı uçar .
-*EXP:	kurtları biliyormusun ?
+*EXP:	kurtları biliyor musun ?
 *CHI:	kurtlar şey yaparlar .
 *CHI:	ısırırlar çocukları.
 *EXP:	çocukları mı ısırırlar ?
@@ -101,7 +101,7 @@
 *CHI:	kuyruğu .
 *EXP:	nasıl yüzer balıklar ?
 *CHI:	balıklar bayağı yüzerler .
-*EXP:	hiç gördünmü suyun içinde ?
+*EXP:	hiç gördün mü suyun içinde ?
 *CHI:	gördüm .
 *EXP:	nasıl yüzüyorlar ?
 *CHI:	bayağı.
@@ -115,10 +115,10 @@
 *CHI:	onlan [: onunla] tutuyoruz .
 *EXP:	sonra ne yapıyorsunuz o balıkları?
 *CHI:	pişirip yiyoruz .
-*EXP:	seviyormusun sen balık yemeyi ?
+*EXP:	seviyor musun sen balık yemeyi ?
 *CHI:	evet .
 *CHI:	seviyorum .
-*EXP:	sen hiç kurt hikayesi biliyormusun ?
+*EXP:	sen hiç kurt hikayesi biliyor musun ?
 *CHI:	hiç.
 *CHI:	kartalı biliyorum .
 *EXP:	ne yapmış kartal ?
@@ -127,7 +127,7 @@
 *CHI:	ordan [: oradan] geçen bir tilki şen sesinle öt demiş.
 *CHI:	aptal karga gak demiş.
 *CHI:	peyniri de tilki yemiş.
-*EXP:	anneanne hikaye anlatmıyormu sana ?
+*EXP:	anneanne hikaye anlatmıyor mu sana ?
 *CHI:	aslan Memetçiği biliyordum .
 *CHI:	şimdi unuttum .
 %com:	brother said something
@@ -160,7 +160,7 @@
 *EXP:	kim öğretmişti bunu sana ?
 *CHI:	babam .
 *CHI:	abim .
-*EXP:	sen abini çok seviyormusun ?
+*EXP:	sen abini çok seviyor musun ?
 *CHI:	seviyorum .
 *EXP:	abinle neler yapıyorsunuz bütün gün ?
 *CHI:	oynuyoruz .

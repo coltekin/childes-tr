@@ -60,7 +60,7 @@
 *CHI:	kendi kendime öğrendim .
 *CHI:	ama sinemadan öğren .
 *CHI:	ama televizyondan öğrendim .
-*EXP:	acıdınmı eşeğe ?
+*EXP:	acıdın mı eşeğe ?
 *CHI:	acımadım .
 *EXP:	dövüyormuş sahibi eşeği .
 *CHI:	döğmüyormuş [: dövmüyormuş] .
@@ -83,7 +83,7 @@
 %com:	he misunderstood what he was asked , but note the passive tense
 *EXP:	başka ne yaparlar kızınca ?
 *CHI:	bişey [: birşey] yapmazlar .
-*EXP:	tırmalamazlarmı ama ?
+*EXP:	tırmalamazlar mı ama ?
 *CHI:	tırmalarlar ama .
 *EXP:	niye tırmalar kediler ?
 *CHI:	çünkü insanlar kızdırdığı için .
@@ -109,7 +109,7 @@
 *CHI:	sadece kemik parçası.
 *CHI:	kedi de kemik parçası , köpek de kemik parçası.
 *CHI:	kedi de aynı şeyi yer .
-*EXP:	birşey içerlermi ?
+*EXP:	birşey içerler mi ?
 *CHI:	ikisi de su içer .
 *CHI:	çünkü susamaması için .
 *EXP:	ne zaman içer ?
@@ -119,17 +119,17 @@
 *CHI:	kuşlar insanı ısırır .
 *EXP:	kuşlar ne yapar ?
 *CHI:	ne yapar ?
-*EXP:	yürürmü?
+*EXP:	yürür mü?
 *CHI:	yürümez .
 *EXP:	ne yapar ?
 *CHI:	uçar .
 *EXP:	neyle uçar ?
 *CHI:	kanatla .
-*EXP:	kuşları severmisin ?
+*EXP:	kuşları sever misin ?
 *CHI:	sevmiyorum .
 *CHI:	sevmem .
 *CHI:	küçük kuşları severim , büyük kuşları sevmem .
-*EXP:	sen süt içermisin ?
+*EXP:	sen süt içer misin ?
 *CHI:	içerim .
 *EXP:	neyle içersin ?
 *CHI:	babam bana her zaman milkshake@s:eng yapıyor , milkshake@s:eng de .
@@ -173,18 +173,18 @@
 *CHI:	yerler .
 *EXP:	kim ?
 *CHI:	insanlar .
-*EXP:	sen balık yemeği seviyormusun ?
+*EXP:	sen balık yemeği seviyor musun ?
 *CHI:	tek hamsi seviyorum .
 *CHI:	başka balık sevmiyorum .
 *CHI:	tek hamsi .
 *CHI:	başka balık sevmem .
 *EXP:	nasıl pişiriyorsunuz hamsiyi ?
 *CHI:	tavada .
-*EXP:	kızartıyormusunuz ?
+*EXP:	kızartıyor musunuz ?
 *CHI:	kızartıyoruz .
 *CHI:	başka birşey yapmıyoruz .
 *CHI:	tek hamsiyi seviyorum .
-*EXP:	onun kılçıkları yokmu ?
+*EXP:	onun kılçıkları yok mu ?
 *EXP:	ne yapıyorsunuz ?
 *CHI:	var .
 *CHI:	kılçıklarını sıyırıyoruz , atıyoruz .
@@ -211,7 +211,7 @@
 *CHI:	hayır .
 *CHI:	beş , beş yaşındayım .
 *CHI:	hayır , beş.
-*EXP:	mektebe gidecekmisin ?
+*EXP:	mektebe gidecek misin ?
 *CHI:	evet .
 *EXP:	ne zaman ?
 *CHI:	onu söylemem .
@@ -248,7 +248,7 @@
 *CHI:	var .
 *EXP:	hangisine gitmeyi seviyorsun ?
 *CHI:	ikisini de seviyorum işte .
-*EXP:	okula gitmiyormusun artık ?
+*EXP:	okula gitmiyor musun artık ?
 *CHI:	gitmiyorum .
 *CHI:	yaramazlar yuvası.
 *CHI:	yaramazlar yuvası.
@@ -259,7 +259,7 @@
 *EXP:	ismi ne ?
 *CHI:	bilmiyorum .
 *CHI:	daha henüz bilmiyoruz xxx .
-*EXP:	çocuklar niye koşar biliyormusun ?
+*EXP:	çocuklar niye koşar biliyor musun ?
 *CHI:	biliyorum .
 *CHI:	koşmaca oynamak için .
 *EXP:	sen ne oyunlar oynarsın ?
@@ -337,7 +337,7 @@
 *CHI:	takılı , demirleri var , çıkmıyor .
 *CHI:	çıkmıyor .
 *CHI:	sade yapılmış öyle .
-*EXP:	senin kardeşin varmı?
+*EXP:	senin kardeşin var mı?
 *CHI:	var .
 *EXP:	nerde ?
 *CHI:	bir tane Pariste var , ismi Mehmet Ali .
@@ -349,10 +349,10 @@
 *EXP:	ama Hakan taşındı , di [: değil] mi ?
 *CHI:	taşındı.
 *CHI:	ev yıkılıyor .
-*EXP:	artık onu görüyormusun ?
+*EXP:	artık onu görüyor musun ?
 *CHI:	görüyorum .
 *CHI:	pencerede görüyorum .
-*EXP:	artık beraber oynamıyormusunuz ?
+*EXP:	artık beraber oynamıyor musunuz ?
 *CHI:	hiç.
 *EXP:	niye ?
 *CHI:	bugün eniştemler beni aldı.
@@ -392,7 +392,7 @@
 %com:	küçük: grandma , büyük: great grandma
 *EXP:	öbürü kim ?
 *CHI:	Saime .
-*EXP:	bir başkası varmı ütü yapan ?
+*EXP:	bir başkası var mı ütü yapan ?
 *CHI:	var .
 *EXP:	o kim ?
 *CHI:	o da büyük .
@@ -406,7 +406,7 @@
 *EXP:	ütü kim ütülüyor ?
 *CHI:	hergün biri .
 *CHI:	Saime ütülüyor .
-*EXP:	hergün ütülüyormu ?
+*EXP:	hergün ütülüyor mu ?
 *CHI:	hergün değil .
 *CHI:	hergün ütülüyor bu evde .
 *CHI:	Saime ütülüyor , küçük ütülüyor , Hatice hanım .
@@ -474,7 +474,7 @@
 *CHI:	bazı günleri uyuyorum .
 *CHI:	bazı günleri uyumuyorum .
 %com:	he means he takes naps
-*EXP:	bugün uyuyacanmı [: uyuyacakmısın] ?
+*EXP:	bugün uyuyacanmı [: uyuyacak mısın] ?
 *CHI:	hiç.
 *EXP:	niye ?
 *CHI:	bazı günler uyuyorum , bazı günler uyumuyorum .
@@ -497,7 +497,7 @@
 *EXP:	o bardaklar ne güzel !
 *CHI:	süs .
 *EXP:	onlar antika .
-*EXP:	biliyormusun antika ne demek ?
+*EXP:	biliyor musun antika ne demek ?
 *CHI:	hiç , ne demek ?
 *CHI:	bizim aşağıda var daha güzelleri , yeni , İngiltereden .
 *CHI:	daha yepyeni duruyor .
@@ -509,7 +509,7 @@
 *CHI:	hayır .
 *EXP:	niye ?
 *CHI:	işte .
-*EXP:	dışarıya gidiyormusun sen bazan ?
+*EXP:	dışarıya gidiyor musun sen bazan ?
 *CHI:	gidiyorum .
 *EXP:	kimle gidiyorsun ?
 *CHI:	Saimeyle .
@@ -564,7 +564,7 @@
 *CHI:	domuz da denizde .
 *CHI:	köprünün altında .
 *CHI:	denize düşmüş.
-*EXP:	sizin kediniz varmı?
+*EXP:	sizin kediniz var mı?
 *CHI:	Ankaradan bana birgün .
 *CHI:	çok çok eski zaman .
 *CHI:	yok , eski diyorum .
@@ -574,7 +574,7 @@
 *CHI:	çişini balkona yapıyor .
 *CHI:	hiç kimseye havlamıyor .
 *CHI:	hiç kimseyi ısırmıyor .
-*EXP:	köpekler ısırırmı?
+*EXP:	köpekler ısırır mı?
 *CHI:	iyi köpekler ısırmaz işte .
 *EXP:	niye ısırır öbür köpekler ?
 *CHI:	onlar sokak köpeğidir .

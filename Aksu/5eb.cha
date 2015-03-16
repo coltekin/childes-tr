@@ -82,10 +82,10 @@
 *CHI:	benim vardı.
 *EXP:	kim almıştı?
 *CHI:	hiç kimse .
-*EXP:	baban sana güzel şeyler getiriyormu ?
+*EXP:	baban sana güzel şeyler getiriyor mu ?
 *EXP:	akşam eve gelirken ?
 *CHI:	bisiklet alacak babam bana .
-*EXP:	abinin pisikleti [: bisikleti] varmı?
+*EXP:	abinin pisikleti [: bisikleti] var mı?
 *EXP:	pisikletle [: bisikletle] gezeceksin .
 *CHI:	abim de arkasına biner .
 *CHI:	sonra da pisikletimi [: bisikletimi] itiyorum .
@@ -112,7 +112,7 @@
 *EXP:	kurtu [: kurdu] bul .
 *CHI:	nerde ?
 *CHI:	a burda .
-*EXP:	annen sana masal anlatıyormu ?
+*EXP:	annen sana masal anlatıyor mu ?
 *CHI:	hayır .
 *EXP:	niye ?
 *CHI:	işte .
@@ -172,13 +172,13 @@
 *CHI:	kaşar peyniri yok ta beyaz peynir var .
 *EXP:	başka neler ?
 *EXP:	nerde sizin dükkan ?
-*EXP:	eve yakınmı?
+*EXP:	eve yakın mı?
 *EXP:	sen büyüyünce ne olacaksın ?
-*EXP:	okula gidecenmi [: gidecekmisin] ?
+*EXP:	okula gidecenmi [: gidecek misin] ?
 *CHI:	büyüyünce okula gideceğim .
 *EXP:	ne olacaksın ?
 *CHI:	hiç birşey olmayacağım .
-*EXP:	annene yardım ediyormusun ?
+*EXP:	annene yardım ediyor musun ?
 *CHI:	düşüyor hep bunlar elimden .
 *EXP:	ne yapıyor bu ?
 *CHI:	zıplıyor .

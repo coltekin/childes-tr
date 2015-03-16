@@ -100,14 +100,14 @@
 *EXP:	ne yapıyorsunuz dışarda Kadirle ?
 *CHI:	xxx .
 *EXP:	baba nerde ?
-*EXP:	onu götüreyimmi ?
+*EXP:	onu götüreyim mi ?
 %com:	the above question is asked in a certain connotation to stimulate an answer , a common tease in Turkish , usu . in conversing with a child
 *CHI:	hayır .
 *EXP:	niçin ?
 *CHI:	çünkü onun tüfeği var .
 *EXP:	nerde tüfeği babanın ?
 *CHI:	salonda .
-*EXP:	asılımı ?
+*EXP:	asılı mı ?
 *EXP:	[- eng] I don't see a gun in the living room .
 %com:	only th english version was transcribed here; probably she said: ben salonda tüfek görmüyorum .
 *CHI:	yatak odasında .
@@ -141,7 +141,7 @@
 %com:	irrelevant comment
 *EXP:	o senin baban mı?
 *CHI:	evet .
-*EXP:	tahta almaya gittinizmi ?
+*EXP:	tahta almaya gittiniz mi ?
 *CHI:	evet .
 *EXP:	nereden aldınız tahtayı?
 *CHI:	arkadaşımdan .
@@ -162,7 +162,7 @@
 *CHI:	dede uyuyor .
 *EXP:	ablalar ne yapıyor ?
 *CHI:	onlar da uyuyor .
-*EXP:	şimdi uyuyorlarmı?
+*EXP:	şimdi uyuyorlar mı?
 *CHI:	okula gittiler .
 *EXP:	bu evde kimler oturuyor ?
 *CHI:	biz .
@@ -191,7 +191,7 @@
 *CHI:	uyuyor .
 *CHI:	sonra da ben uyuyorum , annem uyuyor , babam uyuyor , ben .
 *CHI:	uyuyorum , ondan sonra , arkadaşlarıma gidiyorum .
-*EXP:	bu hayvanları seviyormusun ?
+*EXP:	bu hayvanları seviyor musun ?
 *CHI:	tabii .
 *EXP:	kediler ne yapar ?
 *CHI:	kediler gezer , evde gezer , yok , dışarda gezer .
@@ -222,7 +222,7 @@
 *CHI:	yerleri ısırır .
 *EXP:	yerleri ne yapar ?
 *CHI:	ısırır .
-*EXP:	hiçbirşey yermi köpek ?
+*EXP:	hiçbirşey yer mi köpek ?
 *CHI:	tabii .
 *EXP:	ne yer ?
 *CHI:	bizim köpek şeyde , Amerikada .
@@ -235,7 +235,7 @@
 *CHI:	evet , öyle çıkarırlar .
 *EXP:	kurtlar ne yapar ?
 *EXP:	şuna bak ağzını açmış.
-*EXP:	kurtlar ne yapar , bilmezmisin ?
+*EXP:	kurtlar ne yapar , bilmez misin ?
 *CHI:	atlar yer .
 *CHI:	yerleri ısırır böyle böyle böyle .
 *EXP:	balıklar ne yapar ?
@@ -297,7 +297,7 @@
 *REL:	ha , atıyorlardı sizi ha ?
 *CHI:	yok , biz kendimiz atlıyorduk .
 *EXP:	neler gördün denizde .
-*EXP:	balık gördünmü?
+*EXP:	balık gördün mü?
 *CHI:	yok , görmedim .
 *CHI:	babam balığa gitmişti , orda balık tutuyorlardı.
 *REL:	neye bindiler ?
@@ -341,7 +341,7 @@
 *CHI:	benzin alacak .
 *EXP:	nereden alacak ?
 *CHI:	burdan .
-*EXP:	sen kargayla tilkiyi biliyormusun ?
+*EXP:	sen kargayla tilkiyi biliyor musun ?
 *EXP:	hadi anlat .
 *CHI:	karga , bizim kargamız var ya .
 *CHI:	her zaman biz onları babamla yakalıyoruz .

@@ -14,7 +14,7 @@
 *CHI:	bunlar köfte mi ki ?
 *CHI:	bunlar çöp tenekesi mi ?
 *EXP:	evet .
-*CHI:	küçücük çöp tenekeleri değilmi ?
+*CHI:	küçücük çöp tenekeleri değil mi ?
 *CHI:	bak vurdu işte .
 *EXP:	şimdi bak burada bir sürü hayvanlar var .
 *EXP:	sen bana bunları anlat bakalım .
@@ -27,18 +27,18 @@
 *CHI:	deve hayvanı.
 *CHI:	bu ne ?
 *EXP:	inek .
-*EXP:	inekten süt sağılırmı?
-*EXP:	sen süt içiyormusun ?
+*EXP:	inekten süt sağılır mı?
+*EXP:	sen süt içiyor musun ?
 *CHI:	içiyorum .
 *EXP:	peki Piraye , bana ordan [: oradan] bir kedi bul bakalım .
 *CHI:	işte .
-*EXP:	o kedinin tırnakları varmı?
+*EXP:	o kedinin tırnakları var mı?
 *CHI:	var .
 *CHI:	bak , içinde , batırıyor .
 *EXP:	niye batırıyor ?
 *CHI:	işte .
 *EXP:	işte mi ?
-*EXP:	sen tırnaklarını batırıyormusun kimseye ?
+*EXP:	sen tırnaklarını batırıyor musun kimseye ?
 %com:	no
 *EXP:	peki kedi niçin batırıyor ?
 *CHI:	işte .
@@ -58,15 +58,15 @@
 *CHI:	kediler yıkanmazlar .
 *EXP:	peki nasıl temizlenir kediler ?
 *CHI:	giderler küçük banyoya , temizlenirler .
-*EXP:	kedilerin banyosu varmı?
+*EXP:	kedilerin banyosu var mı?
 *CHI:	var .
 *EXP:	sahi mi ?
 *EXP:	nasıl bir o banyo ?
 *CHI:	pise benziyor .
-*EXP:	sabun kullanırlarmı?
+*EXP:	sabun kullanırlar mı?
 *CHI:	kullanırlar .
 *EXP:	sahi ?
-*EXP:	nasıl kedi sabunu gördünmü sen hiç?
+*EXP:	nasıl kedi sabunu gördün mü sen hiç?
 *CHI:	gördüm .
 *EXP:	nasıl birşey ?
 *CHI:	küçücük birşey .
@@ -74,7 +74,7 @@
 *CHI:	kokulu .
 *EXP:	saçlarını , tüylerini nasıl yıkıyor kediler ?
 *CHI:	saçlarını tüylerini yoluyorlar .
-*EXP:	yıkayabiliyorlarmı doğru dürüst ?
+*EXP:	yıkayabiliyorlar mı doğru dürüst ?
 *CHI:	yıkıyorlar .
 *CHI:	traş ediyorlar banyoda .
 *EXP:	bir de traş ediyor kediler .
@@ -89,17 +89,17 @@
 *CHI:	hapur hapur , hep çöpler yiyorlar .
 *EXP:	köpekler de mi çöp yiyorlar ?
 *CHI:	çok çöp yiyorlar .
-*EXP:	kedilerle kavga edermi köpekler ?
+*EXP:	kedilerle kavga eder mi köpekler ?
 *CHI:	kedilerle kavga etmezler , aslanlarla kavga ederler .
 *EXP:	köpekler aslanlarla .
 *EXP:	kim daha kuvvetli ?
 *CHI:	aslanlar , kaplanlar .
 *EXP:	o daha mı kuvvetli onlar ?
-*EXP:	onlar köpekleri dövüyorlarmı?
+*EXP:	onlar köpekleri dövüyorlar mı?
 *CHI:	dövüyorlar .
 *EXP:	başka ne yapıyorlar ?
 *CHI:	bir de öldürüyorlar .
-*EXP:	peki köpekler su içermi ?
+*EXP:	peki köpekler su içer mi ?
 *CHI:	evet .
 *EXP:	nasıl içiyorlar ?
 *CHI:	gidiyorlar banyolarına .
@@ -109,17 +109,17 @@
 *CHI:	pisiler de yapıyorlar öyle birşeyi .
 *EXP:	peki niçin içiyorlar köpekler su ?
 *CHI:	susuyorlar da ondan .
-*EXP:	tabii , köpekler başka yemek yerlermi ?
+*EXP:	tabii , köpekler başka yemek yerler mi ?
 *CHI:	yerler , kahvaltı ederler sabahları.
 *EXP:	kahvaltıda ne yerler köpekler ?
 *CHI:	çaylar yerler .
-*EXP:	çay içermi köpekler ?
+*EXP:	çay içer mi köpekler ?
 *CHI:	hı?
 *EXP:	kim yapıyor , çayı kim yapar köpeklere ?
 *CHI:	köpekler çay yapıyorlar pisilere .
 *EXP:	peki , köpeklere kim çay yapıyor ?
 *CHI:	köpeklere aslanlar yapıyor .
-*EXP:	aslanlar çay içermi ?
+*EXP:	aslanlar çay içer mi ?
 *CHI:	içmez .
 *EXP:	onlar ne içer ?
 *CHI:	onlar hep çay içerler .
@@ -131,24 +131,24 @@
 *EXP:	sen anlat bana .
 *EXP:	hangi kuşları tanıyorsun ?
 *CHI:	ben , ben küçük bebekleri seviyorum .
-*EXP:	bebek kuşları seviyorsun , öylemi ?
+*EXP:	bebek kuşları seviyorsun , öyle mi ?
 *CHI:	evet .
 *EXP:	başka ?
 *CHI:	bir de küçük yavrular seviyorum .
-*EXP:	martı kuşu varmı?
-*EXP:	martı diye bir kuş varmı?
+*EXP:	martı kuşu var mı?
+*EXP:	martı diye bir kuş var mı?
 *CHI:	var .
 *EXP:	başka ne cins kuşlar var ?
 *CHI:	pis kuşlar var .
 *CHI:	kaka yapan kuşlar var .
-*EXP:	temiz kuşlar da varmı?
+*EXP:	temiz kuşlar da var mı?
 *CHI:	var .
 *EXP:	onlar hangileri ?
 *CHI:	ördek , boklular da martılar .
-*EXP:	başka daha kuşlar varmı?
+*EXP:	başka daha kuşlar var mı?
 *EXP:	küçücük bir kuş daha var .
-*EXP:	onun ismi ne biliyormusun ?
-*EXP:	serçe , serçe var değilmi ?
+*EXP:	onun ismi ne biliyor musun ?
+*EXP:	serçe , serçe var değil mi ?
 *CHI:	benim kitabımda var serçe .
 *EXP:	sahi ?
 *EXP:	başka ne var senin kitabında ?
@@ -164,7 +164,7 @@
 *CHI:	toprak yiyor .
 *EXP:	toprak yemiyor , ne yiyor ?
 *CHI:	bak toprak dökülüyor buradan .
-*EXP:	bu solucan değilmi ?
+*EXP:	bu solucan değil mi ?
 *EXP:	solucan yiyor .
 *EXP:	bu ne bu ?
 *EXP:	civ civ mi ?
@@ -205,9 +205,9 @@
 *CHI:	kanatlarıyla .
 *EXP:	kaç tane kanatları var kuşların ?
 *CHI:	iki tane .
-*EXP:	sen hiç kurt gördünmü?
+*EXP:	sen hiç kurt gördün mü?
 *CHI:	kurt köpeği gördüm .
-*EXP:	peki kurtlar ısırırmı?
+*EXP:	peki kurtlar ısırır mı?
 *CHI:	ısırır .
 *EXP:	niye ısırırlar ?
 *CHI:	işte .
@@ -215,13 +215,13 @@
 *EXP:	bir sebebi var herhalde .
 *EXP:	niye ısırırlar ?
 *CHI:	çok hızlı ısırırlar .
-*EXP:	peki şekerim sen hiç balık tuttunmu ?
+*EXP:	peki şekerim sen hiç balık tuttun mu ?
 *CHI:	ne ?
 *CHI:	Funda ?
 *EXP:	Funda tuttu ya .
 *CHI:	babası?
 *EXP:	hayır , Fundayla ben tuttum beraber .
-*EXP:	sen balıkları tanıyormusun ?
+*EXP:	sen balıkları tanıyor musun ?
 *EXP:	en çok hangi balığı seviyorsun ?
 *CHI:	ben şu balığı seviyorum .
 %com:	toy

@@ -15,7 +15,7 @@
 *CHI:	oynuyor , fare .
 *EXP:	farelerin nesi var ?
 *CHI:	burnu var , dişleri var .
-*CHI:	kuyruğunu gördünmü?
+*CHI:	kuyruğunu gördün mü?
 *EXP:	dişleri ne yapar ?
 *CHI:	böyle yapar .
 *CHI:	kurşun asker .
@@ -38,7 +38,7 @@
 *EXP:	bu neymiş?
 *CHI:	köpek .
 *EXP:	niye köpekler ısırır ?
-*EXP:	köpekler ısırırmı?
+*EXP:	köpekler ısırır mı?
 *CHI:	ısırmaz .
 *CHI:	bu ne ?
 *CHI:	kalemimi ver , kalemimi .
@@ -82,7 +82,7 @@
 *EXP:	neyle yazıyor Aylin ?
 *CHI:	yerde yazıcağım .
 *CHI:	burda yazacağım .
-*EXP:	oynıyalımmı [: oynayalımmı] ?
+*EXP:	oynıyalım [: oynayalım] mı ?
 *CHI:	oynama .
 *CHI:	oynıyacağım [: oynayacağım] .
 %com:	not clear in the text who says the sentence right above
@@ -131,16 +131,16 @@
 *CHI:	iki diye , ikide .
 *EXP:	nasıl ütü ütülüyor ?
 *CHI:	xxx .
-*EXP:	anne okurmu ?
+*EXP:	anne okur mu ?
 *CHI:	kuş , anne xxx .
-*EXP:	anne okurmu ?
+*EXP:	anne okur mu ?
 *CHI:	okur , okuyor .
 *EXP:	ne zaman okuyor ?
 *CHI:	<iki diye> [: ikide] okuyor .
 *CHI:	çocuk xxx .
 *CHI:	sesimi de al .
 *CHI:	çalsın .
-*EXP:	Aylin okula gidiyormu ?
+*EXP:	Aylin okula gidiyor mu ?
 *CHI:	gidiyorum .
 *EXP:	ne yaparsın okulda ?
 *CHI:	bardak nerede ?
@@ -215,7 +215,7 @@
 *CHI:	burda .
 *CHI:	yastıkta uyuyor .
 *CHI:	sepet bu .
-*EXP:	görüyormusun kuşu ?
+*EXP:	görüyor musun kuşu ?
 *CHI:	gördüm .
 *EXP:	ne yapar kuşlar ?
 *CHI:	uçar sonra da .

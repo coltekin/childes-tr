@@ -27,7 +27,7 @@
 *CHI:	sonra .
 *CHI:	sonra xxx .
 *CHI:	yara olmuş.
-*EXP:	çocuklar koşarmı?
+*EXP:	çocuklar koşar mı?
 *CHI:	hayır .
 *EXP:	niye koşmazlar ?
 *CHI:	işte .
@@ -35,7 +35,7 @@
 *CHI:	ebecilik .
 *EXP:	kimle oynarsın ?
 *CHI:	ben bilmiyorum .
-*EXP:	şeyle oynarmısın ?
+*EXP:	şeyle oynar mısın ?
 *CHI:	neyle ?
 *EXP:	Denizhan'la .
 *CHI:	oynarım .
@@ -43,9 +43,9 @@
 *CHI:	yakalamaca .
 *EXP:	çocuklar ne zaman oynarlar ?
 *CHI:	bazı [: bazen] .
-*EXP:	dışarıya gidiyormusun ki ?
+*EXP:	dışarıya gidiyor musun ki ?
 *CHI:	hayır .
-*EXP:	bazan da gitmiyormusun ?
+*EXP:	bazan da gitmiyor musun ?
 *CHI:	hayır .
 *CHI:	gitmiyorum .
 *EXP:	kiminle gidiyorsun bazen ?
@@ -97,7 +97,7 @@
 *EXP:	niye ?
 *CHI:	işte .
 *EXP:	ne zaman taşırlar ?
-*EXP:	sen resim yaparmısın ?
+*EXP:	sen resim yapar mısın ?
 *CHI:	yaparım .
 *EXP:	hadi bir resim yap .
 *EXP:	hem anlat , hem yap .
@@ -165,7 +165,7 @@
 *CHI:	dün , akşamları.
 *EXP:	ne yapıyor gemide baban ?
 *CHI:	iş yapıyor .
-*EXP:	sen de gidermisin gemiye birgün ?
+*EXP:	sen de gider misin gemiye birgün ?
 *CHI:	gitmiyorum .
 *EXP:	anne ne yapar ?
 *CHI:	daireye gider .
@@ -195,25 +195,25 @@
 *CHI:	anneanneme yardım ederim .
 *EXP:	dün ne oldu burda ?
 *CHI:	babam geldi .
-*EXP:	sevindinmi ?
+*EXP:	sevindin mi ?
 *CHI:	bal getirdi bize .
-*EXP:	bal seviyormusun ?
+*EXP:	bal seviyor musun ?
 *CHI:	bu kadar , kutuyla .
 *EXP:	bugün ne oldu ?
 *EXP:	ben geldim birşey oldu .
 *CHI:	elim sıkıştı.
 *EXP:	nerde sıkıştı?
 *CHI:	babamın kapısının orda .
-*EXP:	acıdımı?
+*EXP:	acıdı mı?
 *CHI:	acıdı.
-*EXP:	geçti ama değilmi ?
+*EXP:	geçti ama değil mi ?
 *CHI:	geçti .
 *EXP:	nasıl oldu , anlat .
 *CHI:	parmağımı soktum .
 *EXP:	ee xxx .
 *CHI:	sonra sıkıştı.
-*EXP:	başka birşey söyliyecenmi [: söyleyecekmisin] ?
-*EXP:	sen bir hikaye biliyormusun ?
+*EXP:	başka birşey söyliyecenmi [: söyleyecek misin] ?
+*EXP:	sen bir hikaye biliyor musun ?
 *CHI:	bilmiyorum .
 *MOT:	üç keçiciği anlat .
 *CHI:	ben onu sevmiyorum .
@@ -263,7 +263,7 @@
 *CHI:	duranlar sonra benziyor xxx .
 *EXP:	zürafa neye benziyor ?
 *CHI:	şeye benziyor .
-*EXP:	kediler tırmalarmı?
+*EXP:	kediler tırmalar mı?
 *CHI:	tırmalar .
 *EXP:	niye tırmalar ?
 *CHI:	işte .
@@ -279,7 +279,7 @@
 *CHI:	et yer .
 *CHI:	köpekler et yer .
 *CHI:	sonra xxx .
-*EXP:	kedin varmı senin ?
+*EXP:	kedin var mı senin ?
 *CHI:	yok .
 *CHI:	sonra .
 *EXP:	kediler niye tırmalar ?
@@ -306,7 +306,7 @@
 *EXP:	ne içerler ?
 *CHI:	şey içerler .
 *CHI:	kemik yiyerler [: yerler] .
-*EXP:	hiçbirşey içmezlermi ?
+*EXP:	hiçbirşey içmezler mi ?
 *CHI:	hiç.
 *EXP:	kuşlar ne yapar ?
 *CHI:	onlar su içerler .
@@ -325,7 +325,7 @@
 *CHI:	kurtlar ne yapar , dağlarda gezer .
 *CHI:	sonra kurtlar uzaklara gider .
 *CHI:	yollara giderler sonra .
-*EXP:	kurtlar ısırırmı?
+*EXP:	kurtlar ısırır mı?
 *CHI:	ısırır .
 *EXP:	niye ısırır ?
 *CHI:	işte .
@@ -342,7 +342,7 @@
 *CHI:	sonra xxx .
 *EXP:	nasıl yüzerler ?
 *CHI:	bayağı yüzerler .
-*EXP:	hikaye biliyormusun ?
+*EXP:	hikaye biliyor musun ?
 *CHI:	bilmiyorum .
 *EXP:	hadi söyle bir tane .
 *CHI:	bilmiyorum .
@@ -371,7 +371,7 @@
 *CHI:	dersi öğrendim .
 *CHI:	okumayı öğrendim .
 *CHI:	senin yazın Atatürk .
-*CHI:	sevindinmi Atatürk ?
+*CHI:	sevindin mi Atatürk ?
 *BRO:	yirmi üç Nisan xxx hani biliyorsun xxx .
 *CHI:	bilmiyorum .
 *CHI:	yirmi üç Nisanı bilmiyorum .
@@ -379,7 +379,7 @@
 %com:	repaced twenty+three with yirmi üç based on the comment above
 *EXP:	bugün ne oldu , ne yaptık ?
 *CHI:	hayvanlarla oynadım .
-*EXP:	sen seviyormusun hayvanlarla oynamayı?
+*EXP:	sen seviyor musun hayvanlarla oynamayı?
 *CHI:	evet .
 *EXP:	annenler nereye gitti ?
 *CHI:	sinemaya gitti .
@@ -388,7 +388,7 @@
 *CHI:	sonra burda [: burada] sinema .
 *CHI:	çocuklar çıkıyor , babalar çıkıyor , tabii .
 *CHI:	sonra burda [: burada] oyun oynuyorlar .
-*EXP:	sen bir film gördünmü?
+*EXP:	sen bir film gördün mü?
 *CHI:	görmedim hiç.
 *CHI:	sinemaya gitmedim .
 *EXP:	nereye gidiyorsun ?
@@ -503,7 +503,7 @@
 *EXP:	İlhan kim ?
 *EXP:	kim o ?
 *CHI:	yukardakiler .
-*EXP:	o aşağı geliyormu ?
+*EXP:	o aşağı geliyor mu ?
 *CHI:	gelmiyor .
 *CHI:	geliyor .
 *CHI:	sonra aşağıda doktor var .

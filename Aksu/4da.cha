@@ -17,7 +17,7 @@
 *EXP:	başka ne yapar kediler ?
 *EXP:	kediler nasıl bağırıyor ?
 *CHI:	evde bağırıyor .
-*EXP:	bana bir hikaye anlatırmısın ?
+*EXP:	bana bir hikaye anlatır mısın ?
 *CHI:	pantolonum düştü.
 *EXP:	kediler ne yapar ?
 *CHI:	oynar .
@@ -73,7 +73,7 @@
 *CHI:	oyuncaklar okulda .
 *EXP:	kediler ne yapar ?
 *CHI:	alır .
-*EXP:	tırmalarmı?
+*EXP:	tırmalar mı?
 *CHI:	tırmalar .
 *EXP:	niye ?
 *CHI:	sen beni seviyormusun diye tırmalar .
@@ -108,13 +108,13 @@
 *EXP:	neyle süt içersin ?
 *CHI:	benim arabam var .
 *CHI:	ah , buna bak .
-*EXP:	kurtları biliyormusun ?
+*EXP:	kurtları biliyor musun ?
 *CHI:	biliyorum .
 *CHI:	arabalara bak .
 *CHI:	arabalar bak bak , iki tane .
 *CHI:	gidiyorlar bak .
 *CHI:	gidiyorlar .
-*CHI:	bak , bunlar araba değilmi ?
+*CHI:	bak , bunlar araba değil mi ?
 *EXP:	nereye gidiyorlar ?
 *CHI:	evine gidiyorlar .
 *CHI:	sokakta xxx .
@@ -129,13 +129,13 @@
 *CHI:	ev yapıyorduk onla .
 *EXP:	kurt ne yapar ?
 *CHI:	oynar .
-*EXP:	kurt hikayesi dinledinmi ?
+*EXP:	kurt hikayesi dinledin mi ?
 *CHI:	dinledim .
 *EXP:	ne yapar ?
 *CHI:	oynar .
 *EXP:	ısırır .
 *CHI:	ısırır .
-*CHI:	bunun çatısı kalmış değilmi ?
+*CHI:	bunun çatısı kalmış değil mi ?
 *EXP:	niye ısırır kurtlar ?
 *CHI:	dedeyi ısırır .
 *EXP:	balıklar ne yapar ?
@@ -155,7 +155,7 @@
 *CHI:	xxx .
 *CHI:	ama onun gibi .
 *CHI:	bak bunun gibi gidiyordu .
-*CHI:	xxx babamı aldın değilmi ?
+*CHI:	xxx babamı aldın değil mi ?
 *EXP:	o , kim geldi ?
 *CHI:	baba .
 *EXP:	nerden geldi ?
@@ -175,7 +175,7 @@
 *CHI:	girerler .
 *CHI:	bunları xxx .
 *CHI:	araba kaçtı bak .
-*CHI:	denizde yüzüyormusun ?
+*CHI:	denizde yüzüyor musun ?
 %com:	to father
 *CHI:	sen nerden geldin ?
 *FAT:	sen nerden geldin ?
@@ -207,14 +207,14 @@
 *CHI:	başını da , başını da .
 *CHI:	vurmuş.
 *CHI:	bacağını da vurmuş.
-*EXP:	hikaye biliyormusun ?
+*EXP:	hikaye biliyor musun ?
 *CHI:	biliyorum .
 *CHI:	ah , düştü.
 *CHI:	bak öldü , öldü ya .
 *CHI:	hepsi öldü ya .
 *CHI:	araba yiyecek onları.
 *EXP:	okulda ne oldu ?
-*EXP:	okulu seviyormusun ?
+*EXP:	okulu seviyor musun ?
 *CHI:	seviyorum .
 *CHI:	severim .
 *EXP:	arkadaşın kim ?
@@ -226,7 +226,7 @@
 *EXP:	öğleden sonra ne yaptın ?
 *CHI:	oynadık .
 *CHI:	uyuduk .
-*EXP:	yemek yedinizmi ?
+*EXP:	yemek yediniz mi ?
 *CHI:	yedik .
 *EXP:	öğretmenin ismi ne ?
 *CHI:	Ant .
@@ -301,7 +301,7 @@
 *CHI:	oynıyacaklar [: oynayacaklar] bunlarla .
 *EXP:	ne oyunlar oynarsın ?
 *CHI:	hiçbirşey oynamam .
-*EXP:	dışarı gitmezmisin ?
+*EXP:	dışarı gitmez misin ?
 *CHI:	gitmem .
 *EXP:	niçin ?
 *CHI:	gitmem .
@@ -323,7 +323,7 @@
 *CHI:	bekler .
 *EXP:	kimi ?
 *CHI:	bebekleri .
-*CHI:	Engin geldimi ?
+*CHI:	Engin geldi mi ?
 *EXP:	niye ?
 *CHI:	bişey [: bir şey] yok .
 *CHI:	bak .
@@ -393,7 +393,7 @@
 *CHI:	temiz oldu evimiz .
 *CHI:	geldik evimizde .
 *EXP:	kim geldi ?
-*EXP:	ne dediniz , oynıyalımmı [: oynayalımmı] dediniz ?
+*EXP:	ne dediniz , oynıyalım [: oynayalım] mı dediniz ?
 *CHI:	oynıyalım [: oynayalım] demedik .
 *CHI:	kahve içermisiniz dedinki [: dedik] .
 *EXP:	kime ?

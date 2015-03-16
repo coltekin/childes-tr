@@ -12,7 +12,7 @@
 *EXP:	beraber ne yapar [:: yaparlar] ?
 *CHI:	bilmem .
 *CHI:	o çocuk mu ?
-*CHI:	onun üstünde koşsunmu ?
+*CHI:	onun üstünde koşsun mu ?
 *EXP:	kız ne yapıyor ?
 *CHI:	yürüyor .
 *EXP:	oğlan ne yapıyor ?
@@ -34,9 +34,9 @@
 *CHI:	koşmaca oynarım .
 *EXP:	annenle ne oynarsın ?
 *CHI:	iskambil oynarım .
-*EXP:	evcilik oynarmısın ?
+*EXP:	evcilik oynar mısın ?
 *CHI:	oynamam .
-*EXP:	nasıl oynanır bilirmisin ?
+*EXP:	nasıl oynanır bilir misin ?
 *CHI:	bilirim .
 *EXP:	nasıl oynanır ?
 *CHI:	ben kapının arkasında saklanırım .
@@ -51,20 +51,20 @@
 *CHI:	bilmem .
 *EXP:	kuş mu ?
 *CHI:	kuş.
-*EXP:	uçarmı?
+*EXP:	uçar mı?
 *CHI:	uçar .
 *EXP:	nasıl atarsın ?
 *CHI:	böyle atarım .
-*EXP:	kağıt kalem versem resim yaparmısın ?
+*EXP:	kağıt kalem versem resim yapar mısın ?
 *CHI:	yapamam .
 *CHI:	ben yapamam .
 *CHI:	ben yazı yazarım .
 *CHI:	herşeyden xxx .
-*EXP:	vereyimmi sana ?
+*EXP:	vereyim mi sana ?
 *CHI:	ver .
 *CHI:	her yerini yaparım .
 *CHI:	her yerini yaparım .
-*EXP:	ismini yazabilirmisin ?
+*EXP:	ismini yazabilir misin ?
 *CHI:	xxx .
 *EXP:	bu ne resmi ?
 *CHI:	bu öyle bir yazı resmi .
@@ -115,7 +115,7 @@
 *EXP:	yüzüne ne sürer ?
 *CHI:	yüzüne pamuk sürer .
 *CHI:	birşey sürmez .
-*EXP:	dudaklarına birşey sürermi ?
+*EXP:	dudaklarına birşey sürer mi ?
 *CHI:	gözlerine oje sürüyor .
 *EXP:	saçını kim tarar ?
 *CHI:	annem , babam .
@@ -158,7 +158,7 @@
 *EXP:	kim kokladı?
 *CHI:	geyik kokladı.
 *CHI:	şunu versene .
-*CHI:	xxx getirmedinmi buraya ?
+*CHI:	xxx getirmedin mi buraya ?
 *CHI:	çimdikledi .
 *EXP:	kim çimdikledi ?
 *CHI:	ben .
@@ -186,7 +186,7 @@
 *CHI:	seninki ?
 *CHI:	önce makarna koyayım size .
 *CHI:	makarna koydum .
-*CHI:	yanına da et koyayımmı?
+*CHI:	yanına da et koyayım mı ?
 *CHI:	bunların hepsi yıkanacak .
 *CHI:	ben yıkarım .
 *EXP:	nasıl yıkarsın ?
@@ -243,12 +243,12 @@
 *EXP:	neyin üstüne yatıcan [: yatacaksın] ?
 *CHI:	masanın .
 *EXP:	kurtlar ne yapar , yerler değil mi ?
-*CHI:	anne kurt yermi ?
+*CHI:	anne kurt yer mi ?
 *CHI:	kurt yemez , ısırmaz .
 *CHI:	nerde [: nerede] gezer kurtlar ?
 *CHI:	nerdedir [: nerededir] dağlar ?
 *CHI:	orman ne demek ?
-*EXP:	balıkları biliyormusun ?
+*EXP:	balıkları biliyor musun ?
 *CHI:	balığı bilmiyorum .
 *CHI:	hani böyle yüzer ya balıklar .
 *CHI:	anne bu balığı keselim bugün , yiyelim .
