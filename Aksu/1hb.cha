@@ -110,13 +110,13 @@
 *CHI:	üşümüyorum .
 *EXP:	koşuyor musun , koşuyor musun ?
 *CHI:	üşümüyorum .
-*EXP:	üşüyormusun demiyorum ki sana .
-*EXP:	koşuyormusun , koşmak .
+*EXP:	üşüyor musun demiyorum ki sana .
+*EXP:	koşuyor musun , koşmak .
 *CHI:	üşümüyorum .
-*EXP:	koşuyormusun kızım .
+*EXP:	koşuyor musun kızım ?
 *EXP:	koşmak ne demek biliyor musun ?
 *CHI:	koşuyor .
-*EXP:	koşuyormusun diye soruyorum sana .
+*EXP:	koşuyor musun diye soruyorum sana .
 *EXP:	sokakta koşuyor musun ?
 *CHI:	koşuyorum .
 *EXP:	koşuyorsun .
@@ -156,7 +156,7 @@
 *CHI:	isterim .
 *EXP:	ne istersin ?
 *CHI:	bir çay .
-*EXP:	çayımız yok , meyva suyu istermisin ?
+*EXP:	çayımız yok , meyva suyu ister misin ?
 *CHI:	meyva suyu içerim .
 %com:	she drinks
 *EXP:	çocuklar ne zaman oynar Piraye ?
@@ -217,7 +217,7 @@
 *CHI:	abinin topunlan [: topuyla] oynuyor musun bazen ?
 *CHI:	hayır , yünden yapılmış onun topu .
 *EXP:	yünden mi yapılmış ?
-*EXP:	atıyormusun topu .
+*EXP:	atıyor musun topu .
 *CHI:	kendisi yapıyor , annem yapmıyor .
 *EXP:	peki topu atıyor musun bazen ?
 *CHI:	atıyor .
@@ -448,7 +448,7 @@
 *CHI:	o hayvan değil , balık hayvan .
 *EXP:	tabii .
 *CHI:	hepsi hayvan , ordakiler .
-*EXP:	sen bana biraz köpekleri anlatırmısın .
+*EXP:	sen bana biraz köpekleri anlatır mısın ?
 *CHI:	köpekler .
 *EXP:	ne yapar köpekler ?
 *CHI:	ısırır , bak bunlar xxx .
@@ -600,7 +600,7 @@
 %com:	more singing
 *CHI:	ah dili büyük görüyorum , kocaman .
 %com:	looking through glass singing
-*EXP:	sen Nafiye halalara gidiyormusun bazen .
+*EXP:	sen Nafiye halalara gidiyor musun bazen .
 *CHI:	başka birşeyim yok .
 *EXP:	ne yapıyorsun .
 *CHI:	fotoğraf makinası .

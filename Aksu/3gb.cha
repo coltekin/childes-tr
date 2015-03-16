@@ -113,7 +113,7 @@
 *CHI:	xxx onbir yaşında .
 *EXP:	annen ne dese hemen teybe koyuyoruz değil mi ?
 *CHI:	koydum ben .
-*EXP:	nasıl konuyor teybe ses , biliyormusun .
+*EXP:	nasıl konuyor teybe ses , biliyor musun ?
 *CHI:	ordaki [: oradaki] düymeye [: düğmeye ] basıyorsun .
 *CHI:	çalıyor .
 *EXP:	öyle mi diyorsun ?
@@ -273,7 +273,7 @@
 *CHI:	kızdı .
 *EXP:	niye kızdı .
 *CHI:	kızdı işte .
-*EXP:	kızdı işte olurmu .
+*EXP:	kızdı işte olur mu ?
 *EXP:	bir sebep olması lazım .
 *EXP:	kim kızdırdı babanı ?
 *CHI:	kayakçı .
@@ -408,7 +408,7 @@
 *CHI:	gözlerini boyuyor biraz .
 *EXP:	ruj sürüyor mu ?
 *CHI:	traş yapmıyor .
-*EXP:	traş demiyorum , ruj sürüyormu böyle ?
+*EXP:	traş demiyorum , ruj sürüyor mu böyle ?
 *CHI:	sürüyor .
 *EXP:	yanaklarına filan .
 *EXP:	peki kim ütü ütüler evde ?
@@ -464,7 +464,7 @@
 *EXP:	eğlendin mi ?
 *CHI:	orada bisikletimiz var .
 *CHI:	bu evde de bisikletimiz var .
-*CHI:	gelirken balkondan gördünmü bisikletleri .
+*CHI:	gelirken balkondan gördün mü bisikletleri ?
 *EXP:	görmedim , bakmadım .
 *EXP:	yeni mi bisikletler ?
 *CHI:	evet , mavi kırmızı , ama eskidi .
@@ -477,9 +477,9 @@
 *CHI:	var , balkon .
 *EXP:	ha , büyük mü balkon ?
 *CHI:	evet , bu kadar .
-*EXP:	peki dün denize girdinmi sen .
+*EXP:	peki dün denize girdin mi sen ?
 *CHI:	gittik .
-*EXP:	denize girdinmi sen .
+*EXP:	denize girdin mi sen ?
 *CHI:	havuza girdik , denize değil .
 *EXP:	nerde havuz var .
 *EXP:	Kilyosta havuz var mı ?

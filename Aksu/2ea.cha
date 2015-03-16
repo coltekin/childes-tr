@@ -260,7 +260,7 @@
 *CHI:	ha .
 *EXP:	dedenin ismi ne ?
 *CHI:	dedem .
-*EXP:	ismi varmı ayrıyeten ?
+*EXP:	ismi var mı ayrıyeten ?
 *CHI:	Galip .
 *EXP:	Tahlip ?
 *CHI:	Tahlip .

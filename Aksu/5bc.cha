@@ -125,7 +125,7 @@
 *EXP:	bilmem herhalde xxx var , dans ediyor .
 *EXP:	galiba .
 *CHI:	oynuyor .
-*EXP:	oynuyormu , herhalde oynuyordur , çiftetelli oynuyordur .
+*EXP:	oynuyor mu , herhalde oynuyordur , çiftetelli oynuyordur .
 *CHI:	ha ?
 %com:	interrogative sound gesture
 *EXP:	çiftetelli mi oynuyor ?
@@ -156,11 +156,11 @@
 *EXP:	nasıl gidiceksin [: gideceksin] aninona@c Burçak , neye biniceksin [: bineceksin] ?
 *CHI:	vapura .
 *EXP:	nasıl biniceksin [: bineceksin] vapura ?
-*EXP:	para vericek misin binmek için ?
+*EXP:	para vericek [: verecek] misin binmek için ?
 *CHI:	haa .
 %com:	affirmative sound gesture
 *EXP:	nasıl vericeksin ?
-*EXP:	&fötou falan alıyormusun ?
+*EXP:	&fötou falan alıyor musun ?
 *CHI:	haa xxx .
 *CHI:	ha xxx .
 *CHI:	anino@c .

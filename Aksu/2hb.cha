@@ -414,7 +414,7 @@
 *CHI:	oynasınlar .
 *EXP:	oğlana söyle kız yemek yesin .
 *CHI:	neden ?
-*EXP:	koşsunlar bakalım beraber koşabilirlermi .
+*EXP:	koşsunlar bakalım beraber koşabilirler mi ?
 *EXP:	elele tutuşup koşabilirler .
 *CHI:	koşuyorlar .
 *EXP:	başka ne yapıyorlar ?
@@ -439,7 +439,7 @@
 *CHI:	Türkçe .
 *EXP:	ismi ne filmin ?
 *CHI:	Türkçe filim [: film] .
-*EXP:	ama ismi varmı ?
+*EXP:	ama ismi var mı ?
 *EXP:	kim oynuyor ?
 *CHI:	çocuklar .
 *EXP:	Türkan Şoray var mı ?
@@ -597,7 +597,7 @@
 *CHI:	aman bu da kirlenmiş .
 *CHI:	başka ver .
 *EXP:	güzel konuşursan veririm .
-*CHI:	biraz daha verirmisin .
+*CHI:	biraz daha verir misin ?
 %com:	scotch tape
 *EXP:	annen niçin temizliyor yerleri ?
 *CHI:	temizliyor , onun için .

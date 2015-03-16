@@ -5,7 +5,7 @@
 @Participants:	CHI Zuhal Target_Child , EXP Ayla Investigator
 @ID:	tur|Aksu|CHI|4;0.||||Target_Child|||
 @ID:	tur|Aksu|EXP|||||Investigator|||
-*EXP:	senin ismin Zuhal değilmi ?
+*EXP:	senin ismin Zuhal değil mi ?
 *EXP:	senin bir de küçük kardeşin varmış .
 *EXP:	kız mı oğlan mı senin kardeşin ?
 *CHI:	kız .
@@ -26,7 +26,7 @@
 *CHI:	annem temizliyor .
 *EXP:	kızıyor musun kaka yaptığı zaman ?
 *EXP:	kızmıyor musun ?
-*EXP:	küçük dimi [: değilmi] .
+*EXP:	küçük dimi [: değil mi] .
 *CHI:	ama lazımlığına yapıyor .
 %com:	acting out questions
 *EXP:	bak burda da bir kız var , gördün mü kızım ?
@@ -299,7 +299,7 @@
 *CHI:	c onu annem yıkadı .
 *CHI:	geçti çamuru .
 *EXP:	hı , geçti değil mi ?
-*EXP:	tabii bazen çamur olur dimi [: değilmi] .
+*EXP:	tabii bazen çamur olur dimi [: değil mi] .
 *CHI:	hıı .
 *EXP:	tabii , olur ya .
 *CHI:	bu onunki , onunki .
@@ -392,7 +392,7 @@
 *EXP:	ne kızım o ?
 *CHI:	onu bilmiyorum ki .
 *CHI:	şu kaşığa bak , bak ne güzel .
-*EXP:	çok güzel kaşık değilmi .
+*EXP:	çok güzel kaşık değil mi .
 *CHI:	bak bak .
 *EXP:	aaa , ne güzel kaşık .
 *EXP:	ne var içinde ?
@@ -446,14 +446,14 @@
 *CHI:	annem evdeydi .
 *EXP:	evdeydi ha .
 *CHI:	hı .
-*EXP:	sen gördünmü , sen de görmedin .
+*EXP:	sen gördün mü , sen de görmedin .
 *CHI:	yok .
 *EXP:	kim anlattı bunları sana ?
 *CHI:	hiç kimse değil .
 *EXP:	nerden biliyorsun sen öyle olduğunu ?
 *CHI:	annem bana söyledi .
 *CHI:	bunu köpekler ısırmasın .
-*CHI:	bu akıllı abi , demi [: değilmi] .
+*CHI:	bu akıllı abi , demi [: değil mi] .
 *EXP:	tabii .
 *CHI:	kuyruğundan tutmazsa , köpek te [: de] onu yakalar .
 *CHI:	evlerine götürür .
@@ -543,7 +543,7 @@
 *EXP:	şöyle .
 *CHI:	bak ben de kapattım .
 *CHI:	Nihanın memesi bu .
-*EXP:	Nihanın memesi mi , emiyormu Nihan meme ?
+*EXP:	Nihanın memesi mi , emiyor mu Nihan meme ?
 *CHI:	emiyor .
 *EXP:	çok mu emiyor ?
 *CHI:	tabii .

@@ -55,7 +55,7 @@
 *CHI:	hıh .
 *CHI:	otobüse bindi geldi .
 *CHI:	oda parka geldi .
-*CHI:	parkta şöyle duracak değilmi .
+*CHI:	parkta şöyle duracak değil mi ?
 *EXP:	evet canım .
 *EXP:	parkın neresine gidiyor otobüs ?
 *CHI:	o tarafa .
@@ -135,8 +135,8 @@
 *EXP:	bu da kız bebek .
 *CHI:	şu ağbi ağbi .
 *EXP:	ha o tabii ağbi .
-*EXP:	bunlar nesi bebeğin biliyormusun .
-*EXP:	ayakkabıları değilmi .
+*EXP:	bunlar nesi bebeğin biliyor musun ?
+*EXP:	ayakkabıları değil mi ?
 *CHI:	hadi çıkar .
 *EXP:	çıkmaz ki bak .
 *CHI:	giymiş mi ?
@@ -161,7 +161,7 @@
 *CHI:	şunlan [: şunla] .
 *EXP:	arkadaşın var mı senin hiç ?
 *CHI:	yok .
-*EXP:	kimseylen [: kimseyle] oynamıyormusun .
+*EXP:	kimseylen [: kimseyle] oynamıyor musun .
 *CHI:	oynamıyorum .
 *CHI:	Fatoş gelecek bize .
 *EXP:	Fatoşlan [: Fatoşla] oynuyor musun bazen ?

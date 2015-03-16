@@ -81,7 +81,7 @@
 *EXP:	evin önünde para var mı ?
 *CHI:	oynamıyorum hiç parkta .
 *CHI:	bilmiyorum .
-*EXP:	arkadaşların varmı hiç parkta .
+*EXP:	arkadaşların var mı hiç parkta ?
 *CHI:	vardı ama bahçe çocukları .
 *MOT:	ne yapıyorlar çocuklar orada ?
 *CHI:	bekçi baba salıncakları koparıyor .
@@ -93,7 +93,7 @@
 *CHI:	sabahleyin takıyor .
 *CHI:	şurdan otobüsü versene .
 *CHI:	buraya koyayım .
-*EXP:	verirmisin !
+*EXP:	verir misin !
 %com:	warning
 *CHI:	verir misin ?
 *EXP:	bir de lütfen varsa veririm .
@@ -126,7 +126,7 @@
 *CHI:	yıkandım öyle .
 *CHI:	bana versene o traktörü .
 *EXP:	bir defa daha söyle .
-*CHI:	verirmisiniz .
+*CHI:	verir misiniz ?
 *MOT:	geceleri enişten sana ne getiriyor Levent ?
 *CHI:	şekerpare getiriyor .
 %com:	şekerpare= a Turkish dessert

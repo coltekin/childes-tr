@@ -78,7 +78,7 @@
 *EXP:	güzel miydi Marmaris tatil köyü ?
 *CHI:	sen hiç gittin mi Marmaris tatil köyüne ?
 *EXP:	gittim ya .
-*EXP:	biliyormusun , benim annem de Marmariste .
+*EXP:	biliyor musun , benim annem de Marmariste ?
 *EXP:	sen denize girdin mi hiç yüzdün mü ?
 *CHI:	sen yüzdün mü ?
 *EXP:	ben yüzdüm .
@@ -293,7 +293,7 @@
 *CHI:	bunlar dışarda kalsın .
 *CHI:	ben istiyorum .
 *EXP:	gelir şimdi .
-*EXP:	Özlemcim , kedilerden bahsediyorduk , kedi yavrularını severmisin .
+*EXP:	Özlemcim , kedilerden bahsediyorduk , kedi yavrularını sever misin ?
 *EXP:	sen ?
 *CHI:	severim .
 *EXP:	hiç seni kedi tırmaladı mı ?

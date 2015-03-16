@@ -314,7 +314,7 @@
 *CHI:	evet .
 *EXP:	seni attılar mı ?
 *CHI:	attılar , buraya geldim .
-*EXP:	atarmı annesi ayol hiç .
+*EXP:	atar mı annesi ayol hiç .
 *CHI:	annem beni atmaz ki .
 *CHI:	yalan söylüyor yalan .
 *CHI:	babam getirdi buraya beni .
@@ -371,7 +371,7 @@
 *EXP:	ne yapıcan [: yapacaksın] onu yiyince ?
 *EXP:	kocaman mı olacaksın ?
 *CHI:	kocaman olacam [: olacağım] .
-*EXP:	istiyormusun kocaman olunca ?
+*EXP:	istiyor musun kocaman olunca ?
 *CHI:	istiyorum .
 *EXP:	ben işim bitince onu açacam .
 *CHI:	açıcam [: açacağım] , yiyecem [: yiyeceğim] .

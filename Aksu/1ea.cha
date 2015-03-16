@@ -46,7 +46,7 @@
 *EXP:	bak deminki hayvanlar var ya , onları gene verecem sana mecburen .
 *EXP:	tamam mı ?
 *CHI:	tamam .
-*EXP:	veriyimmi [: vereyimmi] tekrar , ver .
+*EXP:	veriyim [: vereyim] mi tekrar , ver .
 *CHI:	istiyorum .
 *CHI:	buda bırakırsan arabaları .
 *CHI:	burda kalsın .
@@ -80,7 +80,7 @@
 *CHI:	minibüs çiçeklerin .
 *CHI:	arasından girer , bu taraftan yürür , banyolara gider .
 *CHI:	tırmanır .
-*EXP:	banyoda yıkandınmı anlatsana .
+*EXP:	banyoda yıkandın mı anlatsana .
 *CHI:	yıkandım .
 *CHI:	banyolara gittik minibüsle .
 *CHI:	sonra da indim .
@@ -127,8 +127,8 @@
 *CHI:	sabahleyin takıyor salıncağı .
 *CHI:	otobüsü versene .
 *CHI:	şuraya koy .
-*EXP:	verirmisiniz xxx .
-*CHI:	verirmisiniz otobüsü .
+*EXP:	verir misiniz xxx ?
+*CHI:	verir misiniz otobüsü ?
 *CHI:	bak arabanın şeysi gitti be .
 *CHI:	bak otobüs burasına .
 *CHI:	o senin araban değil .
@@ -155,7 +155,7 @@
 *CHI:	ben hamamın sandalyesine oturdum yıkandım öyle .
 *CHI:	şunu versene şunu .
 *CHI:	köprüyü .
-*CHI:	verirmisin köprüyü .
+*CHI:	verir misin köprüyü ?
 *CHI:	araba aldı .
 *MOT:	enişten akşamları sana ne getiriyor Levent .
 *CHI:	akşamları şekerpare getiriyor .
@@ -177,7 +177,7 @@
 *CHI:	sonra bindi gitti .
 *CHI:	sonradan arabanın kenarısına [: kenarına] geldi .
 %com:	"kenarısı" is not correct; correct form: "kenarı". the child added an extra suffix sonra o girdi ona .
-*CHI:	değilmi bağırdı .
+*CHI:	değil mi bağırdı .
 *CHI:	sonra da arabaya bindi garaja gitti .
 *EXP:	çok pahalı oldu mu bu iş ?
 *CHI:	arabada gitti .
@@ -232,7 +232,7 @@
 *EXP:	her tarafına sıvaşıyor mu ?
 *CHI:	sıvaşıyor .
 *EXP:	Levent , sen bazen koşuyor musun ?
-*CHI:	koşuyormusun ama , onlar da .
+*CHI:	koşuyor musun ama , onlar da .
 *CHI:	koşuyorum sonra da demirin yanına çarpıyorum .
 *EXP:	bak şekerim bu çocuklar ne yapıyor ?
 %com:	dolls
@@ -286,7 +286,7 @@
 *CHI:	gidiyor sabahleyin , sonra da gidiyor karanlıkta geliyor .
 *EXP:	sen özlüyor musun enişteyi ?
 *CHI:	ha seviyorum .
-*CHI:	ama otobüsten burdan çıkarlar değilmi kadınlar .
+*CHI:	ama otobüsten burdan çıkarlar değil mi kadınlar .
 %com:	busy with the bus
 *CHI:	bunun arkasına girecem [: gireceğim] , oturucam [: oturacağım].
 *CHI:	araba kullanacam [: kullanacağım] .

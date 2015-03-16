@@ -29,7 +29,7 @@
 *CHI:	neden ?
 *EXP:	saçlarım çok kötüydü çünkü .
 *CHI:	gözüne geliyor ya .
-*EXP:	beyendinmi [: beğendinmi] topuz yaptım .
+*EXP:	beyendin [: beğendin] mi topuz yaptım .
 *CHI:	beyendim [: beğendim] .
 *CHI:	geliyor musun Alev teyze ?
 *EXP:	geliyorum canım .
@@ -176,7 +176,7 @@
 *CHI:	oturuyor .
 *EXP:	bu ne yapıyor ?
 *CHI:	yatıyor .
-*EXP:	yatıyormu , uyuyor .
+*EXP:	yatıyor mu , uyuyor .
 %com:	correct
 *CHI:	uyuyor .
 %com:	we are looking at some newspapers
@@ -216,7 +216,7 @@
 *CHI:	neden aaa diyor ?
 *CHI:	aa bu ne rezalet diyor .
 *CHI:	neden öyle ?
-*EXP:	olurmu öyle şey diyor .
+*EXP:	olur mu öyle şey diyor .
 *CHI:	tamam .
 *EXP:	bunlar ne yapıyorlar ?
 *EXP:	kim bunlar ?
@@ -462,7 +462,7 @@
 *CHI:	dedem .
 %com:	showing me her shoe
 *EXP:	çok güzel .
-*EXP:	rengini beyeniyormusun [: beğeniyormusun] .
+*EXP:	rengini beyeniyor [: beğeniyor] musun .
 *CHI:	beyeniyorum [: beğeniyorum] .
 *EXP:	bu akşam televizyon var mı ?
 *CHI:	yok .
@@ -520,7 +520,7 @@
 *CHI:	külot .
 *EXP:	tabii .
 *CHI:	hiç durmaz bu ki .
-*EXP:	ben Pirayeyi özledim biliyormusun .
+*EXP:	ben Pirayeyi özledim biliyor musun ?
 *CHI:	niye ?
 *EXP:	görmedim kaç zamandır .
 *CHI:	e Pirayeler evde .
@@ -596,7 +596,7 @@
 *CHI:	e , durmaz ki yerinde .
 *EXP:	yerinde durmaz mı ?
 *CHI:	ama bak üstü var ya .
-*EXP:	biliyormusun benim uykum geldi .
+*EXP:	biliyor musun benim uykum geldi ?
 *CHI:	niye ?
 *EXP:	erken kalktım bu sabah .
 *EXP:	niye koşuyor Nevcihan ?

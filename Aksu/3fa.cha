@@ -147,7 +147,7 @@
 *CHI:	eee , bunları sokamayız ki .
 *EXP:	sokarız , sokarız .
 *CHI:	neresinden ?
-*EXP:	kapısından sığıyor gördünmü .
+*EXP:	kapısından sığıyor gördün mü .
 *CHI:	sen sok .
 *CHI:	tamam , öyle uyusunlar .
 *EXP:	uyusunlar .
@@ -413,7 +413,7 @@
 *CHI:	kullanmasın .
 *EXP:	sen gülmesini biliyor musun ?
 *CHI:	biliyorum .
-*EXP:	gülebilirmisin bana sen bi [: bir] .
+*EXP:	gülebilir misin bana sen bi [: bir] ?
 *CHI:	valla biliyorum .
 *EXP:	haa , iyi .
 *EXP:	dur bakalım şimdi başka birşey oynayacağız .
@@ -575,7 +575,7 @@
 *EXP:	evet .
 *CHI:	o zaman bi [: bir] , bir oraya gidelim .
 *CHI:	bir de oraya gidelim .
-*EXP:	tabii , denize de gideceksin bu sene dimi [: değilmi] .
+*EXP:	tabii , denize de gideceksin bu sene dimi [: değil mi] .
 *CHI:	bir kere otur ya [?] gidelim , bi [: bir] de xxx .
 *CHI:	Fıstık sinemasına , bir de sinemaya gidelim .
 *EXP:	sinemada gazoz içiyor musun ?
@@ -601,7 +601,7 @@
 *EXP:	ne diyor o şarkı ?
 *CHI:	bilmiyorum ki .
 *EXP:	ta@si ra@si ra@si ra@si .
-*EXP:	şarkı söyleyelimmi senlen [: seninle] .
+*EXP:	şarkı söyleyelim mi senlen [: seninle] ?
 *CHI:	söylemiyelim [: söylemeyelim] .
 *EXP:	niçin ?
 *CHI:	işte .
@@ -654,7 +654,7 @@
 *EXP:	su içer tabii .
 *EXP:	niçin su içer köpek ?
 *CHI:	içmez köpekler .
-*EXP:	içmezmi köpekler , peki .
+*EXP:	içmez mi köpekler , peki .
 %com:	song
 *EXP:	kuşları var .
 *EXP:	işte kuş .
@@ -758,7 +758,7 @@
 *EXP:	bunlar ne bak ?
 *EXP:	ne koymuş kız başına ?
 *CHI:	çiçek .
-*EXP:	çiçek takmış saçına değilmi ?
+*EXP:	çiçek takmış saçına değil mi ?
 *EXP:	ne yapıyor bu bebeği ?
 *CHI:	kucağına alıyor .
 *EXP:	kucağına alıyor değil mi ?
@@ -775,7 +775,7 @@
 *EXP:	ooo , ne kadar bağırıyor çocuklar değil mi Elif ?
 *CHI:	tabi [: tabii] .
 *EXP:	kıyameti koparıyorlar .
-*EXP:	ayıp oluyor dimi [: değilmi] birazcık .
+*EXP:	ayıp oluyor dimi [: değil mi] birazcık .
 *CHI:	evet .
 *EXP:	ama nasıl sen benim rüyamdaydın .
 *CHI:	nasıl rüyadaydım ?
@@ -793,7 +793,7 @@
 *EXP:	düşüyor musun bazen ?
 *CHI:	ıh .
 *EXP:	düşmüyorsun .
-*EXP:	sağlam duruyorsun dimi [: değilmi] .
+*EXP:	sağlam duruyorsun dimi [: değil mi] .
 *CHI:	sağlam .
 *EXP:	annen seni yatırıyor mu gece ?
 *CHI:	yatırıyor .

@@ -78,12 +78,11 @@
 *CHI:	bak nasıl okuyorum ?
 %com:	she repeats after me
 *CHI:	ben sana resim yapacağım .
-*MOT:	Özlem , ben niçin bugün daireye gidemedim söylermisin Alev .
-*MOT:	teyzeye .
+*MOT:	Özlem , ben niçin bugün daireye gidemedim söyler misin Alev teyzeye ?
 *EXP:	Özlem'in Sema öğretmeni dedi ki , ben Özlem'i çok özledim dedi .
 *MOT:	sahi mi , Özlemcim , sen ne kadar seviyorsun Sema öğretmeni ?
 *CHI:	anne , sen bana birşey yap .
-*MOT:	Selim ne yapmış biliyormusun , Özlem gelmedi diye üzülmüş .
+*MOT:	Selim ne yapmış biliyor musun , Özlem gelmedi diye üzülmüş .
 *MOT:	hastalanmış .
 *CHI:	hangi Selim ?
 *MOT:	senin okuldaki arkadaşın var ya .
@@ -116,7 +115,7 @@
 *MOT:	Herbie nedir söyler misin ?
 *MOT:	Alev teyze bilmiyormuş .
 *MOT:	bizim arabamızın markası nedir ?
-*MOT:	söylermisin Özlem .
+*MOT:	söyler misin Özlem ?
 *CHI:	al sana .
 *EXP:	penceresi var mı evin ?
 *MOT:	hadi , nokta virgül yap ta görsün Alev teyze .
@@ -140,7 +139,7 @@
 *CHI:	ben sana birşey yapayım .
 *MOT:	hadi , nokta nokta , bir çizgi yapalım .
 *CHI:	nokta , virgül , çizgi .
-*MOT:	bir yuvarlak çizdikmi tamamlanır suratı .
+*MOT:	bir yuvarlak çizdik mi tamamlanır suratı .
 *CHI:	kollar biraz sarkıktır .
 *CHI:	bacakları ayrıktır .
 *CHI:	gövde dersen yumurta .
