@@ -92,7 +92,7 @@ def parse_chat(fp):
     return utterances
 
 for f in sys.argv[1:]:
-    with open(f) as fp:
+    with open(f, "r") as fp:
         utrncs = parse_chat(fp)
         for u in utrncs:
             if len(u["words"]) == 0:
